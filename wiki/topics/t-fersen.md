@@ -65,6 +65,7 @@ updated: 2026-11-15
 - [[s-2021-archives-nationales-xray]]
 - [[s-1877-klinckowstrom-fersen]]
 - 名詞：[[e-fersen]]
+- 相關故事：[[t-varennes]]、[[t-secret]]
 
 ## 還不知道的事
 

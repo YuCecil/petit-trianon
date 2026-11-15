@@ -17,7 +17,7 @@
 ## 第二件事：找 1–3 份新的開放取用學術全文
 - OpenEdition Journals、Persée、HAL、Europe PMC（醫學：`https://www.ebi.ac.uk/europepmc/webservices/rest/<PMCID>/fullTextXML` 可以直接抓全文）、大學機構典藏。
 - 讀到全文才建資料卡（照 haiku-brief）；全文筆記寫 `raw/notes/<id>.md`。
-- 要登入或付費的：**不要下載**，把「完整書目＋可以直接點的網址（JSTOR stable URL、DOI 連結或出版社頁面）」寫進回報，使用者會自己下載。
+- 要登入或付費的：**不要下載**，把「完整書目＋可以直接點的網址（JSTOR stable URL、DOI 連結或出版社頁面）」寫進回報，主 session 會試著用台大資料庫讀（使用者不自己下載）。
 
 ## 產出：`raw/notes/expand-<故事id>.md`
 每條一行，格式：
@@ -28,4 +28,4 @@
 ## 回報（繁體中文，簡短）
 1. 寫了哪些 expand 筆記、各幾條。
 2. 新建的資料卡 id（depth）。
-3. 需要使用者自己下載的資料：書目＋網址，一行一份。
+3. 拿不到全文的資料：書目＋網址，一行一份（主 session 會試台大資料庫）。

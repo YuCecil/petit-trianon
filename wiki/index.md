@@ -2,7 +2,7 @@
 
 > 由 `tools/build.py` 自動產生於 2026-11-16，不要手改。
 
-資料卡 52 張（全文 10）｜主題 32｜實體 3｜問答 0
+資料卡 57 張（全文 10）｜主題 33｜實體 3｜問答 0
 
 ## 主題頁
 
@@ -32,6 +32,7 @@
 - [[t-polignac]] 波利尼亞克夫人：王后的閨蜜，和一整個家族 — 一個窮貴族家的少婦，成了王后最親的朋友；她的家人則成了全宮廷的眼中釘。
 - [[t-pouf]] 三十六吋高的頭髮：王后與高髮髻 — 母親從維也納寫信抱怨：報紙說你的頭髮有三十六吋高。
 - [[t-reburial]] 一塊種滿花的墓地：國王與王后的遺骸 — 一位律師在亂葬崗上種花守護了二十年，直到新國王來把他們接走。
+- [[t-secret]] 跟敵人談判：王后、米拉波與巴納夫 — 革命最有名的兩位演說家，先後成了王后的秘密顧問。
 - [[t-table]] 王后吃什麼：只喝水的王后與愛吃甜點的國王 — 從凡爾賽的公開午餐，到古監獄裡一隻切成兩半的雞。
 - [[t-temple]] 聖殿塔：一家人最後的五個月 — 國王教兒子地理，王后從牆縫等著看兒子走過。
 - [[t-trial]] 最後的七十五天：古監獄、審判與一封沒有送到的信 — 她在法庭上只激動過一次，是被問到兒子的時候。
@@ -56,10 +57,12 @@
 - [[s-1797-laperouse-voyage]] 拉佩魯茲《環球航海記》第一卷（Voyage de La Pérouse autour du monde，1797 年版） — 拉佩魯茲（Jean-François de Galaup, comte de La Pérouse）；編者 Louis-Antoine Milet-Mureau（1797）｜專書｜部分
 - [[s-1798-clery-journal]] 聖殿塔日記（Journal de ce qui s'est passé à la tour du Temple pendant la captivité de Louis XVI） — 克萊里（Jean-Baptiste Cléry，1759–1809）（1798）｜日記｜部分
 - [[s-1815-edgeworth-memoirs]] 埃奇沃斯神父回憶錄：路易十六最後幾小時的敘述（Memoirs of the Abbé Edgeworth, containing his narrative of the last hours of Louis XVI） — 埃奇沃斯神父（Henry Essex Edgeworth de Firmont，1745–1807）；1815 年編者 C. Sneyd Edgeworth（1815）｜回憶錄｜部分
+- [[s-1822-weber-memoires-v2]] Mémoires de Weber concernant Marie-Antoinette, archiduchesse d'Autriche et reine de France et de Navarre（第二卷，Berville 與 Barrière 整理，1822） — Weber（回憶）；編者 Berville 與 Barrière（1822）｜回憶錄｜部分
 - [[s-1823-campan-memoires]] Mémoires sur la vie privée de Marie-Antoinette, reine de France et de Navarre（三卷本，1823） — Jeanne-Louise-Henriette Campan（康龐夫人，1752–1822）；編者 F. Barrière（1823）｜回憶錄｜部分
 - [[s-1824-lafont-daussonne-memoires]] Mémoires secrets et universels des malheurs et de la mort de la reine de France — Gaspard Louis Lafont d'Aussonne（1824）｜回憶錄｜部分
 - [[s-1835-vigee-le-brun-souvenirs]] Souvenirs de Madame Louise-Élisabeth Vigée-Lebrun（三卷，1835–1837） — Louise-Élisabeth Vigée Le Brun（1755–1842）（1835）｜回憶錄｜部分
 - [[s-1841-karr-guepes]] Les Guêpes（《黃蜂》），1841 年 11 月號 — Alphonse Karr（1841）｜報刊｜部分
+- [[s-1851-mirabeau-lamarck]] Correspondance entre le comte de Mirabeau et le comte de La Marck pendant les années 1789, 1790 et 1791（兩卷） — Honoré-Gabriel de Riquetti, comte de Mirabeau（信件）；Adolphe de Bacourt（編）；La Marck 為收信人（1851）｜書信｜部分
 - [[s-1852-marie-therese-temple]] 瑪麗－泰蕾茲回憶錄：「王室在聖殿塔的囚禁」（收於 1852 年版《Relation du voyage de Varennes》） — 瑪麗－泰蕾茲－夏綠蒂（Marie-Thérèse-Charlotte de France，王后的女兒，後來的昂古萊姆公爵夫人，1778–1851）（1852）｜回憶錄｜部分
 - [[s-1862-sanson-sept-generations]] 七代劊子手：桑松家族回憶錄（Sept générations d'exécuteurs, 1688–1847 ; mémoires des Sanson，本站使用第 3、4 冊） — 亨利．桑松（Henri Sanson，生於 1799，編者），據其祖父 Charles-Henri Sanson（生於 1739）與父 Henri Sanson（1767–1849）的家族記述整理（1862）｜回憶錄｜部分
 - [[s-1865-prevost-proces-recueil]] Procès de Marie Antoinette: ci-devant reine des Français; ou, Recueil exact — Nicolas Prévost（編者）（1865）｜檔案｜部分
@@ -73,6 +76,7 @@
 - [[s-1887-ap-varennes-reward]] Décret accordant des récompenses à l'occasion de l'arrestation du roi（1791 年 8 月 18 日，Archives parlementaires，第 29 卷） — Archives parlementaires（集體紀錄）（1887）｜檔案｜部分
 - [[s-1887-drouet-barre]] Admission de M. Drouet à la barre, lors de la séance du 24 juin 1791（Archives parlementaires，第 27 卷） — Jean-Baptiste Drouet（陳述人）；Archives parlementaires（1887 年版）（1887）｜檔案｜部分
 - [[s-1899-elisabeth-life-letters-en]] The Life and Letters of Madame Elisabeth de France, Sister of Louis XVI（英譯本，附〈聖殿日記〉選段） — 不詳（英譯者未具名；底本為法文傳記與書信集，註腳提到「Vie de Madame Élisabeth」）（1899）｜傳記｜部分
+- [[s-1907-lenotre-last-days-marie-antoinette]] The Last Days of Marie Antoinette — G. Lenôtre（1907）｜傳記｜部分
 - [[s-1913-moberly-jourdain-adventure]] An Adventure（第二版，附 Appendix 與地圖） — Charlotte Anne Elizabeth Moberly；Eleanor Frances Jourdain（以筆名 Elizabeth Morison、Frances Lamont 發表）（1913）｜回憶錄｜部分
 - [[s-1989-colwill-citoyenne]] Just Another "Citoyenne?" Marie-Antoinette on Trial, 1790-1793 — Elizabeth Colwill（1989）｜期刊論文｜全文
 - [[s-1989-white-solution]] Was There a Solution to the Ancien Régime's Financial Dilemma? — Eugene Nelson White（1989）｜期刊論文｜全文
@@ -84,6 +88,7 @@
 - [[s-2002-campion-vincent-marie-antoinette]] Marie-Antoinette et son célèbre dire：deux scénographies et deux siècles de désordres, trois niveaux de communication et trois modes accusatoires — Véronique Campion-Vincent; Christine Shojaei Kawan（2002）｜期刊論文｜部分
 - [[s-2003-tackett-king]] When the King Took Flight — Timothy Tackett（2003）｜專書｜書目
 - [[s-2005-ozouf-varennes]] Varennes. La mort de la royauté (21 juin 1791) — Mona Ozouf（2005）｜專書｜書目
+- [[s-2006-kaiser-nursery]] Scandal in the Royal Nursery: Marie-Antoinette and the "Gouvernantes des Enfants de France — Thomas E. Kaiser（2006）｜期刊論文｜部分
 - [[s-2006-stamberg-npr-fraser]] The Misunderstood Marie Antoinette? — Susan Stamberg（2006）｜報刊｜全文
 - [[s-2008-skellett-sudden-whitening]] Sudden whitening of the hair: an historical fiction? — Anne-Marie Skellett, George W. M. Millington, Nick J. Levell（2008）｜期刊論文｜書目
 - [[s-2009-navarini-marie-antoinette]] Marie Antoinette Syndrome — Alexander A. Navarini, Stephan Nobbe（2009）｜期刊論文｜摘要
@@ -95,6 +100,7 @@
 - [[s-2021-archives-nationales-xray]] Marie-Antoinette's Correspondence under X-Ray（法國國家檔案館說明頁） — Archives nationales（2021）｜網頁｜摘要
 - [[s-2021-michelin-xrf]] 2D macro-XRF to reveal redacted sections of French queen Marie-Antoinette secret correspondence with Swedish count Axel von Fersen — Anne Michelin, Fabien Pottier, Christine Andraud（2021）｜期刊論文｜部分
 - [[s-2022-hassler-strasbourg]] « Lien de deux États, ornement de deux Cours » : Marie-Antoinette à Strasbourg en mai 1770 — Éric Hassler（2022）｜期刊論文｜摘要
+- [[s-2024-kesterton-artificial-flowers]] Artificial Flowers in the Credit Records of an Eighteenth-Century French Fashion Merchant — Zara Kesterton（2024）｜期刊論文｜部分
 - [[s-2024-pearce-creole]] Creole Creations: Unraveling Caribbean origins, makers and wearers of the robe à la creole c.1780-1815 — Emma Pearce（2024）｜期刊論文｜部分
 - [[s-2025-dati-culture-sevres-rambouillet]] Rachida Dati 宣布 Sèvres 國立陶瓷博物館將收藏兩件 Rambouillet 乳品室瓷器（政府新聞稿） — 法國文化部（Ministère de la Culture）（2025）｜網頁｜全文
 - [[s-2026-harvard-gazette-coppola]] Why Sofia Coppola gave Marie Antoinette sneakers — Harvard Gazette（2026）｜報刊｜全文

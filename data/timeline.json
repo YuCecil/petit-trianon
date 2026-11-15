@@ -376,12 +376,28 @@
   "source": "s-1883-tourzel-memoires"
  },
  {
+  "date": "1790-07",
+  "title": "米拉波在聖克盧密會王后",
+  "desc": "拉馬克的書說是 7 月 3 日早上；地點有花園、房間兩種說法。",
+  "category": "革命",
+  "topic": "t-secret",
+  "source": "s-1851-mirabeau-lamarck"
+ },
+ {
   "date": "1791-01",
   "title": "《杜歇老爹》開始頻繁攻擊王后",
   "desc": "到 1794 年 3 月，14% 的期數標題拿王后當主角。",
   "category": "革命",
   "topic": "t-libels",
   "source": "s-1989-colwill-citoyenne"
+ },
+ {
+  "date": "1791-04-02",
+  "title": "米拉波病逝",
+  "desc": "國王對王后說：別高興，我們失去的比妳想的多。",
+  "category": "革命",
+  "topic": "t-secret",
+  "source": "s-1883-tourzel-memoires"
  },
  {
   "date": "1791-06-20",
@@ -414,6 +430,14 @@
   "category": "革命",
   "topic": "t-varennes",
   "source": "s-1883-tourzel-memoires"
+ },
+ {
+  "date": "1791-08",
+  "title": "王后與巴納夫秘密通信",
+  "desc": "王后寫信給梅西，說巴納夫和拉梅特是唯一可以談判的人。",
+  "category": "革命",
+  "topic": "t-secret",
+  "source": "s-1866-arneth-marie-antoinette"
  },
  {
   "date": "1791-08-18",
@@ -598,6 +622,22 @@
   "category": "身後",
   "topic": "t-reburial",
   "source": "s-1824-lafont-daussonne-memoires"
+ },
+ {
+  "date": "1815-01-18",
+  "title": "瑪德蓮墓地挖出王后遺骸",
+  "desc": "委員會先挖王后的墓，隔天找到國王。",
+  "category": "身後",
+  "topic": "t-reburial",
+  "source": "s-1907-lenotre-last-days-marie-antoinette"
+ },
+ {
+  "date": "1815-01-21",
+  "title": "國王與王后遷葬聖但尼",
+  "desc": "國王處決二十二週年，送葬隊伍走當年押往刑場的同一條路。",
+  "category": "身後",
+  "topic": "t-reburial",
+  "source": "s-1907-lenotre-last-days-marie-antoinette"
  },
  {
   "date": "1823",
