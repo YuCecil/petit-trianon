@@ -43,6 +43,8 @@ updated: 2026-11-15
 - [[s-2025-dati-culture-sevres-rambouillet]]
 - [[s-1823-campan-memoires]]
 - [[s-2016-maes-laiterie-rambouillet]]
+- 名詞：[[e-campan]]
+- 名詞：[[e-petit-trianon]]
 
 ## 還不知道的事
 

@@ -43,6 +43,7 @@ updated: 2026-11-15
 - [[s-1887-ap-varennes-reward]]
 - [[s-2003-tackett-king]]
 - [[s-2005-ozouf-varennes]]
+- 名詞：[[e-fersen]]
 
 ## 還不知道的事
 

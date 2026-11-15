@@ -34,6 +34,7 @@ updated: 2026-11-15
 
 - [[s-2024-pearce-creole]]
 - [[s-1835-vigee-le-brun-souvenirs]]
+- 名詞：[[e-petit-trianon]]
 
 ## 還不知道的事
 

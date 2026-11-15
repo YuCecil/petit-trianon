@@ -42,6 +42,7 @@ updated: 2026-11-15
 - [[s-1781-necker-compte-rendu]]
 - [[s-1823-campan-memoires]]
 - [[s-2006-stamberg-npr-fraser]]
+- 名詞：[[e-campan]]
 
 ## 還不知道的事
 

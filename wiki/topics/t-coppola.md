@@ -50,6 +50,7 @@ updated: 2026-11-15
 - [[s-2011-andersson-queen-fashion]]
 - [[s-2026-harvard-gazette-coppola]]
 - [[s-2026-versailles-coppola-exhibition]]
+- 名詞：[[e-petit-trianon]]
 
 ## 還不知道的事
 
