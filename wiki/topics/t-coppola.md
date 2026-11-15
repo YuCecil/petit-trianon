@@ -5,6 +5,8 @@ title: 《凡爾賽拜金女》哪些是真的：從電影走進史料
 category: 身後
 period: [1770, 2026]
 summary: 粉紅色的馬卡龍和那雙 Converse，背後各自有一段真正的歷史。
+image: t-coppola.jpg
+imageAlt: 粉彩畫風插畫：鍍金邊瓷盤上堆滿粉彩色馬卡龍，旁邊的絲綢上放著一雙淺藍色帆布球鞋。
 sources: [s-2006-stamberg-npr-fraser, s-2012-backman-rogers-threshold, s-2011-andersson-queen-fashion, s-2026-harvard-gazette-coppola, s-2026-versailles-coppola-exhibition]
 updated: 2026-11-15
 ---

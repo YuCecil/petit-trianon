@@ -7,6 +7,8 @@ period: [1774, 1788]
 summary: 小特里亞儂旁邊有座真正運作的農場，但「王后扮農婦」找不到證據。
 myth: 王后在凡爾賽蓋了一座假農村，穿上圍裙扮農婦、親手擠牛奶。
 verdict: 半真半假
+image: t-hameau.jpg
+imageAlt: 粉彩畫風插畫：池塘邊的茅草農舍與磨坊，草地上有牛和羊，遠處一位撐陽傘的女子在散步。
 sources: [s-2016-versailles-queens-hamlet, s-2025-dati-culture-sevres-rambouillet, s-1823-campan-memoires, s-2016-maes-laiterie-rambouillet]
 updated: 2026-11-15
 ---

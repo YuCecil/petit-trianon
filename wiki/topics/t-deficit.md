@@ -7,6 +7,8 @@ period: [1774, 1789]
 summary: 她確實愛美、帶動奢華風氣，但國家帳本上最大的洞在別處。
 myth: 王后揮霍無度，一個人花光了法國的國庫，人稱「赤字夫人」。
 verdict: 半真半假
+image: t-deficit.jpg
+imageAlt: 粉彩畫風插畫：書桌上攤開一本大帳簿和一小堆金幣，窗邊架子上放著插滿羽毛的高聳假髮。
 sources: [s-1781-necker-compte-rendu, s-1823-campan-memoires, s-2006-stamberg-npr-fraser]
 updated: 2026-11-15
 ---

@@ -7,6 +7,8 @@ period: [1765, 1843]
 summary: 這句話比她嫁到法國還早出現，五十年後才被安到她頭上。
 myth: 聽說百姓沒有麵包吃，王后說：「那就讓他們吃蛋糕吧。」
 verdict: 查無實據
+image: t-cake.jpg
+imageAlt: 粉彩畫風插畫：窗邊木桌上，藍邊瓷盤裡放著一個金黃色的布里歐麵包，旁邊是攤開的舊書和羽毛筆。
 sources: [s-2002-campion-vincent-marie-antoinette, s-1782-rousseau-confessions]
 updated: 2026-11-15
 ---

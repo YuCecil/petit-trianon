@@ -115,7 +115,7 @@ function home(anchor) {
   const c = W.counts;
   const plate = t => `<li><a class="plate" data-cat="${catKey(t.category)}" href="#/p/${t.id}">
     <span class="dish">${t.image ? `<img src="assets/img/${esc(t.image)}" alt="" loading="lazy" decoding="async">` : t.verdict ? `<span class="cart"><small>判定</small>${esc(t.verdict)}</span>` : ROSETTE}</span>
-    <h4 class="toc-t">${phrase(t.title)}</h4><p>${esc(t.summary)}</p></a></li>`;
+    <h4 class="toc-t">${phrase(t.title)}</h4><p>${esc(t.summary)}</p>${t.verdict && t.image ? `<span class="verdict">判定：${esc(t.verdict)}</span>` : ""}</a></li>`;
   const groups = Object.keys(CATS).map(k => [k, topics.filter(t => t.category === k)]).filter(g => g[1].length);
   const toc = groups.map(([k, list]) => `<div class="toc-group" data-cat="${catKey(k)}"><h3><i class="glaze-dot" aria-hidden="true"></i>${k}</h3><ol class="plates">${list.map(plate).join("")}</ol></div>`).join("")
     || `<p class="lead">第一批故事正在準備中。</p>`;
@@ -301,7 +301,7 @@ function page(p) {
         ${p.verdict ? `<p class="judge"><span class="seal">${sealText(p.verdict)}</span><a href="#/myths">其他迷思</a></p>` : ""}</section>`;
     }
   }
-  const facts = [p.type === "topic" ? `<span class="cat"><i class="glaze-dot" aria-hidden="true"></i>${esc(p.category)}</span>` : "", p.period ? esc(p.period.join("–")) : "", esc(p.kind || ""), p.sources ? `根據 ${p.sources.length} 份資料` : "", p.updated ? `更新於 ${esc(p.updated)}` : ""].filter(Boolean).join("，");
+  const facts = [p.type === "topic" ? `<span class="cat"><i class="glaze-dot" aria-hidden="true"></i>${esc(p.category)}</span>` : "", p.period ? esc([...new Set(p.period)].join("–")) : "", esc(p.kind || ""), p.sources ? `根據 ${p.sources.length} 份資料` : "", p.updated ? `更新於 ${esc(p.updated)}` : ""].filter(Boolean).join("，");
   const sub = p.type === "source" ? `${esc(p.author)}，${esc(p.year)}。${esc(p.venue)}` : `${esc(p.summary || "")}${facts && p.type !== "overview" ? `<br><span class="small">${facts}</span>` : ""}`;
   app.innerHTML = `<div class="page" ${p.type === "topic" ? `data-cat="${catKey(p.category)}"` : ""}><div>
     <div class="crumb"><a href="#/">首頁</a>　${TYPE_NAME[p.type] || ""}</div>

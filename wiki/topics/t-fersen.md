@@ -7,6 +7,8 @@ period: [1791, 2021]
 summary: 兩百多年後，X 光讀出了被塗黑的字，但答案還是兩種讀法。
 myth: 瑞典伯爵費爾森是王后的祕密情人。
 verdict: 研究者還在吵
+image: t-fersen.jpg
+imageAlt: 粉彩畫風插畫：書桌上散放著舊信，好幾行字被濃墨塗黑，旁邊有燭台、封蠟和羽毛筆。
 sources: [s-2021-michelin-xrf, s-1877-klinckowstrom-fersen, s-2021-archives-nationales-xray]
 updated: 2026-11-15
 ---

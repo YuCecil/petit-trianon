@@ -91,6 +91,7 @@ h3{font-size:21px}
 .plate:hover .dish{transform:rotate(10deg)}
 .plate:hover .toc-t{color:var(--c)}
 .toc-t{font-family:var(--serif-tc);font-size:19px;line-height:1.45;margin:0 0 4px}
+.verdict{display:inline-block;margin-top:8px;font-family:var(--serif-tc);font-size:14px;font-weight:700;color:var(--gilt-ink)}
 .plate p{font-size:15px;color:var(--muted);margin:0;line-height:1.65}
 
 

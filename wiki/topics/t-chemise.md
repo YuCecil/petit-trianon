@@ -5,6 +5,8 @@ title: 穿內衣見人？一幅肖像引起的醜聞
 category: 時尚
 period: [1779, 1790]
 summary: 一件白紗裙被罵成內衣，後來卻變成全歐洲的流行。
+image: t-chemise.jpg
+imageAlt: 粉彩畫風插畫：畫架上一幅未完成的肖像，只畫出白紗裙和插羽毛的草帽，臉還是空白。
 sources: [s-2024-pearce-creole, s-1835-vigee-le-brun-souvenirs]
 updated: 2026-11-15
 ---

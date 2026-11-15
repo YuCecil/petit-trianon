@@ -7,6 +7,8 @@ period: [1784, 1789]
 summary: 一條她沒買、沒戴過的項鍊，卻讓全法國相信她是共犯。
 myth: 王后貪圖一條天價鑽石項鍊，跟樞機主教串通騙珠寶商。
 verdict: 半真半假
+image: t-necklace.jpg
+imageAlt: 粉彩畫風插畫：月光下的凡爾賽花園，一位穿白裙的女子背影把玫瑰遞給披斗篷的男子。
 sources: [s-1881-vizetelly-diamond-necklace, s-1789-la-motte-justification]
 updated: 2026-11-15
 ---

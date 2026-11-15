@@ -5,6 +5,8 @@ title: 七年沒有圓房：哥哥從維也納來「開導」
 category: 生平
 period: [1770, 1778]
 summary: 全歐洲都在等一個王位繼承人，而國王夫婦七年多都沒有圓房。
+image: t-consummation.jpg
+imageAlt: 粉彩畫風插畫：清晨的華麗臥室，有高大帷幔的床，床邊小桌上放著一封封好的信。
 sources: [s-1867-arneth-maria-theresia-joseph, s-1866-arneth-marie-antoinette, s-1874-arneth-mercy-correspondance, s-2006-stamberg-npr-fraser]
 updated: 2026-11-15
 ---

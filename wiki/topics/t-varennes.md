@@ -7,6 +7,8 @@ period: [1791, 1791]
 summary: 一輛遲到一個半小時的馬車，和一張鈔票上的國王頭像。
 myth: 國王在逃亡途中貪吃，停下來吃飯才被追上。
 verdict: 半真半假
+image: t-varennes.jpg
+imageAlt: 粉彩畫風插畫：夜裡的鄉間道路，一輛大馬車駛向小鎮石橋，橋上一輛翻倒的貨車擋住去路。
 sources: [s-1883-tourzel-memoires, s-1887-drouet-barre, s-1887-ap-varennes-reward, s-2003-tackett-king, s-2005-ozouf-varennes]
 updated: 2026-11-15
 ---

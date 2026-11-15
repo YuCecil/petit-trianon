@@ -7,6 +7,8 @@ period: [1791, 2013]
 summary: 她的頭髮真的一夜變白了嗎？醫生為這件事爭論了一百多年。
 myth: 王后在上斷頭台前一夜，頭髮全白了。
 verdict: 半真半假
+image: t-white-hair.jpg
+imageAlt: 粉彩畫風插畫：梳妝台上有白色睡帽和梳子，小絲絨盒裡是一枚嵌著白髮的金戒指，鏡中映出模糊的背影。
 sources: [s-1823-campan-memoires, s-2009-navarini-marie-antoinette, s-2013-nahm-canities-subita, s-2008-skellett-sudden-whitening]
 updated: 2026-11-15
 ---

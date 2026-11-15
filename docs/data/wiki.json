@@ -860,6 +860,8 @@
    "summary": "這句話比她嫁到法國還早出現，五十年後才被安到她頭上。",
    "myth": "聽說百姓沒有麵包吃，王后說：「那就讓他們吃蛋糕吧。」",
    "verdict": "查無實據",
+   "image": "t-cake.jpg",
+   "imageAlt": "粉彩畫風插畫：窗邊木桌上，藍邊瓷盤裡放著一個金黃色的布里歐麵包，旁邊是攤開的舊書和羽毛筆。",
    "sources": [
     "s-2002-campion-vincent-marie-antoinette",
     "s-1782-rousseau-confessions"
@@ -881,6 +883,8 @@
     1790
    ],
    "summary": "一件白紗裙被罵成內衣，後來卻變成全歐洲的流行。",
+   "image": "t-chemise.jpg",
+   "imageAlt": "粉彩畫風插畫：畫架上一幅未完成的肖像，只畫出白紗裙和插羽毛的草帽，臉還是空白。",
    "sources": [
     "s-2024-pearce-creole",
     "s-1835-vigee-le-brun-souvenirs"
@@ -904,6 +908,8 @@
     1778
    ],
    "summary": "全歐洲都在等一個王位繼承人，而國王夫婦七年多都沒有圓房。",
+   "image": "t-consummation.jpg",
+   "imageAlt": "粉彩畫風插畫：清晨的華麗臥室，有高大帷幔的床，床邊小桌上放著一封封好的信。",
    "sources": [
     "s-1867-arneth-maria-theresia-joseph",
     "s-1866-arneth-marie-antoinette",
@@ -930,6 +936,8 @@
     2026
    ],
    "summary": "粉紅色的馬卡龍和那雙 Converse，背後各自有一段真正的歷史。",
+   "image": "t-coppola.jpg",
+   "imageAlt": "粉彩畫風插畫：鍍金邊瓷盤上堆滿粉彩色馬卡龍，旁邊的絲綢上放著一雙淺藍色帆布球鞋。",
    "sources": [
     "s-2006-stamberg-npr-fraser",
     "s-2012-backman-rogers-threshold",
@@ -969,6 +977,8 @@
    "summary": "她確實愛美、帶動奢華風氣，但國家帳本上最大的洞在別處。",
    "myth": "王后揮霍無度，一個人花光了法國的國庫，人稱「赤字夫人」。",
    "verdict": "半真半假",
+   "image": "t-deficit.jpg",
+   "imageAlt": "粉彩畫風插畫：書桌上攤開一本大帳簿和一小堆金幣，窗邊架子上放著插滿羽毛的高聳假髮。",
    "sources": [
     "s-1781-necker-compte-rendu",
     "s-1823-campan-memoires",
@@ -996,6 +1006,8 @@
    "summary": "兩百多年後，X 光讀出了被塗黑的字，但答案還是兩種讀法。",
    "myth": "瑞典伯爵費爾森是王后的祕密情人。",
    "verdict": "研究者還在吵",
+   "image": "t-fersen.jpg",
+   "imageAlt": "粉彩畫風插畫：書桌上散放著舊信，好幾行字被濃墨塗黑，旁邊有燭台、封蠟和羽毛筆。",
    "sources": [
     "s-2021-michelin-xrf",
     "s-1877-klinckowstrom-fersen",
@@ -1023,6 +1035,8 @@
    "summary": "小特里亞儂旁邊有座真正運作的農場，但「王后扮農婦」找不到證據。",
    "myth": "王后在凡爾賽蓋了一座假農村，穿上圍裙扮農婦、親手擠牛奶。",
    "verdict": "半真半假",
+   "image": "t-hameau.jpg",
+   "imageAlt": "粉彩畫風插畫：池塘邊的茅草農舍與磨坊，草地上有牛和羊，遠處一位撐陽傘的女子在散步。",
    "sources": [
     "s-2016-versailles-queens-hamlet",
     "s-2025-dati-culture-sevres-rambouillet",
@@ -1053,6 +1067,8 @@
    "summary": "一條她沒買、沒戴過的項鍊，卻讓全法國相信她是共犯。",
    "myth": "王后貪圖一條天價鑽石項鍊，跟樞機主教串通騙珠寶商。",
    "verdict": "半真半假",
+   "image": "t-necklace.jpg",
+   "imageAlt": "粉彩畫風插畫：月光下的凡爾賽花園，一位穿白裙的女子背影把玫瑰遞給披斗篷的男子。",
    "sources": [
     "s-1881-vizetelly-diamond-necklace",
     "s-1789-la-motte-justification"
@@ -1076,6 +1092,8 @@
    "summary": "一輛遲到一個半小時的馬車，和一張鈔票上的國王頭像。",
    "myth": "國王在逃亡途中貪吃，停下來吃飯才被追上。",
    "verdict": "半真半假",
+   "image": "t-varennes.jpg",
+   "imageAlt": "粉彩畫風插畫：夜裡的鄉間道路，一輛大馬車駛向小鎮石橋，橋上一輛翻倒的貨車擋住去路。",
    "sources": [
     "s-1883-tourzel-memoires",
     "s-1887-drouet-barre",
@@ -1108,6 +1126,8 @@
    "summary": "她的頭髮真的一夜變白了嗎？醫生為這件事爭論了一百多年。",
    "myth": "王后在上斷頭台前一夜，頭髮全白了。",
    "verdict": "半真半假",
+   "image": "t-white-hair.jpg",
+   "imageAlt": "粉彩畫風插畫：梳妝台上有白色睡帽和梳子，小絲絨盒裡是一枚嵌著白髮的金戒指，鏡中映出模糊的背影。",
    "sources": [
     "s-1823-campan-memoires",
     "s-2009-navarini-marie-antoinette",
