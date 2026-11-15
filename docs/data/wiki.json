@@ -1,0 +1,33 @@
+{
+ "built": "2026-11-15",
+ "counts": {
+  "sources": 0,
+  "fulltext": 0,
+  "topics": 0,
+  "entities": 0,
+  "questions": 0,
+  "events": 0,
+  "places": 0
+ },
+ "pages": [
+  {
+   "id": "overview",
+   "type": "overview",
+   "title": "總論",
+   "body": "這裡寫整個主題「目前的理解」：瑪麗．安東尼與路易十六是什麼樣的人、哪些流傳的說法已被史料推翻、研究者在哪些問題上還有分歧。每次 ingest 之後檢查要不要改。\n\n（第一批故事完成後撰寫。）\n",
+   "links": []
+  }
+ ],
+ "edges": [],
+ "log": [
+  {
+   "date": "2026-11-15",
+   "kind": "rule",
+   "title": "建立專案"
+  }
+ ],
+ "timeline": [],
+ "stats": [],
+ "places": [],
+ "debates": []
+}
