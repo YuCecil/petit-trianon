@@ -1,1 +1,5 @@
-[]
+[
+ {"question": "是什麼讓路易十六和王后七年多沒有圓房？", "positions": [{"claim": "弗雷澤：不是身體問題，而是國王心理上做不到。", "source": "s-2006-stamberg-npr-fraser"}, {"claim": "約瑟夫二世的信：國王活在「持續的冷漠」裡，王后對國王「毫無感覺」，信中沒有提到身體問題或手術。", "source": "s-1867-arneth-maria-theresia-joseph"}], "topic": "t-consummation"},
+ {"question": "「一夜白頭」在醫學上可能嗎？", "positions": [{"claim": "很可能是斑禿急性發作，讓有色頭髮選擇性脫落，剩下的白髮看起來像突然變白。", "source": "s-2009-navarini-marie-antoinette"}, {"claim": "斑禿只能解釋少數可靠個案，現有證據不足以下結論，應重新研究。", "source": "s-2013-nahm-canities-subita"}], "topic": "t-white-hair"},
+ {"question": "王后是鑽石項鍊詐騙的共犯嗎？", "positions": [{"claim": "拉莫特夫人：她早就是王后的心腹，項鍊是王后委託購買的。", "source": "s-1789-la-motte-justification"}, {"claim": "判決與後來的研究：簽名是偽造的，沒有任何對王后不利的證據；拉莫特的說法前後矛盾。", "source": "s-1881-vizetelly-diamond-necklace"}], "topic": "t-necklace"}
+]

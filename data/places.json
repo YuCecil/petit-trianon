@@ -1,1 +1,10 @@
-[]
+[
+ {"name": "小特里亞儂", "lat": 48.8159, "lng": 2.1100, "desc": "路易十六送給王后的小宮殿，她在這裡躲開宮廷禮儀。", "topic": "t-hameau", "source": "s-1823-campan-memoires"},
+ {"name": "王后的農莊", "lat": 48.8187, "lng": 2.1117, "desc": "1783–1786 年蓋的模範村莊，也是真正運作的農場。", "topic": "t-hameau", "source": "s-2016-versailles-queens-hamlet"},
+ {"name": "朗布依埃乳品室", "lat": 48.6436, "lng": 1.8236, "desc": "路易十六為王后蓋的乳品室，有塞弗爾的「乳房碗」。", "topic": "t-hameau", "source": "s-2025-dati-culture-sevres-rambouillet"},
+ {"name": "凡爾賽宮", "lat": 48.8049, "lng": 2.1204, "desc": "1784 年夏夜，花園裡上演了鑽石項鍊騙局最關鍵的一幕。", "topic": "t-necklace", "source": "s-1881-vizetelly-diamond-necklace"},
+ {"name": "杜樂麗宮", "lat": 48.8635, "lng": 2.3275, "desc": "革命後王室被安置的宮殿，1791 年 6 月 20 日深夜從這裡出逃。", "topic": "t-varennes", "source": "s-1883-tourzel-memoires"},
+ {"name": "聖默努爾德", "lat": 49.0906, "lng": 4.8975, "desc": "驛站長德魯埃在這裡認出國王；回程時一家人在這裡停下吃飯。", "topic": "t-varennes", "source": "s-1883-tourzel-memoires"},
+ {"name": "瓦雷納", "lat": 49.2244, "lng": 5.0328, "desc": "1791 年 6 月 21 日晚上十一點半，國王的馬車在這裡被攔下。", "topic": "t-varennes", "source": "s-1883-tourzel-memoires"},
+ {"name": "克萊", "lat": 48.9858, "lng": 2.6942, "desc": "費爾森扮成車夫，把國王一家送到這裡換乘驛馬車。", "topic": "t-varennes", "source": "s-1883-tourzel-memoires"}
+]

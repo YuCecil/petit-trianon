@@ -120,7 +120,10 @@ def main():
         mm = re.search(r"^## 值得記住的一句話\s*\n(.*?)(?=^## |\Z)", p["body"], re.M | re.S)
         if mm:
             for q in re.findall(r"[「『“\"](.+?)[」』”\"]", mm.group(1)):
-                if len(q) > 60:
+                latin = sum(c.isascii() or c in "àâäçéèêëîïôöùûüÿœæÀÂÇÉÈÊÎÔÙÛŒß’" for c in q) > len(q) * 0.7
+                if latin and len(q.split()) > 40:
+                    err(name, f"外文引文超過 40 字（{len(q.split())} 字），有著作權疑慮")
+                elif not latin and len(q) > 60:
                     err(name, f"引文超過 50 字（{len(q)} 字），有著作權疑慮")
         # 主題頁出處
         if t == "topic":

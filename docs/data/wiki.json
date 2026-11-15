@@ -1,33 +1,1907 @@
 {
  "built": "2026-11-15",
  "counts": {
-  "sources": 0,
-  "fulltext": 0,
-  "topics": 0,
+  "sources": 30,
+  "fulltext": 6,
+  "topics": 10,
   "entities": 0,
   "questions": 0,
-  "events": 0,
-  "places": 0
+  "events": 28,
+  "places": 8
  },
  "pages": [
+  {
+   "id": "s-1781-necker-compte-rendu",
+   "type": "source",
+   "title": "Compte rendu au Roi（國王財政報告）",
+   "author": "Jacques Necker",
+   "year": 1781,
+   "kind": "檔案",
+   "lang": "fr",
+   "venue": "Paris（Imprimerie royale 等版本）",
+   "url": "https://www.e-rara.ch/download/pdf/13141010.pdf",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1781,
+    1781
+   ],
+   "topics": [
+    "t-deficit"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\n1781 年 Necker 公開的國家財政帳目，只讀到其中支出表前段（項 1–49，掃描 OCR），可以確認宮廷支出是以「王室家庭」合併列項，沒有王后個人的獨立條目。\n\n## 三個重點\n\n1. 王后的家庭沒有單獨列項：支出表項 7 把「國王與王后的家庭、Madame、Madame Élisabeth、Mesdames」合併為一筆（原始單位 livres），金額 OCR 無法確定（raw/notes 已標註）。\n2. 同一頁可見的其他大項：戰爭特別經費每年約 65,200,000 livres（項 1）、Monsieur 與 Comte d'Artois 家庭每年 8,040,000 livres（項 8）、1777 與 1780 年彩券借款利息約 3,000,000 livres（項 22）。這些數字說明王室支出中，軍費與利息的規模比王后家庭大得多，但本次只讀到前段，沒有總數可以算百分比。\n3. 報告是官方自述，研究上認為帳目呈現有選擇性（例如是否計入特別帳目），需要讀完整版並對照其他研究才能使用。\n\n## 用了什麼史料\n\ne-rara.ch（蘇黎世中央圖書館藏本）的掃描檔，6 頁，只含「Etat des dépenses payées」前段。完整報告與 Gallica 版本本次未取得。全文筆記見 `raw/notes/s-1781-necker-compte-rendu.md`，原檔見 `raw/letters/s-1781-necker-compte-rendu.pdf`。\n\n## 跟其他資料的關係\n\n本卡只能確認報告的結構與部分數字，無法驗證「王后開支占比」。二手說法（例如報告聲稱有 1,000 萬 livres 盈餘、未計特別帳目的赤字超過 4,600 萬 livres）來自網路資料，本次掃描沒有讀到，**不可當作本卡的內容**，需要讀完整報告才能確認。\n\n## 值得記住的一句話\n\n<!-- 原文（40 字以內）＋中譯，附頁碼 -->\n原文：「Les Dépenses totales de toutes les parties de la Maison domestique du Roi & de celle de la Reine」／中譯：「國王與王后家庭各部分的全部支出」（項 7，頁碼約 p. 81–82，待原書確認）\n\n## 還不確定的地方\n\n- 項 7、項 9、項 10 的數字是 OCR 讀出，不確定，不可引用，需用完整版核對。\n- 逐項頁碼未確認；掃描只看得到印刷頁碼標記 (81)、(82)、(84)。\n- 收入表、借款表與報告的結論段落本次未讀到。\n- 掃描為哪一個印刷版本未能確定（Imprimerie royale 或 Cabinet du Roi）。\n",
+   "links": [
+    "t-deficit"
+   ]
+  },
+  {
+   "id": "s-1782-rousseau-confessions",
+   "type": "source",
+   "title": "Les Confessions（卷六，「大公主」段落）",
+   "author": "Jean-Jacques Rousseau",
+   "year": 1782,
+   "kind": "回憶錄",
+   "lang": "fr",
+   "venue": "Genève 1782 首版（卷一至卷六，作者死後出版）；本卡引用法文 Ebooks libres 版（據 Geneva manuscript 文本）與 Gutenberg 英譯卷六",
+   "url": "https://ebooks-bnr.com/ebooks/pdf4/rousseau_les_confessions.pdf",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1765,
+    1782
+   ],
+   "topics": [
+    "t-cake"
+   ],
+   "entities": [],
+   "reliability": "低",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\nRousseau 在《懺悔錄》卷六自述為了買酒配麵包，才回想起一位「大公主」的「pis-aller」（權宜之計）：「Qu'ils mangent de la brioche」。這是此句最早的文字出處，但人物無名、事件也是作者單方面的回憶。\n\n## 三個重點\n\n1. 原句在法文本 p. 274（Ebooks libres 版；頁碼以該 PDF 的印刷頁碼為準）：「Enfin je me rappelai le pis-aller d'une grande princesse à qui l'on disait que les paysans n'avaient pas de pain, et qui répondit : « Qu'ils mangent de la brioche. » J'achetai de la brioche.」（Campion-Vincent 註 47 引用的 Pléiade 1959 版為 p. 269，頁碼不同）。\n2. 語境是私人的：Rousseau 當時是家庭教師，偷喝主人家的酒，需要麵包卻不敢買，於是買了布里歐。文中的「brioche」是從「pâtissiers」（糕點店）買的，不是一般麵包店的麵包（p. 274）。這本身就說明 brioche 在當時是糕點，不是主食。\n3. 作者沒有指名，寫作時間早於瑪麗．安東尼嫁到法國：Campion-Vincent 指出卷一至六寫於 1765 年（PDF p. 12；註 49），而她 1770 年才嫁給路易十六。\n\n## 用了什麼史料\n\n- 作者本人的自傳回憶，寫在 1765 年前後，1782 年出版（卷一至六）。\n- 英譯（Gutenberg #3906，Book VI）：「Then let them eat pastry!」，把 brioche 譯成 pastry（糕點），而不是 cake。譯者未列於檔案中，本卡不推斷。\n\n## 跟其他資料的關係\n\n- Campion-Vincent 與 Shojaei Kawan（2002）把此段當作「無惡意、帶笑話性質的俗語用法」來引用，認為 Rousseau 的敘述沒有針對政治的意圖（PDF p. 12）。\n- 有些英語俗語辭典把這句話寫成 Rousseau 安到瑪麗．安東尼身上（Mieder 1992，作者認為錯誤），另一本（Titelman 1996）則寫 Rousseau 記得是「一位大人物（grand prince）」的話（Campion-Vincent 註 48）。\n\n## 值得記住的一句話\n\n> 「Qu'ils mangent de la brioche.」（p. 274）\n> 中譯：「那就讓他們吃布里歐麵包吧。」\n\n## 還不確定的地方\n\n- 寫作與出版年份資料不一致：Campion-Vincent 寫卷一至六寫於 1765 年；維基（二手）同時寫「1765 年寫、1782 年出版」與「1769 年完成」；另有二手網路說 1767 年。本卡只採用 Campion-Vincent 的說法，尚未對照 Rousseau 原稿。\n- 「大公主」是哪一位，Rousseau 沒有說，本卡不做判斷。\n- 本卡讀的是卷六中與此段相關的段落，未讀全卷。\n- 英譯本的譯者與版本未在 Gutenberg 檔案內說明，英譯引文只作對照。\n",
+   "links": [
+    "t-cake"
+   ]
+  },
+  {
+   "id": "s-1789-la-motte-justification",
+   "type": "source",
+   "title": "Memoirs of the Countess de Valois de La Motte（拉莫特夫人回憶錄，英譯本）",
+   "author": "Jeanne de Saint-Rémy de Valois, comtesse de La Motte",
+   "year": 1789,
+   "kind": "回憶錄",
+   "lang": "en",
+   "venue": "London: printed for the author, and sold by J. Ridgway, 1789（英譯本，原作為法文）",
+   "url": "https://archive.org/download/MemoirsOfTheCountessDeValoisDeLaMotteContainingACompleat/Motte_djvu.txt",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1785,
+    1789
+   ],
+   "topics": [
+    "t-necklace"
+   ],
+   "entities": [],
+   "reliability": "低",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\n案件被告拉莫特夫人為自己辯護的回憶錄，宣稱自己與王后有交情、樞機主教是受害者；判決已查禁此書，內容不可作為證據。\n\n## 三個重點\n\n1. 作者自述與王后有接觸、王后曾委託樞機主教購買項鍊，並說王后當著國王的面否認認識她（OCR 段落，頁碼未確認）。\n2. 這是當事人單一說法，寫作目的是辯護與攻擊對手；判決（1786 年 5 月 31 日）已下令查禁她的「回憶錄」，理由是內容虛假、誹謗（見 s-1881-vizetelly-diamond-necklace p. 271）。\n3. 英譯本出版於倫敦（1789），與判決後的倫敦誹謗活動相關（見 s-1881-vizetelly-diamond-necklace Ch. XXXIX–XL）。\n\n## 用了什麼史料\n\n作者自己的記憶與書信，以及選錄的王后與樞機主教信件（本次未讀信件部分）。這些信件是否真實，判決與後來的研究均有質疑，本次未核對。\n\n## 跟其他資料的關係\n\n與 s-1881-vizetelly-diamond-necklace 直接對照：Vizetelly 逐點指出本書說法的矛盾（pp. 373–374）。本次只讀序文與兩段敘事，未與近期學術研究比對。\n\n## 值得記住的一句話\n\n原文（OCR 校正）：「I had access to the Queen」／中譯：「我可以接觸到王后」（頁碼未確認，需對照掃描本）\n\n## 還不確定的地方\n\n- OCR 品質差，引文與頁碼均需對照掃描本，目前標「未確認」。\n- 法文原版（1788 年前後）與英譯本的差異未核對。\n- 信件選錄與結尾請願書未讀。\n",
+   "links": [
+    "t-necklace"
+   ]
+  },
+  {
+   "id": "s-1823-campan-memoires",
+   "type": "source",
+   "title": "Mémoires sur la vie privée de Marie-Antoinette, reine de France et de Navarre（三卷本，1823）",
+   "author": "Jeanne-Louise-Henriette Campan（康龐夫人，1752–1822）；編者 F. Barrière",
+   "year": 1823,
+   "kind": "回憶錄",
+   "lang": "fr",
+   "venue": "Paris: Baudouin frères（三卷本，據 Barrière 整理）",
+   "url": "https://archive.org/details/gri_33125008634566",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1770,
+    1793
+   ],
+   "topics": [
+    "t-deficit",
+    "t-necklace",
+    "t-white-hair",
+    "t-consummation",
+    "t-hameau",
+    "t-chemise",
+    "t-fersen",
+    "t-varennes"
+   ],
+   "entities": [],
+   "reliability": "低",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\n康龐夫人是瑪麗．安東尼的第一女官（première femme de chambre），她的回憶錄是王后身邊人最常被引用的第一手說法，但成書於王后死後多年、經編者整理，且作者有明顯的立場，使用時要逐條核對。\n\n## 三個重點\n\n1. 作者與關係：康龐夫人 1752–1822 年，1770 年代起在王后身邊任職，1792 年離開宮廷；1823 年出版時作者已過世，由 F. Barrière 寫「Notice」（卷首生平簡介）並「整理出版」。Notice 中 Barrière 說康龐「曾遭嫉妒者誹謗」，又引她的一段手稿表示「Oui, je dirai la vérité」（「是的，我要說實話」）。（raw/letters/s-1823-campan-memoires-v1.txt，Notice，約 p. ii–iv，OCR 頁碼不完全可靠）\n2. 寫作距離：成書於事件多年之後（作者 1822 年過世，書於 1823 年出版），與 1789–1791 事件相隔約 30 年；作為回憶錄，單一說法、事後重構的成分高。\n3. 本站用途：可補充宮廷內部（服飾、花費、衣櫃、王后日常）與 1791 年瓦雷納出逃前的細節；但「一夜白頭」「鑽石項鍊」等說法，它是主要來源之一，仍需與其他史料比對。\n\n## 用了什麼史料\n\n- 作者自己的回憶與手稿片段（Notice 引用）。\n- 編者 Barrière 的整理；三卷本版本含「Éclaircissements historiques」（史實附錄），第 2 卷後段有大量關於項鍊案的文件與註解。\n- 研究上的提醒：一篇 Acta Romanica 的文章指出，此書有趣但應謹慎閱讀，作者描繪的王后形象「可能與實際相差甚遠」；同文也提到，有一段被引用的手稿文字出現在三卷本，卻不在正文核心。（https://ojs.bibl.u-szeged.hu/index.php/acta-romanica/article/download/47785/46019/66267）\n- Haroche-Bouzinac 的研究（Classiques Garnier）指出文本內部時間線有無法調和的地方，顯示文本經過多次改寫。（https://classiques-garnier.com/export/html/le-temps-des-femmes-textes-memoriels-des-lumieres-memoire-et-temps-dans-les-recits-autobiographiques-de-madame-campan.html，僅由搜尋摘要得知，未逐頁讀）\n\n## 跟其他資料的關係\n\n- 「一夜白頭」：v2 p. 150（raw/letters/s-1823-campan-memoires-v2.txt L6293）寫王后「En une seule nuit, ils étaient devenus blancs」（一夜之間頭髮變白，像七十歲的婦人）；這是本書最直接的出處，但它是事後轉述的個人見聞，屬單一來源。\n- 項鍊案：v2 pp. 2–25（第十二、十三章，L139–L1142）為長篇敘述，主角是 Bœhmer、Lamotte、Rohan；v2 約 pp. 273–276 起的「Éclaircissements」收錄文件與註解。第三卷目錄列有「第十二章　項鍊案」。\n- 赤字與花費：v1 p. 96 寫王后服飾風氣使宮廷女眷負債（L5991）；v1 p. 110 寫「奢侈」之責與作者的反駁（L6544–6563）；v3 有一段引用 Calonne 時期的「秘密赤字」（L11984–12003），頁碼未能由 OCR 頁眉確認。\n- 瓦雷納：v2 pp. 131–160（第十八章起，L5808–6676）為出逃前後的長篇記述，v2 pp. 296–306 有出逃路線與人物（L13424–13595）。\n- 費爾森：v3 L4196–4214 註釋引一段 1791 年 6 月 21 日的文字，說王后將託 Fersen 送一份文件（頁碼未確認）；v2 約 p. 303（L13432）說國王曾託 Fersen 安排。\n- 與 Vigée Le Brun 相比：Vigée 寫王后的細節多屬肖像、服飾與社交，Campan 寫宮廷制度與內部人事，兩者互補，但都是事後回憶。\n\n## 值得記住的一句話\n\n「En une seule nuit, ils étaient devenus blancs comme ceux d'une femme de soixante-dix ans.」\n中譯：「一夜之間，她的頭髮變得像七十歲婦人一樣白。」（v2 p. 150，L6293）\n\n## 還不確定的地方\n\n- 三卷本 1823 年版與 1822 年原版的差異，以及 Barrière 改了哪些字句，本次未核對；研究者的評價只讀到搜尋摘要，尚未讀到全文研究。\n- v3 的頁碼無法由 OCR 頁眉確認（只能給章節與行號）；v1、v2 頁碼以頁眉推算，可能有 ±1 的誤差。\n- 「讓她們吃蛋糕」：本書未見此說法（全書 gâteau 只出現一次，脈絡為慶典，與此說法無關）。\n- 「襯衣裙肖像」：未見康龐描寫此幅畫的段落；v1 p. 97 的「passer la chemise」是宮廷起居禮儀，與畫作無關。\n- 「圓房」：未見直接寫圓房的段落；v2 p. 172（L7163）提到宮中「impuissance」的謠言，是間接相關。\n- 「農莊（Hameau）」：v1 p. 117（L6833–6843）只寫王后的馬車經過 Trianon 旁的村落，未寫農莊本身。\n",
+   "links": [
+    "t-chemise",
+    "t-consummation",
+    "t-deficit",
+    "t-fersen",
+    "t-hameau",
+    "t-necklace",
+    "t-varennes",
+    "t-white-hair"
+   ]
+  },
+  {
+   "id": "s-1835-vigee-le-brun-souvenirs",
+   "type": "source",
+   "title": "Souvenirs de Madame Louise-Élisabeth Vigée-Lebrun（三卷，1835–1837）",
+   "author": "Louise-Élisabeth Vigée Le Brun（1755–1842）",
+   "year": 1835,
+   "kind": "回憶錄",
+   "lang": "fr",
+   "venue": "Paris: H. Fournier（1835–1837，三卷）",
+   "url": "https://www.gutenberg.org/ebooks/23019",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1770,
+    1793
+   ],
+   "topics": [
+    "t-chemise",
+    "t-hameau",
+    "t-varennes"
+   ],
+   "entities": [],
+   "reliability": "低",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\n王后的御用肖像畫家寫的回憶錄，寫於大革命後近半世紀，對王后的肖像、服飾與社交有大量細節，但她自陳與王后交好、立場偏向親近王室，評價時需與其他資料對照。\n\n## 三個重點\n\n1. 作者與關係：Vigée Le Brun 為王后繪製多幅肖像（英國 Britannica 條目指她為王后畫了二十幅以上），兩人交好；1789 年後她離開法國，1835 年起在巴黎出版回憶錄。\n2. 寫作距離：1835–1837 年出版，與 1780 年代的事件相隔約半世紀，屬典型的晚年回憶，細節多靠記憶。\n3. 編務：搜尋摘要指出，回憶錄出版時曾由她的侄女 Caroline Rivière 與 Eugénie Tripier Le Franc 協助整理（來源：搜尋摘要，未核對原書序言）。\n\n## 用了什麼史料\n\n- 作者本人的繪畫、日記式記憶與社交經歷；未附檔案。\n- 研究評論：一篇 1915 年的文章 \"Why her Souvenirs are Dull\" 認為此書並非八卦之作，但對某些人物（Tallien 圈）的描寫偏向正面（只看到搜尋摘要）。\n- 2018 年 Signa 期刊 Mercè Boixareu 的文章把此書當作女性畫家在舊制度、帝國與復辟時期處境的史料，而非事實查核的依據。（搜尋摘要）\n\n## 跟其他資料的關係\n\n- 襯衣裙肖像（t-chemise）：v1 L1140–1152 她寫自己畫過數幅王后肖像，其中一幅「穿著白色薄紗襯衣式長袍（robe de mousseline blanche）、戴草帽」，於 1786 年沙龍展出時，「惡意者說王后是穿著襯衣被畫的」（原文：「la reine s'était fait peindre en chemise」，中譯：「王后竟然讓人把她畫成穿襯衣」）。她並說「那時候誹謗已經開始針對她」。這是此書中最直接的記述。\n- 她自己的服飾：v1 L1828–1838 寫自己平時只穿白色薄紗或薄棉的長袍，不愛華服，只在去凡爾賽作畫時穿盛裝。\n- 王后在 Trianon：v1 L1228 寫她最後一次為王后作畫是在 Trianon。\n- 瓦雷納：v1 L2083 與 v2 L2433–2437 寫她在巴黎聽到國王在瓦雷納被捕、被押回巴黎的消息，描述僕人被指派監視她們（屬於她個人的見聞）。\n- 費爾森：全三卷未找到 Fersen 這個名字。\n- 項鍊案：全三卷未找到「collier」一詞。\n- 一夜白頭：未見王后頭髮變白的描寫（v1 L1935 與 v2 L4411 的白髮是寫其他人）。\n- 赤字與花費：v1 L4030–4041 寫的是另一位男性親屬的揮霍，不是王后；未見赤字的系統描寫。\n- 圓房：未見。\n- 蛋糕：未見王后說「讓她們吃蛋糕」；v1 L1704 有一處「gâteau」，是別處的飲食描寫。\n\n## 值得記住的一句話\n\n「... la reine s'était fait peindre en chemise ; car nous étions en 1786, et déjà la calomnie commençait à s'exercer sur elle.」\n中譯：「……有人說王后是穿著襯衣被畫的；因為那是 1786 年，誹謗已經開始針對她。」（v1 L1149–1152）\n\n## 還不確定的地方\n\n- 頁碼：本次使用的是 Project Gutenberg 的電子版（來源為 BnF Gallica 掃描，1835 年 Fournier 版第一卷），電子版沒有原書頁碼，因此引用以 raw/letters 內 txt 的行號標示（s-1835-vigee-le-brun-souvenirs-v1.txt、-v2、-v3）。若需要頁碼，需對照 Gallica 或 Internet Archive 的 1835–37 掃描本（本次未取得）。\n- 「襯衣裙肖像」：她說的是 1786 年展出的那一幅，與 1783 年送往宮廷的那幅是否為同一幅，本次未核對；需與肖像研究對照。\n- 版本：Gutenberg 版為 1835 年 Fournier 版第一卷；第二、三卷是否與原版一致，本次未逐一確認。\n- 學界評價：只讀到搜尋摘要，未讀到全文研究。\n",
+   "links": [
+    "t-chemise",
+    "t-hameau",
+    "t-varennes"
+   ]
+  },
+  {
+   "id": "s-1866-arneth-marie-antoinette",
+   "type": "source",
+   "title": "Marie Antoinette, Joseph II. und Leopold II. Ihr Briefwechsel",
+   "author": "Alfred Ritter von Arneth（編）",
+   "year": 1866,
+   "kind": "書信",
+   "lang": "fr",
+   "venue": "未核實",
+   "url": "https://archive.org/details/bub_gb_JD1AAQAAMAAJ",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1777,
+    1777
+   ],
+   "topics": [
+    "t-consummation"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\n1777 年 5 月 29 日，約瑟夫二世離開凡爾賽前交給王后的書面建議，內容談宮廷行為與騎馬，沒有談夫妻的身體問題。\n\n## 三個重點\n\n1. 約瑟夫的建議信（約 pp. 10–19）談賭博（p. 11）、騎馬（p. 13）、宗教與閱讀（p. 17）。已讀部分中沒有談床笫之事或國王的身體。\n2. 建議信中說「大家普遍認為你沒有孩子是因為騎馬」（p. 13），約瑟夫把它記為公眾看法，並建議她節制。這是當時的公開說法，與「包莖」的私下說法是不同的解釋。\n3. 編者序（p. IX）說明，這封信在國家檔案館有兩份：約瑟夫本人的草稿，與一份由瑪麗亞·特蕾莎親筆標注「pour la reine, de l'Empereur」的抄本。\n\n## 用了什麼史料\n\n瑪麗·安托瓦內特與約瑟夫、利奧波德的通信，原件與抄本來自維也納國家檔案館，由 Arneth 整理出版。\n\n## 跟其他資料的關係\n\n- 與 s-1867-arneth-maria-theresia-joseph 的卡同屬 Arneth 編的系列。那卷收錄約瑟夫寫給利奧波德的私人信件，語氣比這份公開建議直接得多。\n- 兩者可以並讀：公開建議（1866 卷）談宮廷行為，私人信件（1867 卷）談冷漠與輕浮。\n\n## 值得記住的一句話\n\n<!-- 原文：\"On croit cela généralement\" 中譯：「大家普遍這樣認為」（p. 13，約瑟夫談王后沒有孩子的公眾看法） -->\n\n## 還不確定的地方\n\n- 年份「1866」來自搜尋結果與 Internet Archive 條目，書名頁沒有印出年份，未完全核實。\n- 只讀了編者序與 1777 年 5 月 29 日的建議信（約 pp. 10–19），沒有讀其他部分。\n- 頁碼依頁首判斷，部分是 OCR 推算，建議用原書核實。\n- 這份卷目前在 wiki 中的 depth 是「部分」，不是全文。\n",
+   "links": [
+    "t-consummation"
+   ]
+  },
+  {
+   "id": "s-1867-arneth-maria-theresia-joseph",
+   "type": "source",
+   "title": "Maria Theresia und Joseph II. Ihre Correspondenz sammt Briefen Joseph's an seinen Bruder Leopold, Zweiter Band (1773–1778)",
+   "author": "Alfred Ritter von Arneth（編）",
+   "year": 1867,
+   "kind": "書信",
+   "lang": "fr",
+   "venue": "Wien: Carl Gerold's Sohn",
+   "url": "https://archive.org/details/mariatheresiaund02mari",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1777,
+    1777
+   ],
+   "topics": [
+    "t-consummation"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\n約瑟夫二世在 1777 年訪法期間寫給弟弟利奧波德的信，是當時最直接的觀察：他認為路易十六「冷漠」、瑪麗·安托瓦內特「輕浮」，但信中沒有提到身體上的障礙。\n\n## 三個重點\n\n1. 1777 年 4 月 29 日、5 月 11 日、5 月 27 日、6 月 9 日四封信（CCLIV–CCLVIII，pp. 130–139），約瑟夫描述國王「在持續的冷漠中生活」（p. 133）、王后「對國王毫無感覺」（p. 134）。\n2. 1777 年 6 月 9 日（布雷斯特）的信中，約瑟夫說國王「有點軟弱，但不愚蠢」，「身體和精神都一樣懶散」（約 pp. 138–139）。這是私人看法，沒有提到手術或包莖。\n3. 約瑟夫在信中說 1777 年 5 月 26 日與國王一起獵鹿（p. 137）。這可以與國王的狩獵紀錄交叉比對。\n\n## 用了什麼史料\n\n約瑟夫本人的私人信件，寫給弟弟利奧波德（當時是托斯卡尼大公）。原件在維也納國家檔案館，由 Arneth 於 1867 年整理出版。\n\n## 跟其他資料的關係\n\n- 與 s-1866-arneth-marie-antoinette 的卡同屬 Arneth 的編輯系列。1866 年那卷收錄 1777 年 5 月 29 日約瑟夫交給王后的書面建議，兩者可以對照：建議中只談宮廷行為與騎馬，沒有談身體（1866 卷 p. 13）。\n- 目前未找到約瑟夫寫給利奧波德「兩個笨手笨腳的人」那段原文（見還不確定的地方）。\n\n## 值得記住的一句話\n\n<!-- 原文：\"Cet homme est un peu faible mais point imbécile\" 中譯：「這個人有點軟弱，但不愚蠢」（約 p. 138–139，1777 年 6 月 9 日信，布雷斯特） -->\n\n## 還不確定的地方\n\n- 只讀了 1777 年 4 月至 6 月的四封信，沒有讀 CCLIII（1777 年 3 月）、CCLVI，也沒有讀 1777 年 7 月之後的信。\n- 頁碼來自 OCR 與目錄對照，部分是推算（標「約」的），建議用原書核實。\n- 「兩個笨手笨腳的人」這句原文，在本卷已讀的 1777 信中沒有找到，可能在其他卷或利奧波德的回信中，尚未核實。\n- 約瑟夫抵達巴黎的確切日期（1777 年 4 月中旬）未從本卷核實。\n",
+   "links": [
+    "t-consummation"
+   ]
+  },
+  {
+   "id": "s-1874-arneth-mercy-correspondance",
+   "type": "source",
+   "title": "Marie-Antoinette. Correspondance secrète entre Marie-Thérèse et le comte de Mercy-Argenteau（三卷，1874）",
+   "author": "瑪麗亞．特蕾莎、瑪麗．安東尼、梅西－阿爾讓托（書信作者）；編者 Alfred von Arneth（導論與註）、Auguste Geffroy（評註）",
+   "year": 1874,
+   "kind": "書信",
+   "lang": "fr",
+   "venue": "Paris: Firmin-Didot（三卷）",
+   "url": "https://archive.org/details/correspondancese01mari",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1770,
+    1780
+   ],
+   "topics": [
+    "t-consummation",
+    "t-deficit",
+    "t-hameau"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\n梅西大使寫給維也納的密信與瑪麗亞．特蕾莎、瑪麗．安東尼的往來信件，是 1770 年代宮廷內情最原始的材料之一；但這三卷涵蓋的時間主要在 1770–1780 年，1785 年項鍊案與 1791 年瓦雷納出逃不在主體範圍內。\n\n## 三個重點\n\n1. 性質：書信集，作者為奧地利宮廷與駐法大使梅西，寫作時間即事件當下（不是事後回憶），因此在「當時在想什麼、說什麼」上價值高。\n2. 編輯：Arneth 作導論與註釋，Geffroy 作評註；1874 年由 Didot 出版三卷。編者如何選信、刪節與校勘，本次未逐一核對（搜尋未找到對此版本的學界評論）。\n3. 覆蓋範圍（依信件日期核對）：第一卷信件約 1770–1775、第二卷約 1773–1776、第三卷約 1777–1780。第二卷有一封標示 1785 年維也納的信，但主體仍在 1780 年之前。因此「鑽石項鍊」（1784–86）與「瓦雷納」（1791）的第一手信件需另找，這三卷不是主要出處。\n\n## 用了什麼史料\n\n- 維也納國家檔案館所藏的瑪麗亞．特蕾莎與梅西的往來信件，以及王后寫給母親的信。\n- 編者註釋引用了其他檔案與回憶錄作為對照（具體來源未逐條核對）。\n\n## 跟其他資料的關係\n\n- 圓房（t-consummation）：v1 L6431 是梅西向大公夫人（瑪麗亞．特蕾莎）解釋「婚姻的私密是一個神聖的秘密」，拒絕散播傳聞（原文：「l'intimité du mariage est un secret sacré」，中譯：「婚姻的私密是神聖的秘密」）。v3 L4004 是 1777 年王后寫給母親，抱怨「après plus de sept ans de mariage」（結婚七年多後），提到小叔媳（Comtesse d'Artois）懷孕，對王后而言「不愉快」。v3 另有數處「état de son mariage」（L5257、L5385、L5645，1777）。v2 L10876 梅西轉述「libelle le déclare impuissant」（有小冊子宣稱國王不能人道），日期寫「Ce 20 septembre」，年份未在本次確認。\n- 赤字與債務（t-deficit）：v3 L422–430（1777 年 1 月，梅西寫道王后對自己的債務「不知道確切金額」，他整理出約二十萬三千路易，即約四十八萬七千多里弗爾）。這是比回憶錄更早、更具體的債務記錄。\n- 農莊與 Trianon（t-hameau）：Trianon 在 v3 出現約 100 次，多為王后居所、宴會與安排，但本次未逐條找出「農莊（Hameau）」的描寫，僅見 v2 一處「petit hameau voisin」，脈絡為他人（未核對）。\n- 麵包與物價（與 t-cake 有關，但不是蛋糕說法）：v2 L6417、L15325、L17514（約 1775 年）提到巴黎麵包漲價與騷動，與「讓她們吃蛋糕」的流行說法無直接對應；此書未見該句。\n\n## 值得記住的一句話\n\n「Je fis sentir que ce qui regarde l'intimité du mariage est un secret sacré.」\n中譯：「我讓她明白，婚姻的私密是一個神聖的秘密。」（梅西寫給瑪麗亞．特蕾莎，v1 L6431 附近）\n\n## 還不確定的地方\n\n- 頁碼：本次 OCR 文字的頁眉混亂（頁碼常被錯讀），無法可靠給出頁碼；以下以冊次＋文本行號（raw/letters 內的 txt 行號）標示，主 session 若要引用正式頁碼，需對照 Internet Archive 的 PDF 或 Gallica 原檔。\n- 信件年份：部分信件日期 OCR 不清（例如 v3 L422 寫「Paris, le \\1 janvier」），年份依冊次推定。\n- 學界評價：搜尋未找到對這套三卷版本編輯品質的評論；「高」的分級依規則（經校勘的書信集）給出，但編者是否刪節，尚未確認。\n- 1785–1791 的信件是否另有收錄（例如另一卷或附錄）：未確認。\n- 「襯衣裙肖像」與「一夜白頭」：本書未見相關段落。\n- 「讓她們吃蛋糕」：未見。\n- 費爾森（Fersen）：三卷中未找到他的名字。\n",
+   "links": [
+    "t-consummation",
+    "t-deficit",
+    "t-hameau"
+   ]
+  },
+  {
+   "id": "s-1877-klinckowstrom-fersen",
+   "type": "source",
+   "title": "Le comte de Fersen et la cour de France. Extraits des papiers du grand maréchal de Suède, comte Jean Axel de Fersen（第一卷）",
+   "author": "R. M. de Klinckowström（編）",
+   "year": 1877,
+   "kind": "書信",
+   "lang": "fr",
+   "venue": "Paris, Firmin-Didot（第二卷 1878）",
+   "url": "https://archive.org/details/lecomtedefersen00klingoog",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1777,
+    1793
+   ],
+   "topics": [
+    "t-fersen"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\n費爾森的家族編者在 1877 年出版的信件與文件集，是較早出版的費爾森與王后通信編本之一；編者的家族身分，使它的完整性在 2021 年研究中成為被質疑的對象。\n\n## 三個重點\n\n1. 序言（落款 1876 年 7 月，頁 VII）說費爾森 1791 年 10 月起於布魯塞爾擔任王后與各國君主通信的中間人，並參與營救王室計畫。\n2. 腳註 8（頁 193）：「Ces huit lignes sont effacées dans la minute déchiffrée」，即某封信中八行在解讀底稿中已被抹去；可見編者知道信件有缺漏。\n3. 腳註 1（頁 193）：該信是費爾森本人解讀的密碼信手稿。\n\n## 用了什麼史料\n\n費爾森的文件與信件，依序言所述，部分來自費爾森本人保存的紙張，包括王后的文件（序言引費爾森的話，頁 VII）。\n\n## 跟其他資料的關係\n\n2021 年論文（[[s-2021-michelin-xrf]]）指出，傳統假設認為本書編者 Klinckowström 男爵可能參與塗黑，論文後來的墨水分析則指向費爾森本人。本書是 1877 年版本，論文所用的是法國國家檔案館的原件。\n\n## 值得記住的一句話\n\n<!-- 原文（40 字以內）＋中譯，附頁碼 -->\n\nCes huit lignes sont effacées dans la minute déchiffrée.（中譯：這八行在解讀出的底稿中已被抹去。頁 193，腳註 8）\n\n## 還不確定的地方\n\n- 本卡只讀了序言、引言開頭與一封有腳註的信，第二卷與其餘信件未讀。\n- OCR 品質差，腳註 8 指哪一封信、哪八行，需看影像才能確定；OCR 顯示的收信日期（1791 年 10 月）不確定。\n- 本版是否就是被塗黑的來源，已讀部分無法判斷。\n",
+   "links": [
+    "s-2021-michelin-xrf",
+    "t-fersen"
+   ]
+  },
+  {
+   "id": "s-1881-vizetelly-diamond-necklace",
+   "type": "source",
+   "title": "The Story of the Diamond Necklace",
+   "author": "Henry Vizetelly",
+   "year": 1881,
+   "kind": "專書",
+   "lang": "en",
+   "venue": "London: Vizetelly & Co., 1881（第三版、修訂本）",
+   "url": "https://gutenberg.org/cache/epub/78855/pg78855-images.html",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1785,
+    1789
+   ],
+   "topics": [
+    "t-necklace"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\n十九世紀英國作家以審判紀錄、當事人回憶錄與官方文件重建鑽石項鍊案，結論是王后與詐欺無關。\n\n## 三個重點\n\n1. 判決（1786 年 5 月 31 日）未指控王后；樞機主教羅昂與卡利奧斯特羅獲解除訴訟，拉莫特夫人被鞭刑、烙印並終身囚禁，Villette 被終身流放（pp. 267–271）。\n2. 作者逐點比對拉莫特的說法，指出她對項鍊來源的說法前後矛盾，並認為沒有任何文件或證人指向王后（pp. 373–374）。\n3. 作者也記錄了拉莫特在倫敦的後續行為：1787 年起住在倫敦，之後伯爵散佈她的回憶錄，判決已下令查禁這些文字（pp. 271, 314–315，Ch. XL）。\n\n## 用了什麼史料\n\n審判紀錄與判決文（Joly de Fleury 的論點、判決原文，pp. 267–271）、各方的回憶錄與書信（包括拉莫特、Beugnot、Besenval、Campan 的說法，p. 373）、以及作者自己的整理。作者本人不是原始史料，而是以 19 世紀的眼光做的敘事與評論。\n\n## 跟其他資料的關係\n\n與拉莫特夫人的回憶錄（s-1789-la-motte-justification）直接對照：本書認為那些回憶錄的說法不可靠，並逐點列出矛盾。與 Sarah Maza、Jonathan Beckman 等近期研究的關係本次未讀到。\n\n## 值得記住的一句話\n\n原文：「not a scintilla of evidence, true or false, against the queen has come to light」／中譯：「沒有一點點證據，無論真假，指向王后」（p. 373）\n\n## 還不確定的地方\n\n- 本次只讀審判、結論與倫敦段落，第 I–XXVIII 章的細節未逐章核對。\n- 作者立場明確，「沒有證據」的論證是推論，不等於證明王后無涉。\n- 作為 19 世紀英文敘事，部分細節（數字、人名拼寫）未與法文原件核對。\n",
+   "links": [
+    "t-necklace"
+   ]
+  },
+  {
+   "id": "s-1883-tourzel-memoires",
+   "type": "source",
+   "title": "Mémoires de Madame la duchesse de Tourzel（第一卷，1791 年「Voyage de Varennes」一節）",
+   "author": "杜爾澤夫人（Duchesse de Tourzel，名字全稱待核）",
+   "year": 1883,
+   "kind": "回憶錄",
+   "lang": "fr",
+   "venue": "Paris, E. Plon et Cie（1883，Duc des Cars 編）",
+   "url": "https://www.gutenberg.org/ebooks/33258",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1791,
+    1791
+   ],
+   "topics": [
+    "t-varennes"
+   ],
+   "entities": [],
+   "reliability": "低",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\n王室子女的總管 Tourzel 夫人在 1791 年與王室同車出逃，她的回憶錄（1883 年出版）是逃亡路線、時間與車內情況最詳細的敘述之一，但它是單一當事人的回憶，出版於事件後九十多年，不能單獨作為定論。\n\n## 三個重點\n\n1. 時間與延誤：原定 6 月 20 日夜間出發，「ce ne fut qu'après minuit」國王才到會合處（頁 307）；路上延誤來自費爾森繞路、套具斷裂等瑣事（頁 309–310）。\n2. 吃飯迷思：她明確寫去程「On ne s'est arrêté nulle part」（頁 310）；回程才在 Sainte-Menehould 吃飯（頁 328）。\n3. Drouet 與 assignat：她寫 Drouet「comparant la figure de ce prince avec un assignat qu'il avait dans sa poche」（頁 316）。這是「用紙幣認出國王」說法在這本回憶錄中的書面記錄；她是否親見 Drouet 的動作，原文沒有明說。\n\n## 用了什麼史料\n\n回憶錄本身，是作者自己的記憶；沒有引用其他史料。她同時提到 Choiseul 的錯誤安排（頁 313）與護衛 du Moutier（即 Moustier）、Maldan、Valori（頁 309），這些人的說法本站尚未讀。\n\n## 跟其他資料的關係\n\n- 與 Drouet 本人的陳述（s-1887-drouet-barre，1791 年 6 月 24 日，頁 508）都提到 assignat；Drouet 說的是他一開始以為認出王后，後來才因為頭像相似而有疑心。\n- 本書寫費爾森駕車到「Claye」（頁 310，地名為推定的讀法）、全書未提 Bondy；常見的「到 Bondy」說法本站尚未核對來源。\n- 出版於 1883 年，比事件晚九十年以上。\n\n## 值得記住的一句話\n\n原文：「Il a été dit, mais bien à tort, que le Roi s'était arrêté pour dîner.」（頁 310）\n中譯：「有人說國王曾停下來吃飯，那是完全不對的。」（本站譯）\n\n## 還不確定的地方\n\n- 寫成時間未查，與 1883 年出版的時間差多少不明。\n- 頁碼來自 archive.org 的 OCR 掃描本；Gutenberg 純文字版無頁碼。\n- 「Claye」與常見的「Bondy」說法的衝突，需要對照費爾森本人的記述。\n- 「在口袋裡的 assignat」是她的描述，無法確認是否親見。\n- 未讀 1792 年以後的卷次。\n",
+   "links": [
+    "t-varennes"
+   ]
+  },
+  {
+   "id": "s-1887-ap-varennes-reward",
+   "type": "source",
+   "title": "Décret accordant des récompenses à l'occasion de l'arrestation du roi（1791 年 8 月 18 日，Archives parlementaires，第 29 卷）",
+   "author": "Archives parlementaires（集體紀錄）",
+   "year": 1887,
+   "kind": "檔案",
+   "lang": "fr",
+   "venue": "Archives parlementaires de 1787 à 1860, Première série, t. XXIX, Paris, P. Dupont, 1888, pp. 532–534",
+   "url": "https://www.persee.fr/doc/arcpa_0000-0000_1888_num_29_1_12164_t1_0532_0000_6",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1791,
+    1791
+   ],
+   "topics": [
+    "t-varennes"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\n制憲國民議會在 1791 年 8 月 18 日討論並通過逮捕國王的獎賞法令，名單中有 Drouet 等人；這是議會的正式紀錄，可以確定獎賞的日期，但個人金額在本次 OCR 中無法逐一核對。\n\n## 三個重點\n\n1. 日期：法令與討論都在 1791 年 8 月 18 日（頁 532–534）。\n2. 對象：包括 Varennes 與 Sainte-Menehould 的地方團體與個人（頁 532–533，細項 OCR 殘缺）。Drouet、Guillaume、Mangin、Coquillard 等人名在名單中（OCR 可辨識）。\n3. 金額：OCR 讀到 \"30,000\"、\"20,000\"、\"10,000\"、\"6,000\"、\"3,000\" 等數字，但無法與人名對應；英文維基稱 Drouet 得 30,000 livres（它說是 7 月提出），與本紀錄的日期不同，需另查。\n\n## 用了什麼史料\n\n議會正式的法令文字與討論紀錄。\n\n## 跟其他資料的關係\n\n- 與 Drouet 本人的陳述（s-1887-drouet-barre，6 月 24 日，頁 508）的先後：陳述在前，獎賞在後。\n- 英文維基的「July 1791」獎賞說法，與本紀錄的 8 月 18 日不一致（需以原頁確認是否另有七月提案）。\n\n## 值得記住的一句話\n\n本次未取得可以逐字引用的句子（OCR 殘缺）。\n\n## 還不確定的地方\n\n- OCR 殘缺，名單與金額需對照 Gallica 或 Persée 掃描頁後才能寫入網站。\n- 英文維基「7 月」與「8 月 18 日」的衝突未解決。\n- 「30,000 livres」是否屬於 Drouet，尚未核對原頁。\n",
+   "links": [
+    "t-varennes"
+   ]
+  },
+  {
+   "id": "s-1887-drouet-barre",
+   "type": "source",
+   "title": "Admission de M. Drouet à la barre, lors de la séance du 24 juin 1791（Archives parlementaires，第 27 卷）",
+   "author": "Jean-Baptiste Drouet（陳述人）；Archives parlementaires（1887 年版）",
+   "year": 1887,
+   "kind": "檔案",
+   "lang": "fr",
+   "venue": "Archives parlementaires de 1787 à 1860, Première série, t. XXVII, Paris, P. Dupont, 1887, pp. 508–509",
+   "url": "https://www.persee.fr/doc/arcpa_0000-0000_1887_num_27_1_11427_t1_0508_0000_2",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1791,
+    1791
+   ],
+   "topics": [
+    "t-varennes"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\nSainte-Menehould 驛站長 Drouet 在 1791 年 6 月 24 日向制憲國民議會口頭陳述他如何認出國王，是最接近第一手、事發三天後的記錄；但陳述人本人有領賞的利害，原文 OCR 殘缺，引文需對照原頁。\n\n## 三個重點\n\n1. 他的說法：一開始「crut reconnaître la reine」（以為認出王后），然後被一個人與五十里弗爾 assignat 上的頭像「ressemblance subite」（突然的相似）打動（頁 508，OCR 可辨識）。\n2. 他自述猶豫：怕是假警報，先與同伴 Guillaume 商量，之後騎馬走小路先趕到 Varennes，並在城裡設置障礙、通知居民（頁 508–509，OCR 殘缺）。\n3. 這段陳述與 Tourzel 回憶錄（頁 316）都提到 assignat，但細節不同：Drouet 說一開始以為是王后；Tourzel 說是「crut reconnaître le Roi」。\n\n## 用了什麼史料\n\n議會記錄（主持人 Beauharnais 在 1887 年版中的紀錄），是當時的口頭陳述；並非 Drouet 親筆。\n\n## 跟其他資料的關係\n\n- 與 Tourzel 回憶錄（s-1883-tourzel-memoires，頁 316、318）：在 assignat 與 Varennes 城內的障礙等處大致一致（Drouet 段落 OCR 殘缺，需對照原頁）。\n- 與 1791 年 8 月 18 日獎賞法令（s-1887-ap-varennes-reward）相連：陳述後議會給獎；Drouet 的獎金金額未在本次 OCR 中確認。\n- 英文維基說 Drouet 是「Legislative Assembly」邀請陳述；本紀錄的議會是制憲國民議會（Assemblée nationale），此處以原紀錄為準。\n\n## 值得記住的一句話\n\n原文：「je crus reconnaître la reine que j'avais déjà vue」（頁 508，OCR 句子，需對照原頁）\n中譯：「我以為認出了王后，我之前見過她。」（本站譯）\n\n## 還不確定的地方\n\n- OCR 嚴重斷字，大部分句子只能拼湊，逐字引用前必須對照 Gallica 或 Persée 掃描頁。\n- 到達 Sainte-Menehould 的確切時刻未能確認（OCR 讀成 \"sept\" 或 \"11\" 之類）。\n- 主持人答覆（頁 509）未讀。\n- 陳述人有領賞利害，陳述內容未經獨立核對。\n",
+   "links": [
+    "t-varennes"
+   ]
+  },
+  {
+   "id": "s-2002-campion-vincent-marie-antoinette",
+   "type": "source",
+   "title": "Marie-Antoinette et son célèbre dire：deux scénographies et deux siècles de désordres, trois niveaux de communication et trois modes accusatoires",
+   "author": "Véronique Campion-Vincent; Christine Shojaei Kawan",
+   "year": 2002,
+   "kind": "期刊論文",
+   "lang": "fr",
+   "venue": "Annales historiques de la Révolution française, n° 327（janvier–mars 2002），pp. 29–56",
+   "url": "https://journals.openedition.org/ahrf/551",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1770,
+    1843
+   ],
+   "topics": [
+    "t-cake"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\n社會學者 Campion-Vincent 與 Shojaei Kawan 追溯「Qu'ils mangent de la brioche」這句話的流傳史，指出它是跨時代、跨國的民間笑話型態（AaTh 1446），1843 年才第一次被書面連到瑪麗．安東尼身上。\n\n## 三個重點\n\n1. 最早的書面例子不是瑪麗．安東尼：16 世紀德文笑話集（Martin Montanus，1559/1566；Wolfgang Büttner，Epitome Historiarum，1576/1596）已有類似的粗俗版本。法國 18 世紀的版本則常被歸到馬達姆．維多瓦、龐巴度夫人等人名下（PDF p. 6–7；註 16–18）。\n2. 現存最早把此話連到瑪麗．安東尼的書面文字，是 Alphonse Karr 在《Les Guêpes》（1843 年 3 月，pp. 85–86）中，說這是敵人散布、用來攻擊她的謠言；他引用一本「1760 年」的書作為依據（PDF p. 8；註 20）。作者指出：距她去世約五十年（PDF p. 8）。\n3. 作者在 Rousseau 條目上的判斷：Rousseau 寫的是無名的「大公主」，且《懺悔錄》前六卷寫於 1765 年，當時瑪麗．安東尼還沒嫁到法國（1770 年才與路易十六結婚），所以他不可能是指她（PDF p. 12；註 48–49）。\n\n## 用了什麼史料\n\n- 德文笑話集與 Büttner 的 Epitome（16 世紀）、Karr《Les Guêpes》（1843）、Louis XVIII《Relation d'un voyage à Bruxelles et à Coblentz》（1791，註 51）、Rousseau《Les Confessions》卷六（註 47）、拉脫維亞口述故事（註 19），以及 Archer Taylor 1968 的比較研究（作者未能取得原文，註 8 寫明是引用二手）。\n- 作者還列出法國詞典（Larousse 等）的歸屬說法（PDF p. 6）。\n\n## 跟其他資料的關係\n\n- 作者多次引用 Archer Taylor（1968）的比較研究（PDF p. 5、8、9、11、13）。\n- 註 48 指出幾本英語俗語辭典誤把這句話寫成 Rousseau 安到瑪麗．安東尼身上（點名 Mieder、Stevenson、Rees、Titelman 等），作者認為那是錯誤（PDF p. 12）。\n- 對於 Louis XVIII 的 1791 記述，作者認為是「家族笑話」式的歸屬，把一句冒犯的話推到她的祖先瑪麗－泰蕾絲（Marie-Thérèse，路易十四的王后）身上，因為他不便把它歸到已成為殉難者的瑪麗．安東尼身上（PDF p. 13）。\n\n## 值得記住的一句話\n\n> 「Ils n'ont pas de pain ? Qu'ils mangent de la brioche !」（OpenEdition 網頁摘要，未在 PDF 內核對）\n> 中譯：「他們沒有麵包？那就讓他們吃布里歐麵包！」\n\n另一句 Karr 引文（1843，PDF p. 8）：「eh bien ! qu'il mange de la brioche」（大意：「那就讓他們吃布里歐麵包吧！」），附註 Karr, Les Guêpes, Paris, mars 1843, p. 85。\n中譯以作者用語為準。「brioche」在 Rousseau 的敘述裡是糕點店買來的點心（見 s-1782-rousseau-confessions 卡）。\n\n## 還不確定的地方\n\n- Karr 的「1760 年一本書」與「托斯卡納女公爵」的說法，作者沒找到原書，文中只說「未能確定」（PDF p. 8）。\n- 有二手網路資料提到 1841 年《Les Guêpes》已有稍有不同的版本，但本文沒有提到 1841 年，這點未能核對。\n- 本卡只讀了約一半篇幅（前言、Rousseau／Karr／Louis XVIII 段落與註釋），其餘未讀。\n- 頁碼是下載 PDF 的頁碼（PDF 第 1 頁是期刊首頁，期刊頁碼為 29–56），不是期刊印刷頁碼；引用時請以 PDF 為準。\n",
+   "links": [
+    "t-cake"
+   ]
+  },
+  {
+   "id": "s-2003-tackett-king",
+   "type": "source",
+   "title": "When the King Took Flight",
+   "author": "Timothy Tackett",
+   "year": 2003,
+   "kind": "專書",
+   "lang": "en",
+   "venue": "Cambridge, MA: Harvard University Press, 2003",
+   "url": "無",
+   "access": "公開",
+   "depth": "書目",
+   "period": [
+    1791,
+    1795
+   ],
+   "topics": [
+    "t-varennes"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\nTimothy Tackett（UC Irvine）2003 年由哈佛大學出版社出版的英文專書，討論 1791 年 6 月的出逃失敗及其後果；本站只取得書目與出版社、通俗書評資訊，尚未讀到全文或學術書評。\n\n## 三個重點\n\n1. 書目：Harvard University Press，2003 年；書目網站標示 ISBN 9780674010543（與 067401054X 同一書，來源為 AbeBooks 與 Publishers Weekly 的列表）；另有 2004 年平裝版，ISBN 9780674016422（uRead 等書店列表，未逐一核對）。\n2. 通俗書評：Kirkus（星評）指出全書最有說服力的是對逃亡後果的分析，多於逃亡經過本身（書評日期 2003-03-01，未讀全文）。\n3. 出版社簡介：書中以多個群體（王室、瓦雷納居民、巴黎激進派）的角度展開，主張逃亡為恐怖統治鋪路（轉引自出版社簡介，未核對原文）。\n\n## 用了什麼史料\n\n無法判斷（本次未讀到全文）。\n\n## 跟其他資料的關係\n\n- 本書屬於「逃亡後果」的研究，與本站 t-varennes 的「研究者怎麼看」段落相關。\n- 尚未與 Tourzel、Drouet 等原典逐項比對。\n\n## 值得記住的一句話\n\n未取得原文可引用的句子。\n\n## 還不確定的地方\n\n- 未讀全文，沒有可以標頁碼的內容。\n- 未找到學術書評（H-France、French Historical Studies 等）；需要時可在台大訂閱資料庫（JSTOR 等）查，需台大 VPN。\n- 書中對「停下來吃飯」「認出國王」等迷思的處理，本站尚不知道。\n",
+   "links": [
+    "t-varennes"
+   ]
+  },
+  {
+   "id": "s-2005-ozouf-varennes",
+   "type": "source",
+   "title": "Varennes. La mort de la royauté (21 juin 1791)",
+   "author": "Mona Ozouf",
+   "year": 2005,
+   "kind": "專書",
+   "lang": "fr",
+   "venue": "Paris, Gallimard（Les journées qui ont fait la France），2005，433 p.",
+   "url": "無",
+   "access": "公開",
+   "depth": "書目",
+   "period": [
+    1791,
+    1791
+   ],
+   "topics": [
+    "t-varennes"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\nMona Ozouf 2005 年由 Gallimard 出版的法文專書（433 頁），主題是 1791 年 6 月 21 日的瓦雷納事件；本站只取得書目與一篇書評的書目資訊，尚未讀到書本或書評內容。\n\n## 三個重點\n\n1. 書目：Gallimard，「Les journées qui ont fait la France」系列，2005 年，433 頁。\n2. 書評：Jean-Clément Martin，Annales. Histoire, Sciences Sociales，vol. 61 no. 4（2006 年 8 月），pp. 956–958；DOI 10.1017/S0395264900030547（只看到書目資訊，未讀到內容）。\n3. 本書的論點（把 1791 年 6 月 21 日當作君主制終結的轉折）出自一則搜尋摘要的轉述，尚未核對原書，不可直接寫入站上。\n\n## 用了什麼史料\n\n無法判斷（未讀到全文）。\n\n## 跟其他資料的關係\n\n- 與 Tackett（s-2003-tackett-king）同屬近年的通論研究；兩者的論點是否一致，本站尚不知道。\n- 尚未與 Tourzel、Drouet 的原典比對。\n\n## 值得記住的一句話\n\n未取得原文可引用的句子。\n\n## 還不確定的地方\n\n- 未讀本書與書評內容；論點的摘要來源是間接的，需要核對。\n- 書評 pp. 956–958 可在 Cambridge 或台大訂閱資料庫取得全文（需台大 VPN），本次未取得。\n- 本書可能在台大館藏或 OpenEdition 有電子版，本次未查到。\n",
+   "links": [
+    "t-varennes"
+   ]
+  },
+  {
+   "id": "s-2006-stamberg-npr-fraser",
+   "type": "source",
+   "title": "The Misunderstood Marie Antoinette?",
+   "author": "Susan Stamberg",
+   "year": 2006,
+   "kind": "報刊",
+   "lang": "en",
+   "venue": "NPR（All Things Considered 節目），2006-09-18",
+   "url": "https://www.nhpr.org/2006-09-18/the-misunderstood-marie-antoinette",
+   "access": "公開",
+   "depth": "全文",
+   "period": [
+    1755,
+    1793
+   ],
+   "topics": [
+    "t-coppola"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\n傳記作者 Antonia Fraser 在電影上映前接受 NPR 訪談，認為「讓他們吃蛋糕」是後來的偏見，並說明瑪麗的婚姻與宮廷生活。\n\n## 三個重點\n\n1. Fraser 說「讓他們吃蛋糕」是「royal chestnut」（老掉牙的故事），之所以黏上王后，是因為它「證實了人們的偏見」（逐字稿，Fraser 的訪談段落）。\n2. 婚後七年半才圓房；Fraser 說路易十六在心理上「做不到」（逐字稿）。\n3. 宮廷更衣的儀式：不同階級的女官依序遞送衣物；Fraser 說王后的角色就是要「光鮮亮麗」（逐字稿）。\n\n## 用了什麼史料\n\n以 Fraser 的傳記作為訪談基礎，節目另引小說家 Sena Jeter Naslund 的小說《Abundance》。節目沒有引用檔案史料。\n\n## 跟其他資料的關係\n\n與 s-2012-backman-rogers-threshold 中引用的 Fraser 傳記一致；但這是採訪，不是學術分析。\n\n## 值得記住的一句話\n\n原文：「a royal chestnut」（Fraser，逐字稿）\n中譯：「老掉牙的故事」；她說這句話之所以流傳，是因為「證實了人們的偏見」（本站譯）\n\n## 還不確定的地方\n\n- 逐字稿沒有頁碼；原抓取來自 NHPR 轉載版本，NPR 原址本次抓取逾時，正式引用前請核對音檔或 NPR transcript。\n- 節目開場提到 17 世紀的一位法國王后可能說過類似的話，本站寫時要注意。\n- 「美國獨立戰爭造成法國赤字」是 Fraser 的觀點，不是原始史料。\n",
+   "links": [
+    "t-coppola"
+   ]
+  },
+  {
+   "id": "s-2008-skellett-sudden-whitening",
+   "type": "source",
+   "title": "Sudden whitening of the hair: an historical fiction?",
+   "author": "Anne-Marie Skellett, George W. M. Millington, Nick J. Levell",
+   "year": 2008,
+   "kind": "期刊論文",
+   "lang": "en",
+   "venue": "Journal of the Royal Society of Medicine 101(12): 574–576（doi:10.1258/jrsm.2008.080337；PMC2625383）",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2625383/",
+   "access": "公開",
+   "depth": "書目",
+   "period": [
+    1791,
+    1793
+   ],
+   "topics": [
+    "t-white-hair"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\n以歷史角度檢查「一夜白髮」的傳說，標題用問號表示作者懷疑這些歷史個案是否可靠（書目來自間接資料，內容未讀）。\n\n## 三個重點\n\n1. 本卡只有書目。PMC 全文頁被 reCAPTCHA 擋住，無法下載或讀取，所以下列重點未核對原文。\n2. 依 Wikipedia「Canities subita」條目的參考書目，這篇是本主題常被引用的歷史檢討（間接資料，未經核對原文）。\n3. 其他條目未核對，不可引用內容。\n\n## 用了什麼史料\n\n未讀到。\n\n## 跟其他資料的關係\n\n- 書目來源：Wikipedia「Canities subita」條目的參考書目（第 5 條）。尚未確認是否被 s-2009-navarini-marie-antoinette 或 s-2013-nahm-canities-subita 引用。\n\n## 值得記住的一句話\n\n<!-- 未讀到全文，不附引文 -->\n\n## 還不確定的地方\n\n- 未讀全文，無法確定這篇是否直接討論康龐夫人。\n- 書目（作者、卷期、頁碼、DOI）只來自 Wikipedia 條目，建議主 session 對照 DOI（10.1258/jrsm.2008.080337）核實。\n- 需要全文時，請使用者用台大 VPN 或 JRSM 網站取得。\n",
+   "links": [
+    "t-white-hair"
+   ]
+  },
+  {
+   "id": "s-2009-navarini-marie-antoinette",
+   "type": "source",
+   "title": "Marie Antoinette Syndrome",
+   "author": "Alexander A. Navarini, Stephan Nobbe",
+   "year": 2009,
+   "kind": "期刊論文",
+   "lang": "en",
+   "venue": "Archives of Dermatology 145(6): 656（短文 Notable Notes；DOI 10.1001/archdermatol.2009.51）",
+   "url": "https://jamanetwork.com/journals/jamadermatology/article-abstract/712060",
+   "access": "公開",
+   "depth": "摘要",
+   "period": [
+    1791,
+    1793
+   ],
+   "topics": [
+    "t-white-hair"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\n一頁短文，把突然白髮命名為「瑪麗．安東尼症候群」，並把它視為斑禿（diffuse alopecia areata）的急性發作，認為有色髮選擇性脫落是主要解釋。\n\n## 三個重點\n\n1. 文中寫到瑪麗．安東尼的白髮傳說，說她的頭髮在「上斷頭台前一天」一夜變白（p. 656；WebFetch 摘要，未見印刷頁碼，原文段落為引言處，以 Introduction 段落記）。注意：這與康龐夫人說的「瓦雷納逃亡之後」是不同的時間點。\n2. 作者認為今日把這種情形視為斑禿的急性發作，白髮的出現來自有色髮的選擇性脫落，而不是白髮本身變色（摘要）。\n3. 文中舉一個 54 歲女性的病例：單一斑禿病灶，頭皮全部頭髮數週內變白，局部類固醇治療成功但白髮仍在，原因未明（摘要）。\n\n## 用了什麼史料\n\n只引用瑪麗．安東尼的傳說，沒有列出出處原文。\n\n## 跟其他資料的關係\n\n- 之後的 Kelly / Nahm / Navarini 2013 回顧（見 s-2013-nahm-canities-subita）承接這個診斷框架。\n- 未核對本文是否引用 Skellett 等人 2008（見 s-2008-skellett-sudden-whitening）；該書目來自 Wikipedia 條目，不是本文。\n\n## 值得記住的一句話\n\n<!-- 原文未取得全文，不附原文引文 -->\n\n## 還不確定的地方\n\n- 本卡只來自 WebFetch 的摘要，尚未取得全文，印刷頁碼與段落未能逐條核對。\n- 搜尋結果曾說這篇是「2020 年 JAMA Dermatology」，核對後實為 2009 年 Archives of Dermatology 的短文。網頁所見的 JAMA Dermatology 2020 論文未能找到，主 session 請勿依該說法引用。\n",
+   "links": [
+    "t-white-hair"
+   ]
+  },
+  {
+   "id": "s-2011-andersson-queen-fashion",
+   "type": "source",
+   "title": "Marie Antoinette: Queen of Fashion – Queen of Decadence",
+   "author": "Therése Andersson",
+   "year": 2011,
+   "kind": "期刊論文",
+   "lang": "其他",
+   "venue": "Lambda Nordica（卷期未確認）",
+   "url": "https://lambdanordica.org/index.php/lambdanordica/article/download/274/267",
+   "access": "公開",
+   "depth": "全文",
+   "period": [
+    1755,
+    1793
+   ],
+   "topics": [
+    "t-coppola"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\n作者從電影煽情劇（melodrama）與 camp的角度讀《凡爾賽拜金女》，認為服裝、色彩與配樂是理解瑪麗情感與處境的主要工具。\n\n## 三個重點\n\n1. 影片服裝由 Milena Canonero 設計，作者說剪裁「完全正確」，但配色與髮型是設計師的創作（p. 110，引 V Magazine 2006）。\n2. 最明顯的現代元素是 \"I Want Candy\" 蒙太奇中的一雙淺藍色 Converse（p. 110）。\n3. 脆爽的粉彩配色靈感來自 Ladurée 的杏仁馬卡龍；Coppola 稱之為「a 'cake and cookie' kind of thing」（p. 111）。\n\n## 用了什麼史料\n\n電影本身、服裝設計師的訪談（V Magazine 2006）、Pam Cook（Sight & Sound 2006）、Rosenberg（2009）、Sontag 的 camp 理論等。服裝細節引 Weber 2006 的歷史研究（註 8）。\n\n## 跟其他資料的關係\n\n與 s-2012-backman-rogers-threshold 同樣處理時代錯置，但框架是 melodrama、camp 與酷兒閱讀，不是通過儀禮。\n\n## 值得記住的一句話\n\n原文：Det påtagligaste moderna inslaget i mise-en-scène utgörs av förekomsten av ett par ljusblå Converse（p. 110）\n中譯：影片中最明顯的現代元素，是一雙淺藍色 Converse（本站譯）\n\n## 還不確定的地方\n\n- 出版年 2011 是依 PDF 製作日期推定，**待核對**；卷期號與同儕審查狀態未確認。\n- 原文為瑞典文，中譯為本站所譯。\n- 註 9 引的 Sony 製作說明網址已不可用，Coppola 的「cake and cookie」引語只能由作者轉述，無法核對原始出處。\n",
+   "links": [
+    "t-coppola"
+   ]
+  },
+  {
+   "id": "s-2012-backman-rogers-threshold",
+   "type": "source",
+   "title": "The Historical Threshold: Crisis, Ritual and Liminality in Sofia Coppola's Marie-Antoinette (2006)",
+   "author": "Anna Backman Rogers",
+   "year": 2012,
+   "kind": "期刊論文",
+   "lang": "en",
+   "venue": "RELIEF 6 (1), pp. 80–97",
+   "url": "https://revue-relief.org/article/download/URN%3ANBN%3ANL%3AUI%3A10-1-113712/9590/14350",
+   "access": "公開",
+   "depth": "全文",
+   "period": [
+    1755,
+    1793
+   ],
+   "topics": [
+    "t-coppola"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\n作者用人類學的「通過儀禮」與「閾限」理論讀《凡爾賽拜金女》，認為影片的時代錯置與風格是政治性的，不是空洞的。\n\n## 三個重點\n\n1. 坎城首映後的評價兩極：Agnès Poirier 批評影片「空洞」，Jean-Michel Frodon 讚賞其嬉戲式處理（p. 80）。\n2. 影片把瑪麗寫成一個處於「閾限」的少女，她的身體被儀式規訓、商品化；影片刻意不處理法國大革命（p. 81–82、91）。\n3. 時代錯置的例子：「I Want Candy」蒙太奇中的淺藍色 Converse、Gang of Four 與 Sex Pistols 式的片頭字體（p. 83、94）。\n\n## 用了什麼史料\n\n以 Antonia Fraser 的傳記（2002 年版）為敘事基礎，引 Coppola 的訪談（轉引自 Hohendal，《紐約時報》2006）與影評（Stephanie Zacharek、Poirier、Frodon）。理論依據是 Van Gennep 與 Turner。作者只分析影片，不做史料考證。\n\n## 跟其他資料的關係\n\n與 s-2011-andersson-queen-fashion 同樣把影片的服裝與配色當成敘事工具，但理論框架不同（本篇用儀禮，Andersson 用 melodrama 與 camp）。\n\n## 值得記住的一句話\n\n原文：「playfully anachronistic (and accidental) addition」（p. 94）\n中譯：「俏皮的（而且是意外的）時代錯置添加」（本站譯，描述淺藍色 Converse）\n\n## 還不確定的地方\n\n- 同儕審查狀態本次未核對；本卡暫定「中」，確認審查流程後可升為「高」。\n- 作者正文寫 Fraser 傳記為 2002 年，參考書目寫 2001（Phoenix 版）。\n- 作者說 Converse 是「accidental」，這是作者的推論，未附導演說法。\n- 作者沒有提到 Ladurée 或凡爾賽實地拍攝的細節，那些另由其他資料支持。\n",
+   "links": [
+    "t-coppola"
+   ]
+  },
+  {
+   "id": "s-2013-nahm-canities-subita",
+   "type": "source",
+   "title": "Canities Subita: A Reappraisal of Evidence Based on 196 Case Reports Published in the Medical Literature",
+   "author": "Michael Nahm, Alexander A. Navarini, Emily Williams Kelly",
+   "year": 2013,
+   "kind": "期刊論文",
+   "lang": "en",
+   "venue": "International Journal of Trichology 5(2): 63–68（doi:10.4103/0974-7753.122959；PMC3877474）",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3877474/",
+   "access": "公開",
+   "depth": "摘要",
+   "period": [
+    1800,
+    2013
+   ],
+   "topics": [
+    "t-white-hair"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\n回顧 196 篇醫學文獻中的突然白髮個案，結論是「突然變白」有一些可靠的觀察，但是否能在頭髮生長前就完全失去顏色，仍然沒有定論。\n\n## 三個重點\n\n1. 196 篇個案依證據分為：44 篇可認證（authenticated）、82 篇未認證、37 篇軼事、33 篇不清楚（Introduction，摘要）。文中沒有列出各類「一夜」、「數天」、「數週」的人數統計。\n2. 文中的例子大多是數小時到數週的變化：例如 Raymond 的個案約 5 小時變色；Parry 的個案約半小時；Landois 的個案「overnight」（摘要，未見頁碼）。這些例子多來自 19 世紀醫學文獻，也是最常被引用的「一夜變白」來源。\n3. 作者不主張已有確定證據。原文說「沒有決定性證據」能在沒有斑禿的情況下快速發生，並呼籲系統性研究（Discussion，摘要）。\n\n## 用了什麼史料\n\n以 1800 年代到 2000 年代的醫學個案報告為主，沒有直接討論瑪麗．安東尼或康龐夫人。\n\n## 跟其他資料的關係\n\n- 作者群與 s-2009-navarini-marie-antoinette 同一團隊，承接其「斑禿變體」框架。\n- 本文沒有提到康龐夫人，也沒有提到瑪麗．安東尼的傳說內容，只在參考書目中引用 2009 年的短文。\n\n## 值得記住的一句話\n\n<!-- 原文未取得全文（PDF 下載被驗證頁擋住），不附原文引文 -->\n\n## 還不確定的地方\n\n- 本卡只來自 WebFetch 摘要，未取得全文，頁碼與段落只能用章節名稱標示。\n- 原始 PDF 的 curl 下載被 PMC 的 reCAPTCHA 擋住，需要在瀏覽器或台大 VPN 下載才能讀全文。\n",
+   "links": [
+    "t-white-hair"
+   ]
+  },
+  {
+   "id": "s-2016-maes-laiterie-rambouillet",
+   "type": "source",
+   "title": "La laiterie de Marie-Antoinette à Rambouillet. Un temple pastoral pour le plaisir de la reine",
+   "author": "Antoine Maës",
+   "year": 2016,
+   "kind": "專書",
+   "lang": "fr",
+   "venue": "Centre de recherche du château de Versailles 出版支持書目頁（2016 年 3 月）",
+   "url": "https://chateauversailles-recherche.fr/article798.html",
+   "access": "公開",
+   "depth": "書目",
+   "period": [
+    1785,
+    1788
+   ],
+   "topics": [
+    "t-hameau"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\n凡爾賽宮研究中心的書目頁，介紹 Antoine Maës 2016 年出版的 Rambouillet 乳品室研究：它是「牛奶的神殿」，建築與陳設由 Hubert Robert 藝術指導，路易十六 1785 年決定興建。\n\n## 三個重點\n\n1. 1785 年路易十六決定在 Rambouillet 建造乳品室，讓王后享用乳製品（書目頁，法文）。\n2. 建築採古典風格，「在 Hubert Robert 的藝術指導下」，形同「真正的牛奶神殿」（書目頁，法文）。\n3. 書目頁提到 Trianon 的虛構小村落「剛為王后建成」，把兩處並列比較；書目頁沒有寫 Hameau 的確切年份。\n\n## 用了什麼史料\n\n本卡只讀到出版頁的書目與簡介，沒有讀到書本全文，因此不知道作者用了哪些檔案。\n\n## 跟其他資料的關係\n\n- 與官方新聞稿 [[s-2025-dati-culture-sevres-rambouillet]] 的說法（由國王為王后而建）一致；新聞稿說 Hubert Robert 參與瓷器服務，本頁說他參與乳品室的藝術指導。\n- 本頁沒有 1786 或 1787 年的日期。\n\n## 值得記住的一句話\n\n書目頁原文：「Built in the classical style, under the artistic direction of Hubert Robert, the Rambouillet dairy looked like a true \"temple of milk\".」中譯：「這座乳品室採古典風格，在 Hubert Robert 的藝術指導下，宛如一座真正的『牛奶神殿』。」（英文譯本，原文法文未逐字核對。）\n\n## 還不確定的地方\n\n- 只讀到書目簡介，沒有讀到書本全文，所以不能引用書內的論點或頁碼。\n- 這是 WebFetch 摘要，英文引文不保證是原文逐字；需要引用時請去原頁核對。\n- 「1785 年決定」與其他二手說法（Martin 2007 研討會摘要的「1785–87 年建造」、旅遊網站的 1785 年）都只是二手資料，未列為資料卡。\n",
+   "links": [
+    "s-2025-dati-culture-sevres-rambouillet",
+    "t-hameau"
+   ]
+  },
+  {
+   "id": "s-2016-versailles-queens-hamlet",
+   "type": "source",
+   "title": "凡爾賽宮官網「Queen's Hamlet」頁面與長文（英文）",
+   "author": "凡爾賽宮（Château de Versailles）",
+   "year": 2016,
+   "kind": "網頁",
+   "lang": "en",
+   "venue": "en.chateauversailles.fr，頁面與長文（年份依維基條目所引的更新日期 2016-11-23 推定）",
+   "url": "https://en.chateauversailles.fr/discover/estate/trianon-estate/queen-s-hamlet",
+   "access": "公開",
+   "depth": "全文",
+   "period": [
+    1783,
+    1786
+   ],
+   "topics": [
+    "t-hameau"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\n凡爾賽宮官方說明：1783 年王后請 Richard Mique 建造小村落，1786 年完工；農場是真正運作的農場，但王后「並沒有扮演農夫」，她在此散步、小聚。\n\n## 三個重點\n\n1. 1783 年夏天開工，1786 年完工；Mique 負責建造，畫家 Hubert Robert 以「具有如畫風格的建築圖稿」提供靈感（長文，依 WebFetch 摘要）。\n2. 頁面明確否定「扮演農夫」的流行印象，並說王后堅持農場要真正運作，並為王室子女提供農業教育（頁面摘要）。\n3. 乳品室分為「working dairy」與「model dairy」兩座；工作用乳品室與穀倉在拿破崙時期（1810–1812）翻修前已拆除（頁面摘要）。\n\n## 用了什麼史料\n\n官方導覽文字，沒有列出引用的史料與頁碼。\n\n## 跟其他資料的關係\n\n- 與維基條目（英文）引用的同一頁面相符；維基條目把「扮演牧羊女或農婦」列為「沒有當時證據的迷思」。\n- 頁面沒有提到農場的農夫姓名，也沒有提到擠牛奶或農婦服裝。維基條目中的農場主管人名（Valy Bussard）未在官方頁面找到。\n\n## 值得記住的一句話\n\n頁面原文大意：王后與侍從並沒有「扮演農夫」（did not \"play at being farmers\"），但她經常在此散步、舉辦小型聚會。（此句由 WebFetch 摘要取得，非原文逐字核對，引用前請於官網核對。）\n\n## 還不確定的地方\n\n- WebFetch 取得的是摘要式內容，不是逐字全文。原文引文請人工核對官網。\n- 頁面沒有提供頁碼或段落編號；本卡無法附頁碼。\n- 頁面沒有說明乳品室實際做什麼用，也沒有說明有沒有農民家庭住在裡面（只提到「several people lived here, including the head gardener and the guard」）。\n- 頁面沒有提到 Hubert Robert 參與乳品室的設計。\n",
+   "links": [
+    "t-hameau"
+   ]
+  },
+  {
+   "id": "s-2021-archives-nationales-xray",
+   "type": "source",
+   "title": "Marie-Antoinette's Correspondence under X-Ray（法國國家檔案館說明頁）",
+   "author": "Archives nationales",
+   "year": 2021,
+   "kind": "網頁",
+   "lang": "en",
+   "venue": "法國國家檔案館網站",
+   "url": "https://www.archives-nationales.culture.gouv.fr/en/marie-antoinettes-correspondence-under-x-ray",
+   "access": "公開",
+   "depth": "摘要",
+   "period": [
+    1791,
+    1792
+   ],
+   "topics": [
+    "t-fersen"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\n法國國家檔案館的官方說明頁，確認 X 射線讀出的是瑪麗與費爾森在杜伊勒里宮期間的信件，但頁面只描述技術與內容性質，沒有對感情或塗黑者下判斷。\n\n## 三個重點\n\n1. 信件交換期為 1791 年 6 月至 1792 年 8 月，頁面稱內容「mainly political in nature」（主要是政治性質）。\n2. 頁面說塗黑是用來隱藏「often of an intimate nature」（常常是私密性質）內容的手法，但沒有說讀出了什麼。\n3. 頁面說研究用 X 射線螢光光譜，不傷害原件，歷時三年，2021 年成功讀出；頁面未說明段落數量與塗黑者。\n\n## 用了什麼史料\n\n法國國家檔案館館藏的瑪麗與費爾森信件（頁面說明）。\n\n## 跟其他資料的關係\n\n與 [[s-2021-michelin-xrf]] 的研究對象相同。頁面的「政治性質為主」與論文的結論（感情性質無法由讀出內容得知）大致一致，但頁面不提塗黑者。\n\n## 值得記住的一句話\n\n<!-- 原文（40 字以內）＋中譯，附出處 -->\n\nmainly political in nature（中譯：主要是政治性質的。頁面文字）\n\n## 還不確定的地方\n\n- 頁面沒有發布日期，卡上的年份是依內容推定的。\n- 這是機構推廣頁面，非學術論文，可信度只作為機構說法的參考。\n",
+   "links": [
+    "s-2021-michelin-xrf",
+    "t-fersen"
+   ]
+  },
+  {
+   "id": "s-2021-michelin-xrf",
+   "type": "source",
+   "title": "2D macro-XRF to reveal redacted sections of French queen Marie-Antoinette secret correspondence with Swedish count Axel von Fersen",
+   "author": "Anne Michelin, Fabien Pottier, Christine Andraud",
+   "year": 2021,
+   "kind": "期刊論文",
+   "lang": "en",
+   "venue": "Science Advances 7(40), DOI 10.1126/sciadv.abg4266",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10938494",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1791,
+    1792
+   ],
+   "topics": [
+    "t-fersen"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\n2021 年的 X 射線螢光研究讀出了瑪麗與費爾森部分被塗黑的信件內容，並依墨水成分推論塗黑者最可能是費爾森本人，但作者明說這不能用來判定兩人感情的真實性質。\n\n## 三個重點\n\n1. 方法：用 X 射線螢光（macro-XRF）掃描被塗黑段落。原字與塗黑墨水的金屬元素比例不同，再用比率圖、PCA 等處理把底下的字讀出來；摘要稱成功讀出八封信（摘要）。\n2. 內容例：Fig. 1 讀出「non pas sans vous」（不是沒有你，1792 年 1 月 4 日信）；Fig. 4 讀出「vous que j'aime et aimeroi jusqu'a mon」（1791 年 12 月 7 日信，句子中斷）。\n3. 塗黑者：作者認為費爾森抄寫信件後分批塗黑，理由是塗黑墨水的成分總是落在原字墨水同組或更晚的分組；但文中寫「If our hypothesis is validated」，仍屬假設（Looking for the censor 節）。\n\n## 用了什麼史料\n\n法國國家檔案館藏、1982 年購自費爾森家族檔案的瑪麗與費爾森信件，以及費爾森保存的草稿（引言段）。研究以 MA-XRF 掃描、墨水點測量為主。\n\n## 跟其他資料的關係\n\n作者的傳統假設（塗黑者可能是 19 世紀的 Klinckowström 男爵或其他費爾森家族成員）見 Looking for the censor 節，這與 [[s-1877-klinckowstrom-fersen]] 的編者身分有關。結論段的感情論述與法國國家檔案館的說明頁（[[s-2021-archives-nationales-xray]]）基本一致。研究者之間對感情性質的爭論（Lever、Farr 等）未在本文的已讀段落中回應。\n\n## 值得記住的一句話\n\n<!-- 原文（40 字以內）＋中譯，附出處 -->\n\nTo read under the censorship does not make it possible to know the truth about the nature of their feelings.（中譯：在塗黑之下閱讀，無法得知他們感情的真實性質。Historical conclusions 節）\n\n## 還不確定的地方\n\n- 摘要寫八封信，但有媒體報導寫 15 封信的塗黑段落，文中未見 15 的說法，需看補充材料。\n- 塗黑者為費爾森的結論是假設，依賴墨水分組；1791 年 12 月後的墨水成分幾乎相同，最後幾封信因此無法讀出。\n- 本卡只讀了摘要、引言、圖說、censor 節與結論段，方法段的逐字讀法未核對。\n",
+   "links": [
+    "s-1877-klinckowstrom-fersen",
+    "s-2021-archives-nationales-xray",
+    "t-fersen"
+   ]
+  },
+  {
+   "id": "s-2024-pearce-creole",
+   "type": "source",
+   "title": "Creole Creations: Unraveling Caribbean origins, makers and wearers of the robe à la creole c.1780-1815",
+   "author": "Emma Pearce",
+   "year": 2024,
+   "kind": "期刊論文",
+   "lang": "en",
+   "venue": "Studies in Eighteenth-Century Culture 53 (2024), pp. 181-209",
+   "url": "https://radar.gsa.ac.uk/10351/3/Emma%20Pearce%20AAM%20robe%20a%20la%20creole.pdf",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1779,
+    1815
+   ],
+   "topics": [
+    "t-chemise"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\n作者追溯「chemise à la reine」（robe à la creole）的加勒比來源：瑪麗．安東尼的襯衣裙最初改編自法屬加勒比白人種植園主妻子的衣著，而製作和穿著這種衣物的加勒比有色人種女性在歐洲敘事中被忽略。\n\n## 三個重點\n\n1. 1783 年沙龍展出的瑪麗．安東尼肖像引起觀眾不滿，觀眾覺得像看見王后穿著內衣；這件白色平紋細布裙被作者視為對法國絲織業的冒犯（PDF p. 1，註 2 引 Ashmore 2012 與 Lubrich 2016，原書未讀到）。\n2. 1784 年《Galerie des Modes et Costumes Français》的版畫把這種裙子命名為「chemise à la reine」，使王后與這種裙子之間有了固定的連結（PDF p. 1）。\n3. 1779 年前後的芭蕾《Mirza》與時尚版畫已出現克里奧爾式長裙；歐洲擴散的例子包括 1784 年喬治安娜．卡文迪許首次穿著、1790 年德國雜誌刊出英式變體（PDF p. 5–7）。\n\n## 用了什麼史料\n\n- 圖像：1779 年《Galerie des Modes》版畫、Agostino Brunias 的加勒比畫作、William Hay《Seamstresses, St. Kitts》（1798）水彩（PDF p. 2, 6）。\n- 文字：Wimpffen 與 Moreau de Saint-Méry 關於加勒比白人女性服裝的描述（PDF p. 5）；瑪麗．安東尼日記中的「robe à la creole」（PDF p. 2，轉引）；Bryan Edwards 的棉花進口數字（PDF p. 8，轉引）。\n- 二手研究：Ashelford 2018、Rauser 2020、Chrisman-Campbell 2014、Weber 2006 等（作者引用，未逐一核對）。\n\n## 跟其他資料的關係\n\n作者明說本文建立在 Rauser（*The Age of Undress*, 2020）與 Ashelford（*Costume* 2018）的基礎上，但把焦點從白人克里奧爾女性轉向非白人的製作者與穿著者（PDF p. 3–4）。對 Ashelford 的「瑪麗．安東尼受 Mirza 影響」只作為推測轉述（PDF p. 5）。\n\n## 值得記住的一句話\n\n<!-- 原文（40 字以內）＋中譯，附頁碼 -->\n「the simple white dress she wore appearing to the public as if they were seeing the queen in her undergarments」\n中譯：那件簡單的白色衣裙，讓公眾看來彷彿是在看王后穿著內衣（PDF p. 1）\n\n## 還不確定的地方\n\n- 「絲織業受損」的說法只有作者一句概括，依據的 Ashmore（2012, p. 61）與 Lubrich（2016, p. 279）原文未讀到。\n- 當時的原始批評文字（如 *Mémoires secrets*）未在本文中引出，作者只描述觀眾反應。\n- 本卡只讀到引言、前半與註釋，後半（PDF p. 12–26，加勒比製作者與非白人穿著者）只做關鍵字定位，未逐段讀。\n- 頁碼為作者繳交版的 PDF 頁碼，期刊正式頁碼未核對。\n",
+   "links": [
+    "t-chemise"
+   ]
+  },
+  {
+   "id": "s-2025-dati-culture-sevres-rambouillet",
+   "type": "source",
+   "title": "Rachida Dati 宣布 Sèvres 國立陶瓷博物館將收藏兩件 Rambouillet 乳品室瓷器（政府新聞稿）",
+   "author": "法國文化部（Ministère de la Culture）",
+   "year": 2025,
+   "kind": "網頁",
+   "lang": "fr",
+   "venue": "culture.gouv.fr 新聞稿，2025-04-04",
+   "url": "https://www.culture.gouv.fr/fr/presse/communiques-de-presse/rachida-dati-ministre-de-la-culture-annonce-la-prochaine-entree-dans-les-collections-du-musee-national-de-ceramique-a-sevres-de-deux-tresors-nati",
+   "access": "公開",
+   "depth": "全文",
+   "period": [
+    1785,
+    1788
+   ],
+   "topics": [
+    "t-hameau"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\n法國文化部官方新聞稿，說明 Rambouillet 乳品室的瓷器服務由路易十六為王后訂製，共 65 件，1787 至 1788 年交付；此稿也說乳品室是「應國王要求為王后而建」。\n\n## 三個重點\n\n1. 乳品室是「應國王要求為王后而建」，新聞稿沒有寫出建成的確切年份（頁面原文：「laiterie du domaine de Rambouillet construite à la demande du roi pour son épouse」，第 4 段）。\n2. 瓷器服務「共 65 件，1787 年與 1788 年交付」（第 3 段）；設計由 Lagrenée 與 Boizot 負責，「sous la direction du peintre Hubert Robert」，監督者為 d'Angiviller（第 4 段）。\n3. 造型借鑑 Denon 收藏的古代陶器（第 7 段）；Sèvres 館藏是全世界同一服務中數量最多的，共五件（第 8 段）；新聞稿提到 bol sein「至今仍由 Sèvres 製造」（第 8 段）。\n\n## 用了什麼史料\n\n本身是官方公告（政府宣傳性質），不是研究論文。它引用的是 Sèvres 館藏與 Manufacture 的紀錄，但沒有列出出處。\n\n## 跟其他資料的關係\n\n- 「由國王為王后建」與「1787 年建成」的說法，在這份新聞稿裡只確認到「應國王要求為王后而建」與瓷器 1787–1788 交付；建築本身的年份不在此稿。\n- 與 [[s-2016-maes-laiterie-rambouillet]] 的說法（1785 年路易十六決定建造）大致相符；兩者都由官方機構發布。\n\n## 值得記住的一句話\n\n「Cet ensemble, véritablement mythique et connu dans le monde entier en raison de sa destinataire, la reine Marie-Antoinette…」（這套瓷器因其收件人瑪麗．安東尼而聞名全世界，原文第 4 段）。中譯：「這套服務真正神話般，因其收件人瑪麗．安東尼而聞名於全世界……」\n\n## 還不確定的地方\n\n- 新聞稿沒有提到 bol-sein「乳房碗」的鑄模傳說，也沒有說明碗的形狀來源；只說整套服務的器形來自古代陶器。\n- 新聞稿沒有寫乳品室的建成年份；1787 只是瓷器交付年。\n- 「全世界同一服務中數量最多的是 Sèvres 館藏五件」是新聞稿的說法，未與其他館藏核對。\n",
+   "links": [
+    "s-2016-maes-laiterie-rambouillet",
+    "t-hameau"
+   ]
+  },
+  {
+   "id": "s-2026-harvard-gazette-coppola",
+   "type": "source",
+   "title": "Why Sofia Coppola gave Marie Antoinette sneakers",
+   "author": "Harvard Gazette",
+   "year": 2026,
+   "kind": "報刊",
+   "lang": "en",
+   "venue": "Harvard Gazette（Harvard Film Archive Q&A 報導）",
+   "url": "https://news.harvard.edu/gazette/story/2026/11/why-sofia-coppola-gave-marie-antoinette-sneakers/",
+   "access": "公開",
+   "depth": "全文",
+   "period": [
+    1755,
+    1793
+   ],
+   "topics": [
+    "t-coppola"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\nSofia Coppola 在 Harvard Film Archive 的 Q&A 中解釋，影片的時代錯置（Converse、The Strokes）是理解瑪麗內心世界的方式。\n\n## 三個重點\n\n1. Coppola 說：瑪麗「唯一的創作出口」是她的環境、服裝、花園（段落 2）。\n2. 拍攝超過 300 人參與；凡爾賽拍攝時的花與蠟燭是真的（段落 4）。\n3. Coppola 說 Fraser 的傳記「讓她變得像人」，宮廷的人際關係「像高中」（段落 6）。\n\n## 用了什麼史料\n\nCoppola 的口述（活動 Q&A），以及她引用的 Fraser 傳記與洛可可畫風作為參考。報導本身不做史料考證。\n\n## 跟其他資料的關係\n\nCoppola 的說法與 s-2012-backman-rogers-threshold 的「時代錯置是政治性的」解讀可以對照；Coppola 的說法偏向個人情感與創作動機。\n\n## 值得記住的一句話\n\n原文：「the only way she could express herself」（Coppola，段落 2）\n中譯：「大家都知道她會在身邊打造一個世界，我覺得這是她唯一能表達自己的方式。」（本站譯）\n\n## 還不確定的地方\n\n- Q&A 的確切日期與記者署名未在抓取內容中確認。\n- 蠟燭與窗簾的說法只見於這篇報導，未有其他來源核對。\n- 報導中 Converse 與 The Strokes 的敘述是記者的描述，寫進故事時要標示。\n",
+   "links": [
+    "t-coppola"
+   ]
+  },
+  {
+   "id": "s-2026-versailles-coppola-exhibition",
+   "type": "source",
+   "title": "«Marie-Antoinette» by Sofia Coppola（凡爾賽宮展覽頁）",
+   "author": "Château de Versailles",
+   "year": 2026,
+   "kind": "網頁",
+   "lang": "en",
+   "venue": "Château de Versailles 官網",
+   "url": "https://en.chateauversailles.fr/news/exhibitions/marie-antoinette-sofia-coppola",
+   "access": "公開",
+   "depth": "摘要",
+   "period": [
+    1755,
+    1793
+   ],
+   "topics": [
+    "t-coppola"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-15",
+   "body": "## 一句話\n\n凡爾賽宮官方網頁確認：電影大部分在凡爾賽宮拍攝；2026 年 9 月起在小特里亞儂舉辦影片 20 週年展覽，由導演參與設計。\n\n## 三個重點\n\n1. 頁面說電影「filmed largely at the Palace of Versailles」（段落 3）。\n2. 展覽時間為 2026-09-22 至 2027-01-24，地點 Petit Trianon；部分片段在拍攝的房間中放映（段落 1、5）。\n3. 展出內容包括 Milena Canonero 的原創服裝、道具、分鏡與註記劇本（段落 5）。\n\n## 用了什麼史料\n\n機構官方網頁，內容是展覽介紹與導演、館長的引語，不含拍攝日程或許可細節。\n\n## 跟其他資料的關係\n\n可以作為 s-2012-backman-rogers-threshold 與 s-2026-harvard-gazette-coppola 中「凡爾賽實景拍攝」說法的官方佐證。\n\n## 值得記住的一句話\n\n原文：「filmed largely at the Palace of Versailles」（段落 3）\n中譯：「大部分在凡爾賽宮拍攝」（本站譯）\n\n## 還不確定的地方\n\n- 頁面是宣傳性質，沒有拍攝日期、場景清單或拍攝費用。\n- 「Hall of Mirrors 舞會」、拍攝時段、費用等細節只見於二手報導，本卡不採用。\n- 抓取時部分引語被截斷，正式引用前請重新核對原頁。\n",
+   "links": [
+    "t-coppola"
+   ]
+  },
+  {
+   "id": "t-cake",
+   "type": "topic",
+   "title": "讓他們吃蛋糕：一句她沒說過的話",
+   "category": "迷思",
+   "period": [
+    1765,
+    1843
+   ],
+   "summary": "這句話比她嫁到法國還早出現，五十年後才被安到她頭上。",
+   "myth": "聽說百姓沒有麵包吃，王后說：「那就讓他們吃蛋糕吧。」",
+   "verdict": "查無實據",
+   "sources": [
+    "s-2002-campion-vincent-marie-antoinette",
+    "s-1782-rousseau-confessions"
+   ],
+   "updated": "2026-11-15",
+   "body": "## 一句話說明\n\n這是她最有名的一句話，但她很可能從沒說過：這句話在她還是奧地利小女孩時就已經被寫下，到她死後約五十年才第一次跟她的名字連在一起。\n\n## 迷思與史料\n\n目前找得到的最早書面版本，在盧梭（Jean-Jacques Rousseau）的自傳《懺悔錄》第六卷：他回憶「一位偉大的公主」聽說鄉下人沒有麵包，就說「那就讓他們吃布里歐（brioche）吧」。這位公主沒有名字（[[s-1782-rousseau-confessions]] 卷六）。研究這句話流傳史的兩位學者指出，盧梭在 1765 年就寫完了第一到六卷，而瑪麗．安東尼要到 1770 年才嫁到法國，所以盧梭不可能在講她（[[s-2002-campion-vincent-marie-antoinette]] PDF 第 12 頁）。\n\n她們找到第一份把這句話安到瑪麗．安東尼頭上的文字，是作家卡爾（Alphonse Karr）1843 年 3 月在諷刺刊物《黃蜂》（*Les Guêpes*）裡寫的；而且卡爾自己說，這是她的敵人散布、用來攻擊她的謠言（[[s-2002-campion-vincent-marie-antoinette]] PDF 第 8 頁、註 20）。這時距離她上斷頭台已經五十年。\n\n## 故事是這樣的\n\n1730 年代，年輕的盧梭寄住在別人家，偷偷弄到幾瓶葡萄酒想在房間裡喝，卻發現沒有麵包配不下去。叫僕人去買太丟臉，自己一個「腰間佩劍的紳士」走進麵包店也太丟臉。這時他想起「一位偉大的公主」的蠢話：沒有麵包，就吃布里歐吧。於是他走遍城裡三十家糕點店，卻一家也不敢進去（[[s-1782-rousseau-confessions]] 卷六）。這段尷尬的小插曲，就是這句名言目前已知最早的法文出處。\n\n布里歐不是我們想像中插著蠟燭的蛋糕，而是用奶油和雞蛋做的軟麵包，在糕點店買得到，比一般麵包貴。英文世界後來把它翻成 cake，才變成今天大家熟悉的「讓他們吃蛋糕」；《懺悔錄》的古老英譯本裡，這句話其實寫成「讓他們吃糕點（pastry）」（[[s-1782-rousseau-confessions]] 卷六英譯本）。\n\n這個笑話比盧梭還要老。研究者在 16 世紀的德文笑話集裡就找到同樣的結構：有權有勢的人聽說窮人沒東西吃，說出一句完全搞不清楚狀況的回答，只是德文版說得更粗俗。拉脫維亞的民間故事裡，說這話的是德國地主；中國也有晉惠帝「何不食肉糜」的故事（[[s-2002-campion-vincent-marie-antoinette]] PDF 第 7–8 頁）。\n\n在法國，這句話也不是只屬於瑪麗．安東尼。大革命前，人們常把它安到國王的姑姑維克托瓦夫人（Madame Victoire）、或龐巴度夫人、杜巴利夫人這類受寵的貴婦頭上（[[s-2002-campion-vincent-marie-antoinette]] PDF 第 6 頁）。1791 年，路易十六的弟弟（後來的路易十八）在回憶錄裡講了個家族笑話：一百年前路易十四的王后瑪麗－泰蕾絲說過「天哪，他們為什麼不吃點派皮呢？」（本站譯）（[[s-2002-campion-vincent-marie-antoinette]] PDF 第 13 頁）。\n\n所以這句話比較像一個「流動的笑話」：每當有饑荒、有人想罵上位者不食人間煙火，就把它借來，安到當時最惹人厭的那位貴婦身上。研究者認為，這句話的功能一直是攻擊，而不是紀錄某人真的說過什麼（[[s-2002-campion-vincent-marie-antoinette]] PDF 第 1–2 頁）。\n\n## 研究者怎麼看\n\n- 流傳史研究者坎皮翁－文森（Véronique Campion-Vincent）與肖賈伊．卡萬（Christine Shojaei Kawan）把這句話歸入國際民間故事分類裡的同一型笑話，認為它是在 1843 年才被固定到瑪麗．安東尼身上（[[s-2002-campion-vincent-marie-antoinette]]）。\n- 她們也指出，有些辭典把盧梭的段落當成瑪麗．安東尼說過這句話的證據，這是年代上的錯誤（[[s-2002-campion-vincent-marie-antoinette]] PDF 第 12 頁）。\n- 盧梭寫第六卷的確切年份，各家說法在 1765 到 1769 年之間，但都早於 1770 年她嫁到法國，不影響結論（[[s-2002-campion-vincent-marie-antoinette]]）。\n\n## 延伸閱讀\n\n- [[s-2002-campion-vincent-marie-antoinette]]\n- [[s-1782-rousseau-confessions]]\n\n## 還不知道的事\n\n- 卡爾提到的那本「1760 年的書」是哪一本，研究者也沒找到。\n- 英文什麼時候開始把 brioche 譯成 cake，目前沒有找到學術來源。\n- 想再補：Antonia Fraser 的傳記、Chantal Thomas《邪惡的王后》（*The Wicked Queen*）裡對這句話的討論。\n",
+   "links": [
+    "s-1782-rousseau-confessions",
+    "s-2002-campion-vincent-marie-antoinette"
+   ]
+  },
+  {
+   "id": "t-chemise",
+   "type": "topic",
+   "title": "穿內衣見人？一幅肖像引起的醜聞",
+   "category": "時尚",
+   "period": [
+    1779,
+    1790
+   ],
+   "summary": "一件白紗裙被罵成內衣，後來卻變成全歐洲的流行。",
+   "sources": [
+    "s-2024-pearce-creole",
+    "s-1835-vigee-le-brun-souvenirs"
+   ],
+   "updated": "2026-11-15",
+   "body": "## 一句話說明\n\n1783 年，宮廷畫家維傑．勒布倫把王后畫成戴草帽、穿一件寬鬆白紗裙的樣子，掛在巴黎沙龍展上，觀眾覺得像看見王后穿著內衣；但這件「內衣」不久就以「王后式襯衣裙」的名字流行到全歐洲。\n\n## 故事是這樣的\n\n在凡爾賽，王后的正式服裝是撐得很寬的大裙子、層層絲綢與刺繡。但在她的私人小宮殿小特里亞儂（見 [[t-hameau]]），她喜歡穿得輕鬆。研究服裝史的學者指出，這件白色長裙是王后和她的裁縫羅絲．貝爾坦（Rose Bertin）一起設計、原本就是在小特里亞儂穿的（[[s-2024-pearce-creole]] PDF 第 1 頁）。\n\n替她畫像的是維傑．勒布倫（Élisabeth Vigée Le Brun），王后最喜歡的女畫家。她在晚年的回憶錄裡說，自己比較喜歡畫不穿盛裝、尤其不撐大裙架的王后。其中一幅畫裡，王后「戴著草帽，穿著白色平紋細布的裙子」；這幅畫在沙龍展出時，「壞心的人少不了要說，王后讓人把她畫成只穿著襯衣」（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信）。\n\n這件裙子為什麼讓人那麼不舒服？一方面，寬鬆、白色、薄紗的樣子，確實很像當時貼身穿的襯衣；另一方面，有研究者指出，這種平紋細布很可能是英國棉布，被認為冒犯了法國本土的絲綢業（[[s-2024-pearce-creole]] PDF 第 1 頁、註 2）。王后穿外國便宜布料，在批評者眼裡等於不顧國家產業。\n\n但醜聞沒有阻止流行。1784 年，巴黎的時尚版畫刊出根據這幅畫畫的裙子，把它命名為「王后式襯衣裙」（chemise à la reine），這個名字從此傳開（[[s-2024-pearce-creole]] PDF 第 1 頁、註 5）。同一年，英國的德文郡公爵夫人喬治安娜也穿上了這種裙子，據說還是王后親自送她的（[[s-2024-pearce-creole]] PDF 第 7 頁、註 26）。到 1790 年，德國的時尚雜誌已經在介紹英國的改良版（[[s-2024-pearce-creole]] PDF 第 6–7 頁）。\n\n這件裙子的源頭也很有意思。研究者認為，它最初是改編自法屬加勒比海殖民地白人女性的家常衣著：那裡天氣炎熱，女性日常穿一件寬鬆的極細平紋細布長袍，回到法國時也把這種穿法帶了回來。王后自己的衣櫥紀錄裡，就把它叫做「克里奧爾式長裙」（robe à la creole）（[[s-2024-pearce-creole]] PDF 第 2、5 頁）。\n\n## 研究者怎麼看\n\n- 服裝史研究者皮爾斯（Pearce）2024 年的研究主張，襯衣裙的源頭是法屬加勒比的殖民地服飾，並把它放回奴隸制與棉花貿易的脈絡裡看（[[s-2024-pearce-creole]]）。她也轉述其他研究者的推測：1779 年在巴黎上演、背景設在加勒比的芭蕾舞劇《米爾札》（*Mirza*），可能影響了王后（[[s-2024-pearce-creole]] PDF 第 5 頁）。\n- 「傷害法國絲綢業」的說法，目前本站只讀到研究者的一句概括，引用的原始研究還沒讀到，見「還不知道的事」。\n\n## 延伸閱讀\n\n- [[s-2024-pearce-creole]]\n- [[s-1835-vigee-le-brun-souvenirs]]\n\n## 還不知道的事\n\n- 維傑．勒布倫在回憶錄裡把展出年份寫成 1786 年，研究者一般說是 1783 年；本站還沒讀到 1783 年沙龍展的當時評論原文（例如《祕密回憶錄》*Mémoires secrets*），所以先不定論。\n- 「畫被撤下、改掛一幅穿絲綢禮服、拿玫瑰的版本」是常見的說法，本站還沒有讀到可靠出處。\n- 「傷害絲綢業」的原始研究（Ashmore 2012、Lubrich 2016）、Caroline Weber《時尚王后》（*Queen of Fashion*）、Kimberly Chrisman-Campbell《時尚受害者》（*Fashion Victims*）待讀。\n",
+   "links": [
+    "s-1835-vigee-le-brun-souvenirs",
+    "s-2024-pearce-creole",
+    "t-hameau"
+   ]
+  },
+  {
+   "id": "t-consummation",
+   "type": "topic",
+   "title": "七年沒有圓房：哥哥從維也納來「開導」",
+   "category": "生平",
+   "period": [
+    1770,
+    1778
+   ],
+   "summary": "全歐洲都在等一個王位繼承人，而國王夫婦七年多都沒有圓房。",
+   "sources": [
+    "s-1867-arneth-maria-theresia-joseph",
+    "s-1866-arneth-marie-antoinette",
+    "s-1874-arneth-mercy-correspondance",
+    "s-2006-stamberg-npr-fraser"
+   ],
+   "updated": "2026-11-15",
+   "body": "## 一句話說明\n\n1770 年結婚的兩個少年，七年多都沒有圓房；在王室，這不是私事，而是國際外交問題，最後連王后的哥哥、神聖羅馬帝國皇帝約瑟夫二世都親自來到凡爾賽。\n\n## 故事是這樣的\n\n結婚時，新娘十四歲，新郎只比她大一歲。傳記作家弗雷澤說，兩人過了七年半才圓房；她認為路易十六並不是不能生育，而是「心理上做不到」（本站譯）（[[s-2006-stamberg-npr-fraser]] 第 9–10 段）。對一位王后來說，生不出繼承人就等於沒有完成最重要的工作，這也讓她的處境一年比一年難堪。\n\n遠在維也納的母親瑪麗亞．特蕾莎一直透過駐法大使梅西（Mercy-Argenteau）的密報掌握女兒的一舉一動。但說到夫妻之間的事，梅西的態度是守口如瓶，他對女皇說，婚姻的私密是「神聖的祕密」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊）。\n\n1777 年春天，約瑟夫二世化名來到凡爾賽。他寫信給弟弟利奧波德，對妹妹的第一印象是：「王后是個漂亮的女人，但腦袋空空」，整天從一場娛樂趕往另一場（本站譯）（[[s-1867-arneth-maria-theresia-joseph]] 第 2 冊約 p. 131）。他也寫道，國王受的教育不夠、外表不討喜，卻是個正直的人，只是活在「持續的冷漠」裡（本站譯）（[[s-1867-arneth-maria-theresia-joseph]] 第 2 冊 p. 133）。\n\n約瑟夫看到的夫妻關係很微妙：王后「對國王毫無感覺」，又完全忽略他；但他也替妹妹說話，強調她「德行無虧」（本站譯）（[[s-1867-arneth-maria-theresia-joseph]] 第 2 冊 p. 134）。他說自己不停「說教」，妹妹聽了也同意，只是身邊的消遣太多，讓她做不到（[[s-1867-arneth-maria-theresia-joseph]] 第 2 冊 p. 134）。\n\n臨走前，約瑟夫給妹妹留下一份書面建議，談賭博、騎馬、宗教，還提到外界普遍認為她沒有孩子是因為騎馬（[[s-1866-arneth-marie-antoinette]] 約 p. 13）。離開法國後，他在信裡寫道，自己真的跟妹妹很親，分別讓他很難過；他形容國王「有點軟弱，但一點也不笨」（本站譯）（[[s-1867-arneth-maria-theresia-joseph]] 第 2 冊約 pp. 138–139）。\n\n（推論）照弗雷澤「七年半」的說法推算，兩人圓房大約是在約瑟夫來訪後不久。\n\n## 研究者怎麼看\n\n- 弗雷澤認為問題是心理上的，不是身體上的（[[s-2006-stamberg-npr-fraser]]）。\n- 流傳很廣的說法是：路易十六有包莖（phimosis），動了手術才解決。本站讀到的約瑟夫二世書信完全沒有提到身體問題或手術（[[s-1867-arneth-maria-theresia-joseph]]）。醫學史研究者對這個說法有不同看法，本站還沒讀到論文全文，所以暫不判定。\n\n## 延伸閱讀\n\n- [[s-1867-arneth-maria-theresia-joseph]]\n- [[s-1866-arneth-marie-antoinette]]\n- [[s-1874-arneth-mercy-correspondance]]\n- [[s-2006-stamberg-npr-fraser]]\n\n## 還不知道的事\n\n- 約瑟夫二世形容這對夫妻「像兩個笨手笨腳的人」的那封信，常被引用，但本站在已下載的書信集裡還沒找到原文，可能在 Arneth 另一套《約瑟夫二世與利奧波德通信集》裡。\n- 包莖手術說：Androutsos 2002 年的醫學史論文、Évelyne Lever、Simone Poignant 等人的看法，待讀。\n- 第一個孩子出生的日期與細節，需要用當時的書信核對；王后公開生產的場面見 [[t-coppola]]。\n",
+   "links": [
+    "s-1866-arneth-marie-antoinette",
+    "s-1867-arneth-maria-theresia-joseph",
+    "s-1874-arneth-mercy-correspondance",
+    "s-2006-stamberg-npr-fraser",
+    "t-coppola"
+   ]
+  },
+  {
+   "id": "t-coppola",
+   "type": "topic",
+   "title": "《凡爾賽拜金女》哪些是真的：從電影走進史料",
+   "category": "身後",
+   "period": [
+    1770,
+    2026
+   ],
+   "summary": "粉紅色的馬卡龍和那雙 Converse，背後各自有一段真正的歷史。",
+   "sources": [
+    "s-2006-stamberg-npr-fraser",
+    "s-2012-backman-rogers-threshold",
+    "s-2011-andersson-queen-fashion",
+    "s-2026-harvard-gazette-coppola",
+    "s-2026-versailles-coppola-exhibition"
+   ],
+   "updated": "2026-11-15",
+   "body": "## 一句話說明\n\n蘇菲亞．柯波拉 2006 年的電影改編自一本嚴肅的傳記，大部分在凡爾賽宮實景拍攝；它故意混進球鞋和搖滾樂，但很多看起來誇張的宮廷細節，其實都有史料根據。\n\n## 故事是這樣的\n\n電影的底本是英國傳記作家安東尼婭．弗雷澤（Antonia Fraser）的《瑪麗．安東尼：旅程》（*Marie Antoinette: The Journey*）。研究這部電影的學者指出，弗雷澤的傳記替王后翻了一部分案，而它關心的核心，是一個少女怎麼在陌生的宮廷裡長大（[[s-2012-backman-rogers-threshold]] pp. 80、82）。柯波拉自己也說，這是「一個女孩變成女人的故事」（本站譯）（[[s-2012-backman-rogers-threshold]] p. 81）。\n\n電影大部分在凡爾賽宮實景拍攝。凡爾賽宮說，這部片「在宮殿的當代歷史裡占有獨特的位置」，2026 年 9 月到 2027 年 1 月，還在小特里亞儂辦了電影二十週年展（[[s-2026-versailles-coppola-exhibition]]）。柯波拉說，片場的花是真的，在凡爾賽拍攝時點的蠟燭也是真的，「感謝老天，我們沒把窗簾燒起來！」（本站譯）（[[s-2026-harvard-gazette-coppola]] 第 4 段）\n\n那雙出現在甜點蒙太奇裡的淺藍色 Converse 球鞋，是刻意的時代錯置（[[s-2012-backman-rogers-threshold]] p. 94）。服裝設計師卡諾內羅（Milena Canonero）說，衣服的剪裁「完全正確」，配色和髮型才是她們的創作（[[s-2011-andersson-queen-fashion]] p. 110）。整部片的粉彩色調，靈感來自巴黎老店的杏仁馬卡龍，柯波拉稱之為「蛋糕和餅乾的感覺」（本站譯）（[[s-2011-andersson-queen-fashion]] p. 111）。這套服裝後來拿下 2007 年奧斯卡最佳服裝設計（[[s-2026-versailles-coppola-exhibition]]）。\n\n電影裡那些讓人尷尬的場面，很多是真的。早上更衣時，衣服要照女官的位階一件一件傳遞，弗雷澤形容王后就這樣「光著身子發抖」地等著（本站譯）（[[s-2006-stamberg-npr-fraser]] 第 16 段）。王后終於生產時，據說有兩百人圍在房裡看，目的是確認王位繼承人的血統（[[s-2006-stamberg-npr-fraser]] 第 18 段）。婚後七年半才圓房也是真的，弗雷澤認為路易十六不是不能生育，而是「心理上做不到」（[[s-2006-stamberg-npr-fraser]] 第 9–10 段；另見 [[t-consummation]]）。\n\n電影沒有演到革命，故事停在王室一家離開凡爾賽（[[s-2012-backman-rogers-threshold]] p. 81）。也有一些地方被壓縮了：瑪麗亞．特蕾莎 1768 年就開始促成這門婚事，但女兒到 1770 年才離開奧地利（[[s-2012-backman-rogers-threshold]] p. 96 註 3）。\n\n## 研究者怎麼看\n\n- 電影在坎城首映時評價兩極：《解放報》的評論批評它「空洞」，《電影筆記》的主編則欣賞它輕快的處理（[[s-2012-backman-rogers-threshold]] p. 80）。\n- 電影學者巴克曼．羅傑斯（Anna Backman Rogers）認為，那些時代錯置不是只有形式，而是在講一個少女的成年儀式（[[s-2012-backman-rogers-threshold]]）。\n- 弗雷澤在訪談裡說，「讓他們吃蛋糕」是個老掉牙的故事，會黏在王后身上，「是因為它證實了人們的偏見」；她也認為打亂法國預算的，是支持美國獨立戰爭（本站譯）（[[s-2006-stamberg-npr-fraser]] 第 4–5 段）。\n\n## 電影場景對照\n\n- 交接儀式、婚禮 → 本站故事待寫\n- 遲遲沒有圓房 → [[t-consummation]]\n- 甜點、蛋糕 → [[t-cake]]\n- 花錢如流水 → [[t-deficit]]\n- 小特里亞儂、農莊 → [[t-hameau]]\n- 白紗裙 → [[t-chemise]]\n- 費爾森 → [[t-fersen]]\n- 鑽石項鍊（電影沒演）→ [[t-necklace]]\n- 革命之後（電影沒演）→ [[t-varennes]]、[[t-white-hair]]\n\n## 延伸閱讀\n\n- [[s-2006-stamberg-npr-fraser]]\n- [[s-2012-backman-rogers-threshold]]\n- [[s-2011-andersson-queen-fashion]]\n- [[s-2026-harvard-gazette-coppola]]\n- [[s-2026-versailles-coppola-exhibition]]\n\n## 還不知道的事\n\n- 弗雷澤傳記本身還沒讀，電影和傳記之間的差異待補。\n- 「兩百人圍觀生產」目前只有廣播節目的轉述，需要用當時的紀錄核對。\n- 法國歷史學界對這部電影的評論（例如是否抗議它在凡爾賽拍攝）還沒找到。\n",
+   "links": [
+    "s-2006-stamberg-npr-fraser",
+    "s-2011-andersson-queen-fashion",
+    "s-2012-backman-rogers-threshold",
+    "s-2026-harvard-gazette-coppola",
+    "s-2026-versailles-coppola-exhibition",
+    "t-cake",
+    "t-chemise",
+    "t-consummation",
+    "t-deficit",
+    "t-fersen",
+    "t-hameau",
+    "t-necklace",
+    "t-varennes",
+    "t-white-hair"
+   ]
+  },
+  {
+   "id": "t-deficit",
+   "type": "topic",
+   "title": "赤字夫人：王后的衣櫥拖垮了法國嗎？",
+   "category": "迷思",
+   "period": [
+    1774,
+    1789
+   ],
+   "summary": "她確實愛美、帶動奢華風氣，但國家帳本上最大的洞在別處。",
+   "myth": "王后揮霍無度，一個人花光了法國的國庫，人稱「赤字夫人」。",
+   "verdict": "半真半假",
+   "sources": [
+    "s-1781-necker-compte-rendu",
+    "s-1823-campan-memoires",
+    "s-2006-stamberg-npr-fraser"
+   ],
+   "updated": "2026-11-15",
+   "body": "## 一句話說明\n\n王后帶動了昂貴的時尚，這是當時人都看得到的；但從國家帳目看，戰爭和借款的花費遠遠超過宮廷，把破產算在她一個人頭上，是一種方便的說法。\n\n## 迷思與史料\n\n1781 年，財政總監內克（Jacques Necker）公布了給國王的財政報告。在報告列出的支出項目裡，王后的家用並沒有單獨列出，而是和國王、國王的妹妹、姑姑們併成同一項；相比之下，戰爭的特別經費一年約 6,520 萬里弗爾（livres）（[[s-1781-necker-compte-rendu]] 約 pp. 80–84）。傳記作家弗雷澤也認為，真正打亂法國預算的是支持美國獨立戰爭（[[s-2006-stamberg-npr-fraser]] 第 5 段）。\n\n所以判定是「半真半假」：王后花錢、帶動奢華是真的；說她一個人拖垮國家財政，帳目上看不出來。不過，本站還沒讀到王后衣櫥的實際帳目，也還沒讀到財政史學者的研究，這個判定之後可能再修正。\n\n## 故事是這樣的\n\n年輕的王后很會穿。她的貼身女官康龐夫人回憶，宮廷裡的年輕女士都想立刻擁有跟王后一樣的裝扮、一樣的羽毛和花環；她們的開銷大增，母親和丈夫抱怨連連，有些人欠了債，還鬧出家庭糾紛，「大家都說王后會把法國的貴婦全都弄到破產」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 pp. 95–96）。髮型越堆越高，用上了紗、花和羽毛（[[s-1823-campan-memoires]] 第 1 冊 p. 96）。\n\n同一位康龐夫人卻堅決替王后辯護。她說，說王后揮霍「是世人對她的性格所犯的錯誤中，最不可思議的一個」，她甚至可以證明王后常常節省到小氣的地步；她還認為，這個罪名之所以傳遍歐洲，是有人想把國家財政的爛攤子全推給宮廷（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 110 及原註）。要記得，康龐夫人一輩子都是王后這邊的人。\n\n國家的帳本又怎麼說？1781 年，內克在公開的報告裡宣稱國家收入大於支出；但幾年後接任的卡隆（Calonne）卻發現了每年超過一億里弗爾的祕密赤字（[[s-1823-campan-memoires]] 第 3 冊附錄 p. 35）。內克的報告裡，最大的幾筆是戰爭特別經費、軍隊經費和借款利息（[[s-1781-necker-compte-rendu]] 約 pp. 80–84）。這段時間法國正在幫美國打獨立戰爭。\n\n（推論）偏偏就在這時，鑽石項鍊事件爆發了（見 [[t-necklace]]）。一條王后根本沒買的項鍊，加上一個「赤字」的年代，讓「王后＝浪費」變成了最好記的解釋。\n\n## 研究者怎麼看\n\n- 弗雷澤認為，法國預算失衡的主因是支持美國革命，而不是王后（[[s-2006-stamberg-npr-fraser]]）。\n- 康龐夫人的辯護是當事人一方的說法，可信度要打折扣（[[s-1823-campan-memoires]]）。\n- 財政史的研究（例如 Sargent 與 Velde 1995、Eugene White 1989）討論了法國舊制度的財政困境，本站還沒讀到全文，暫不轉述。\n\n## 延伸閱讀\n\n- [[s-1781-necker-compte-rendu]]\n- [[s-1823-campan-memoires]]\n- [[s-2006-stamberg-npr-fraser]]\n\n## 還不知道的事\n\n- 「赤字夫人」（Madame Déficit）這個綽號最早出現在哪一份小冊子、哪一年，還沒查到。\n- 王后的衣物、珠寶、小特里亞儂一年實際花多少、占王室或國家支出多少，需要讀王室帳目或研究專書。網路上流傳的數字（例如「衣服一年 12 萬里弗爾」）沒有可靠出處，本站不採用。\n- 內克報告中王室合併那一項的金額，掃描辨識不清，待核對完整版。\n",
+   "links": [
+    "s-1781-necker-compte-rendu",
+    "s-1823-campan-memoires",
+    "s-2006-stamberg-npr-fraser",
+    "t-necklace"
+   ]
+  },
+  {
+   "id": "t-fersen",
+   "type": "topic",
+   "title": "費爾森：塗黑的信裡寫了什麼",
+   "category": "人物",
+   "period": [
+    1791,
+    2021
+   ],
+   "summary": "兩百多年後，X 光讀出了被塗黑的字，但答案還是兩種讀法。",
+   "myth": "瑞典伯爵費爾森是王后的祕密情人。",
+   "verdict": "研究者還在吵",
+   "sources": [
+    "s-2021-michelin-xrf",
+    "s-1877-klinckowstrom-fersen",
+    "s-2021-archives-nationales-xray"
+   ],
+   "updated": "2026-11-15",
+   "body": "## 一句話說明\n\n王后和瑞典伯爵費爾森（Axel von Fersen）在革命期間的密信裡，有好幾段被人用墨水塗黑；2021 年科學家讀出了一部分，但讀出來的字，仍然可以有不同的解釋。\n\n## 迷思與史料\n\n兩人之間有大量密信是確定的：1791 年 6 月到 1792 年 8 月，王室一家被困在巴黎杜樂麗宮（Tuileries）時，王后和人在國外的費爾森一直用密信聯絡，費爾森還保留了自己寄出信件的草稿（[[s-2021-michelin-xrf]] 引言）。費爾森在 1791 年秋天起待在布魯塞爾，是王后和歐洲各國君主之間的中間人（[[s-1877-klinckowstrom-fersen]] 序言 p. VII）。\n\n問題出在那些被塗黑的段落。法國國家檔案館說，這批信「主要是政治性的」，但被塗黑的部分「常常帶有私密性質」（本站譯）（[[s-2021-archives-nationales-xray]]）。讀出來的句子裡有「沒有你可不行」、「你，我愛的人，也將愛到我……」（句子到這裡中斷）（本站譯）（[[s-2021-michelin-xrf]] 圖 1、圖 4 說明）。這些字很深情，但 18 世紀書信的客套語本來就很熱烈，光憑這幾句，無法斷定兩人的關係是愛情、深厚的友情，還是政治上的同盟。所以判定是「研究者還在吵」。\n\n## 故事是這樣的\n\n1877 年，費爾森的後代出版了他留下的文件。當時的編者在一封信下面加了一個註腳：「這八行在解讀出的底稿中已被抹去。」（本站譯）（[[s-1877-klinckowstrom-fersen]] p. 193 註 8）從那時起，讀者就一直好奇：被抹掉的到底是什麼？國家機密、逃亡計畫，還是戀愛的證據？研究團隊說，這個問題困擾了歷史學家將近 150 年（[[s-2021-michelin-xrf]] 引言）。\n\n1982 年，法國國家檔案館從費爾森家族買下一部分信件（[[s-2021-michelin-xrf]] 引言）。後來，法國一個文物保存研究團隊花了三年，用 X 射線螢光光譜掃描這些信（[[s-2021-archives-nationales-xray]]）。原理是：寫字的墨水和塗黑用的墨水，所含的金屬元素比例不同。只要找到某種元素（例如銅）在原字裡多、在塗黑墨水裡少，就能像透視一樣，把底下的字「照」出來（[[s-2021-michelin-xrf]] 結果一節、圖 1）。\n\n最後，他們讀出了八封信裡被塗黑的內容（[[s-2021-michelin-xrf]] 摘要）。其中一封署名王后、寫於 1792 年 1 月 4 日的信，塗黑底下是「non pas sans vous」（沒有你可不行）；另一封 1791 年 12 月 7 日的信，讀出「vous que j'aime et aimeroi jusqu'a mon」（你，我愛的人，也將愛到我……），句子停在這裡（[[s-2021-michelin-xrf]] 圖 1、圖 4 說明）。\n\n那麼，是誰塗黑的？研究團隊比對墨水成分，發現塗黑用的墨水，和費爾森在信上親手補寫的字是同一種。他們還發現一處改寫：原本的「28 日的信讓我好幸福」被改成「28 日的信收到了」（本站譯）。團隊推測，塗黑和改寫的人很可能就是費爾森本人，他選擇保留這些信、卻把某些句子遮起來，也許是想保護王后的名譽，也可能是保護他自己（[[s-2021-michelin-xrf]] 結論一節）。研究者也說明，這是一個還需要驗證的假設。\n\n## 研究者怎麼看\n\n- 研究團隊米舍蘭（Anne Michelin）等人認為，讀出的內容為兩人的關係「帶來新的光」，但他們在論文裡沒有下「是不是戀人」的結論（[[s-2021-michelin-xrf]]）。\n- 法國國家檔案館的說明採取同樣謹慎的說法：信件主要談政治，塗黑的部分常帶私密性質（[[s-2021-archives-nationales-xray]]）。\n- 傳記作家之間的看法差別很大，有人認為兩人是戀人，有人認為證據不足；本站還沒有讀到這些傳記的原文，暫不轉述，見「還不知道的事」。\n\n## 延伸閱讀\n\n- [[s-2021-michelin-xrf]]\n- [[s-2021-archives-nationales-xray]]\n- [[s-1877-klinckowstrom-fersen]]\n\n## 還不知道的事\n\n- 傳記作家的立場：Évelyne Lever、Antonia Fraser、Evelyn Farr 等人怎麼看這段關係，需要讀原書（台大資料庫）。\n- 媒體說研究讀了 15 封信，論文摘要說八封，差異的原因還沒查清。\n- 費爾森和王后最早是什麼時候認識的、他在凡爾賽待了多久，本站還沒有讀到可靠出處。\n- 費爾森如何參與 1791 年的逃亡，見 [[t-varennes]]。\n",
+   "links": [
+    "s-1877-klinckowstrom-fersen",
+    "s-2021-archives-nationales-xray",
+    "s-2021-michelin-xrf",
+    "t-varennes"
+   ]
+  },
+  {
+   "id": "t-hameau",
+   "type": "topic",
+   "title": "王后的農莊：她真的擠過牛奶嗎？",
+   "category": "宮廷",
+   "period": [
+    1774,
+    1788
+   ],
+   "summary": "小特里亞儂旁邊有座真正運作的農場，但「王后扮農婦」找不到證據。",
+   "myth": "王后在凡爾賽蓋了一座假農村，穿上圍裙扮農婦、親手擠牛奶。",
+   "verdict": "半真半假",
+   "sources": [
+    "s-2016-versailles-queens-hamlet",
+    "s-2025-dati-culture-sevres-rambouillet",
+    "s-1823-campan-memoires",
+    "s-2016-maes-laiterie-rambouillet"
+   ],
+   "updated": "2026-11-15",
+   "body": "## 一句話說明\n\n農莊和乳品室都是真的，但它是真正在運作的農場，王后在那裡散步、招待朋友；「她穿圍裙擠牛奶」這個畫面，目前找不到當時的證據。\n\n## 迷思與史料\n\n凡爾賽宮的官方介紹寫得很直接：「和瑪麗．安東尼根深柢固的大眾形象相反，王后和她的隨從並沒有在這片田園風光裡『扮演農夫』。」王后其實是把農莊當作散步、舉辦小型聚會的地方（本站譯）（[[s-2016-versailles-queens-hamlet]]）。\n\n但農莊本身不是布景。官網說，農莊同時是一座正常運作的農場，這是王后堅持的；橋的另一邊就是真正用來務農的建築（[[s-2016-versailles-queens-hamlet]]）。另外，路易十六確實替她在朗布依埃（Rambouillet）蓋了一座乳品室（[[s-2025-dati-culture-sevres-rambouillet]]）。所以判定是「半真半假」：農場、牛奶、乳品室都有，王后親手擠奶這件事沒有證據。\n\n## 故事是這樣的\n\n一切從一份禮物開始。路易十六即位後，把凡爾賽宮花園裡的小特里亞儂（Petit Trianon）送給了王后。這座小宮殿原本是路易十五建的，他就是在這裡染上天花去世的（[[s-1823-campan-memoires]] 第 1 冊 p. 110 及原註）。\n\n王后的貼身女官康龐夫人說，王后只整理花園，房子幾乎不准加蓋，傢俱也不換：到 1789 年都還是路易十五時代的舊東西，王后睡的床又舊又褪色，甚至是以前杜巴利夫人用過的（[[s-1823-campan-memoires]] 第 1 冊 p. 110）。宮廷裡還流傳她把小特里亞儂改名為「小維也納」，康龐夫人說那是謠言（[[s-1823-campan-memoires]] 第 1 冊 pp. 110–111）。要記得，康龐夫人一向站在王后這邊。\n\n1783 年夏天，王后請建築師米克（Richard Mique）把花園往北擴建，蓋一整座模範村莊，1786 年完工。它有農舍、磨坊，也有馬廄、牛舍、羊欄和雞舍。拿破崙時代整修時，最破舊的建築被拆掉了，其中就包括穀倉和真正在用的乳品室（[[s-2016-versailles-queens-hamlet]]）。\n\n另一座常被搞混的乳品室在朗布依埃。法國文化部的資料說，它是路易十六為王后要求蓋的；1787 到 1788 年間，塞弗爾瓷器廠為它送來 65 件瓷器，在畫家于貝爾．羅貝爾（Hubert Robert）指導下設計，器形參考古代陶器（[[s-2025-dati-culture-sevres-rambouillet]]）。其中最有名的是「乳房碗」（bol sein），塞弗爾到今天還在生產（[[s-2025-dati-culture-sevres-rambouillet]]）。\n\n## 研究者怎麼看\n\n- 凡爾賽宮的研究立場是：農莊是功能完整的農場，王后在那裡休息、社交，並沒有扮農夫（[[s-2016-versailles-queens-hamlet]]）。\n- 研究朗布依埃乳品室的專書，把它稱為「一座為王后的愉悅而建的田園神殿」（本站譯）（[[s-2016-maes-laiterie-rambouillet]]）。本站只讀到這本書的書目與簡介。\n- （推論）「乳房碗是照王后的胸部做的」流傳很廣，但本站讀到的官方資料只說器形參考古代陶器，沒有提到王后。\n\n## 延伸閱讀\n\n- [[s-2016-versailles-queens-hamlet]]\n- [[s-2025-dati-culture-sevres-rambouillet]]\n- [[s-1823-campan-memoires]]\n- [[s-2016-maes-laiterie-rambouillet]]\n\n## 還不知道的事\n\n- 「王后扮農婦」的形象最早從哪裡來：是當時的誹謗小冊子、19 世紀的小說，還是電影？還沒查到。\n- 美術史家 Meredith Martin《乳品室的王后們》（*Dairy Queens*, 2011）討論了貴族女性的乳品室風潮，本站還沒讀到。\n- 農莊裡實際務農的人是誰，官網沒有寫，需要再找檔案。\n- 王后在小特里亞儂穿的衣服，見 [[t-chemise]]。\n",
+   "links": [
+    "s-1823-campan-memoires",
+    "s-2016-maes-laiterie-rambouillet",
+    "s-2016-versailles-queens-hamlet",
+    "s-2025-dati-culture-sevres-rambouillet",
+    "t-chemise"
+   ]
+  },
+  {
+   "id": "t-necklace",
+   "type": "topic",
+   "title": "鑽石項鍊事件：被騙的人輸掉了名聲",
+   "category": "迷思",
+   "period": [
+    1784,
+    1789
+   ],
+   "summary": "一條她沒買、沒戴過的項鍊，卻讓全法國相信她是共犯。",
+   "myth": "王后貪圖一條天價鑽石項鍊，跟樞機主教串通騙珠寶商。",
+   "verdict": "半真半假",
+   "sources": [
+    "s-1881-vizetelly-diamond-necklace",
+    "s-1789-la-motte-justification"
+   ],
+   "updated": "2026-11-15",
+   "body": "## 一句話說明\n\n項鍊、詐騙、假扮王后的女人都是真的；但法院判決裡，王后不是被告，而是被冒用名字的人。只是她贏了官司，卻輸了名聲。\n\n## 迷思與史料\n\n1786 年 5 月 31 日巴黎高等法院的判決裡，被告是一位樞機主教、一位自稱出身王族的伯爵夫人、她的丈夫和同夥，王后不在其中。判決宣告合約上王后的批准字樣和簽名是偽造的，羅昂樞機主教被判無罪，主謀拉莫特伯爵夫人被鞭打、烙印、終身監禁（[[s-1881-vizetelly-diamond-necklace]] pp. 267–272）。\n\n說王后有參與的，主要是拉莫特夫人本人：她逃到倫敦後出版回憶錄，聲稱自己早就是王后的心腹。但這本回憶錄在判決中就被下令查禁、認定為虛假誹謗，而且她對項鍊從哪來的說法前後矛盾：先說是丈夫繼承的，後說是替樞機主教賣的，最後又說是王后給她的酬勞（[[s-1789-la-motte-justification]]；[[s-1881-vizetelly-diamond-necklace]] pp. 271、373–374）。所以判定是「半真半假」：事件確有其事，但「王后是共犯」的那一半，沒有任何證據。\n\n## 故事是這樣的\n\n故事的主角之一是一條巨大的鑽石項鍊，由宮廷珠寶商柏默（Böhmer）和巴桑熱（Bassenge）打造，價格是 160 萬里弗爾（livres，當時的貨幣），分四期付款，每半年付 40 萬（[[s-1881-vizetelly-diamond-necklace]] pp. 110–111）。王后先前已經拒絕過這條項鍊。\n\n另一個主角是羅昂樞機主教（Cardinal de Rohan）。他出身顯赫，卻被王后冷落多年，一心想討回她的歡心。拉莫特伯爵夫人（Jeanne de La Motte）看準了這一點，自稱是王后的密友，替兩人「傳信」，其實信全是她的同夥偽造的（[[s-1881-vizetelly-diamond-necklace]]）。\n\n1784 年 8 月 11 日夜裡，凡爾賽宮的花園上演了整個騙局最戲劇化的一幕。一個長得像王后的年輕女子歐莉瓦（Nicole d'Oliva）被帶進花園，手裡拿著一朵玫瑰。她後來在法庭上說，拉莫特夫人交代她：把玫瑰交給來的那位先生，說一句「你知道這是什麼意思」，王后就在不遠處看著。她緊張到只做完一半，信也忘了交，拉莫特夫人就跑過來低聲催她「快走、快走」（[[s-1881-vizetelly-diamond-necklace]] pp. 85–86、128）。樞機主教卻相信自己見到了王后，還把那朵玫瑰貼在胸口。\n\n騙局的破綻其實就在簽名上。偽造的合約署名「Marie-Antoinette de France」（法蘭西的瑪麗．安東尼），但王后只簽自己的教名。事發後路易十六把那封信拿給樞機主教看，說：「一位羅昂家的王子、法國的大施賑官，怎麼會以為王后會簽『法蘭西的瑪麗．安東尼』？大家都知道王后只簽教名。」（本站譯）（[[s-1881-vizetelly-diamond-necklace]] pp. 113、172）\n\n1785 年 8 月 15 日聖母升天節，也是王后的命名日，中午，樞機主教穿著祭衣在宮裡等著主持彌撒，結果當場被帶走（[[s-1881-vizetelly-diamond-necklace]] p. 170）。隔年判決出來，樞機主教被判無罪，巴黎群眾在法院外高喊「樞機主教萬歲！」（[[s-1881-vizetelly-diamond-necklace]] pp. 271–272）。在很多人眼裡，被判無罪的樞機主教成了受害者，而王后反倒像是那個設局的人。\n\n## 研究者怎麼看\n\n- 19 世紀的研究者維澤特利（Henry Vizetelly）逐點比對審判文書與拉莫特的說法，結論是「沒有一絲對王后不利的證據，不論真假」（本站譯）；他也指出，當時宮廷中人的回憶錄沒有一本說過拉莫特出現在王后身邊（[[s-1881-vizetelly-diamond-necklace]] p. 373）。這是作者的推論，不是新證據。\n- （推論）現代研究多半把重點放在這場官司如何影響輿論，而不是王后有沒有罪；這部分本站還沒讀到原書，見「還不知道的事」。\n\n## 延伸閱讀\n\n- [[s-1881-vizetelly-diamond-necklace]]\n- [[s-1789-la-motte-justification]]\n\n## 還不知道的事\n\n- 現代研究：Sarah Maza《私生活與公共事務》（*Private Lives and Public Affairs*, 1993）第 4 章、Jonathan Beckman《如何毀掉一位王后》（*How to Ruin a Queen*, 2014），都還沒讀到原文。\n- 珠寶商柏默與巴桑熱 1786 年的申訴書、拉莫特 1786 年的辯護狀等審判文書原件，還沒找到可讀全文。\n- 那條項鍊後來怎麼了（據說被拆散賣掉），本站還沒有讀到可靠出處。\n",
+   "links": [
+    "s-1789-la-motte-justification",
+    "s-1881-vizetelly-diamond-necklace"
+   ]
+  },
+  {
+   "id": "t-varennes",
+   "type": "topic",
+   "title": "瓦雷納：差一點就逃出去的那一夜",
+   "category": "革命",
+   "period": [
+    1791,
+    1791
+   ],
+   "summary": "一輛遲到一個半小時的馬車，和一張鈔票上的國王頭像。",
+   "myth": "國王在逃亡途中貪吃，停下來吃飯才被追上。",
+   "verdict": "半真半假",
+   "sources": [
+    "s-1883-tourzel-memoires",
+    "s-1887-drouet-barre",
+    "s-1887-ap-varennes-reward",
+    "s-2003-tackett-king",
+    "s-2005-ozouf-varennes"
+   ],
+   "updated": "2026-11-15",
+   "body": "## 一句話說明\n\n1791 年 6 月，國王一家喬裝逃離巴黎，在距離邊境不遠的小鎮瓦雷納（Varennes）被攔下；他們不是因為停下來吃飯而被追上，而是一路上的小延誤累積成一個半小時，又被驛站長認出了臉。\n\n## 迷思與史料\n\n和國王一家同車逃亡的王室子女家庭教師圖澤爾夫人（Madame de Tourzel）在回憶錄裡特別澄清：「有人說國王停下來吃晚餐，這說法完全錯誤。他只在車上吃東西」，一路上「哪裡都沒有停」，國王只下過一次車（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊 p. 310）。\n\n不過，被押回巴黎的路上，他們確實在聖默努爾德（Sainte-Menehould）停下來吃了一頓飯（[[s-1883-tourzel-memoires]] 第 1 冊 p. 328）。所以判定是「半真半假」：吃飯這件事真的有，只是發生在回程，而且跟被抓無關。要注意的是，圖澤爾夫人是當事人、也是王室的忠實僕人，回憶錄在她死後才出版。\n\n## 故事是這樣的\n\n計畫是 6 月 20 日深夜出發。圖澤爾夫人帶著孩子先出宮，等了很久，國王過了午夜才到：他得先照平常的就寢儀式上床，再起來換一套衣服、戴上假髮喬裝，從杜樂麗宮走路出來（[[s-1883-tourzel-memoires]] 第 1 冊 p. 307）。等在外面的，是一輛像出租馬車的舊車，駕車的是扮成車夫的瑞典伯爵費爾森（見 [[t-fersen]]）。他把國王一家送到巴黎東郊的克萊（Claye），一行人在那裡換乘驛馬車繼續往東走（[[s-1883-tourzel-memoires]] 第 1 冊 pp. 307、310）。\n\n延誤從一開始就在累積。圖澤爾夫人一筆一筆記下來：費爾森繞了遠路，多花半小時；國王的就寢儀式拖了四十五分鐘；路上遇到婚禮的人群；後來馬車翻倒、套具斷裂，修了一個多小時。加起來，他們比預定時間晚了一個半小時（[[s-1883-tourzel-memoires]] 第 1 冊 pp. 309–310）。沿路約好接應的部隊等不到人，以為計畫取消，有的撤走了，指揮官舒瓦瑟爾公爵甚至慌了手腳，派王后的髮型師去通知其他部隊（[[s-1883-tourzel-memoires]] 第 1 冊 p. 313）。\n\n6 月 21 日傍晚，馬車經過聖默努爾德換馬。驛站長德魯埃（Jean-Baptiste Drouet）後來在國民議會上說，他覺得車裡的女士像王后，又發現車裡那位先生的臉，和五十里弗爾指券（assignat，當時的紙鈔）上印的國王頭像很像；他怕是自己弄錯、引起虛驚，猶豫之後才和同伴騎馬抄小路去追（[[s-1887-drouet-barre]] p. 508）。圖澤爾夫人的版本也說，德魯埃是拿口袋裡的指券來比對國王的臉（[[s-1883-tourzel-memoires]] 第 1 冊 p. 316）。\n\n德魯埃搶先趕到瓦雷納，在橋上翻倒一輛貨車擋路，叫醒鎮上的人。晚上十一點半，馬車被持槍的居民攔下（[[s-1883-tourzel-memoires]] 第 1 冊 p. 318）。國王一家在瓦雷納熬過了「八個鐘頭要命的等待」（本站譯），國民議會派來的專員趕到後，下令把他們帶回巴黎（[[s-1883-tourzel-memoires]] 第 1 冊 pp. 323、325）。6 月 25 日，他們從莫城（Meaux）出發，回到巴黎（[[s-1883-tourzel-memoires]] 第 1 冊 p. 340）。同年 8 月 18 日，國民議會通過法令，獎賞德魯埃和其他攔下國王的人（[[s-1887-ap-varennes-reward]]）。\n\n## 研究者怎麼看\n\n- 美國歷史學家塔克特（Timothy Tackett）的《國王逃亡之時》（*When the King Took Flight*, 2003）和法國歷史學家奧祖夫（Mona Ozouf）的《瓦雷納：王權之死》（*Varennes*, 2005）都把這次逃亡視為革命的轉捩點：國王出逃之後，許多法國人不再信任他（[[s-2003-tackett-king]]；[[s-2005-ozouf-varennes]]）。本站目前只讀到這兩本書的書目資訊，還沒讀到內文。\n- 德魯埃的陳述是在議會上爭取功勞時說的，他有領賞的利害關係；圖澤爾夫人則是王室這一邊的人。兩人各自的立場，都可能影響細節（[[s-1887-drouet-barre]]；[[s-1883-tourzel-memoires]]）。\n\n## 延伸閱讀\n\n- [[s-1883-tourzel-memoires]]\n- [[s-1887-drouet-barre]]\n- [[s-1887-ap-varennes-reward]]\n- [[s-2003-tackett-king]]\n- [[s-2005-ozouf-varennes]]\n\n## 還不知道的事\n\n- 常見說法是費爾森把馬車駕到邦迪（Bondy），圖澤爾夫人寫的是克萊（Claye），本站還沒用其他資料核對。\n- 那輛大型豪華馬車（berline）的細節、逃亡路線圖，需要讀 Tackett 或 Ozouf 的原書。\n- 回程有人在路上開槍打死一位向國王致意的貴族丹皮耶爾伯爵（[[s-1883-tourzel-memoires]] 第 1 冊 p. 327），細節待補。\n- 王后在這次逃亡後頭髮變白的說法，見 [[t-white-hair]]。\n",
+   "links": [
+    "s-1883-tourzel-memoires",
+    "s-1887-ap-varennes-reward",
+    "s-1887-drouet-barre",
+    "s-2003-tackett-king",
+    "s-2005-ozouf-varennes",
+    "t-fersen",
+    "t-white-hair"
+   ]
+  },
+  {
+   "id": "t-white-hair",
+   "type": "topic",
+   "title": "一夜白頭：瑪麗．安東尼症候群",
+   "category": "迷思",
+   "period": [
+    1791,
+    2013
+   ],
+   "summary": "她的頭髮真的一夜變白了嗎？醫生為這件事爭論了一百多年。",
+   "myth": "王后在上斷頭台前一夜，頭髮全白了。",
+   "verdict": "半真半假",
+   "sources": [
+    "s-1823-campan-memoires",
+    "s-2009-navarini-marie-antoinette",
+    "s-2013-nahm-canities-subita",
+    "s-2008-skellett-sudden-whitening"
+   ],
+   "updated": "2026-11-15",
+   "body": "## 一句話說明\n\n王后在革命期間頭髮迅速變白，貼身女官留下了第一手描述；但「一夜」是當時人的說法，而且發生的時間點不是上斷頭台前夕，現代醫學也懷疑頭髮真的能在一夜之間變白。\n\n## 迷思與史料\n\n最直接的證詞來自王后的貼身女官康龐夫人（Madame Campan）。她的回憶錄在 1823 年、事件過後三十多年才出版，書裡說，瓦雷納逃亡失敗、王室被押回巴黎之後，她第一次再見到王后，王后摘下睡帽，讓她看悲傷對頭髮造成的結果：「只在一夜之間，就變得像七十歲老婦人那樣白。」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 pp. 150–151）也就是說，這件事發生在 1791 年夏天，不是兩年後上斷頭台的前一夜。\n\n「斷頭台前一夜」這個版本流傳更廣，連醫學期刊介紹這個症狀時，也照這個版本寫（[[s-2009-navarini-marie-antoinette]]）。所以判定是「半真半假」：她的頭髮在革命期間變白有可信的目擊證詞，但時間點被搬到了更戲劇化的那一夜，「一夜」本身也只是康龐夫人轉述的說法。\n\n## 故事是這樣的\n\n1791 年 6 月，王室一家逃往邊境，在瓦雷納被攔下押回巴黎（見 [[t-varennes]]）。之後，杜樂麗宮裡的監視變得令人難堪。康龐夫人回到王后身邊時，王后剛起床，臉色並沒有太大改變；說了幾句溫和的話之後，她把睡帽拿下來（[[s-1823-campan-memoires]] 第 2 冊 pp. 150–151）。\n\n康龐夫人接著寫了一個常被忽略的細節：王后給她看一枚剛做好、要送給好友朗巴勒親王妃（princesse de Lamballe）的戒指，裡面嵌著一束她自己的白髮，刻著一句話：「被不幸染白」（blanchis par le malheur）（[[s-1823-campan-memoires]] 第 2 冊 pp. 150–151）。在康龐夫人的敘述裡，白髮不只是外貌的變化，王后自己也把它當成紀念。\n\n後來的醫學界借用了她的名字。頭髮在極短時間內變白的現象，醫學上叫 canities subita（突發性白髮），俗稱「瑪麗．安東尼症候群」（[[s-2009-navarini-marie-antoinette]]）。有一篇論文整理了醫學文獻裡 196 篇相關報告，發現其中只有 44 篇算得上有可靠的記錄，82 篇無法驗證，37 篇只是軼事（[[s-2013-nahm-canities-subita]] 引言）。\n\n醫生最大的疑問是：頭髮是死的組織，已經長出來的頭髮不會在一夜之間褪色。目前最常見的解釋是一種斑禿（自體免疫造成的掉髮）：它會優先讓有顏色的頭髮掉落，原本混在裡面的白髮留下來，看起來就像「突然全白」（[[s-2009-navarini-marie-antoinette]] 摘要）。但同一篇大型回顧也指出，斑禿只能解釋可靠個案中的一小部分，44 篇裡只有 6 篇符合（[[s-2013-nahm-canities-subita]] 討論）。\n\n## 研究者怎麼看\n\n- 皮膚科醫師納瓦里尼（Alexander Navarini）等人認為，「一夜白頭」最可能是斑禿急性發作，讓有色頭髮選擇性脫落（[[s-2009-navarini-marie-antoinette]]）。\n- 納姆（Michael Nahm）等人整理了 196 篇報告後認為，現有證據還不足以下定論，斑禿無法解釋大部分個案，這個現象值得重新研究（[[s-2013-nahm-canities-subita]]）。\n- 斯凱利特（Skellett）等人 2008 年的論文標題就用問號，稱突然白髮是「歷史的虛構？」（本站譯）（[[s-2008-skellett-sudden-whitening]]）；本站還沒讀到全文。\n- （推論）歷史這一邊的關鍵證人只有康龐夫人，而且她的回憶錄是在事件過後三十多年才出版的。\n\n## 延伸閱讀\n\n- [[s-1823-campan-memoires]]\n- [[s-2009-navarini-marie-antoinette]]\n- [[s-2013-nahm-canities-subita]]\n- [[s-2008-skellett-sudden-whitening]]\n\n## 還不知道的事\n\n- 「斷頭台前一夜」的版本最早出現在哪裡，還沒查到。\n- 除了康龐夫人，有沒有其他目擊者（例如畫像、其他侍從的回憶）記錄她 1791–1793 年間的髮色。\n- 三篇醫學論文目前只讀到摘要，全文待補。\n- 朗巴勒親王妃的故事待寫（本站故事清單第 32 號）。\n",
+   "links": [
+    "s-1823-campan-memoires",
+    "s-2008-skellett-sudden-whitening",
+    "s-2009-navarini-marie-antoinette",
+    "s-2013-nahm-canities-subita",
+    "t-varennes"
+   ]
+  },
   {
    "id": "overview",
    "type": "overview",
    "title": "總論",
-   "body": "這裡寫整個主題「目前的理解」：瑪麗．安東尼與路易十六是什麼樣的人、哪些流傳的說法已被史料推翻、研究者在哪些問題上還有分歧。每次 ingest 之後檢查要不要改。\n\n（第一批故事完成後撰寫。）\n",
-   "links": []
+   "body": "目前的第一批 10 個故事，讀下來最大的發現是：關於瑪麗．安東尼最有名的幾件事，大多不是憑空捏造，而是**真實的事件被移花接木**。\n\n- **時間被搬動**：她的頭髮確實在革命期間變白，但貼身女官說的是 1791 年瓦雷納逃亡之後，不是上斷頭台前一夜（[[t-white-hair]]）。\n- **別人的話安到她頭上**：「讓他們吃蛋糕」在她嫁到法國前就有人寫下，到她死後五十年才和她的名字連在一起（[[t-cake]]）。\n- **受害者被當成共犯**：鑽石項鍊案裡，她是被冒用簽名的人，判決沒有指控她，但輿論把帳算在她頭上（[[t-necklace]]）。\n- **規模被放大**：她愛美、帶動奢華風氣是真的，但國家帳本上最大的洞是戰爭與借款（[[t-deficit]]）；她的農莊是真正運作的農場，「扮農婦擠奶」則找不到證據（[[t-hameau]]）。\n- **至今沒有定論**：她和費爾森的關係，連 2021 年用 X 光讀出塗黑的字之後，仍然有不同讀法（[[t-fersen]]）。\n\n史料的性質也要記得：本站很多細節來自**當事人的回憶錄**，例如康龐夫人、圖澤爾夫人、維傑．勒布倫，她們都是王后身邊的人，回憶錄在事件過後多年才出版；而指控王后的，則常常是**有自己利害的人**，例如拉莫特夫人。所以本站每一句話都標出是誰說的。\n\n下一步要補的是學術研究：Antonia Fraser、Évelyne Lever、Chantal Thomas 的傳記與研究，以及財政史、服裝史的專書。\n",
+   "links": [
+    "t-cake",
+    "t-deficit",
+    "t-fersen",
+    "t-hameau",
+    "t-necklace",
+    "t-white-hair"
+   ]
   }
  ],
- "edges": [],
+ "edges": [
+  [
+   "s-1781-necker-compte-rendu",
+   "t-deficit"
+  ],
+  [
+   "s-1782-rousseau-confessions",
+   "t-cake"
+  ],
+  [
+   "s-1789-la-motte-justification",
+   "t-necklace"
+  ],
+  [
+   "s-1823-campan-memoires",
+   "t-chemise"
+  ],
+  [
+   "s-1823-campan-memoires",
+   "t-consummation"
+  ],
+  [
+   "s-1823-campan-memoires",
+   "t-deficit"
+  ],
+  [
+   "s-1823-campan-memoires",
+   "t-fersen"
+  ],
+  [
+   "s-1823-campan-memoires",
+   "t-hameau"
+  ],
+  [
+   "s-1823-campan-memoires",
+   "t-necklace"
+  ],
+  [
+   "s-1823-campan-memoires",
+   "t-varennes"
+  ],
+  [
+   "s-1823-campan-memoires",
+   "t-white-hair"
+  ],
+  [
+   "s-1835-vigee-le-brun-souvenirs",
+   "t-chemise"
+  ],
+  [
+   "s-1835-vigee-le-brun-souvenirs",
+   "t-hameau"
+  ],
+  [
+   "s-1835-vigee-le-brun-souvenirs",
+   "t-varennes"
+  ],
+  [
+   "s-1866-arneth-marie-antoinette",
+   "t-consummation"
+  ],
+  [
+   "s-1867-arneth-maria-theresia-joseph",
+   "t-consummation"
+  ],
+  [
+   "s-1874-arneth-mercy-correspondance",
+   "t-consummation"
+  ],
+  [
+   "s-1874-arneth-mercy-correspondance",
+   "t-deficit"
+  ],
+  [
+   "s-1874-arneth-mercy-correspondance",
+   "t-hameau"
+  ],
+  [
+   "s-1877-klinckowstrom-fersen",
+   "s-2021-michelin-xrf"
+  ],
+  [
+   "s-1877-klinckowstrom-fersen",
+   "t-fersen"
+  ],
+  [
+   "s-1881-vizetelly-diamond-necklace",
+   "t-necklace"
+  ],
+  [
+   "s-1883-tourzel-memoires",
+   "t-varennes"
+  ],
+  [
+   "s-1887-ap-varennes-reward",
+   "t-varennes"
+  ],
+  [
+   "s-1887-drouet-barre",
+   "t-varennes"
+  ],
+  [
+   "s-2002-campion-vincent-marie-antoinette",
+   "t-cake"
+  ],
+  [
+   "s-2003-tackett-king",
+   "t-varennes"
+  ],
+  [
+   "s-2005-ozouf-varennes",
+   "t-varennes"
+  ],
+  [
+   "s-2006-stamberg-npr-fraser",
+   "t-coppola"
+  ],
+  [
+   "s-2008-skellett-sudden-whitening",
+   "t-white-hair"
+  ],
+  [
+   "s-2009-navarini-marie-antoinette",
+   "t-white-hair"
+  ],
+  [
+   "s-2011-andersson-queen-fashion",
+   "t-coppola"
+  ],
+  [
+   "s-2012-backman-rogers-threshold",
+   "t-coppola"
+  ],
+  [
+   "s-2013-nahm-canities-subita",
+   "t-white-hair"
+  ],
+  [
+   "s-2016-maes-laiterie-rambouillet",
+   "s-2025-dati-culture-sevres-rambouillet"
+  ],
+  [
+   "s-2016-maes-laiterie-rambouillet",
+   "t-hameau"
+  ],
+  [
+   "s-2016-versailles-queens-hamlet",
+   "t-hameau"
+  ],
+  [
+   "s-2021-archives-nationales-xray",
+   "s-2021-michelin-xrf"
+  ],
+  [
+   "s-2021-archives-nationales-xray",
+   "t-fersen"
+  ],
+  [
+   "s-2021-michelin-xrf",
+   "s-1877-klinckowstrom-fersen"
+  ],
+  [
+   "s-2021-michelin-xrf",
+   "s-2021-archives-nationales-xray"
+  ],
+  [
+   "s-2021-michelin-xrf",
+   "t-fersen"
+  ],
+  [
+   "s-2024-pearce-creole",
+   "t-chemise"
+  ],
+  [
+   "s-2025-dati-culture-sevres-rambouillet",
+   "s-2016-maes-laiterie-rambouillet"
+  ],
+  [
+   "s-2025-dati-culture-sevres-rambouillet",
+   "t-hameau"
+  ],
+  [
+   "s-2026-harvard-gazette-coppola",
+   "t-coppola"
+  ],
+  [
+   "s-2026-versailles-coppola-exhibition",
+   "t-coppola"
+  ],
+  [
+   "t-cake",
+   "s-1782-rousseau-confessions"
+  ],
+  [
+   "t-cake",
+   "s-2002-campion-vincent-marie-antoinette"
+  ],
+  [
+   "t-chemise",
+   "s-1835-vigee-le-brun-souvenirs"
+  ],
+  [
+   "t-chemise",
+   "s-2024-pearce-creole"
+  ],
+  [
+   "t-chemise",
+   "t-hameau"
+  ],
+  [
+   "t-consummation",
+   "s-1866-arneth-marie-antoinette"
+  ],
+  [
+   "t-consummation",
+   "s-1867-arneth-maria-theresia-joseph"
+  ],
+  [
+   "t-consummation",
+   "s-1874-arneth-mercy-correspondance"
+  ],
+  [
+   "t-consummation",
+   "s-2006-stamberg-npr-fraser"
+  ],
+  [
+   "t-consummation",
+   "t-coppola"
+  ],
+  [
+   "t-coppola",
+   "s-2006-stamberg-npr-fraser"
+  ],
+  [
+   "t-coppola",
+   "s-2011-andersson-queen-fashion"
+  ],
+  [
+   "t-coppola",
+   "s-2012-backman-rogers-threshold"
+  ],
+  [
+   "t-coppola",
+   "s-2026-harvard-gazette-coppola"
+  ],
+  [
+   "t-coppola",
+   "s-2026-versailles-coppola-exhibition"
+  ],
+  [
+   "t-coppola",
+   "t-cake"
+  ],
+  [
+   "t-coppola",
+   "t-chemise"
+  ],
+  [
+   "t-coppola",
+   "t-consummation"
+  ],
+  [
+   "t-coppola",
+   "t-deficit"
+  ],
+  [
+   "t-coppola",
+   "t-fersen"
+  ],
+  [
+   "t-coppola",
+   "t-hameau"
+  ],
+  [
+   "t-coppola",
+   "t-necklace"
+  ],
+  [
+   "t-coppola",
+   "t-varennes"
+  ],
+  [
+   "t-coppola",
+   "t-white-hair"
+  ],
+  [
+   "t-deficit",
+   "s-1781-necker-compte-rendu"
+  ],
+  [
+   "t-deficit",
+   "s-1823-campan-memoires"
+  ],
+  [
+   "t-deficit",
+   "s-2006-stamberg-npr-fraser"
+  ],
+  [
+   "t-deficit",
+   "t-necklace"
+  ],
+  [
+   "t-fersen",
+   "s-1877-klinckowstrom-fersen"
+  ],
+  [
+   "t-fersen",
+   "s-2021-archives-nationales-xray"
+  ],
+  [
+   "t-fersen",
+   "s-2021-michelin-xrf"
+  ],
+  [
+   "t-fersen",
+   "t-varennes"
+  ],
+  [
+   "t-hameau",
+   "s-1823-campan-memoires"
+  ],
+  [
+   "t-hameau",
+   "s-2016-maes-laiterie-rambouillet"
+  ],
+  [
+   "t-hameau",
+   "s-2016-versailles-queens-hamlet"
+  ],
+  [
+   "t-hameau",
+   "s-2025-dati-culture-sevres-rambouillet"
+  ],
+  [
+   "t-hameau",
+   "t-chemise"
+  ],
+  [
+   "t-necklace",
+   "s-1789-la-motte-justification"
+  ],
+  [
+   "t-necklace",
+   "s-1881-vizetelly-diamond-necklace"
+  ],
+  [
+   "t-varennes",
+   "s-1883-tourzel-memoires"
+  ],
+  [
+   "t-varennes",
+   "s-1887-ap-varennes-reward"
+  ],
+  [
+   "t-varennes",
+   "s-1887-drouet-barre"
+  ],
+  [
+   "t-varennes",
+   "s-2003-tackett-king"
+  ],
+  [
+   "t-varennes",
+   "s-2005-ozouf-varennes"
+  ],
+  [
+   "t-varennes",
+   "t-fersen"
+  ],
+  [
+   "t-varennes",
+   "t-white-hair"
+  ],
+  [
+   "t-white-hair",
+   "s-1823-campan-memoires"
+  ],
+  [
+   "t-white-hair",
+   "s-2008-skellett-sudden-whitening"
+  ],
+  [
+   "t-white-hair",
+   "s-2009-navarini-marie-antoinette"
+  ],
+  [
+   "t-white-hair",
+   "s-2013-nahm-canities-subita"
+  ],
+  [
+   "t-white-hair",
+   "t-varennes"
+  ],
+  [
+   "overview",
+   "t-cake"
+  ],
+  [
+   "overview",
+   "t-deficit"
+  ],
+  [
+   "overview",
+   "t-fersen"
+  ],
+  [
+   "overview",
+   "t-hameau"
+  ],
+  [
+   "overview",
+   "t-necklace"
+  ],
+  [
+   "overview",
+   "t-white-hair"
+  ]
+ ],
  "log": [
   {
    "date": "2026-11-15",
    "kind": "rule",
    "title": "建立專案"
+  },
+  {
+   "date": "2026-11-15",
+   "kind": "ingest",
+   "title": "第一批 10 個故事"
+  },
+  {
+   "date": "2026-11-15",
+   "kind": "art",
+   "title": "吉祥物王后的小狗"
   }
  ],
- "timeline": [],
+ "timeline": [
+  {
+   "date": "1765",
+   "title": "盧梭寫下「讓他們吃布里歐」",
+   "desc": "《懺悔錄》第一到六卷寫成，裡面提到「一位偉大的公主」說過這句話；這時瑪麗．安東尼還沒嫁到法國。",
+   "category": "迷思",
+   "topic": "t-cake",
+   "source": "s-2002-campion-vincent-marie-antoinette"
+  },
+  {
+   "date": "1768",
+   "title": "母親開始促成法奧聯姻",
+   "desc": "瑪麗亞．特蕾莎開始推動女兒與法國王儲的婚事。",
+   "category": "身後",
+   "topic": "t-coppola",
+   "source": "s-2012-backman-rogers-threshold"
+  },
+  {
+   "date": "1777-04",
+   "title": "約瑟夫二世來到凡爾賽",
+   "desc": "王后的哥哥化名來訪，寫信給弟弟描述這對遲遲沒有圓房的夫妻。",
+   "category": "生平",
+   "topic": "t-consummation",
+   "source": "s-1867-arneth-maria-theresia-joseph"
+  },
+  {
+   "date": "1777-05-29",
+   "title": "哥哥留下一份書面建議",
+   "desc": "約瑟夫二世臨走前寫給妹妹，談賭博、騎馬與宗教。",
+   "category": "生平",
+   "topic": "t-consummation",
+   "source": "s-1866-arneth-marie-antoinette"
+  },
+  {
+   "date": "1779",
+   "title": "芭蕾《米爾札》在巴黎上演",
+   "desc": "背景設在法屬加勒比的舞劇，研究者推測它影響了王后的白紗裙。",
+   "category": "時尚",
+   "topic": "t-chemise",
+   "source": "s-2024-pearce-creole"
+  },
+  {
+   "date": "1781",
+   "title": "內克公布財政報告",
+   "desc": "報告宣稱收入大於支出；王后家用沒有單獨列項，戰爭特別經費一年約 6,520 萬里弗爾。",
+   "category": "迷思",
+   "topic": "t-deficit",
+   "source": "s-1781-necker-compte-rendu"
+  },
+  {
+   "date": "1782",
+   "title": "《懺悔錄》出版",
+   "desc": "盧梭死後，第一到六卷在日內瓦出版。",
+   "category": "迷思",
+   "topic": "t-cake",
+   "source": "s-2002-campion-vincent-marie-antoinette"
+  },
+  {
+   "date": "1783",
+   "title": "穿白紗裙的王后肖像展出",
+   "desc": "維傑．勒布倫的肖像在沙龍展引起「王后只穿襯衣」的議論。",
+   "category": "時尚",
+   "topic": "t-chemise",
+   "source": "s-2024-pearce-creole"
+  },
+  {
+   "date": "1783",
+   "title": "王后的農莊動工",
+   "desc": "建築師米克開始在小特里亞儂北邊蓋模範村莊，1786 年完工。",
+   "category": "宮廷",
+   "topic": "t-hameau",
+   "source": "s-2016-versailles-queens-hamlet"
+  },
+  {
+   "date": "1784",
+   "title": "「王后式襯衣裙」得名",
+   "desc": "巴黎時尚版畫刊出這種裙子，命名為 chemise à la reine。",
+   "category": "時尚",
+   "topic": "t-chemise",
+   "source": "s-2024-pearce-creole"
+  },
+  {
+   "date": "1784-08-11",
+   "title": "凡爾賽花園裡的玫瑰",
+   "desc": "假扮王后的歐莉瓦在夜裡把玫瑰交給羅昂樞機主教。",
+   "category": "迷思",
+   "topic": "t-necklace",
+   "source": "s-1881-vizetelly-diamond-necklace"
+  },
+  {
+   "date": "1785-08-15",
+   "title": "樞機主教在宮中被捕",
+   "desc": "聖母升天節中午，羅昂穿著祭衣在凡爾賽被帶走。",
+   "category": "迷思",
+   "topic": "t-necklace",
+   "source": "s-1881-vizetelly-diamond-necklace"
+  },
+  {
+   "date": "1786-05-31",
+   "title": "鑽石項鍊案宣判",
+   "desc": "樞機主教無罪，拉莫特夫人被鞭打、烙印、終身監禁；王后不是被告。",
+   "category": "迷思",
+   "topic": "t-necklace",
+   "source": "s-1881-vizetelly-diamond-necklace"
+  },
+  {
+   "date": "1787",
+   "title": "朗布依埃乳品室的瓷器送達",
+   "desc": "塞弗爾瓷器廠 1787 到 1788 年間送來 65 件瓷器，包括「乳房碗」。",
+   "category": "宮廷",
+   "topic": "t-hameau",
+   "source": "s-2025-dati-culture-sevres-rambouillet"
+  },
+  {
+   "date": "1791-06-20",
+   "title": "國王一家深夜出逃",
+   "desc": "午夜過後，費爾森扮成車夫，把國王一家載出巴黎。",
+   "category": "革命",
+   "topic": "t-varennes",
+   "source": "s-1883-tourzel-memoires"
+  },
+  {
+   "date": "1791-06-21",
+   "title": "在瓦雷納被攔下",
+   "desc": "驛站長德魯埃認出國王，晚上十一點半，馬車在瓦雷納被攔。",
+   "category": "革命",
+   "topic": "t-varennes",
+   "source": "s-1883-tourzel-memoires"
+  },
+  {
+   "date": "1791-06-24",
+   "title": "德魯埃在國民議會作證",
+   "desc": "他說自己是拿五十里弗爾指券上的頭像比對出國王的。",
+   "category": "革命",
+   "topic": "t-varennes",
+   "source": "s-1887-drouet-barre"
+  },
+  {
+   "date": "1791-06-25",
+   "title": "王室一家被押回巴黎",
+   "desc": "從莫城出發回到巴黎。之後王后給康龐夫人看自己變白的頭髮。",
+   "category": "革命",
+   "topic": "t-varennes",
+   "source": "s-1883-tourzel-memoires"
+  },
+  {
+   "date": "1791-08-18",
+   "title": "國民議會獎賞攔下國王的人",
+   "desc": "通過法令，獎賞德魯埃等人。",
+   "category": "革命",
+   "topic": "t-varennes",
+   "source": "s-1887-ap-varennes-reward"
+  },
+  {
+   "date": "1791-12-07",
+   "title": "密信裡被塗黑的一句話",
+   "desc": "這封信被塗黑的句子，2021 年被 X 光讀出：「你，我愛的人……」",
+   "category": "人物",
+   "topic": "t-fersen",
+   "source": "s-2021-michelin-xrf"
+  },
+  {
+   "date": "1792-01-04",
+   "title": "「沒有你可不行」",
+   "desc": "另一封被塗黑的信，同樣在 2021 年被讀出。",
+   "category": "人物",
+   "topic": "t-fersen",
+   "source": "s-2021-michelin-xrf"
+  },
+  {
+   "date": "1793-10-16",
+   "title": "王后被處決",
+   "desc": "手被綁在背後、頭髮被剪短，坐囚車穿過巴黎。",
+   "category": "身後",
+   "topic": "t-coppola",
+   "source": "s-2006-stamberg-npr-fraser"
+  },
+  {
+   "date": "1823",
+   "title": "康龐夫人回憶錄出版",
+   "desc": "王后貼身女官的回憶錄出版，記下了「一夜白頭」。",
+   "category": "迷思",
+   "topic": "t-white-hair",
+   "source": "s-1823-campan-memoires"
+  },
+  {
+   "date": "1843-03",
+   "title": "「蛋糕」第一次被安到王后頭上",
+   "desc": "作家卡爾在《黃蜂》寫道，這是敵人散布的謠言。",
+   "category": "迷思",
+   "topic": "t-cake",
+   "source": "s-2002-campion-vincent-marie-antoinette"
+  },
+  {
+   "date": "1877",
+   "title": "費爾森文件出版",
+   "desc": "編者在註腳寫下「這八行已被抹去」，謎團從此開始。",
+   "category": "人物",
+   "topic": "t-fersen",
+   "source": "s-1877-klinckowstrom-fersen"
+  },
+  {
+   "date": "1982",
+   "title": "國家檔案館買下密信",
+   "desc": "法國國家檔案館向費爾森家族購入部分信件。",
+   "category": "人物",
+   "topic": "t-fersen",
+   "source": "s-2021-michelin-xrf"
+  },
+  {
+   "date": "2006",
+   "title": "《凡爾賽拜金女》上映",
+   "desc": "柯波拉的電影在坎城首映，評價兩極。",
+   "category": "身後",
+   "topic": "t-coppola",
+   "source": "s-2012-backman-rogers-threshold"
+  },
+  {
+   "date": "2021",
+   "title": "X 光讀出塗黑的字",
+   "desc": "研究團隊用 X 射線螢光光譜讀出八封信的塗黑段落。",
+   "category": "人物",
+   "topic": "t-fersen",
+   "source": "s-2021-michelin-xrf"
+  }
+ ],
  "stats": [],
- "places": [],
- "debates": []
+ "places": [
+  {
+   "name": "小特里亞儂",
+   "lat": 48.8159,
+   "lng": 2.11,
+   "desc": "路易十六送給王后的小宮殿，她在這裡躲開宮廷禮儀。",
+   "topic": "t-hameau",
+   "source": "s-1823-campan-memoires"
+  },
+  {
+   "name": "王后的農莊",
+   "lat": 48.8187,
+   "lng": 2.1117,
+   "desc": "1783–1786 年蓋的模範村莊，也是真正運作的農場。",
+   "topic": "t-hameau",
+   "source": "s-2016-versailles-queens-hamlet"
+  },
+  {
+   "name": "朗布依埃乳品室",
+   "lat": 48.6436,
+   "lng": 1.8236,
+   "desc": "路易十六為王后蓋的乳品室，有塞弗爾的「乳房碗」。",
+   "topic": "t-hameau",
+   "source": "s-2025-dati-culture-sevres-rambouillet"
+  },
+  {
+   "name": "凡爾賽宮",
+   "lat": 48.8049,
+   "lng": 2.1204,
+   "desc": "1784 年夏夜，花園裡上演了鑽石項鍊騙局最關鍵的一幕。",
+   "topic": "t-necklace",
+   "source": "s-1881-vizetelly-diamond-necklace"
+  },
+  {
+   "name": "杜樂麗宮",
+   "lat": 48.8635,
+   "lng": 2.3275,
+   "desc": "革命後王室被安置的宮殿，1791 年 6 月 20 日深夜從這裡出逃。",
+   "topic": "t-varennes",
+   "source": "s-1883-tourzel-memoires"
+  },
+  {
+   "name": "聖默努爾德",
+   "lat": 49.0906,
+   "lng": 4.8975,
+   "desc": "驛站長德魯埃在這裡認出國王；回程時一家人在這裡停下吃飯。",
+   "topic": "t-varennes",
+   "source": "s-1883-tourzel-memoires"
+  },
+  {
+   "name": "瓦雷納",
+   "lat": 49.2244,
+   "lng": 5.0328,
+   "desc": "1791 年 6 月 21 日晚上十一點半，國王的馬車在這裡被攔下。",
+   "topic": "t-varennes",
+   "source": "s-1883-tourzel-memoires"
+  },
+  {
+   "name": "克萊",
+   "lat": 48.9858,
+   "lng": 2.6942,
+   "desc": "費爾森扮成車夫，把國王一家送到這裡換乘驛馬車。",
+   "topic": "t-varennes",
+   "source": "s-1883-tourzel-memoires"
+  }
+ ],
+ "debates": [
+  {
+   "question": "是什麼讓路易十六和王后七年多沒有圓房？",
+   "positions": [
+    {
+     "claim": "弗雷澤：不是身體問題，而是國王心理上做不到。",
+     "source": "s-2006-stamberg-npr-fraser"
+    },
+    {
+     "claim": "約瑟夫二世的信：國王活在「持續的冷漠」裡，王后對國王「毫無感覺」，信中沒有提到身體問題或手術。",
+     "source": "s-1867-arneth-maria-theresia-joseph"
+    }
+   ],
+   "topic": "t-consummation"
+  },
+  {
+   "question": "「一夜白頭」在醫學上可能嗎？",
+   "positions": [
+    {
+     "claim": "很可能是斑禿急性發作，讓有色頭髮選擇性脫落，剩下的白髮看起來像突然變白。",
+     "source": "s-2009-navarini-marie-antoinette"
+    },
+    {
+     "claim": "斑禿只能解釋少數可靠個案，現有證據不足以下結論，應重新研究。",
+     "source": "s-2013-nahm-canities-subita"
+    }
+   ],
+   "topic": "t-white-hair"
+  },
+  {
+   "question": "王后是鑽石項鍊詐騙的共犯嗎？",
+   "positions": [
+    {
+     "claim": "拉莫特夫人：她早就是王后的心腹，項鍊是王后委託購買的。",
+     "source": "s-1789-la-motte-justification"
+    },
+    {
+     "claim": "判決與後來的研究：簽名是偽造的，沒有任何對王后不利的證據；拉莫特的說法前後矛盾。",
+     "source": "s-1881-vizetelly-diamond-necklace"
+    }
+   ],
+   "topic": "t-necklace"
+  }
+ ]
 }
