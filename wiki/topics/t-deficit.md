@@ -9,7 +9,7 @@ myth: 王后揮霍無度，一個人花光了法國的國庫，人稱「赤字�
 verdict: 半真半假
 image: t-deficit.jpg
 imageAlt: 粉彩畫風插畫：書桌上攤開一本大帳簿和一小堆金幣，窗邊架子上放著插滿羽毛的高聳假髮。
-sources: [s-1989-white-solution, s-1989-colwill-citoyenne, s-1995-sargent-macroeconomic, s-1874-arneth-mercy-correspondance, s-1823-campan-memoires, s-1781-necker-compte-rendu, s-2006-stamberg-npr-fraser, s-2002-campion-vincent-marie-antoinette]
+sources: [s-1993-barker-cake, s-1989-white-solution, s-1989-colwill-citoyenne, s-1995-sargent-macroeconomic, s-1874-arneth-mercy-correspondance, s-1823-campan-memoires, s-1781-necker-compte-rendu, s-2006-stamberg-npr-fraser, s-2002-campion-vincent-marie-antoinette]
 updated: 2026-11-15
 ---
 
@@ -61,6 +61,7 @@ updated: 2026-11-15
 
 ## 研究者怎麼看
 
+- 巴克認為，攻擊王后的地下小冊子在十年內摧毀了她的名聲，也讓國王成了笑柄；國王的軟弱被歸咎於「女人的影響」，而王后身為外國人，被叫做「奧地利女人」（l'Autrichienne）（[[s-1993-barker-cake]] pp. 713–714）。她也指出，官方報紙幾乎從不回應這些攻擊（[[s-1993-barker-cake]] p. 716）。
 - 弗雷澤認為，法國預算失衡的主因是支持美國革命，而不是王后（[[s-2006-stamberg-npr-fraser]]）。
 - 康龐夫人的辯護是當事人一方的說法，可信度要打折扣（[[s-1823-campan-memoires]]）。
 - 懷特認為，法國的財政其實不是無藥可救：1769 年財政總監泰雷（Terray）上任時，赤字已有 6,000 萬里弗爾、政府借無可借（[[s-1989-white-solution]] pp. 548–549）；美國獨立戰爭期間，內克靠 5 億 3,000 萬里弗爾的借款打仗，一般帳目卻在 1778 年平衡過（[[s-1989-white-solution]] p. 558）。真正讓危機變得無法收拾的，是 1781 年以後改革被推翻、1787 年名士會議拒絕加稅；他認為 1788–89 年的破產原本可以避免（[[s-1989-white-solution]] pp. 565–568）。在他的分析裡，宮廷開支不是主因（[[s-1989-white-solution]] pp. 552、568）。

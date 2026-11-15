@@ -33,6 +33,8 @@ updated: 2026-11-16
 
 1 月 20 日，政府派人到聖殿塔正式宣讀判決。克萊里說，國王聽到「陰謀」這個罪名時，嘴角露出一絲憤怒的笑；聽到「處以死刑」時，他環顧四周，那個眼神讓克萊里覺得，死亡對一個無辜的人並不可怕（[[s-1798-clery-journal]] 約 pp. 110–111）。國王提出幾項請求：延後三天、讓他自己選的神父來、讓家人自由離開。國民公會拒絕延期，但准許愛爾蘭籍神父埃奇沃斯（Edgeworth de Firmont）進塔（[[s-1798-clery-journal]] 約 pp. 110–111；[[s-1815-edgeworth-memoirs]] pp. 68–69）。
 
+{{photo:t-execution-edgeworth-alix.jpg|阿利克斯（Alix）1794 年所畫的素描像，主角是陪伴路易十六上斷頭台的埃奇沃斯神父（Henry Essex Edgeworth）；現藏巴黎卡納瓦萊博物館。|Wikimedia Commons，CC0}}
+
 ### 最後的晚上
 
 那幾天，國王一直在讀英國史裡查理一世被處死的那一冊；克萊里說，國王在塔裡一共讀了大約兩百五十本書（[[s-1798-clery-journal]] 約 p. 109）。抽屜裡有三卷金幣，共三千里弗爾，每一卷上都寫了字，說這些錢不是他的，要還給馬勒澤布（[[s-1798-clery-journal]] 約 p. 109）。判決宣讀後，他照常吃晚飯，看守們很驚訝，以為他打算自殺（[[s-1852-marie-therese-temple]] p. 64）。
@@ -61,6 +63,8 @@ updated: 2026-11-16
 
 瑪麗－泰蕾茲記下，父親死於上午十點十分，享年三十九歲又五個月三天（[[s-1852-marie-therese-temple]] p. 66）。埃奇沃斯說，一個大約十八歲的衛兵抓起國王的頭，繞著刑台走了一圈；一開始全場沒人出聲，接著有人喊「共和國萬歲」，不到十分鐘，整個廣場都在喊（[[s-1815-edgeworth-memoirs]] 約 pp. 86–87）。桑松家的說法則是，大多數人轉過身去，臉上帶著恐懼（[[s-1862-sanson-sept-generations]] 第 3 冊 pp. 478–479）。
 
+{{photo:t-execution-rijksmuseum-1793.jpg|1793 至 1798 年間的版畫（後來的版畫，不是即刻印製），畫路易十六在革命廣場（今協和廣場）被處決的情景；現藏阿姆斯特丹國立博物館。|Wikimedia Commons，CC0}}
+
 ### 「聖路易之子，升天吧」
 
 最有名的一句話，是神父在刀落下前對國王說的「聖路易之子，升天吧」。瑪麗－泰蕾茲和桑松家的回憶錄都把這句話記在神父名下（[[s-1852-marie-therese-temple]] p. 66；[[s-1862-sanson-sept-generations]] 第 3 冊 pp. 477–478）。但埃奇沃斯自己的回憶錄裡沒有寫這句話；書的編者註說，有人問過他，他說自己既不能否認、也不能肯定，有可能說過，但事後不記得了（[[s-1815-edgeworth-memoirs]] 約 pp. 87–88 編者註）。
@@ -78,7 +82,7 @@ updated: 2026-11-16
 - [[s-1852-marie-therese-temple]]
 - [[s-1862-sanson-sept-generations]]
 - [[s-1795-poncelin-proces-louis-xvi]]
-- 相關故事：[[t-louis]]、[[t-temple]]、[[t-trial]]
+- 相關故事：[[t-louis]]、[[t-temple]]、[[t-trial]]、[[t-reburial]]
 
 ## 還不知道的事
 

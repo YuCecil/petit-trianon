@@ -9,7 +9,7 @@ myth: 聽說百姓沒有麵包吃，王后說：「那就讓他們吃蛋糕吧�
 verdict: 查無實據
 image: t-cake.jpg
 imageAlt: 粉彩畫風插畫：窗邊木桌上，藍邊瓷盤裡放著一個金黃色的布里歐麵包，旁邊是攤開的舊書和羽毛筆。
-sources: [s-2002-campion-vincent-marie-antoinette, s-1782-rousseau-confessions, s-1841-karr-guepes, s-1874-arneth-mercy-correspondance]
+sources: [s-1993-barker-cake, s-2002-campion-vincent-marie-antoinette, s-1782-rousseau-confessions, s-1841-karr-guepes, s-1874-arneth-mercy-correspondance]
 updated: 2026-11-15
 ---
 
@@ -70,6 +70,7 @@ updated: 2026-11-15
 
 ## 研究者怎麼看
 
+- 歷史學者巴克（Nancy Barker）1993 年研究王后的「神話化」，她也指出，沒有任何可信的傳記能把這句話追溯到王后本人（[[s-1993-barker-cake]] p. 709）。
 - 民俗學者坎皮翁－文森（Véronique Campion-Vincent）與肖賈伊．卡萬（Christine Shojaei Kawan）把這句話歸入國際民間故事分類裡的同一型笑話，認為它跟王后的連結是後人加上的，而且主要在一般讀物和民間流傳，嚴肅的歷史著作幾乎不提它（[[s-2002-campion-vincent-marie-antoinette]]）。
 - 她們也指出，民俗學大師湯普森（Stith Thompson）在分類這個故事時寫道，不管王后犯過什麼錯，她都不太可能說過這麼殘忍的話（[[s-2002-campion-vincent-marie-antoinette]] 「兩種場景」一節）。
 - 法國大革命史家勒費弗爾（Georges Lefebvre）在名著《1789 年大恐慌》裡，也把這句話當成錯誤的歸屬（[[s-2002-campion-vincent-marie-antoinette]] 「三種傳播層次」一節及註 28）。

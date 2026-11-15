@@ -21,7 +21,11 @@ updated: 2026-11-16
 
 康龐夫人說，貝爾坦是在王后第一次去馬爾利（Marly）宮時，由沙特爾公爵夫人（後來的奧爾良公爵夫人）帶進王后內室的；而宮廷的老規矩，向來「毫無例外」地把她這個階層的人擋在王后身邊之外（本站譯）（[[s-1823-campan-memoires]] 第 1 冊約 p. 95）。康龐夫人說，從那時起，王后才開始把打扮當成一件正經事，在這之前，她的品味一直很簡單（[[s-1823-campan-memoires]] 第 1 冊 p. 95）。
 
+{{photo:t-bertin-janinet.jpg|雅內據特林克斯（Trinquesse）的畫作刻的銅版畫，畫瑪麗．安東尼的服裝設計師蘿絲．貝爾坦（Rose Bertin）；現藏紐約大都會博物館。|Wikimedia Commons，Public domain}}
+
 貝爾坦帶來的，是一整套新的流行。康龐夫人說，她「徹底改變了法國女士的穿著」（本站譯）；宮裡的年輕女士都想要跟王后一樣的羽毛和花環，丈夫和母親抱怨開銷，有人欠了債，還傳出王后要讓法國貴婦全部破產的說法（[[s-1823-campan-memoires]] 第 1 冊 pp. 95–96；另見 [[t-pouf]]、[[t-deficit]]）。
+
+{{photo:t-bertin-galerie-modes-1778.jpg|《法國時尚與服飾畫廊》（Galerie des Modes et Costumes Français）1778 年的一頁，畫穿「切爾卡西亞長袍」（circassienne）的女子；現藏阿姆斯特丹國立博物館。|Wikimedia Commons，CC0}}
 
 ### 進不了臥室的人
 

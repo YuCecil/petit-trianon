@@ -9,7 +9,7 @@ myth: 王后貪圖一條天價鑽石項鍊，跟樞機主教串通騙珠寶商�
 verdict: 半真半假
 image: t-necklace.jpg
 imageAlt: 粉彩畫風插畫：月光下的凡爾賽花園，一位穿白裙的女子背影把玫瑰遞給披斗篷的男子。
-sources: [s-1881-vizetelly-diamond-necklace, s-1823-campan-memoires, s-1789-la-motte-justification]
+sources: [s-1993-barker-cake, s-1881-vizetelly-diamond-necklace, s-1823-campan-memoires, s-1789-la-motte-justification]
 updated: 2026-11-15
 ---
 
@@ -63,6 +63,7 @@ updated: 2026-11-15
 
 ## 研究者怎麼看
 
+- 巴克指出，官方報紙對鑽石項鍊案完全保持沉默，等於把輿論拱手讓給了地下小冊子（[[s-1993-barker-cake]] p. 716）。
 - 19 世紀的研究者維澤特利（Henry Vizetelly）逐點比對審判文書與拉莫特的說法，結論是「沒有一絲對王后不利的證據，不論真假」（本站譯）；他也指出，當時宮廷中人的回憶錄沒有一本說過拉莫特出現在王后身邊（[[s-1881-vizetelly-diamond-necklace]] p. 373）。這是作者的推論，不是新證據。
 - （推論）現代研究多半把重點放在這場官司如何影響輿論，而不是王后有沒有罪；這部分本站還沒讀到原書，見「還不知道的事」。
 

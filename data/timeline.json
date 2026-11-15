@@ -566,5 +566,101 @@
   "category": "身後",
   "topic": "t-ghost",
   "source": "s-1913-moberly-jourdain-adventure"
+ },
+ {
+  "date": "1774-05-10",
+  "title": "路易十五駕崩",
+  "desc": "蠟燭熄滅，廷臣湧向新國王；年輕夫婦跪下祈禱。",
+  "category": "生平",
+  "topic": "t-coronation",
+  "source": "s-1823-campan-memoires"
+ },
+ {
+  "date": "1775-06-11",
+  "title": "蘭斯加冕",
+  "desc": "王后在觀禮席上流淚，說活一百年也忘不了這一天。",
+  "category": "生平",
+  "topic": "t-coronation",
+  "source": "s-1874-arneth-mercy-correspondance"
+ },
+ {
+  "date": "1778-12",
+  "title": "長女瑪麗－泰蕾茲出生",
+  "desc": "等了八年的第一個孩子，梅西說王后忍痛非常勇敢。",
+  "category": "生平",
+  "topic": "t-children",
+  "source": "s-1874-arneth-mercy-correspondance"
+ },
+ {
+  "date": "1781-10-22",
+  "title": "王太子路易－約瑟夫出生",
+  "desc": "傷兵院的禮砲宣告王太子誕生。",
+  "category": "生平",
+  "topic": "t-children",
+  "source": "s-1883-tourzel-memoires"
+ },
+ {
+  "date": "1785-03-27",
+  "title": "諾曼第公爵出生",
+  "desc": "國王親筆寫信向約瑟夫二世報喜。",
+  "category": "生平",
+  "topic": "t-children",
+  "source": "s-1866-arneth-marie-antoinette"
+ },
+ {
+  "date": "1787-06-19",
+  "title": "小公主蘇菲夭折",
+  "desc": "還在吃奶的小女兒過世。",
+  "category": "生平",
+  "topic": "t-children",
+  "source": "s-1883-tourzel-memoires"
+ },
+ {
+  "date": "1792-06-20",
+  "title": "伊莉莎白夫人被當成王后",
+  "desc": "「別糾正他們，如果他們把我當成王后，就有時間去救她了。」",
+  "category": "人物",
+  "topic": "t-elisabeth",
+  "source": "s-1883-tourzel-memoires"
+ },
+ {
+  "date": "1792-08-10",
+  "title": "杜樂麗宮陷落",
+  "desc": "王室在議會的記者包廂裡待了十二個小時；瑞士衛兵被屠殺。",
+  "category": "革命",
+  "topic": "t-august10",
+  "source": "s-1883-tourzel-memoires"
+ },
+ {
+  "date": "1794-05-10",
+  "title": "伊莉莎白夫人被處決",
+  "desc": "她最後一個上斷頭台。",
+  "category": "人物",
+  "topic": "t-elisabeth",
+  "source": "s-1899-elisabeth-life-letters-en"
+ },
+ {
+  "date": "1795-06",
+  "title": "路易十七死於聖殿塔",
+  "desc": "姊姊記下的日期是 6 月 9 日，官方紀錄是 6 月 8 日。",
+  "category": "身後",
+  "topic": "t-louis17",
+  "source": "s-1852-marie-therese-temple"
+ },
+ {
+  "date": "1815-01",
+  "title": "挖出國王與王后的遺骸",
+  "desc": "在瑪德蓮墓地挖掘，遷葬聖但尼大教堂。",
+  "category": "身後",
+  "topic": "t-reburial",
+  "source": "s-1824-lafont-daussonne-memoires"
+ },
+ {
+  "date": "2001",
+  "title": "心臟的 DNA 鑑定",
+  "desc": "兩間實驗室獨立分析，心臟的粒線體 DNA 與王后的母系親屬相同。",
+  "category": "身後",
+  "topic": "t-louis17",
+  "source": "s-2001-jehaes-louis17"
  }
 ]

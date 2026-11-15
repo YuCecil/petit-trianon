@@ -23,6 +23,8 @@ updated: 2026-11-16
 
 但同一位康龐夫人也寫道：國王英文非常好，她好幾次聽到他翻譯彌爾頓《失樂園》裡最難的段落；他是「很厲害的地理學者」，喜歡自己畫地圖、上色；他熟知歷史，對戲劇很有判斷力（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 pp. 123–124）。至於身材和食量，大使梅西記過他打獵回來「胃口很好」，國王的僕人克萊里記過他在聖殿塔「吃得不多，但吃得有胃口」（[[s-1874-arneth-mercy-correspondance]] 第 1 冊；[[s-1798-clery-journal]]），都說不上貪吃。所以判定是「半真半假」。
 
+{{photo:t-louis-callet-1779.jpg|卡萊 1779 年所畫的路易十六，身穿大禮服，現藏凡爾賽宮。|Wikimedia Commons，Public domain}}
+
 ## 故事是這樣的
 
 ### 鎖匠的工坊
@@ -38,6 +40,8 @@ updated: 2026-11-16
 ### 太平洋上的指示
 
 國王對地理的興趣，最有名的證據是 1785 年出發的拉佩魯茲（La Pérouse）環球探險。1797 年出版的探險紀錄收了出發前的指示，開頭寫著「國王陛下已為拉佩魯茲先生畫出航線」，目的之一是「改進地理學、擴展航海」（本站譯）（[[s-1797-laperouse-voyage]] 第 1 冊）。不過書的導言也寫明，這份指示是前海軍官員弗勒里厄（Fleurieu）起草、以國王的名義發出的（[[s-1797-laperouse-voyage]] 第 1 冊導言）。常見說法是國王在稿子上親筆加了很多批註，印刷本裡看不出來。
+
+{{photo:t-louis-laperouse-monsiau.jpg|莫西奧（Monsiau）1817 年所畫的後來的畫作，描寫 1785 年 6 月 29 日路易十六親自向拉佩魯茲（La Pérouse）交代探險任務；現藏凡爾賽宮。|Wikimedia Commons，Public domain}}
 
 ### 自己知道別人怎麼看他
 
@@ -63,6 +67,7 @@ updated: 2026-11-16
 - [[s-1866-arneth-marie-antoinette]]
 - [[s-1798-clery-journal]]
 - [[s-1797-laperouse-voyage]]
+- 相關故事：[[t-coronation]]
 
 ## 還不知道的事
 

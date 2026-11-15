@@ -29,6 +29,8 @@ updated: 2026-11-16
 
 朗巴勒親王妃出身義大利北部的皮埃蒙特，嫁進法國王族彭蒂耶夫公爵家。康龐夫人說，她十八歲就守寡，沒有孩子；公公把她當親生女兒一樣疼愛（[[s-1823-campan-memoires]] 第 1 冊約 pp. 192–193）。畫家維傑．勒布倫替她畫過像，說她「不算漂亮，但遠遠看起來很美」，五官小巧，皮膚極白，一頭金髮（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信）。
 
+{{photo:t-lamballe-callet-1776.jpg|卡萊（Callet）約 1776 年所畫的朗巴勒親王妃瑪麗－泰蕾絲－路易絲，現藏凡爾賽宮。|Wikimedia Commons，Public domain}}
+
 王后剛即位時很喜歡她。駐法大使梅西卻很緊張：她是皮埃蒙特人，梅西怕王后讓她太接近，會讓宮裡的「皮埃蒙特黨」得勢，要女皇提醒女兒對她的信任「要有界限」（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 176）。
 
 ### 「我會讓我的密友幸福」
@@ -73,6 +75,7 @@ updated: 2026-11-16
 - [[s-1874-arneth-mercy-correspondance]]
 - [[s-1823-campan-memoires]]
 - [[s-1835-vigee-le-brun-souvenirs]]
+- 相關故事：[[t-august10]]
 
 ## 還不知道的事
 

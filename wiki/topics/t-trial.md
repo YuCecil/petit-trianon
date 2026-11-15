@@ -27,6 +27,8 @@ updated: 2026-11-16
 
 1793 年 8 月 2 日凌晨，王后從聖殿塔被帶到古監獄（見 [[t-temple]]）。一本 1824 年出版的回憶錄描述了她的牢房：穿過兩道閘門，是一條整天點著燈的昏暗走廊；左邊就是她的房間，兩扇裝鐵條的小窗朝向女囚的小院子；房間用屏風隔成兩半，一名持槍的憲兵站在入口，王后那一半只有一張床、一張桌子和兩把椅子（[[s-1824-lafont-daussonne-memoires]]）。照顧她飲食和床鋪的，是看守家的廚娘羅莎莉（見 [[t-table]]）。
 
+{{photo:t-trial-conciergerie-cell.jpg|巴黎古監獄（Conciergerie）博物館內復原的王后牢房，王后在這樣的牢房裡度過最後的日子；2011 年拍攝。|Wikimedia Commons，CC BY-SA 3.0}}
+
 ### 康乃馨裡的紙條
 
 在古監獄的日子裡發生了一件事。一個男人跟著監獄的市政督察米修尼斯（Michonis）來到王后的房間，交給她一朵康乃馨，花裡藏著一張紙條。審判時，看守的憲兵作證，紙條上寫著：「你在這裡做什麼？我們有人手和錢可以為你效勞。」（本站譯）（[[s-1793-tribunal-proces-criminel-testament]]）這次營救沒有成功，反而讓監視更嚴了。有趣的是，到了審判時，連起訴人富基耶－坦維爾（Fouquier-Tinville）都說，這件事「不過是監獄裡的陰謀」，不應該列入起訴（[[s-1793-tribunal-proces-criminel-testament]]）。
@@ -59,6 +61,8 @@ updated: 2026-11-16
 
 1793 年的紀錄寫，她穿著白色的棉布晨衣離開古監獄（[[s-1793-tribunal-proces-criminel-testament]]）。1824 年的回憶錄說，十一點左右，劊子手把她的手反綁、剪短了她的頭髮，這兩個細節只出現在這本書裡（[[s-1824-lafont-daussonne-memoires]]）。她坐的車，1793 年的紀錄說是「劊子手的車」，回憶錄說是一輛敞開的囚車；車上有一位憲法派神父，前後是大批憲兵（[[s-1793-tribunal-proces-criminel-testament]]；[[s-1824-lafont-daussonne-memoires]]）。
 
+{{photo:t-trial-david-1793.jpg|大衛 1793 年的鋼筆速寫，畫瑪麗．安東尼坐在囚車上前往刑場；這是後來流傳的高解析版本，原作現藏不詳。|Wikimedia Commons，Public domain}}
+
 紀錄說，沿路站著三萬多名武裝人員；她看著路邊的旗子和招牌，既不沮喪也不驕傲。到了革命廣場（今天的協和廣場），她望向原本的王宮花園，臉色突然變得比剛才更白（[[s-1793-tribunal-proces-criminel-testament]]）。中午過後，劊子手把她的頭舉給群眾看，群眾高喊「共和國萬歲！」（[[s-1793-tribunal-proces-criminel-testament]]）
 
 ## 研究者怎麼看
@@ -75,7 +79,7 @@ updated: 2026-11-16
 - [[s-1824-lafont-daussonne-memoires]]
 - [[s-1989-colwill-citoyenne]]
 - [[s-1862-sanson-sept-generations]]
-- 相關故事：[[t-temple]]、[[t-white-hair]]、[[t-table]]
+- 相關故事：[[t-temple]]、[[t-white-hair]]、[[t-table]]、[[t-reburial]]
 
 ## 還不知道的事
 
