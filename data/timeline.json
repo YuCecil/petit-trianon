@@ -96,6 +96,14 @@
   "source": "s-1874-arneth-mercy-correspondance"
  },
  {
+  "date": "1775-01-13",
+  "title": "歌劇院為王后再唱一次合唱",
+  "desc": "《伊菲革涅亞》演員改歌詞歌頌王后，觀眾高喊王后萬歲，王后落淚。",
+  "category": "宮廷",
+  "topic": "t-theatre",
+  "source": "s-1874-arneth-mercy-correspondance"
+ },
+ {
   "date": "1775-03-05",
   "title": "三十六吋高的頭髮",
   "desc": "瑪麗亞．特蕾莎寫信勸女兒：跟流行可以，但永遠不要過頭。",
@@ -214,6 +222,14 @@
   "category": "宮廷",
   "topic": "t-hameau",
   "source": "s-1874-arneth-mercy-correspondance"
+ },
+ {
+  "date": "1780",
+  "title": "小特里亞儂的王后劇場落成",
+  "desc": "三層觀眾席、約三百座位；王后使用到 1785 年夏天。",
+  "category": "宮廷",
+  "topic": "t-theatre",
+  "source": "s-2025-masson-theatre-reine"
  },
  {
   "date": "1781",
@@ -384,6 +400,14 @@
   "source": "s-1851-mirabeau-lamarck"
  },
  {
+  "date": "1790-07-14",
+  "title": "雨中的聯盟節",
+  "desc": "戰神廣場上，國王宣誓；圖澤爾夫人說王后高舉王太子給群眾看。",
+  "category": "革命",
+  "topic": "t-tuileries",
+  "source": "s-1883-tourzel-memoires"
+ },
+ {
   "date": "1791-01",
   "title": "《杜歇老爹》開始頻繁攻擊王后",
   "desc": "到 1794 年 3 月，14% 的期數標題拿王后當主角。",
@@ -397,6 +421,14 @@
   "desc": "國王對王后說：別高興，我們失去的比妳想的多。",
   "category": "革命",
   "topic": "t-secret",
+  "source": "s-1883-tourzel-memoires"
+ },
+ {
+  "date": "1791-04-18",
+  "title": "國王的馬車被擋在杜樂麗宮",
+  "desc": "想去聖克盧過復活節，在馬車裡坐了兩小時，最後只好回宮。",
+  "category": "革命",
+  "topic": "t-tuileries",
   "source": "s-1883-tourzel-memoires"
  },
  {

@@ -2,7 +2,7 @@
 
 > 由 `tools/build.py` 自動產生於 2026-11-16，不要手改。
 
-資料卡 57 張（全文 10）｜主題 33｜實體 3｜問答 0
+資料卡 59 張（全文 11）｜主題 35｜實體 3｜問答 0
 
 ## 主題頁
 
@@ -35,7 +35,9 @@
 - [[t-secret]] 跟敵人談判：王后、米拉波與巴納夫 — 革命最有名的兩位演說家，先後成了王后的秘密顧問。
 - [[t-table]] 王后吃什麼：只喝水的王后與愛吃甜點的國王 — 從凡爾賽的公開午餐，到古監獄裡一隻切成兩半的雞。
 - [[t-temple]] 聖殿塔：一家人最後的五個月 — 國王教兒子地理，王后從牆縫等著看兒子走過。
+- [[t-theatre]] 王后的劇場：格魯克、豎琴與小特里亞儂的舞台 — 她把維也納的老師請到巴黎，在自己的小劇場裡演牧羊女。
 - [[t-trial]] 最後的七十五天：古監獄、審判與一封沒有送到的信 — 她在法庭上只激動過一次，是被問到兒子的時候。
+- [[t-tuileries]] 杜樂麗宮的日子：一座沒準備好的宮殿 — 從凡爾賽被帶回巴黎後，王室在杜樂麗宮過了二十個月半囚禁的生活。
 - [[t-varennes]] 瓦雷納：差一點就逃出去的那一夜 — 一輛遲到一個半小時的馬車，和一張鈔票上的國王頭像。
 - [[t-vigee]] 王后的畫家：維傑．勒布倫與一幅被撤下的家庭像 — 她畫了王后三十多次，最後一幅大畫還沒進宮就被叫做「赤字」。
 - [[t-white-hair]] 一夜白頭：瑪麗．安東尼症候群 — 她的頭髮真的一夜變白了嗎？醫生為這件事爭論了一百多年。
@@ -80,6 +82,7 @@
 - [[s-1913-moberly-jourdain-adventure]] An Adventure（第二版，附 Appendix 與地圖） — Charlotte Anne Elizabeth Moberly；Eleanor Frances Jourdain（以筆名 Elizabeth Morison、Frances Lamont 發表）（1913）｜回憶錄｜部分
 - [[s-1989-colwill-citoyenne]] Just Another "Citoyenne?" Marie-Antoinette on Trial, 1790-1793 — Elizabeth Colwill（1989）｜期刊論文｜全文
 - [[s-1989-white-solution]] Was There a Solution to the Ancien Régime's Financial Dilemma? — Eugene Nelson White（1989）｜期刊論文｜全文
+- [[s-1992-price-vies-privees]] Vies privées et scandaleuses: Marie-Antoinette and the Public Eye — Leah Price（1992）｜期刊論文｜部分
 - [[s-1993-barker-cake]] Let Them Eat Cake': The Mythical Marie Antoinette and the French Revolution — Nancy N. Barker（1993）｜期刊論文｜全文
 - [[s-1995-sargent-macroeconomic]] Macroeconomic Features of the French Revolution — Thomas J. Sargent; François R. Velde（1995）｜期刊論文｜部分
 - [[s-1998-jehaes-naundorff]] Mitochondrial DNA analysis on remains of a putative son of Louis XVI, King of France and Marie-Antoinette — Els Jehaes 等（Leuven 大學人類遺傳學中心）（1998）｜期刊論文｜摘要
@@ -88,7 +91,7 @@
 - [[s-2002-campion-vincent-marie-antoinette]] Marie-Antoinette et son célèbre dire：deux scénographies et deux siècles de désordres, trois niveaux de communication et trois modes accusatoires — Véronique Campion-Vincent; Christine Shojaei Kawan（2002）｜期刊論文｜部分
 - [[s-2003-tackett-king]] When the King Took Flight — Timothy Tackett（2003）｜專書｜書目
 - [[s-2005-ozouf-varennes]] Varennes. La mort de la royauté (21 juin 1791) — Mona Ozouf（2005）｜專書｜書目
-- [[s-2006-kaiser-nursery]] Scandal in the Royal Nursery: Marie-Antoinette and the "Gouvernantes des Enfants de France — Thomas E. Kaiser（2006）｜期刊論文｜部分
+- [[s-2006-kaiser-nursery]] Scandal in the Royal Nursery: Marie-Antoinette and the "Gouvernantes des Enfants de France — Thomas E. Kaiser（2006）｜期刊論文｜全文
 - [[s-2006-stamberg-npr-fraser]] The Misunderstood Marie Antoinette? — Susan Stamberg（2006）｜報刊｜全文
 - [[s-2008-skellett-sudden-whitening]] Sudden whitening of the hair: an historical fiction? — Anne-Marie Skellett, George W. M. Millington, Nick J. Levell（2008）｜期刊論文｜書目
 - [[s-2009-navarini-marie-antoinette]] Marie Antoinette Syndrome — Alexander A. Navarini, Stephan Nobbe（2009）｜期刊論文｜摘要
@@ -103,5 +106,6 @@
 - [[s-2024-kesterton-artificial-flowers]] Artificial Flowers in the Credit Records of an Eighteenth-Century French Fashion Merchant — Zara Kesterton（2024）｜期刊論文｜部分
 - [[s-2024-pearce-creole]] Creole Creations: Unraveling Caribbean origins, makers and wearers of the robe à la creole c.1780-1815 — Emma Pearce（2024）｜期刊論文｜部分
 - [[s-2025-dati-culture-sevres-rambouillet]] Rachida Dati 宣布 Sèvres 國立陶瓷博物館將收藏兩件 Rambouillet 乳品室瓷器（政府新聞稿） — 法國文化部（Ministère de la Culture）（2025）｜網頁｜全文
+- [[s-2025-masson-theatre-reine]] Les décors historiques du théâtre de la Reine à Versailles — Raphaël Masson（2025）｜專書論文｜部分
 - [[s-2026-harvard-gazette-coppola]] Why Sofia Coppola gave Marie Antoinette sneakers — Harvard Gazette（2026）｜報刊｜全文
 - [[s-2026-versailles-coppola-exhibition]] «Marie-Antoinette» by Sofia Coppola（凡爾賽宮展覽頁） — Château de Versailles（2026）｜網頁｜摘要

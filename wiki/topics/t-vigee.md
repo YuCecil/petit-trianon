@@ -66,7 +66,7 @@ updated: 2026-11-16
 
 - [[s-1835-vigee-le-brun-souvenirs]]
 - [[s-1823-campan-memoires]]
-- 相關故事：[[t-chemise]]、[[t-deficit]]、[[t-dubarry]]
+- 相關故事：[[t-chemise]]、[[t-deficit]]、[[t-dubarry]]、[[t-theatre]]
 
 ## 還不知道的事
 

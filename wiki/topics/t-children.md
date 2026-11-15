@@ -7,7 +7,7 @@ period: [1778, 1795]
 summary: 一個女兒、兩個王太子、一個沒滿週歲的小公主。
 image: t-children.jpg
 imageAlt: 粉彩畫風插畫：明亮的兒童房裡有木馬、鼓、布偶和小茶具，窗邊攤著圖畫書，一張空的小嬰兒床掛著淡粉色薄紗。
-sources: [s-1874-arneth-mercy-correspondance, s-1823-campan-memoires, s-1883-tourzel-memoires, s-1866-arneth-marie-antoinette, s-1835-vigee-le-brun-souvenirs, s-1852-marie-therese-temple]
+sources: [s-2006-kaiser-nursery, s-1874-arneth-mercy-correspondance, s-1823-campan-memoires, s-1883-tourzel-memoires, s-1866-arneth-marie-antoinette, s-1835-vigee-le-brun-souvenirs, s-1852-marie-therese-temple]
 updated: 2026-11-16
 ---
 
@@ -45,6 +45,8 @@ updated: 2026-11-16
 
 病中，他很依戀一位侍從，要了剪刀，剪下自己的一撮頭髮包在紙裡送給他，說：「這是我唯一能送你的禮物。」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 pp. 42–43 註）他也很討厭王后的閨蜜波利尼亞克夫人，兩次把她趕出房間（[[s-1823-campan-memoires]] 第 2 冊 p. 43；另見 [[t-polignac]]）。宮裡有人說王后偏愛健康活潑的小兒子、冷落病懨懨的大兒子，康龐夫人說這是不公正的誤會（[[s-1823-campan-memoires]] 第 2 冊 p. 44）。
 
+宮外的人看到的是另一面。歷史學者凱瑟指出，1786 年起，王太子的病情在巴黎傳開，宮廷日記作者邦貝勒侯爵寫道，大家開始抱怨孩子「沒有得到照顧」（本站譯）；連同情王室的邦貝勒都說，王后心地很好，也很愛孩子，但她還沒意識到這個孩子曾處在多大的危險中（[[s-2006-kaiser-nursery]] pp. 418–419）。凱瑟說，王后比歷代王后都更積極地插手孩子的教養，所以孩子出事時，她也躲不開責難（[[s-2006-kaiser-nursery]] p. 418）。
+
 1789 年，三級會議在凡爾賽開幕後不久，大王子就過世了（[[s-1823-campan-memoires]] 第 2 冊 p. 41）。畫家勒布倫說，那幅家庭像裡有他，王后每次經過都忍不住流淚，就叫人把畫撤下（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信）。
 
 ### 新的王太子
@@ -67,6 +69,7 @@ updated: 2026-11-16
 
 ## 延伸閱讀
 
+- [[s-2006-kaiser-nursery]]
 - [[s-1874-arneth-mercy-correspondance]]
 - [[s-1823-campan-memoires]]
 - [[s-1883-tourzel-memoires]]

@@ -110,5 +110,37 @@
   "desc": "1793 年 1 月國王、10 月王后在這裡被處決。",
   "topic": "t-execution",
   "source": "s-1815-edgeworth-memoirs"
+ },
+ {
+  "name": "聖克盧宮（今已不存）",
+  "lat": 48.8453,
+  "lng": 2.214,
+  "desc": "1790 年夏天王室避暑的地方；王后在這裡秘密接見米拉波。",
+  "topic": "t-tuileries",
+  "source": "s-1883-tourzel-memoires"
+ },
+ {
+  "name": "贖罪小教堂（瑪德蓮舊墓地）",
+  "lat": 48.8738,
+  "lng": 2.3227,
+  "desc": "國王與王后 1793 年被埋在這裡，1815 年挖出遷葬；原址後來蓋了贖罪小教堂。",
+  "topic": "t-reburial",
+  "source": "s-1907-lenotre-last-days-marie-antoinette"
+ },
+ {
+  "name": "聖但尼大教堂",
+  "lat": 48.9356,
+  "lng": 2.3597,
+  "desc": "法國王室墓地；1815 年 1 月 21 日國王與王后遷葬於此。",
+  "topic": "t-reburial",
+  "source": "s-1907-lenotre-last-days-marie-antoinette"
+ },
+ {
+  "name": "王后劇場（小特里亞儂）",
+  "lat": 48.817,
+  "lng": 2.11,
+  "desc": "1780 年落成，王后和朋友們在這裡演戲，使用到 1785 年夏天。",
+  "topic": "t-theatre",
+  "source": "s-2025-masson-theatre-reine"
  }
 ]
