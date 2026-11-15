@@ -2,13 +2,13 @@
 
 > 由 `tools/build.py` 自動產生於 2026-11-16，不要手改。
 
-資料卡 32 張（全文 7）｜主題 10｜實體 3｜問答 0
+資料卡 33 張（全文 7）｜主題 10｜實體 3｜問答 0
 
 ## 主題頁
 
 - [[t-cake]] 讓他們吃蛋糕：一句她沒說過的話 — 革命時罵她的小冊子成千上萬，卻沒有一本提過這句話。
 - [[t-chemise]] 穿內衣見人？一幅肖像引起的醜聞 — 一件白紗裙被罵成內衣，後來卻變成全歐洲的流行。
-- [[t-consummation]] 七年沒有圓房：哥哥從維也納來「開導」 — 全歐洲都在等一個王位繼承人，而國王夫婦七年多都沒有圓房。
+- [[t-consummation]] 七年沒有圓房：哥哥從維也納來「開導」 — 母親、大使、哥哥輪番上陣，全歐洲都在等這對夫妻的好消息。
 - [[t-coppola]] 《凡爾賽拜金女》哪些是真的：從電影走進史料 — 粉紅色的馬卡龍和那雙 Converse，背後各自有一段真正的歷史。
 - [[t-deficit]] 赤字夫人：王后的衣櫥拖垮了法國嗎？ — 她確實愛美、帶動奢華風氣，但國家帳本上最大的洞在別處。
 - [[t-fersen]] 費爾森：塗黑的信裡寫了什麼 — 兩百多年後，X 光讀出了被塗黑的字，但答案還是兩種讀法。
@@ -39,6 +39,7 @@
 - [[s-1883-tourzel-memoires]] Mémoires de Madame la duchesse de Tourzel（第一卷，1791 年「Voyage de Varennes」一節） — 杜爾澤夫人（Duchesse de Tourzel，名字全稱待核）（1883）｜回憶錄｜部分
 - [[s-1887-ap-varennes-reward]] Décret accordant des récompenses à l'occasion de l'arrestation du roi（1791 年 8 月 18 日，Archives parlementaires，第 29 卷） — Archives parlementaires（集體紀錄）（1887）｜檔案｜部分
 - [[s-1887-drouet-barre]] Admission de M. Drouet à la barre, lors de la séance du 24 juin 1791（Archives parlementaires，第 27 卷） — Jean-Baptiste Drouet（陳述人）；Archives parlementaires（1887 年版）（1887）｜檔案｜部分
+- [[s-1989-white-solution]] Was There a Solution to the Ancien Régime's Financial Dilemma? — Eugene Nelson White（1989）｜期刊論文｜部分
 - [[s-1995-sargent-macroeconomic]] Macroeconomic Features of the French Revolution — Thomas J. Sargent; François R. Velde（1995）｜期刊論文｜部分
 - [[s-2002-campion-vincent-marie-antoinette]] Marie-Antoinette et son célèbre dire：deux scénographies et deux siècles de désordres, trois niveaux de communication et trois modes accusatoires — Véronique Campion-Vincent; Christine Shojaei Kawan（2002）｜期刊論文｜部分
 - [[s-2003-tackett-king]] When the King Took Flight — Timothy Tackett（2003）｜專書｜書目
