@@ -76,6 +76,7 @@ updated: 2026-11-15
 - [[s-2026-harvard-gazette-coppola]]
 - [[s-2026-versailles-coppola-exhibition]]
 - 名詞：[[e-petit-trianon]]
+- 相關故事：[[t-table]]、[[t-ghost]]、[[t-vigee]]
 
 ## 還不知道的事
 

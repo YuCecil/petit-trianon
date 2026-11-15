@@ -69,6 +69,7 @@ updated: 2026-11-16
 
 - [[s-1883-tourzel-memoires]]
 - [[s-1823-campan-memoires]]
+- 相關故事：[[t-ghost]]
 
 ## 還不知道的事
 

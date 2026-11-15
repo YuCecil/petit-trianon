@@ -54,7 +54,7 @@ updated: 2026-11-15
 - [[s-1835-vigee-le-brun-souvenirs]]
 - [[s-1823-campan-memoires]]
 - 名詞：[[e-petit-trianon]]
-- 相關故事：[[t-bertin]]、[[t-pouf]]
+- 相關故事：[[t-bertin]]、[[t-pouf]]、[[t-vigee]]
 
 ## 還不知道的事
 

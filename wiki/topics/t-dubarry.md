@@ -61,6 +61,8 @@ updated: 2026-11-16
 
 ## 延伸閱讀
 
+- 相關故事：[[t-vigee]]
+
 - [[s-1874-arneth-mercy-correspondance]]
 - [[s-1823-campan-memoires]]
 - [[s-1835-vigee-le-brun-souvenirs]]

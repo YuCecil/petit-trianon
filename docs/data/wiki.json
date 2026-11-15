@@ -1,13 +1,13 @@
 {
  "built": "2026-11-16",
  "counts": {
-  "sources": 37,
+  "sources": 46,
   "fulltext": 9,
-  "topics": 19,
+  "topics": 25,
   "entities": 3,
   "questions": 0,
-  "events": 62,
-  "places": 13
+  "events": 71,
+  "places": 14
  },
  "pages": [
   {
@@ -92,6 +92,114 @@
    ]
   },
   {
+   "id": "s-1793-tribunal-proces-criminel-testament",
+   "type": "source",
+   "title": "Procès criminel de Marie-Antoinette de Lorraine（Denné 版）",
+   "author": "革命法庭（書記紀錄，無署名）",
+   "year": 1793,
+   "kind": "檔案",
+   "lang": "fr",
+   "venue": "Paris: Denné（書店），1793",
+   "url": "https://archive.org/details/procscrimineldem00mari",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1793,
+    1793
+   ],
+   "topics": [
+    "t-trial"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n1793 年革命法庭對瑪麗．安東尼的審判紀錄（Denné 印行的版本），收錄起訴、問答、證人、陪審團的問題、判決與行刑當天的記述；是審判與行刑最直接的文字依據，但它本身是革命政府的官方文件。\n\n## 三個重點\n\n1. 起訴的主軸是「與外敵勾結」與「煽動內戰」，陪審團四個問題全部答「是」；判決時間為凌晨四點半（OCR 行號 4900–5020）。\n2. 康乃馨事件（獄中紙條）的證人與起訴人的說法：起訴人在論告中說它「不過是監獄裡的陰謀」，不應列入起訴（行號 1498–1545、2225–2290、4878–4884）。\n3. 亂倫指控：陪審團要求王后回答 Hébert 的指控，她回答「在場所有能聽到的人」（即「我向在場所有的母親呼籲」）；紀錄中的字句與通行版有差異（行號 1496–1500）。\n\n## 用了什麼史料\n\n審判公報與法庭的逐字紀錄（1793 年印行）。書名頁有 IA 書目標示「Suivi de son testament」，但被紙條蓋住，正文 OCR 中未找到遺囑全文。\n\n## 跟其他資料的關係\n\n- 與 s-1793-tribunal-proces-marie-antoinette（同一審判的另一個印本）大致相同，但用字與行號不同。\n- 與 s-1824-lafont-daussonne-memoires 的行刑描述有差異：Lafont 說「charrette」、行刑前有剪髮；本紀錄說「voiture de l'exécuteur」，沒有剪髮的記述。\n- 與 s-1865-prevost-proces-recueil 的行刑段落內容相同（Prévost 註明依照審判公報重印）。\n- s-1989-colwill-citoyenne 的論文分析了 Hébert 的報紙與審判中的亂倫指控。\n\n## 值得記住的一句話\n\n<!-- 原文（40 字以內）＋中譯，附行號 -->\n原文：「Cet incident n'est qu'une intrigue de prison」／中譯：「這件事不過是監獄裡的陰謀」（行號 4878–4884，起訴人論告）。\n\n## 還不確定的地方\n\n- 開庭日期：OCR 文字中沒有找到明確的開庭日，需另查。\n- 首頁 OCR 寫「établi le 20 mars」，判決文寫「10 mars」，應為 3 月 10 日。\n- 遺囑全文：書名提到，但正文中找不到。\n",
+   "links": [
+    "t-trial"
+   ]
+  },
+  {
+   "id": "s-1793-tribunal-proces-marie-antoinette",
+   "type": "source",
+   "title": "Procès de Marie-Antoinette: dite de Lorraine d'Autriche, veuve de Louis Capet（通行版）",
+   "author": "革命法庭（書記紀錄，無署名）",
+   "year": 1793,
+   "kind": "檔案",
+   "lang": "fr",
+   "venue": "Paris: chez les marchands de nouveautés，1793",
+   "url": "https://archive.org/details/procsdemarieanto00mari",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1793,
+    1793
+   ],
+   "topics": [
+    "t-trial"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n1793 年同一場審判的另一個印本，內容與 s-1793-tribunal-proces-criminel-testament 大致相同，但字句與段落有差異；引用時要標明是哪一版。\n\n## 三個重點\n\n1. 王后回應亂倫指控時的字句：本版用「pareille interpellation faite à une mère」，另一版用「inculpation」（行號 905–915，對照 Denné 版行號 1496–1500）。\n2. 康乃馨事件的證人：憲兵 Dufresne、看守夫人 Rosay、Richard、Marne Cevaux（夫姓 Arel，在牢中陪了王后 41 天，由 Michonis 與 Jobert 安排）（行號 1498–1545）。\n3. 王后對 Michonis 的對話：「這可能是我最後一次見到您」，王后答是為了囚犯的共同利益（行號 896–900，約）。\n\n## 用了什麼史料\n\n同上：審判公報與法庭的逐字紀錄。\n\n## 跟其他資料的關係\n\n- 與 s-1793-tribunal-proces-criminel-testament 是同一場審判、不同印本。\n- 與 s-1865-prevost-proces-recueil 的內文一致（Prévost 依照審判公報重印）。\n\n## 值得記住的一句話\n\n原文：「J'en appelle à toutes celles qui peuvent se trouver ici」／中譯：「我向在場所有能聽到的人呼籲」（行號 910–915，約）。\n\n## 還不確定的地方\n\n- 本版 OCR 品質較差，部分段落只做了關鍵字搜尋。\n- 與另一印本的行號不同步，兩版的段落需分開核對。\n",
+   "links": [
+    "t-trial"
+   ]
+  },
+  {
+   "id": "s-1795-poncelin-proces-louis-xvi",
+   "type": "source",
+   "title": "路易十六的審判：國民公會的演說、表決與文件彙編（Le procès de Louis XVI, ou collection complète des opinions, discours et …，第 1 冊）",
+   "author": "讓－夏爾．龐塞林．德拉羅什－蒂拉克（Jean-Charles Poncelin de La Roche-Tilhac，據 Internet Archive 元資料，待核）",
+   "year": 1795,
+   "kind": "檔案",
+   "lang": "fr",
+   "venue": "1795 年出版（出版地與印刷者待核）",
+   "url": "https://archive.org/details/leprocsdelouisx01rochgoog",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1792,
+    1793
+   ],
+   "topics": [
+    "t-execution"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n1795 年編成的審判文件彙編，收錄國民公會 1792 年至 1793 年 1 月關於路易十六案的演說、議員意見與判決文件；本站只用其中一則編註，找到死刑票數 366 票（721 票中），但 OCR 掃描，尚未與 Moniteur 核對。\n\n## 三個重點\n\n1. 一則編註寫：721 名投票者中，366 票主張處死（OCR 第 23,670 行附近）。\n2. 彙編收錄多位議員的演說與表決意見（本站只抽查了第 1 冊的少數段落，未逐篇讀完）。\n3. 第 1 冊中有 1793 年 1 月的判決條文相關文字（本站 OCR 未逐字與 Cléry 日記核對）。\n\n## 用了什麼史料\n\n國民公會會議紀錄的摘錄、議員個人發言與判決文件，由 1795 年的編者收錄，有附註。彙編的立場是 1795 年的讀者，不是完全中立的紀錄。\n\n## 跟其他資料的關係\n\n- 與 Cléry 日記（s-1798-clery-journal）：Cléry 說 1793 年 1 月 17 日有第二次點名表決，彙編的編註提到的 366 票與之不矛盾，但沒有直接證實。\n- 與瑪麗－泰蕾茲：她說判決是 1 月 19 日傳達，彙編沒有這個日期。\n\n## 值得記住的一句話\n\n「Sur 721 votans, 366 ont voté pour la mort」（第 1 冊編註，OCR）。\n中譯：「721 名投票者中，366 人投票主張處死。」（本站譯）\n\n## 還不確定的地方\n\n- OCR 掃描，編註文字有缺字；「366」是否正確，需要 Moniteur 或國民公會原始紀錄核對。\n- 編者與出版年、出版地還沒有完全核實，Internet Archive 元資料只寫「Poncelin」。\n- 第 1 冊只做了編註與判決文件的抽查，沒有逐篇讀完發言。\n- 緩刑的第二次表決票數，本站沒有找到。\n",
+   "links": [
+    "t-execution"
+   ]
+  },
+  {
+   "id": "s-1797-laperouse-voyage",
+   "type": "source",
+   "title": "拉佩魯茲《環球航海記》第一卷（Voyage de La Pérouse autour du monde，1797 年版）",
+   "author": "拉佩魯茲（Jean-François de Galaup, comte de La Pérouse）；編者 Louis-Antoine Milet-Mureau",
+   "year": 1797,
+   "kind": "專書",
+   "lang": "fr",
+   "venue": "巴黎（1797 年版；印刷商細節未核）",
+   "url": "https://archive.org/details/voyagedelaprou01lap",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1785,
+    1797
+   ],
+   "topics": [
+    "t-louis"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n1797 年出版的探險正式報告第一卷，收入 1785 年 6 月以國王名義發布的探險指示；指示文字實際由海軍大臣弗勒里厄（Fleurieu）草擬。\n\n## 三個重點\n\n1. 卷首導言（編者 Milet-Mureau）寫明「指示與地理注記」由前海軍大臣弗勒里厄負責，印刷本是以國王名義（「Sa majesté a tracé...」）發布。\n2. 指示的第二部分「政治與商業」開頭寫明，國王的目的是「促進地理學、拓展航海」，同時兼顧政治與商業利益。\n3. 已在文字層確認的內容只到導言與指示段落；沒有在印刷本中看到路易十六的手寫批註。\n\n## 用了什麼史料\n\n- 檔案：raw/books/s-1797-laperouse-voyage-v1.pdf（Internet Archive `voyagedelaprou01lap`，約 23MB）。\n- 文字層：用 `pdftotext -layout` 抽出，暫存於 scratchpad（行號引用以該文字檔為準）。\n- 另以 Wikisource 摘錄（fr.wikisource.org，「Extrait des Instructions générales」，日期 26 juin 1785）比對，內容一致。\n\n## 跟其他資料的關係\n\n- 與 raw/letters 內的國王回憶錄材料無直接重疊。\n- 網路上常說的「國王親筆批註」在這個印刷本上沒有證據；若要查原稿，需另查海軍檔案（未查）。\n\n## 值得記住的一句話\n\n<!-- 原文（40 字以內）＋中譯，附頁碼 -->\n- 「Sa majesté a tracé au sieur de la Pérouse, dans la première partie de cette Instruction, la route qu'il doit suivre」（國王已在指示第一部分為拉佩魯茲畫出航線）。卷一第二部分開頭，行號約 3581–3586。\n\n## 還不確定的地方\n\n- 印刷頁碼未逐頁核對；引文以文字檔行號為準。\n- 1797 年版與 1785 年原稿的差異未比對。\n- Wikisource 摘錄的日期（26 juin 1785）與版畫常用的 29 juin 1785 不一致，原因未查。\n",
+   "links": [
+    "t-louis"
+   ]
+  },
+  {
    "id": "s-1798-clery-journal",
    "type": "source",
    "title": "聖殿塔日記（Journal de ce qui s'est passé à la tour du Temple pendant la captivité de Louis XVI）",
@@ -116,6 +224,33 @@
    "body": "## 一句話\n\n國王的貼身僕人克萊里（Cléry）在聖殿塔服侍國王五個月，他的日記是每天作息、看守羞辱與 1793 年 1 月 20 日告別場面最詳細的目擊紀錄之一；但他是單一當事人，對國王充滿同情，而且寫成時已是事件五年之後。\n\n## 三個重點\n\n1. 每日作息：國王早上禱告、上午教王太子地理、中午散步、下午玩 piquet 或 trictrac、傍晚由「報販」在牆外喊新聞（p. 14–16，頁碼 OCR 推算，±1）。\n2. 1792 年 9 月 3 日：朗巴勒親王妃的頭顱被插在長矛上送到窗外，王后昏倒，市政官 Daujon 擋住暴民（p. 18–21）。\n3. 1793 年 1 月 20 日：全家告別持續「七個一刻鐘」，約一小時四十五分鐘，王后問「Pourquoi pas à sept heures」，國王答應次日七點再見（p. 110），他隔天清晨五點起床，請 Cléry 替他準備彌撒（p. 110–111）。\n\n## 用了什麼史料\n\n作者自述是「唯一持續在場的目擊者」。序言說他以文字或其他方式（未說明）在市政官員監視下做筆記，再整理成日記（序言，無頁碼）。他的敘述有大量對話逐字記錄，但他沒有其他來源可供核對。\n\n## 跟其他資料的關係\n\n- 與 Marie-Thérèse 的回憶（s-1852-marie-therese-temple）重疊最多：朗巴勒親王妃的頭顱、1793 年 1 月 20 日告別、1 月 21 日清晨的彌撒。兩人對王后的反應不同：Cléry 說王后昏倒（p. 20），瑪麗亞說王后站著不動、什麼都沒看（p. 54–55）。\n- 與圖澤爾第 2 冊（s-1883-tourzel-memoires）只在 1792 年 8 月 13 日至 19 日有交集，Tourzel 寫的是入塔的情形，不是 Cléry 寫的日常。\n- 他自己說 1793 年 1 月的事，是自己在場寫的；其他事件（如 1793 年 7 月王太子被帶離、王后移送古監獄）他不在場，本站不採用他的說法。\n\n## 值得記住的一句話\n\n「Seul témoin continuel des traitemens injurieux qu'on a fait souffrir au roi et à sa famille, je puis seul les écrire」（序言，無頁碼）。\n中譯：「只有我一直在場，親眼看見國王和家人受到的屈辱，所以只有我能寫下，也只有我能作證。」（本站譯）\n\n## 還不確定的地方\n\n- 頁碼：掃描本是 Google 掃描的 OCR 文字，頁碼從行內括號推算（例如「( 110 )」），部分頁碼可能差 ±1，已在筆記中註明「約」。\n- 讀到的範圍：本站只精讀了序言、1792 年 8 至 9 月的作息與 9 月 3 日事件、12 月 11 日起的段落、1793 年 1 月 20–21 日。其餘（10 月至 12 月的細節、1793 年 1 月 21 日的後續記述）未完整讀完，見全文筆記。\n- 英譯本（R. C. Dallas 譯，同年倫敦出版）未下載，本站以法文原文為準。\n- 作者與國王的關係：他 1782 年起服侍王室，他自己的說法（對國王、王后有利）需要獨立證據才能採信，例如 Marie-Thérèse 的回憶或市政檔案。\n",
    "links": [
     "t-temple"
+   ]
+  },
+  {
+   "id": "s-1815-edgeworth-memoirs",
+   "type": "source",
+   "title": "埃奇沃斯神父回憶錄：路易十六最後幾小時的敘述（Memoirs of the Abbé Edgeworth, containing his narrative of the last hours of Louis XVI）",
+   "author": "埃奇沃斯神父（Henry Essex Edgeworth de Firmont，1745–1807）；1815 年編者 C. Sneyd Edgeworth",
+   "year": 1815,
+   "kind": "回憶錄",
+   "lang": "en",
+   "venue": "倫敦：Printed for Rowland Hunter，1815",
+   "url": "https://archive.org/details/memoirsabbedgew00edgegoog",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1792,
+    1793
+   ],
+   "topics": [
+    "t-execution"
+   ],
+   "entities": [],
+   "reliability": "低",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n路易十六的隨行神父埃奇沃斯，記下 1793 年 1 月 20 日晚上到 21 日刑場的過程，是唯一和國王一起坐在馬車裡的證人；但書成於事件二十多年後，而且「聖路易之子，升天吧」的說法在書中只有編者的註解。\n\n## 三個重點\n\n1. 1 月 20 日晚上，市政府准許神父行禮，但規定儀式要在七點前結束，國王八點整必須出發（s-1815 約 pp. 68–69）。\n2. 馬車走了近兩小時，車前放了十五到二十面鼓，街上只有武裝市民（s-1815 約 p. 80）。\n3. 編者註：埃奇沃斯被問到「聖路易之子，升天吧」時，既不能否認也不能肯定，因為他事後不記得自己當時說了什麼（s-1815 約 pp. 87–88）。\n\n## 用了什麼史料\n\n埃奇沃斯自己的敘述，由 1815 年編者整理出版，附編者註解。作者沒有用日記或文件，只憑記憶寫作。書中的對話是他的回憶，不是當場記錄。\n\n## 跟其他資料的關係\n\n- 與 Cléry 日記（s-1798-clery-journal）大致一致：六點彌撒、八點出發、國王的平靜態度（Cléry 寫國王離開時說「Partons」）。\n- 與瑪麗－泰蕾茲（s-1852-marie-therese-temple）衝突：國王是否拒絕被綁、誰下令擊鼓、馬車時間。\n- 與桑松家族回憶錄（s-1862-sanson-sept-generations）衝突：綁手的先後次序、擊鼓的命令者。\n\n## 值得記住的一句話\n\n「I die innocent of all the crimes laid to my charge」（英文版 OCR，原文法文未核）。\n中譯：「我無罪地死去。」（本站譯）\n\n## 還不確定的地方\n\n- 英文版頁碼是 Google 掃描的 OCR，標「約」的可能差 ±1。\n- 法文原文（Dernières heures de Louis XVI）未下載，本站只用英文版。\n- 「聖路易之子」的說法，書中只有編者的註；埃奇沃斯本人沒有承認。\n",
+   "links": [
+    "t-execution"
    ]
   },
   {
@@ -157,6 +292,33 @@
     "t-necklace",
     "t-varennes",
     "t-white-hair"
+   ]
+  },
+  {
+   "id": "s-1824-lafont-daussonne-memoires",
+   "type": "source",
+   "title": "Mémoires secrets et universels des malheurs et de la mort de la reine de France",
+   "author": "Gaspard Louis Lafont d'Aussonne",
+   "year": 1824,
+   "kind": "回憶錄",
+   "lang": "fr",
+   "venue": "Paris: Petit，1824",
+   "url": "https://archive.org/details/mmoiressecretse04daugoog",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1793,
+    1793
+   ],
+   "topics": [
+    "t-trial"
+   ],
+   "entities": [],
+   "reliability": "低",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n王黨立場的彙編，收錄了王后在古監獄最後一晚寫給小姑伊莉莎白的信全文，以及 Rosalie Lamorlière、Larivière 等當事人的回憶；史料價值在於這些一手的記述，但編者的立場與事後回憶都需要小心。\n\n## 三個重點\n\n1. 信件：寫於 1793 年 10 月 16 日凌晨四點半（書中印為 1798，應為 OCR 或印刷錯誤）；信的開頭是「C'est à vous, ma sœur, que j'écris, pour la dernière fois」（行號 13300–13305）。\n2. 信的去向：看守長 Lebeau 答應設法轉交，但信被「執政人員」搶走，交給 Fouquier-Tinville（行號 13500–13525）。書中說法互相矛盾：正文說 1816 年才發現（行號 15629），註腳說 Courtois 在熱月從 Robespierre 處找到，二十年後歸還（行號 13530–13540）。\n3. 行刑日的細節：Rosalie 說八點換衣、一名憲兵不肯迴避；她說王后藏好染血的襯衣；Lafont 說 11 點剪髮、11 點 10 分上「charrette」（行號 13734–13746、14815–14870）。這些說法與 1793 紀錄不完全一致。\n\n## 用了什麼史料\n\n- 信件全文（書中說有原件）。\n- 證詞：Rosalie Lamorlière（看守長家的廚娘，約寫於 1823 年）、Boze（畫家，獄中共同被囚者）、Larivière（看守的回憶）。\n- 編者註腳。\n\n## 跟其他資料的關係\n\n- 與 s-1793-tribunal-proces-criminel-testament：行刑車的說法不同（charrette 對 voiture de l'exécuteur）；Lafont 的 Hébert 原話（「你腐化了你自己的兒子」）在 1793 紀錄中沒有找到。\n- 與 s-1865-prevost-proces-recueil：1793 原刊的註記說流傳的「遺囑」是假的（行號 5430–5445），與 Lafont 說信件是王后的原件之間，需要核對兩者是否指同一份文件。\n\n## 值得記住的一句話\n\n<!-- 原文（40 字以內）＋中譯，附行號 -->\n原文：「Je suis calme, comme on l'est quand la conscience ne reproche rien」／中譯：「我很平靜，像良心沒有責備時那樣」（行號 13300–13320，信件，約）。\n\n## 還不確定的地方\n\n- 信件原件是否存在、是否與本書文字一致，本書只說「原件長期公開展示」（行號 13450 註腳），沒有提供影像或館藏號。\n- 「頭髮被剪、被綁手」等行刑細節來自 Lafont 與 Rosalie，1793 紀錄沒有記載。\n- 1836 年版未讀。\n",
+   "links": [
+    "t-trial"
    ]
   },
   {
@@ -204,7 +366,7 @@
    "depth": "部分",
    "period": [
     1841,
-    1841
+    1843
    ],
    "topics": [
     "t-cake"
@@ -212,7 +374,7 @@
    "entities": [],
    "reliability": "中",
    "added": "2026-11-16",
-   "body": "## 一句話\n\n諷刺作家卡爾在 1841 年 11 月號的《黃蜂》裡，已經把「沒有麵包就吃布里歐」當成「一句據說是瑪麗．安東尼說的話」來引用，早於研究者過去認定的 1843 年。\n\n## 三個重點\n\n1. 原句是「S'il n'y a pas de pain, on mangera de la brioche」（沒有麵包，就吃布里歐吧），卡爾稱之為「一句真假難辨、據說是瑪麗．安東尼說的話」（mot vrai ou faux qu'on rapporte de Marie-Antoinette）。\n2. 上下文是在諷刺《辯論日報》（*Journal des Débats*）建議窮苦工人去存錢，不是在攻擊王后本人；他接著又舉霍亂時期警察局長勸人民「喝波爾多紅酒」的例子，說當局常有這種「高見」。\n3. 「據說」兩個字表示，1841 年時這句話安在王后頭上已經是流傳中的說法，不是卡爾發明的。\n\n## 用了什麼史料\n\n卡爾本人的月刊評論。\n\n## 跟其他資料的關係\n\n[[s-2002-campion-vincent-marie-antoinette]] 說目前找到最早把這句話連到王后的是卡爾 1843 年 3 月號（pp. 85–86）；本卡顯示 1841 年 11 月號已出現，兩者並不矛盾（同一作者可能提過不只一次），但最早年份應往前推。\n\n## 值得記住的一句話\n\n原文：「Cet aperçu rappelle le mot vrai ou faux qu'on rapporte de Marie-Antoinette」／中譯：「這番高見，讓人想起那句真假難辨、據說是瑪麗．安東尼說的話」（1841 年 11 月號）\n\n## 還不確定的地方\n\n- Gutenberg 版沒有原書頁碼，本卡以月號定位（文字檔第 5521 行，位於「Novembre 1841」與「Décembre 1841」之間）。\n- 1843 年 3 月號那一段（研究者引用的版本）還沒讀到原文。\n",
+   "body": "## 一句話\n\n諷刺作家卡爾在 1841 年 11 月號的《黃蜂》裡，已經把「沒有麵包就吃布里歐」當成「一句據說是瑪麗．安東尼說的話」來引用，早於研究者過去認定的 1843 年。\n\n## 三個重點\n\n1. 原句是「S'il n'y a pas de pain, on mangera de la brioche」（沒有麵包，就吃布里歐吧），卡爾稱之為「一句真假難辨、據說是瑪麗．安東尼說的話」（mot vrai ou faux qu'on rapporte de Marie-Antoinette）。\n2. 上下文是在諷刺《辯論日報》（*Journal des Débats*）建議窮苦工人去存錢，不是在攻擊王后本人；他接著又舉霍亂時期警察局長勸人民「喝波爾多紅酒」的例子，說當局常有這種「高見」。\n3. 「據說」兩個字表示，1841 年時這句話安在王后頭上已經是流傳中的說法，不是卡爾發明的。\n\n## 用了什麼史料\n\n卡爾本人的月刊評論。\n\n## 跟其他資料的關係\n\n[[s-2002-campion-vincent-marie-antoinette]] 說目前找到最早把這句話連到王后的是卡爾 1843 年 3 月號（pp. 85–86）；本卡顯示 1841 年 11 月號已出現，兩者並不矛盾（同一作者可能提過不只一次），但最早年份應往前推。\n\n## 值得記住的一句話\n\n原文：「Cet aperçu rappelle le mot vrai ou faux qu'on rapporte de Marie-Antoinette」／中譯：「這番高見，讓人想起那句真假難辨、據說是瑪麗．安東尼說的話」（1841 年 11 月號）\n\n## 還不確定的地方\n\n- Gutenberg 版沒有原書頁碼，本卡以月號定位（文字檔第 5521 行，位於「Novembre 1841」與「Décembre 1841」之間）。\n- 同一個電子書檔裡，標為 1843 年 4 月號的段落（文字檔第 21917–21924 行）又提到這句話：卡爾說他看到一本 1760 年的書把它記在一位托斯卡納公爵夫人名下，認為這幾乎證明不是王后說的。研究者引用的是 1843 年 3 月號 pp. 85–86，可能是版本編排不同。\n",
    "links": [
     "s-2002-campion-vincent-marie-antoinette",
     "t-cake"
@@ -243,6 +405,60 @@
    "body": "## 一句話\n\n王后的女兒瑪麗亞十三、四歲時在聖殿塔的回憶，記下 1792 年 8 月至 1793 年 8 月間的家人、看守與分離；這是王室子女唯一留下的囚禁記述，但它是一位當事人的單方說法，而且是編輯後的版本。\n\n## 三個重點\n\n1. 分離的順序：1792 年 10 月國王被單獨遷到另一間房（p. 56）；1793 年 7 月 3 日王太子被強行從母親身邊帶走，王后只有在市政官以殺害孩子相脅時才交出他（p. 75–76）；8 月 2 日凌晨王后被移往古監獄（p. 78–79）。\n2. 看守與羞辱：市政官 Simon（鞋匠）把王太子交給自己後，逼他唱「Carmagnole」、戴紅帽子、說咒罵上帝與家人的話（p. 80–81）；門房 Rocher 會把煙吹向王后（p. 49）。\n3. 1793 年 1 月 21 日：國王下樓時把遺囑與一筆錢交給市政官，錢被留下（p. 65）；行刑前他想向人群說話，被 Santerre 的鼓聲蓋住（p. 66）；下午王后要見 Cléry，Cléry 轉交國王留下的結婚戒指與一包家人的頭髮（pp. 66–67）。\n\n## 用了什麼史料\n\n回憶錄本身。編輯 Pastoret 的序言引用 Sainte-Beuve 的說法，指出這份「聖殿塔的記述」是在塔裡最後幾個月寫的，當時看守的嚴厲程度已經有所放寬（頁碼：序言，p. 120–121 附近，待核）。序言也說她 1791 年的瓦雷納逃亡另有「簡單而天真的回憶」（另一篇，不在本檔內）。\n\n## 跟其他資料的關係\n\n- 與 Cléry 的日記（s-1798-clery-journal）對照：朗巴勒親王妃頭顱（1792 年 9 月 3 日）、1793 年 1 月 20 日的告別、1 月 21 日清晨的彌撒，兩人都有記述，細節有出入（見全文筆記「矛盾」一節）。\n- 與圖澤爾第 2 冊（s-1883-tourzel-memoires）重疊：1792 年 8 月的入塔與 8 月 19–20 日夜間帶走 Lamballe、Tourzel 母女，兩人都寫到，時間與人物一致。\n- 本檔內還附了一篇 Montbel 伯爵的記述（p. 107 之後），不是瑪麗亞寫的，本站不採用為她的說法。\n\n## 值得記住的一句話\n\n「Ils la menacèrent si positivement de tuer l'enfant, si on ne le leur livrait pas」（p. 76）。\n中譯：「他們明確威脅，如果不把孩子交出來就殺了他，於是她的母愛讓她做出了這個犧牲。」（本站譯，OCR 文字，以影像為準）\n\n## 還不確定的地方\n\n- 寫作與出版年：本站讀的是 1852 年版。使用者提到的 1817 與 1892 年版，本站在 Internet Archive 搜尋時沒有找到；如需定年份，要另外核對版本。\n- 頁碼：OCR 文字的頁眉偶有錯字（例如「60」其實是 50），部分頁碼已推算，標「約」。\n- 讀到的範圍：本站讀了 Temple 敘述的大部分（p. 47–81），1793 年 8 月之後（p. 82 起）與 Montbel 附錄未讀完。\n- 王太子在 Simon 手下的細節完全來自她的記述，Simon 本人沒有留下說法，這一點要特別小心。\n",
    "links": [
     "t-temple"
+   ]
+  },
+  {
+   "id": "s-1862-sanson-sept-generations",
+   "type": "source",
+   "title": "七代劊子手：桑松家族回憶錄（Sept générations d'exécuteurs, 1688–1847 ; mémoires des Sanson，本站使用第 3、4 冊）",
+   "author": "亨利．桑松（Henri Sanson，生於 1799，編者），據其祖父 Charles-Henri Sanson（生於 1739）與父 Henri Sanson（1767–1849）的家族記述整理",
+   "year": 1862,
+   "kind": "回憶錄",
+   "lang": "fr",
+   "venue": "巴黎（1862 年起出版，本站只查到第 3、4 冊的 Internet Archive 掃描本；版次待核）",
+   "url": "https://archive.org/details/septgnrationsde00sansgoog（第 3 冊）；https://archive.org/details/septgnration04sansuoft（第 4 冊）",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1792,
+    1793
+   ],
+   "topics": [
+    "t-execution"
+   ],
+   "entities": [],
+   "reliability": "低",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n劊子手桑松家族的回憶錄，第 3 冊有一章詳細寫 1793 年 1 月 21 日的處決，是唯一站在劊子手一方的記述；但它是家族後人的整理，很多細節（包括國王改刀刃的故事）都只有口頭來源。\n\n## 三個重點\n\n1. 1 月 21 日凌晨，桑松先出門，八點離家，九點前到革命廣場；他和兩個弟弟在大衣下帶了劍、短刀與手槍（s-1862 v3 pp. 471–472）。\n2. 1792 年 3 月初，國王在杜樂麗宮看過 Schmidt 的刀刃設計圖，把半月形改成斜線；同年 4 月在畢塞特（Bicêtre）用屍體試驗，斜刃兩次成功（s-1862 v3 pp. 400–404）。這一段只有家族記述，沒有同時代檔案。\n3. 行刑時鼓聲不斷，桑特爾（Santerre）給鼓手打了信號；神父說了「聖路易之子，升天吧」（s-1862 v3 pp. 476–478）。\n\n## 用了什麼史料\n\n編者說，行刑的描述是他祖父 Charles-Henri 的記述，由父親與祖母口述、再由作者（亨利．桑松）整理。書中提到祖父寫給《Thermomètre du jour》的信，但沒有附原文，也沒有日期。書中還提到 Balzac 曾聽家人講述行刑的故事，並用來寫 1830 年代假託回憶錄的前言。\n\n## 跟其他資料的關係\n\n- 與 Cléry 與 Edgeworth 的記述大致一致：國王被帶上刑台、鼓聲、神父在旁。\n- 與 Edgeworth 不同：綁手的次序（桑松說神父先伸手）、擊鼓的命令者（桑特爾）。\n- 與瑪麗－泰蕾茲不同：瑪麗－泰蕾茲說用手帕綁手，桑松沒有寫用什麼綁。\n- 刀刃的故事只在本書出現（本站查到的最早版本）；1831 年的假託回憶錄全文關鍵字檢查，沒有找到這一段。\n\n## 值得記住的一句話\n\n「Français, vous voyez votre roi prêt à mourir pour vous. Puisse mon sang cimenter votre bonheur.」（第 3 冊 p. 476，法文原文）\n中譯：「法國人，你們看見你們的國王準備為你們而死。願我的血為你們的幸福奠基。」（本站譯）\n\n## 還不確定的地方\n\n- 「改刀刃」的情節只有家族口頭來源，沒有議會紀錄或同時代信件；2026 年的研究尚未找到獨立證據。\n- 祖父給《Thermomètre du jour》的信，本站沒有找到原文。\n- 第 3、4 冊頁碼以 1862 年印刷頁碼為準；OCR 有誤，標「約」的可能差 ±1。\n- 本書第 4 冊 p. 82–84 引用的 1793 年報紙，本站沒有查到原報。\n",
+   "links": [
+    "t-execution"
+   ]
+  },
+  {
+   "id": "s-1865-prevost-proces-recueil",
+   "type": "source",
+   "title": "Procès de Marie Antoinette: ci-devant reine des Français; ou, Recueil exact",
+   "author": "Nicolas Prévost（編者）",
+   "year": 1865,
+   "kind": "檔案",
+   "lang": "fr",
+   "venue": "Paris: Chez les principaux libraires，1865（重印 1793 年原刊）",
+   "url": "https://archive.org/details/procsdemarieant00prgoog",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1793,
+    1793
+   ],
+   "topics": [
+    "t-trial"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n1865 年重印的 1793 年審判彙編，編者聲明內文依照審判公報；書中轉載 1793 年原刊的註記，說當時流傳的「懺悔錄」與「遺囑」都是假的，是迷思史的重要證據。\n\n## 三個重點\n\n1. 1793 原刊註記：有人要求在彙編中收入王后的「懺悔」與「遺囑」，原刊編者明確說這些文字「全是假的」，「她兩者都沒有寫」（行號 5430–5445）。\n2. 審判中的 Michonis 對話：「這可能是我最後一次見您」（行號 1605–1612）。\n3. 編者尾聲標明「完全依照審判公報」（行號 5420–5425）。\n\n## 用了什麼史料\n\n1793 年的審判公報（Bulletin du Tribunal criminel révolutionnaire），以及 1793 年原刊的註記。\n\n## 跟其他資料的關係\n\n- 與 s-1793-tribunal-proces-criminel-testament 的審判內容基本一致。\n- 與 s-1824-lafont-daussonne-memoires 的信件：Lafont 說有原件，1793 原刊說流傳的遺囑是假的。兩者是否同一份文件需要另查。\n\n## 值得記住的一句話\n\n<!-- 原文（40 字以內）＋中譯，附行號 -->\n原文：「Il est constant qu'elle n'a fait ni l'un ni l'autre」／中譯：「可以確定，她兩者都沒有寫」（行號 5440–5445，1793 年原刊註記）。\n\n## 還不確定的地方\n\n- 1865 年的重印是否逐字照抄 1793 年原刊，只能從內文判斷，沒有核對原刊。\n- 書的頁碼 OCR 不完整。\n",
+   "links": [
+    "t-trial"
    ]
   },
   {
@@ -464,6 +680,33 @@
    "body": "## 一句話\n\nSainte-Menehould 驛站長 Drouet 在 1791 年 6 月 24 日向制憲國民議會口頭陳述他如何認出國王，是最接近第一手、事發三天後的記錄；但陳述人本人有領賞的利害，原文 OCR 殘缺，引文需對照原頁。\n\n## 三個重點\n\n1. 他的說法：一開始「crut reconnaître la reine」（以為認出王后），然後被一個人與五十里弗爾 assignat 上的頭像「ressemblance subite」（突然的相似）打動（頁 508，OCR 可辨識）。\n2. 他自述猶豫：怕是假警報，先與同伴 Guillaume 商量，之後騎馬走小路先趕到 Varennes，並在城裡設置障礙、通知居民（頁 508–509，OCR 殘缺）。\n3. 這段陳述與 Tourzel 回憶錄（頁 316）都提到 assignat，但細節不同：Drouet 說一開始以為是王后；Tourzel 說是「crut reconnaître le Roi」。\n\n## 用了什麼史料\n\n議會記錄（主持人 Beauharnais 在 1887 年版中的紀錄），是當時的口頭陳述；並非 Drouet 親筆。\n\n## 跟其他資料的關係\n\n- 與 Tourzel 回憶錄（s-1883-tourzel-memoires，頁 316、318）：在 assignat 與 Varennes 城內的障礙等處大致一致（Drouet 段落 OCR 殘缺，需對照原頁）。\n- 與 1791 年 8 月 18 日獎賞法令（s-1887-ap-varennes-reward）相連：陳述後議會給獎；Drouet 的獎金金額未在本次 OCR 中確認。\n- 英文維基說 Drouet 是「Legislative Assembly」邀請陳述；本紀錄的議會是制憲國民議會（Assemblée nationale），此處以原紀錄為準。\n\n## 值得記住的一句話\n\n原文：「je crus reconnaître la reine que j'avais déjà vue」（頁 508，OCR 句子，需對照原頁）\n中譯：「我以為認出了王后，我之前見過她。」（本站譯）\n\n## 還不確定的地方\n\n- OCR 嚴重斷字，大部分句子只能拼湊，逐字引用前必須對照 Gallica 或 Persée 掃描頁。\n- 到達 Sainte-Menehould 的確切時刻未能確認（OCR 讀成 \"sept\" 或 \"11\" 之類）。\n- 主持人答覆（頁 509）未讀。\n- 陳述人有領賞利害，陳述內容未經獨立核對。\n",
    "links": [
     "t-varennes"
+   ]
+  },
+  {
+   "id": "s-1913-moberly-jourdain-adventure",
+   "type": "source",
+   "title": "An Adventure（第二版，附 Appendix 與地圖）",
+   "author": "Charlotte Anne Elizabeth Moberly；Eleanor Frances Jourdain（以筆名 Elizabeth Morison、Frances Lamont 發表）",
+   "year": 1913,
+   "kind": "回憶錄",
+   "lang": "en",
+   "venue": "Macmillan and Co., London（首版 1911 年 1 月）",
+   "url": "https://archive.org/details/adventurewithapp00mobe",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1901,
+    1911
+   ],
+   "topics": [
+    "t-ghost"
+   ],
+   "entities": [],
+   "reliability": "低",
+   "added": "2026-11-16",
+   "body": "## 一句話\n兩位英國女學者 1901 年 8 月在小特里亞儂的花園裡，看見穿 18 世紀服裝的人與景物，後來認為那是王后的「記憶」；1911 年以化名出版的回憶錄，是整個「凡爾賽鬼魂」故事的第一手來源。\n\n## 三個重點\n\n1. 兩位當事人各自寫了紀錄（1901 年 11 月），然後花近十年查證舊檔案、地圖與帳簿。查證的結果有一部分與 1783–1789 年的地圖吻合，例如石窟、小橋、Jeu de Bague 的位置。但書中大部分「符合」是作者自己判斷的，沒有獨立的第三方核對。\n2. 兩人對同一個場景的描述有明顯差異：Morison 看到了一位畫畫的女士，Lamont 完全沒看見；Lamont 聽到的口音，先後被說成「奧地利式法語」「古法語」「布列塔尼口音」。作者沒有把這些差異整理成一個結論。\n3. 作者承認她們在 1904 年之前曾把故事講給別人聽，之後才改為私下查證，並且承認故事在別人的轉述中被改寫（Ch. III，p. 104、118）。這直接影響了可信度。\n\n## 用了什麼史料\n\n- 作者自己的 1901 年紀錄（Morison 與 Lamont 各一份，之後的附錄 A1、A2 為 1901 年 11 月的版本）。\n- 1902–1910 年間的實地查訪：園丁與店家的口述、Archives nationales 的園林帳簿（O¹ 1875–1883 等檔案號）、1783 年的 Mique 地圖與 1780–1792 年的園林工程紀錄、Desjardins《Le Petit Trianon》、De Nolhac《La Reine Marie-Antoinette》、Madame Campan、d'Hezecques《Souvenirs d'un Page》、Frenilly《Souvenirs》、Madame Éloffe 的日記、Julie Lavergne《Légendes de Trianon》。\n- 作者也查過攝影（Pierre Petit、Dufayel）、音樂（Sacchini、Philidor、Monsigny、Grétry、Pergolesi 的歌劇）與 Versailles 市政檔案。\n\n## 跟其他資料的關係\n\n- 與 Campan 的關係：作者稱 Campan 的短文是 1789 年 10 月 5 日「王后去過小特里亞儂」說法的基礎（p. 106），本書的 Marion 傳說則來自 Lavergne（p. 54–57）。\n- 與 Vaudreuil 的關係：作者指出，小亭旁那位有天花痕、穿黑斗篷的男人，符合多數回憶錄對 Vaudreuil 的描述（克里奧爾人、臉有麻子，1785 年演出 Almaviva 時穿黑斗篷）（p. 51–52）；這是作者的推論。\n- 後續評論：W. H. Salter（1950）與 Terry Castle（1991）對本書有重要批評，見 raw/notes/expand-t-ghost.md（外部評論尚未讀全文，只列出書目）。\n\n## 值得記住的一句話\n\n<!-- 原文（40 字以內）＋中譯，附頁碼 -->\n- 原文：「We both think that the Petit Trianon is haunted.」／中譯：「我們都覺得小特里亞儂鬧鬼。」（p. 103）\n- 原文：「It is not our business to explain or to understand」／中譯：「解釋或理解不是我們的責任。」（序言 p. vi）\n\n## 還不確定的地方\n\n- 1901 年 8 月 10 日：書中只寫「八月的一個（星期六）下午」，沒有直接寫日期；8 月 10 日是 SPR 百科等二手資料的說法（我以日曆核對 1901 年 8 月 10 日確為星期六）。\n- 1911 首版與 1913 第二版的文字是否相同，未核對。\n- Gutenberg 版（ebook 64809，依搜尋）因 403 無法下載，未比對。\n- Ch. IV 後段（p. 127–158）與附錄大部分未讀。\n- 作者是否改寫過早期紀錄：Salter 等人（轉引自 SPR 百科）認為後來版本有潤飾；作者與出版社聲明紀錄忠實（出版者注 p. vii），本卡無法判定。\n",
+   "links": [
+    "t-ghost"
    ]
   },
   {
@@ -1092,14 +1335,15 @@
     "s-1874-arneth-mercy-correspondance"
    ],
    "updated": "2026-11-15",
-   "body": "## 一句話說明\n\n這是她最有名的一句話，但她很可能從沒說過：這句話在她還是奧地利小女孩時就已經被寫下，革命期間成千上萬的反王后小冊子沒有一本提過它，要到她死後將近五十年，才開始和她的名字連在一起。\n\n## 迷思與史料\n\n目前找得到的最早法文版本，在盧梭（Jean-Jacques Rousseau）的自傳《懺悔錄》第六卷：他回憶「一位偉大的公主」聽說鄉下人沒有麵包，就說「那就讓他們吃布里歐（brioche）吧」。這位公主沒有名字（[[s-1782-rousseau-confessions]] 卷六）。研究這句話流傳史的兩位學者指出，盧梭在 1765 年就寫完了第一到六卷，而瑪麗．安東尼要到 1770 年才嫁到法國，所以盧梭不可能在講她（[[s-2002-campion-vincent-marie-antoinette]] 「盧梭與路易十八」一節）。\n\n更有力的證據是「沒有」。王后生前和革命期間，攻擊她的歌謠、漫畫、誹謗小冊子多得數不清，罵她酗酒、淫亂、揮霍國庫，連亂倫都編得出來；但研究者翻遍了這些材料，「沒有一行」把這句話安在她身上。研究革命報刊的學者也說沒見過，19 世紀的法國小學課本裡同樣找不到（本站譯）（[[s-2002-campion-vincent-marie-antoinette]] 「三種傳播層次」一節）。\n\n本站找到最早把這句話和王后連在一起的文字，是諷刺作家卡爾（Alphonse Karr）在 1841 年 11 月號的月刊《黃蜂》（*Les Guêpes*）裡寫的。他稱之為「一句真假難辨、據說是瑪麗．安東尼說的話」（本站譯）（[[s-1841-karr-guepes]]）。研究者先前找到的是同一位作家 1843 年 3 月號的段落，他在那裡說這是王后的敵人散布的謠言（[[s-2002-campion-vincent-marie-antoinette]] 註 20）。這時距離她上斷頭台已經將近五十年。所以判定是「查無實據」。\n\n## 故事是這樣的\n\n### 一個比王后還老的笑話\n\n1730 年代，年輕的盧梭寄住在別人家，偷偷弄到幾瓶葡萄酒想在房間裡喝，卻發現沒有麵包配不下去。叫僕人去買太丟臉，自己一個「腰間佩劍的紳士」走進麵包店也太丟臉。這時他想起「一位偉大的公主」的蠢話：沒有麵包，就吃布里歐吧。於是他走遍城裡三十家糕點店，卻一家也不敢進去（[[s-1782-rousseau-confessions]] 卷六）。這段尷尬的小插曲，就是這句名言目前已知最早的法文出處。\n\n{{photo:t-cake-rousseau.jpg|艾倫．拉姆齊（Allan Ramsay）1766 年所畫的盧梭肖像，現藏蘇格蘭國家畫廊。|Wikimedia Commons，Public domain}}\n\n布里歐不是我們想像中插著蠟燭的蛋糕，而是用奶油和雞蛋做的軟麵包，在糕點店買得到，比一般麵包貴。英文世界後來把它翻成 cake，才變成今天大家熟悉的「讓他們吃蛋糕」；《懺悔錄》的古老英譯本裡，這句話其實寫成「讓他們吃糕點（pastry）」（[[s-1782-rousseau-confessions]] 卷六英譯本）。\n\n{{photo:t-cake-chardin.jpg|夏丹（Chardin）1763 年的靜物畫《布里歐》，現藏羅浮宮。|Wikimedia Commons，Public domain}}\n\n這個笑話比盧梭還要老。研究者在 16 世紀的德文笑話集裡，就找到同樣的結構：有權有勢的人聽說窮人沒東西吃，說出一句完全搞不清楚狀況的回答，只是德文版說得粗俗得多。拉脫維亞的民間故事裡，說這話的是德裔地主；中國也有晉惠帝「何不食肉糜」的故事。民俗學家甚至替這類故事編了一個國際分類號碼（AaTh 1446）（[[s-2002-campion-vincent-marie-antoinette]] 「德文與法文的歷史版本」一節）。\n\n### 在法國，它換過好幾個主人\n\n在法國，這句話也不是只屬於瑪麗．安東尼。大革命前，人們常把它安到國王的姑姑維克托瓦夫人（Madame Victoire）、或龐巴度夫人、杜巴利夫人這類受寵的貴婦頭上（[[s-2002-campion-vincent-marie-antoinette]] 「18 世紀的歸屬」一節）。1791 年，路易十六的弟弟（後來的路易十八）在回憶錄裡講了個家族笑話：一百年前路易十四的王后瑪麗－泰蕾絲說過「天哪，他們為什麼不吃點派皮呢？」（本站譯）（[[s-2002-campion-vincent-marie-antoinette]] 「盧梭與路易十八」一節）\n\n研究者整理了上百個版本，發現一個有趣的規律：說這句話的如果是女人，故事要嘲笑的是她「笨」、不知人間疾苦；說話的如果是男人，故事就變成「殘忍」，是在羞辱窮人（[[s-2002-campion-vincent-marie-antoinette]] 「三種指控方式」一節）。瑪麗．安東尼的版本屬於前者。\n\n### 卡爾的玩笑話\n\n1841 年 11 月，卡爾在《黃蜂》裡嘲笑《辯論日報》給失業工人的建議：去銀行存錢。他說，這番高見讓人想起那句「據說是瑪麗．安東尼說的話」：「沒有麵包，就吃布里歐吧。」緊接著他又舉一個例子：霍亂流行時，巴黎警察局長貼出告示，勸人民別吃壞東西、多喝波爾多紅酒（[[s-1841-karr-guepes]]）。卡爾要諷刺的是當局，不是王后；王后只是一個大家都懂的比喻。\n\n「據說」兩個字很重要。它表示到了 1841 年，這句話安在王后頭上，已經是巴黎人聽過的說法，卡爾只是順手借來用（[[s-1841-karr-guepes]]）。\n\n{{photo:t-cake-karr.jpg|德斯布坦（Marcellin Desboutin）1878 年所作的卡爾肖像，是後來的作品，不是卡爾同時代的圖；現藏大都會博物館。|Wikimedia Commons，CC0}}\n\n### 一本童書把它帶進教室\n\n這句話最廣為流傳的版本，出自一本童書。1931 年，德國作家凱斯特納（Erich Kästner）在小說《小不點和安東》裡寫了一段：巴黎的窮人走到凡爾賽，在王宮前喊「我們沒有麵包」，王后從窗戶探頭，問軍官他們要什麼，聽了以後很驚訝：「他們沒有麵包？那就吃布里歐吧！」書裡接著說，她不是在嘲笑窮人，她只是根本不知道什麼是貧窮，「一年後她就被砍了頭」（本站譯）（[[s-2002-campion-vincent-marie-antoinette]] 「兩種場景」一節）。研究者指出，這本書到 1999 年已經印到第 117 版、翻成 25 種語言，在德國對這個故事的傳播影響很大；而它連時間都搞錯了，王后被處決是在那次遊行四年之後（[[s-2002-campion-vincent-marie-antoinette]] 「兩種場景」一節及註 2）。\n\n### 為什麼偏偏是她\n\n諷刺的是，她剛到法國時，巴黎人對她的想像正好相反。1770 年 12 月，駐法大使梅西向維也納報告：前陣子麵包降價，巴黎的老百姓在街上、市場上大聲說，「一定是太子妃替窮人求來的」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 108，1770 年 12 月 17 日報告）。同一封信還說，她聽到有人安慰她「馬廄的下人心腸硬」，很不以為然（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 108）。\n\n\n這句話到今天還在被引用。1997 年，法國哲學家芬基爾克勞（Alain Finkielkraut）在雜誌訪談中拿它比喻菁英對窮人說教；讀者馬上投書抗議，說這是一句「先後安在龐巴度夫人、杜巴利夫人和瑪麗．安東尼頭上的假話」（本站譯）（[[s-2002-campion-vincent-marie-antoinette]] 「當代的用法」一節）。研究者說，連學者一離開自己的專業，也會把這句話當真；反倒是研究法國大革命的歷史學家，幾乎都不提它（[[s-2002-campion-vincent-marie-antoinette]] 「當代的用法」一節）。\n\n研究者的結論是：王后在世時的形象非常負面，人們叫她「赤字夫人」「否決夫人」，鑽石項鍊事件又讓她名聲更壞。但時間一久，這些複雜的政治與私人恩怨太難記了；「讓他們吃布里歐」簡單、直接、好記，於是變成了整個革命前時代的縮寫：饑荒、剝削，加上貴族的輕浮與傲慢。其他曾經「說過」這句話的人慢慢被遺忘，只剩下最有象徵意義的她（[[s-2002-campion-vincent-marie-antoinette]] 結論）。\n\n## 研究者怎麼看\n\n- 民俗學者坎皮翁－文森（Véronique Campion-Vincent）與肖賈伊．卡萬（Christine Shojaei Kawan）把這句話歸入國際民間故事分類裡的同一型笑話，認為它跟王后的連結是後人加上的，而且主要在一般讀物和民間流傳，嚴肅的歷史著作幾乎不提它（[[s-2002-campion-vincent-marie-antoinette]]）。\n- 她們也指出，民俗學大師湯普森（Stith Thompson）在分類這個故事時寫道，不管王后犯過什麼錯，她都不太可能說過這麼殘忍的話（[[s-2002-campion-vincent-marie-antoinette]] 「兩種場景」一節）。\n- 法國大革命史家勒費弗爾（Georges Lefebvre）在名著《1789 年大恐慌》裡，也把這句話當成錯誤的歸屬（[[s-2002-campion-vincent-marie-antoinette]] 「三種傳播層次」一節及註 28）。\n- 盧梭寫第六卷的確切年份，各家說法在 1765 到 1769 年之間，但都早於 1770 年她嫁到法國，不影響結論（[[s-2002-campion-vincent-marie-antoinette]]）。\n\n## 延伸閱讀\n\n- [[s-2002-campion-vincent-marie-antoinette]]\n- [[s-1782-rousseau-confessions]]\n- [[s-1841-karr-guepes]]\n- [[s-1874-arneth-mercy-correspondance]]\n- 相關故事：[[t-october-days]]、[[t-deficit]]\n\n## 還不知道的事\n\n- 卡爾 1843 年 3 月號那一段、以及他提到的「1760 年的書」，本站還沒讀到原文。\n- 1841 年以前，有沒有其他人把這句話安到王后頭上？還需要搜尋 19 世紀初的報刊與回憶錄。\n- 英文什麼時候開始把 brioche 譯成 cake，目前沒有找到學術來源。\n- 想再補：Chantal Thomas《邪惡的王后》（*La Reine scélérate*, 1989）裡對反王后小冊子的整理。\n",
+   "body": "## 一句話說明\n\n這是她最有名的一句話，但她很可能從沒說過：這句話在她還是奧地利小女孩時就已經被寫下，革命期間成千上萬的反王后小冊子沒有一本提過它，要到她死後將近五十年，才開始和她的名字連在一起。\n\n## 迷思與史料\n\n目前找得到的最早法文版本，在盧梭（Jean-Jacques Rousseau）的自傳《懺悔錄》第六卷：他回憶「一位偉大的公主」聽說鄉下人沒有麵包，就說「那就讓他們吃布里歐（brioche）吧」。這位公主沒有名字（[[s-1782-rousseau-confessions]] 卷六）。研究這句話流傳史的兩位學者指出，盧梭在 1765 年就寫完了第一到六卷，而瑪麗．安東尼要到 1770 年才嫁到法國，所以盧梭不可能在講她（[[s-2002-campion-vincent-marie-antoinette]] 「盧梭與路易十八」一節）。\n\n更有力的證據是「沒有」。王后生前和革命期間，攻擊她的歌謠、漫畫、誹謗小冊子多得數不清，罵她酗酒、淫亂、揮霍國庫，連亂倫都編得出來；但研究者翻遍了這些材料，「沒有一行」把這句話安在她身上。研究革命報刊的學者也說沒見過，19 世紀的法國小學課本裡同樣找不到（本站譯）（[[s-2002-campion-vincent-marie-antoinette]] 「三種傳播層次」一節）。\n\n本站找到最早把這句話和王后連在一起的文字，是諷刺作家卡爾（Alphonse Karr）在 1841 年 11 月號的月刊《黃蜂》（*Les Guêpes*）裡寫的。他稱之為「一句真假難辨、據說是瑪麗．安東尼說的話」（本站譯）（[[s-1841-karr-guepes]]）。研究者先前找到的是同一位作家 1843 年 3 月號的段落，他在那裡說這是王后的敵人散布的謠言（[[s-2002-campion-vincent-marie-antoinette]] 註 20）。這時距離她上斷頭台已經將近五十年。所以判定是「查無實據」。\n\n## 故事是這樣的\n\n### 一個比王后還老的笑話\n\n1730 年代，年輕的盧梭寄住在別人家，偷偷弄到幾瓶葡萄酒想在房間裡喝，卻發現沒有麵包配不下去。叫僕人去買太丟臉，自己一個「腰間佩劍的紳士」走進麵包店也太丟臉。這時他想起「一位偉大的公主」的蠢話：沒有麵包，就吃布里歐吧。於是他走遍城裡三十家糕點店，卻一家也不敢進去（[[s-1782-rousseau-confessions]] 卷六）。這段尷尬的小插曲，就是這句名言目前已知最早的法文出處。\n\n{{photo:t-cake-rousseau.jpg|艾倫．拉姆齊（Allan Ramsay）1766 年所畫的盧梭肖像，現藏蘇格蘭國家畫廊。|Wikimedia Commons，Public domain}}\n\n布里歐不是我們想像中插著蠟燭的蛋糕，而是用奶油和雞蛋做的軟麵包，在糕點店買得到，比一般麵包貴。英文世界後來把它翻成 cake，才變成今天大家熟悉的「讓他們吃蛋糕」；《懺悔錄》的古老英譯本裡，這句話其實寫成「讓他們吃糕點（pastry）」（[[s-1782-rousseau-confessions]] 卷六英譯本）。\n\n{{photo:t-cake-chardin.jpg|夏丹（Chardin）1763 年的靜物畫《布里歐》，現藏羅浮宮。|Wikimedia Commons，Public domain}}\n\n這個笑話比盧梭還要老。研究者在 16 世紀的德文笑話集裡，就找到同樣的結構：有權有勢的人聽說窮人沒東西吃，說出一句完全搞不清楚狀況的回答，只是德文版說得粗俗得多。拉脫維亞的民間故事裡，說這話的是德裔地主；中國也有晉惠帝「何不食肉糜」的故事。民俗學家甚至替這類故事編了一個國際分類號碼（AaTh 1446）（[[s-2002-campion-vincent-marie-antoinette]] 「德文與法文的歷史版本」一節）。\n\n### 在法國，它換過好幾個主人\n\n在法國，這句話也不是只屬於瑪麗．安東尼。大革命前，人們常把它安到國王的姑姑維克托瓦夫人（Madame Victoire）、或龐巴度夫人、杜巴利夫人這類受寵的貴婦頭上（[[s-2002-campion-vincent-marie-antoinette]] 「18 世紀的歸屬」一節）。1791 年，路易十六的弟弟（後來的路易十八）在回憶錄裡講了個家族笑話：一百年前路易十四的王后瑪麗－泰蕾絲說過「天哪，他們為什麼不吃點派皮呢？」（本站譯）（[[s-2002-campion-vincent-marie-antoinette]] 「盧梭與路易十八」一節）\n\n研究者整理了上百個版本，發現一個有趣的規律：說這句話的如果是女人，故事要嘲笑的是她「笨」、不知人間疾苦；說話的如果是男人，故事就變成「殘忍」，是在羞辱窮人（[[s-2002-campion-vincent-marie-antoinette]] 「三種指控方式」一節）。瑪麗．安東尼的版本屬於前者。\n\n### 卡爾的玩笑話\n\n1841 年 11 月，卡爾在《黃蜂》裡嘲笑《辯論日報》給失業工人的建議：去銀行存錢。他說，這番高見讓人想起那句「據說是瑪麗．安東尼說的話」：「沒有麵包，就吃布里歐吧。」緊接著他又舉一個例子：霍亂流行時，巴黎警察局長貼出告示，勸人民別吃壞東西、多喝波爾多紅酒（[[s-1841-karr-guepes]]）。卡爾要諷刺的是當局，不是王后；王后只是一個大家都懂的比喻。\n\n「據說」兩個字很重要。它表示到了 1841 年，這句話安在王后頭上，已經是巴黎人聽過的說法，卡爾只是順手借來用（[[s-1841-karr-guepes]]）。\n\n一年半以後，卡爾自己出來替王后澄清。在 1843 年春天的《黃蜂》裡，他寫道：大家還記得當年人們散布謠言，說可憐的王后聽說人民沒有麵包，就回答「那就讓他們吃布里歐吧」，激起了多大的憤怒；而他前幾天偶然看到一本 1760 年出版的書，把同一句話記在一位托斯卡納公爵夫人名下，「這幾乎證明了這句話不是瑪麗．安東尼說的，而是被人翻出來、拿去攻擊她的」（本站譯）（[[s-1841-karr-guepes]] 1843 年春季號；[[s-2002-campion-vincent-marie-antoinette]] 註 20）。\n\n{{photo:t-cake-karr.jpg|德斯布坦（Marcellin Desboutin）1878 年所作的卡爾肖像，是後來的作品，不是卡爾同時代的圖；現藏大都會博物館。|Wikimedia Commons，CC0}}\n\n### 一本童書把它帶進教室\n\n這句話最廣為流傳的版本，出自一本童書。1931 年，德國作家凱斯特納（Erich Kästner）在小說《小不點和安東》裡寫了一段：巴黎的窮人走到凡爾賽，在王宮前喊「我們沒有麵包」，王后從窗戶探頭，問軍官他們要什麼，聽了以後很驚訝：「他們沒有麵包？那就吃布里歐吧！」書裡接著說，她不是在嘲笑窮人，她只是根本不知道什麼是貧窮，「一年後她就被砍了頭」（本站譯）（[[s-2002-campion-vincent-marie-antoinette]] 「兩種場景」一節）。研究者指出，這本書到 1999 年已經印到第 117 版、翻成 25 種語言，在德國對這個故事的傳播影響很大；而它連時間都搞錯了，王后被處決是在那次遊行四年之後（[[s-2002-campion-vincent-marie-antoinette]] 「兩種場景」一節及註 2）。\n\n### 為什麼偏偏是她\n\n諷刺的是，她剛到法國時，巴黎人對她的想像正好相反。1770 年 12 月，駐法大使梅西向維也納報告：前陣子麵包降價，巴黎的老百姓在街上、市場上大聲說，「一定是太子妃替窮人求來的」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 108，1770 年 12 月 17 日報告）。同一封信還說，她聽到有人安慰她「馬廄的下人心腸硬」，很不以為然（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 108）。\n\n\n這句話到今天還在被引用。1997 年，法國哲學家芬基爾克勞（Alain Finkielkraut）在雜誌訪談中拿它比喻菁英對窮人說教；讀者馬上投書抗議，說這是一句「先後安在龐巴度夫人、杜巴利夫人和瑪麗．安東尼頭上的假話」（本站譯）（[[s-2002-campion-vincent-marie-antoinette]] 「當代的用法」一節）。研究者說，連學者一離開自己的專業，也會把這句話當真；反倒是研究法國大革命的歷史學家，幾乎都不提它（[[s-2002-campion-vincent-marie-antoinette]] 「當代的用法」一節）。\n\n研究者的結論是：王后在世時的形象非常負面，人們叫她「赤字夫人」「否決夫人」，鑽石項鍊事件又讓她名聲更壞。但時間一久，這些複雜的政治與私人恩怨太難記了；「讓他們吃布里歐」簡單、直接、好記，於是變成了整個革命前時代的縮寫：饑荒、剝削，加上貴族的輕浮與傲慢。其他曾經「說過」這句話的人慢慢被遺忘，只剩下最有象徵意義的她（[[s-2002-campion-vincent-marie-antoinette]] 結論）。\n\n## 研究者怎麼看\n\n- 民俗學者坎皮翁－文森（Véronique Campion-Vincent）與肖賈伊．卡萬（Christine Shojaei Kawan）把這句話歸入國際民間故事分類裡的同一型笑話，認為它跟王后的連結是後人加上的，而且主要在一般讀物和民間流傳，嚴肅的歷史著作幾乎不提它（[[s-2002-campion-vincent-marie-antoinette]]）。\n- 她們也指出，民俗學大師湯普森（Stith Thompson）在分類這個故事時寫道，不管王后犯過什麼錯，她都不太可能說過這麼殘忍的話（[[s-2002-campion-vincent-marie-antoinette]] 「兩種場景」一節）。\n- 法國大革命史家勒費弗爾（Georges Lefebvre）在名著《1789 年大恐慌》裡，也把這句話當成錯誤的歸屬（[[s-2002-campion-vincent-marie-antoinette]] 「三種傳播層次」一節及註 28）。\n- 盧梭寫第六卷的確切年份，各家說法在 1765 到 1769 年之間，但都早於 1770 年她嫁到法國，不影響結論（[[s-2002-campion-vincent-marie-antoinette]]）。\n\n## 延伸閱讀\n\n- [[s-2002-campion-vincent-marie-antoinette]]\n- [[s-1782-rousseau-confessions]]\n- [[s-1841-karr-guepes]]\n- [[s-1874-arneth-mercy-correspondance]]\n- 相關故事：[[t-october-days]]、[[t-deficit]]、[[t-table]]\n\n## 還不知道的事\n\n- 卡爾提到的那本「1760 年的書」是哪一本，研究者也還沒找到。本站讀到的版本把這段放在 1843 年 4 月號，研究者引用的是 3 月號，可能是版本編排不同。\n- 1841 年以前，有沒有其他人把這句話安到王后頭上？還需要搜尋 19 世紀初的報刊與回憶錄。\n- 英文什麼時候開始把 brioche 譯成 cake，目前沒有找到學術來源。\n- 想再補：Chantal Thomas《邪惡的王后》（*La Reine scélérate*, 1989）裡對反王后小冊子的整理。\n",
    "links": [
     "s-1782-rousseau-confessions",
     "s-1841-karr-guepes",
     "s-1874-arneth-mercy-correspondance",
     "s-2002-campion-vincent-marie-antoinette",
     "t-deficit",
-    "t-october-days"
+    "t-october-days",
+    "t-table"
    ]
   },
   {
@@ -1120,7 +1364,7 @@
     "s-1823-campan-memoires"
    ],
    "updated": "2026-11-15",
-   "body": "## 一句話說明\n\n1783 年，宮廷畫家維傑．勒布倫把王后畫成戴草帽、穿一件寬鬆白紗裙的樣子，掛在巴黎沙龍展上，觀眾覺得像看見王后穿著內衣；但這件「內衣」不久就以「王后式襯衣裙」的名字流行到全歐洲。\n\n## 故事是這樣的\n\n### 正式像與便服\n\n在凡爾賽，王后的正式服裝是撐得很寬的大裙子、層層絲綢與刺繡。替她畫像的維傑．勒布倫（Élisabeth Vigée Le Brun）回憶，自己第一次畫王后，畫的就是這種正式像：撐著大裙架、穿緞子長裙、手拿一朵玫瑰，要送給王后的哥哥約瑟夫二世，王后還另外要了兩份複製品，一份送俄國女皇（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信）。\n\n{{photo:t-chemise-rose.jpg|維傑．勒布倫 1783 年所畫的《拿玫瑰的瑪麗．安東尼》，現藏凡爾賽宮。|Wikimedia Commons，Public domain}}\n\n但勒布倫說，她其實比較喜歡畫「不穿盛裝、尤其不撐大裙架」的王后（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信）。王后自己在小特里亞儂也穿得很輕鬆。服裝史研究者指出，那件後來惹出風波的白色長裙，是王后和她的裁縫羅絲．貝爾坦（Rose Bertin）一起設計、原本就是在小特里亞儂穿的（[[s-2024-pearce-creole]] PDF 第 1 頁）。康龐夫人也說，夏天在小特里亞儂，王后和女伴們的「盛裝」只有白色平紋細布長裙、薄紗披肩和大草帽，「這是當時所有女性普遍採用的打扮」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 298；另見 [[t-hameau]]）。\n\n### 沙龍展上的醜聞\n\n於是有了那幅畫：王后「戴著草帽，穿著白色平紋細布的裙子，袖子橫向打褶」。勒布倫寫道，這幅畫在沙龍展出時，「壞心的人少不了要說，王后讓人把她畫成只穿著襯衣」（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信）。不過她也說，這幅畫照樣大受歡迎：展覽快結束時，巴黎的劇院還上演一齣小戲《藝術的聚會》，劇中有個女演員扮成她在作畫，觀眾紛紛轉頭向坐在包廂裡的她鼓掌（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信）。\n\n{{photo:t-chemise-gaulle.jpg|維傑．勒布倫 1783 年所畫的《穿襯衣裙的瑪麗．安東尼》（en gaulle），此為 Commons 上的翻拍照片。|Wikimedia Commons，CC BY-SA 2.0}}\n\n這件裙子為什麼讓人那麼不舒服？一方面，寬鬆、白色、薄紗的樣子，確實很像當時貼身穿的襯衣；另一方面，有研究者指出，這種平紋細布很可能是英國棉布，被認為冒犯了法國本土的絲綢業（[[s-2024-pearce-creole]] PDF 第 1 頁、註 2）。王后穿外國便宜布料，在批評者眼裡等於不顧國家產業。\n\n### 從加勒比海來的裙子\n\n這件裙子的源頭也很有意思。研究者認為，它最初是改編自法屬加勒比海殖民地白人女性的家常衣著：那裡天氣炎熱，女性日常穿一件寬鬆的極細平紋細布長袍，回到法國時也把這種穿法帶了回來。王后自己的衣櫥紀錄裡，就把它叫做「克里奧爾式長裙」（robe à la creole）（[[s-2024-pearce-creole]] PDF 第 2、5 頁）。\n\n醜聞沒有阻止流行。1784 年，巴黎的時尚版畫刊出根據這幅畫畫的裙子，把它命名為「王后式襯衣裙」（chemise à la reine），這個名字從此傳開（[[s-2024-pearce-creole]] PDF 第 1 頁、註 5）。同一年，英國的德文郡公爵夫人喬治安娜也穿上了這種裙子，據說還是王后親自送她的（[[s-2024-pearce-creole]] PDF 第 7 頁、註 26）。到 1790 年，德國的時尚雜誌已經在介紹英國的改良版（[[s-2024-pearce-creole]] PDF 第 6–7 頁）。據康龐夫人說，到了後來，除了新年、復活節、聖誕節這些大典禮之外，王后平常只穿白色的平紋細布或塔夫綢長裙（[[s-1823-campan-memoires]] 第 3 冊）。\n\n### 畫家與王后\n\n勒布倫和王后之間，還有一個她自己記得特別清楚的小故事。有一次她懷著第二胎、身體不舒服，錯過了約好的畫像時間，隔天趕去凡爾賽道歉。王后本來要出門，卻取消散步，留下來讓她畫。勒布倫一急，打翻了顏料盒，畫筆掉了一地，她正要彎腰去撿，王后說：「別動，別動，你懷孕這麼重，不能彎腰。」然後自己把畫筆撿了起來（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信）。這段只有勒布倫一個人的說法，而她一輩子都是王后的崇拜者。\n\n## 研究者怎麼看\n\n- 服裝史研究者皮爾斯（Pearce）2024 年的研究主張，襯衣裙的源頭是法屬加勒比的殖民地服飾，並把它放回奴隸制與棉花貿易的脈絡裡看（[[s-2024-pearce-creole]]）。她也轉述其他研究者的推測：1779 年在巴黎上演、背景設在加勒比的芭蕾舞劇《米爾札》（*Mirza*），可能影響了王后（[[s-2024-pearce-creole]] PDF 第 5 頁）。\n- 「傷害法國絲綢業」的說法，目前本站只讀到研究者的一句概括，引用的原始研究還沒讀到，見「還不知道的事」。\n\n## 延伸閱讀\n\n- [[s-2024-pearce-creole]]\n- [[s-1835-vigee-le-brun-souvenirs]]\n- [[s-1823-campan-memoires]]\n- 名詞：[[e-petit-trianon]]\n- 相關故事：[[t-bertin]]、[[t-pouf]]\n\n## 還不知道的事\n\n- 維傑．勒布倫在回憶錄裡寫「我們那時是 1786 年」，研究者一般說這幅畫是 1783 年展出的；可能是她記錯，也可能是兩幅不同的畫。本站還沒讀到 1783 年沙龍展的當時評論原文（例如《祕密回憶錄》*Mémoires secrets*），所以先不定論。\n- 她最後一次替王后畫像是在小特里亞儂，畫的是王后與孩子們的大幅家庭像，1788 年沙龍展出（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信）；這幅畫的故事待寫。\n- 「畫被撤下、改掛一幅穿絲綢禮服、拿玫瑰的版本」是常見的說法，本站還沒有讀到可靠出處。\n- 「傷害絲綢業」的原始研究（Ashmore 2012、Lubrich 2016）、Caroline Weber《時尚王后》（*Queen of Fashion*）、Kimberly Chrisman-Campbell《時尚受害者》（*Fashion Victims*）待讀。\n",
+   "body": "## 一句話說明\n\n1783 年，宮廷畫家維傑．勒布倫把王后畫成戴草帽、穿一件寬鬆白紗裙的樣子，掛在巴黎沙龍展上，觀眾覺得像看見王后穿著內衣；但這件「內衣」不久就以「王后式襯衣裙」的名字流行到全歐洲。\n\n## 故事是這樣的\n\n### 正式像與便服\n\n在凡爾賽，王后的正式服裝是撐得很寬的大裙子、層層絲綢與刺繡。替她畫像的維傑．勒布倫（Élisabeth Vigée Le Brun）回憶，自己第一次畫王后，畫的就是這種正式像：撐著大裙架、穿緞子長裙、手拿一朵玫瑰，要送給王后的哥哥約瑟夫二世，王后還另外要了兩份複製品，一份送俄國女皇（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信）。\n\n{{photo:t-chemise-rose.jpg|維傑．勒布倫 1783 年所畫的《拿玫瑰的瑪麗．安東尼》，現藏凡爾賽宮。|Wikimedia Commons，Public domain}}\n\n但勒布倫說，她其實比較喜歡畫「不穿盛裝、尤其不撐大裙架」的王后（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信）。王后自己在小特里亞儂也穿得很輕鬆。服裝史研究者指出，那件後來惹出風波的白色長裙，是王后和她的裁縫羅絲．貝爾坦（Rose Bertin）一起設計、原本就是在小特里亞儂穿的（[[s-2024-pearce-creole]] PDF 第 1 頁）。康龐夫人也說，夏天在小特里亞儂，王后和女伴們的「盛裝」只有白色平紋細布長裙、薄紗披肩和大草帽，「這是當時所有女性普遍採用的打扮」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 298；另見 [[t-hameau]]）。\n\n### 沙龍展上的醜聞\n\n於是有了那幅畫：王后「戴著草帽，穿著白色平紋細布的裙子，袖子橫向打褶」。勒布倫寫道，這幅畫在沙龍展出時，「壞心的人少不了要說，王后讓人把她畫成只穿著襯衣」（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信）。不過她也說，這幅畫照樣大受歡迎：展覽快結束時，巴黎的劇院還上演一齣小戲《藝術的聚會》，劇中有個女演員扮成她在作畫，觀眾紛紛轉頭向坐在包廂裡的她鼓掌（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信）。\n\n{{photo:t-chemise-gaulle.jpg|維傑．勒布倫 1783 年所畫的《穿襯衣裙的瑪麗．安東尼》（en gaulle），此為 Commons 上的翻拍照片。|Wikimedia Commons，CC BY-SA 2.0}}\n\n這件裙子為什麼讓人那麼不舒服？一方面，寬鬆、白色、薄紗的樣子，確實很像當時貼身穿的襯衣；另一方面，有研究者指出，這種平紋細布很可能是英國棉布，被認為冒犯了法國本土的絲綢業（[[s-2024-pearce-creole]] PDF 第 1 頁、註 2）。王后穿外國便宜布料，在批評者眼裡等於不顧國家產業。\n\n### 從加勒比海來的裙子\n\n這件裙子的源頭也很有意思。研究者認為，它最初是改編自法屬加勒比海殖民地白人女性的家常衣著：那裡天氣炎熱，女性日常穿一件寬鬆的極細平紋細布長袍，回到法國時也把這種穿法帶了回來。王后自己的衣櫥紀錄裡，就把它叫做「克里奧爾式長裙」（robe à la creole）（[[s-2024-pearce-creole]] PDF 第 2、5 頁）。\n\n醜聞沒有阻止流行。1784 年，巴黎的時尚版畫刊出根據這幅畫畫的裙子，把它命名為「王后式襯衣裙」（chemise à la reine），這個名字從此傳開（[[s-2024-pearce-creole]] PDF 第 1 頁、註 5）。同一年，英國的德文郡公爵夫人喬治安娜也穿上了這種裙子，據說還是王后親自送她的（[[s-2024-pearce-creole]] PDF 第 7 頁、註 26）。到 1790 年，德國的時尚雜誌已經在介紹英國的改良版（[[s-2024-pearce-creole]] PDF 第 6–7 頁）。據康龐夫人說，到了後來，除了新年、復活節、聖誕節這些大典禮之外，王后平常只穿白色的平紋細布或塔夫綢長裙（[[s-1823-campan-memoires]] 第 3 冊）。\n\n### 畫家與王后\n\n勒布倫和王后之間，還有一個她自己記得特別清楚的小故事。有一次她懷著第二胎、身體不舒服，錯過了約好的畫像時間，隔天趕去凡爾賽道歉。王后本來要出門，卻取消散步，留下來讓她畫。勒布倫一急，打翻了顏料盒，畫筆掉了一地，她正要彎腰去撿，王后說：「別動，別動，你懷孕這麼重，不能彎腰。」然後自己把畫筆撿了起來（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信）。這段只有勒布倫一個人的說法，而她一輩子都是王后的崇拜者。\n\n## 研究者怎麼看\n\n- 服裝史研究者皮爾斯（Pearce）2024 年的研究主張，襯衣裙的源頭是法屬加勒比的殖民地服飾，並把它放回奴隸制與棉花貿易的脈絡裡看（[[s-2024-pearce-creole]]）。她也轉述其他研究者的推測：1779 年在巴黎上演、背景設在加勒比的芭蕾舞劇《米爾札》（*Mirza*），可能影響了王后（[[s-2024-pearce-creole]] PDF 第 5 頁）。\n- 「傷害法國絲綢業」的說法，目前本站只讀到研究者的一句概括，引用的原始研究還沒讀到，見「還不知道的事」。\n\n## 延伸閱讀\n\n- [[s-2024-pearce-creole]]\n- [[s-1835-vigee-le-brun-souvenirs]]\n- [[s-1823-campan-memoires]]\n- 名詞：[[e-petit-trianon]]\n- 相關故事：[[t-bertin]]、[[t-pouf]]、[[t-vigee]]\n\n## 還不知道的事\n\n- 維傑．勒布倫在回憶錄裡寫「我們那時是 1786 年」，研究者一般說這幅畫是 1783 年展出的；可能是她記錯，也可能是兩幅不同的畫。本站還沒讀到 1783 年沙龍展的當時評論原文（例如《祕密回憶錄》*Mémoires secrets*），所以先不定論。\n- 她最後一次替王后畫像是在小特里亞儂，畫的是王后與孩子們的大幅家庭像，1788 年沙龍展出（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信）；這幅畫的故事待寫。\n- 「畫被撤下、改掛一幅穿絲綢禮服、拿玫瑰的版本」是常見的說法，本站還沒有讀到可靠出處。\n- 「傷害絲綢業」的原始研究（Ashmore 2012、Lubrich 2016）、Caroline Weber《時尚王后》（*Queen of Fashion*）、Kimberly Chrisman-Campbell《時尚受害者》（*Fashion Victims*）待讀。\n",
    "links": [
     "e-petit-trianon",
     "s-1823-campan-memoires",
@@ -1128,7 +1372,8 @@
     "s-2024-pearce-creole",
     "t-bertin",
     "t-hameau",
-    "t-pouf"
+    "t-pouf",
+    "t-vigee"
    ]
   },
   {
@@ -1152,7 +1397,7 @@
     "s-2006-stamberg-npr-fraser"
    ],
    "updated": "2026-11-15",
-   "body": "## 一句話說明\n\n1770 年結婚的兩個少年，七年多都沒有圓房；在王室，這不是私事，而是國際外交問題。維也納的母親靠大使的密報一封一封追問，最後連王后的哥哥、神聖羅馬帝國皇帝約瑟夫二世都親自來到凡爾賽。\n\n## 迷思與史料\n\n「國王動了手術」這個傳言，當時就有了。1774 年 10 月，瑪麗亞．特蕾莎在給駐法大使梅西的信裡寫道：「這裡傳說國王動了一個手術，大家寄望它帶來一切；我一點也不信，因為你什麼都沒提。」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊，1774 年 10 月信）\n\n而在本站讀到的當時書信裡，從梅西的密報、女皇的回信，到 1777 年約瑟夫二世寫給弟弟的信，都沒有任何一封記載國王真的動過手術，也沒有提到身體上的缺陷（[[s-1874-arneth-mercy-correspondance]]；[[s-1867-arneth-maria-theresia-joseph]] 第 2 冊 pp. 130–139）。傳記作家弗雷澤認為，路易十六不是不能生育，而是「心理上做不到」（本站譯）（[[s-2006-stamberg-npr-fraser]] 第 9–10 段）。所以判定是「查無實據」：手術的傳言確實存在，但找不到手術發生過的紀錄。醫學史研究者另有包莖說的推論，本站還沒讀到原文，見「研究者怎麼看」。\n\n## 故事是這樣的\n\n### 婚禮之後的第一個夏天\n\n1770 年 5 月，十四歲的奧地利公主嫁給了只比她大一歲的法國王太子。第一個夏天，梅西就向維也納回報：7 月 8 日兩人談了一次話，王太子說到了貢比涅（Compiègne）就要跟太子妃同住，達到「夫妻結合所應有的親密」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 25）。\n\n{{photo:t-consummation-wedding.jpg|約 1770 年為慶祝路易（後來的路易十六）與瑪麗．安東尼婚禮而製作的燈飾版畫，現藏卡納瓦雷博物館。|Wikimedia Commons，CC0}}\n\n9 月，王太子答應某一天晚上到太子妃房裡過夜，卻沒有做到，宮裡馬上傳出兩人鬧翻的流言（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 pp. 77–78）。梅西更擔心的是消息走漏：太子妃把這種事告訴了身邊的女官，他去信責備，說「婚姻的親密是神聖的祕密」，一旦外洩就無法挽回（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 pp. 78–79）。\n\n### 一年一年過去\n\n兩年後，1772 年 6 月，梅西說兩人感情融洽，但婚姻「沒有被證實」，「目前只有希望」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 311）。1774 年，路易十五過世，十九歲的王太子成了路易十六，問題從王太子家的私事，變成了王位繼承的大事。這一年秋天，巴黎開始流傳國王動了手術的消息，女皇不信（[[s-1874-arneth-mercy-correspondance]] 第 2 冊，1774 年 10 月信）。坊間的誹謗小冊子更直接說國王「性無能」，女皇讀到了，還希望國王能出面反駁（[[s-1874-arneth-mercy-correspondance]] 第 2 冊）。在給梅西的信裡，她說女兒的婚姻是讓她唯一放不下的「那個要命的問題」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊）。\n\n{{photo:t-consummation-gautier.jpg|雅尼內（Janinet）1777 年的彩色版畫，據 Gautier-Dagoty 的王后肖像製作，是瑪麗．安東尼早年的形象；現藏洛杉磯郡立藝術博物館。|Wikimedia Commons，Public domain}}\n\n### 哥哥出馬\n\n1777 年 4 月，女皇寫信說，法國駐維也納大使期待皇帝去過之後，王后的婚姻狀況「會有改變」，但她自己「希望多於相信」（[[s-1874-arneth-mercy-correspondance]] 第 3 冊約 pp. 38–39）。梅西則認為問題有一半在王后：她很少主動接近國王，這些疏忽「會造成致命的後果」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊約 pp. 38–39）。\n\n約瑟夫二世化名來到凡爾賽。他寫信給弟弟利奧波德，對妹妹的第一印象是：「王后是個漂亮的女人，但是個輕浮的人」，整天從一場娛樂趕往另一場（本站譯）（[[s-1867-arneth-maria-theresia-joseph]] 第 2 冊約 p. 131）。他寫道，國王受的教育不夠、外表不討喜，卻是個正直的人，只是活在「持續的冷漠」裡；王后「對國王毫無感覺」，又完全忽略他，但她「德行無虧」（本站譯）（[[s-1867-arneth-maria-theresia-joseph]] 第 2 冊 pp. 133–134）。\n\n{{photo:t-consummation-batoni.jpg|龐培歐．巴托尼（Pompeo Batoni）1769 年所畫的神聖羅馬皇帝約瑟夫二世與弟弟托斯卡納大公皮耶特羅．利奧波德的雙人肖像，現藏維也納美術史博物館。|Wikimedia Commons，Public domain}}\n\n據梅西報告，約瑟夫和國王單獨談過一次。國王主動提起自己的婚姻，說希望「很快就會有孩子」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊約 pp. 56–57）。臨走前，約瑟夫給妹妹留下一份長長的書面建議，其中一句是：「你已經沒有年紀小的藉口了。」（本站譯）（[[s-1866-arneth-marie-antoinette]] pp. 17–18）離開法國後，他在信裡說，自己真的跟妹妹很親，分別讓他很難過；他形容國王「有點軟弱，但一點也不笨」（本站譯）（[[s-1867-arneth-maria-theresia-joseph]] 第 2 冊約 pp. 138–139）。\n\n### 好消息\n\n那年夏天，女皇仍然不放心。她在 8 月寫道，有些夫妻要到三十歲才成功，她希望國王也是如此，「但我不太放心」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊約 pp. 110–111）。1778 年 5 月初，她聽到女兒懷孕的傳言，還是說自己「不太相信」，因為希望已經落空太多次了（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 195）。\n\n幾天後，梅西的報告寄到：王后這個月的月經沒有來，懷孕「現在可以視為確定」；國王高興到了極點，比以前更常、更久地陪在王后身邊（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 pp. 195–196）。（推論）照弗雷澤「七年半」的說法推算，兩人圓房大約是在約瑟夫來訪後不久。\n\n即使這樣，維也納的擔心也沒結束。1779 年春天，梅西說夫妻的親密正在恢復正常，條件之一是王后要放棄騎馬；女皇則擔心，下一個孩子會不會又要再等八年（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 pp. 301–303）。\n\n## 研究者怎麼看\n\n- 弗雷澤認為問題是心理上的，不是身體上的（[[s-2006-stamberg-npr-fraser]]）。\n- 醫學史研究者安德魯索斯（Androutsos）2002 年發表〈路易十六的包莖〉一文，討論包莖是否為原因；本站只讀到摘要，摘要說多數歷史學家同意婚後七年才圓房，並列出包莖等可能原因（未建資料卡）。\n- （推論）當時的書信顯示，梅西和女皇都把問題同時歸在國王的冷淡和王后的疏忽上，而不是單純的身體問題。\n\n## 延伸閱讀\n\n- [[s-1867-arneth-maria-theresia-joseph]]\n- [[s-1866-arneth-marie-antoinette]]\n- [[s-1874-arneth-mercy-correspondance]]\n- [[s-2006-stamberg-npr-fraser]]\n- 相關故事：[[t-handover]]、[[t-dubarry]]\n\n## 還不知道的事\n\n- 約瑟夫二世形容這對夫妻「像兩個笨手笨腳的人」的那封信，常被引用，但本站在已下載的書信集裡還沒找到原文，可能在 Arneth 另一套《約瑟夫二世與利奧波德通信集》裡。\n- 包莖手術說：Androutsos 2002 年的醫學史論文全文、Évelyne Lever、Simone Poignant 等人的看法，待讀。\n- 女皇提到的那本說國王「性無能」的誹謗小冊子是哪一本，還沒查到。\n- 第一個孩子的出生與王后公開生產的場面，見 [[t-coppola]]。\n",
+   "body": "## 一句話說明\n\n1770 年結婚的兩個少年，七年多都沒有圓房；在王室，這不是私事，而是國際外交問題。維也納的母親靠大使的密報一封一封追問，最後連王后的哥哥、神聖羅馬帝國皇帝約瑟夫二世都親自來到凡爾賽。\n\n## 迷思與史料\n\n「國王動了手術」這個傳言，當時就有了。1774 年 10 月，瑪麗亞．特蕾莎在給駐法大使梅西的信裡寫道：「這裡傳說國王動了一個手術，大家寄望它帶來一切；我一點也不信，因為你什麼都沒提。」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊，1774 年 10 月信）\n\n而在本站讀到的當時書信裡，從梅西的密報、女皇的回信，到 1777 年約瑟夫二世寫給弟弟的信，都沒有任何一封記載國王真的動過手術，也沒有提到身體上的缺陷（[[s-1874-arneth-mercy-correspondance]]；[[s-1867-arneth-maria-theresia-joseph]] 第 2 冊 pp. 130–139）。傳記作家弗雷澤認為，路易十六不是不能生育，而是「心理上做不到」（本站譯）（[[s-2006-stamberg-npr-fraser]] 第 9–10 段）。所以判定是「查無實據」：手術的傳言確實存在，但找不到手術發生過的紀錄。醫學史研究者另有包莖說的推論，本站還沒讀到原文，見「研究者怎麼看」。\n\n## 故事是這樣的\n\n### 婚禮之後的第一個夏天\n\n1770 年 5 月，十四歲的奧地利公主嫁給了只比她大一歲的法國王太子。第一個夏天，梅西就向維也納回報：7 月 8 日兩人談了一次話，王太子說到了貢比涅（Compiègne）就要跟太子妃同住，達到「夫妻結合所應有的親密」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 25）。\n\n{{photo:t-consummation-wedding.jpg|約 1770 年為慶祝路易（後來的路易十六）與瑪麗．安東尼婚禮而製作的燈飾版畫，現藏卡納瓦雷博物館。|Wikimedia Commons，CC0}}\n\n9 月，王太子答應某一天晚上到太子妃房裡過夜，卻沒有做到，宮裡馬上傳出兩人鬧翻的流言（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 pp. 77–78）。梅西更擔心的是消息走漏：太子妃把這種事告訴了身邊的女官，他去信責備，說「婚姻的親密是神聖的祕密」，一旦外洩就無法挽回（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 pp. 78–79）。\n\n### 一年一年過去\n\n兩年後，1772 年 6 月，梅西說兩人感情融洽，但婚姻「沒有被證實」，「目前只有希望」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 311）。1774 年，路易十五過世，十九歲的王太子成了路易十六，問題從王太子家的私事，變成了王位繼承的大事。這一年秋天，巴黎開始流傳國王動了手術的消息，女皇不信（[[s-1874-arneth-mercy-correspondance]] 第 2 冊，1774 年 10 月信）。坊間的誹謗小冊子更直接說國王「性無能」，女皇讀到了，還希望國王能出面反駁（[[s-1874-arneth-mercy-correspondance]] 第 2 冊）。在給梅西的信裡，她說女兒的婚姻是讓她唯一放不下的「那個要命的問題」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊）。\n\n{{photo:t-consummation-gautier.jpg|雅尼內（Janinet）1777 年的彩色版畫，據 Gautier-Dagoty 的王后肖像製作，是瑪麗．安東尼早年的形象；現藏洛杉磯郡立藝術博物館。|Wikimedia Commons，Public domain}}\n\n### 哥哥出馬\n\n1777 年 4 月，女皇寫信說，法國駐維也納大使期待皇帝去過之後，王后的婚姻狀況「會有改變」，但她自己「希望多於相信」（[[s-1874-arneth-mercy-correspondance]] 第 3 冊約 pp. 38–39）。梅西則認為問題有一半在王后：她很少主動接近國王，這些疏忽「會造成致命的後果」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊約 pp. 38–39）。\n\n約瑟夫二世化名來到凡爾賽。他寫信給弟弟利奧波德，對妹妹的第一印象是：「王后是個漂亮的女人，但是個輕浮的人」，整天從一場娛樂趕往另一場（本站譯）（[[s-1867-arneth-maria-theresia-joseph]] 第 2 冊約 p. 131）。他寫道，國王受的教育不夠、外表不討喜，卻是個正直的人，只是活在「持續的冷漠」裡；王后「對國王毫無感覺」，又完全忽略他，但她「德行無虧」（本站譯）（[[s-1867-arneth-maria-theresia-joseph]] 第 2 冊 pp. 133–134）。\n\n{{photo:t-consummation-batoni.jpg|龐培歐．巴托尼（Pompeo Batoni）1769 年所畫的神聖羅馬皇帝約瑟夫二世與弟弟托斯卡納大公皮耶特羅．利奧波德的雙人肖像，現藏維也納美術史博物館。|Wikimedia Commons，Public domain}}\n\n據梅西報告，約瑟夫和國王單獨談過一次。國王主動提起自己的婚姻，說希望「很快就會有孩子」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊約 pp. 56–57）。臨走前，約瑟夫給妹妹留下一份長長的書面建議，其中一句是：「你已經沒有年紀小的藉口了。」（本站譯）（[[s-1866-arneth-marie-antoinette]] pp. 17–18）離開法國後，他在信裡說，自己真的跟妹妹很親，分別讓他很難過；他形容國王「有點軟弱，但一點也不笨」（本站譯）（[[s-1867-arneth-maria-theresia-joseph]] 第 2 冊約 pp. 138–139）。\n\n### 好消息\n\n那年夏天，女皇仍然不放心。她在 8 月寫道，有些夫妻要到三十歲才成功，她希望國王也是如此，「但我不太放心」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊約 pp. 110–111）。1778 年 5 月初，她聽到女兒懷孕的傳言，還是說自己「不太相信」，因為希望已經落空太多次了（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 195）。\n\n幾天後，梅西的報告寄到：王后這個月的月經沒有來，懷孕「現在可以視為確定」；國王高興到了極點，比以前更常、更久地陪在王后身邊（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 pp. 195–196）。（推論）照弗雷澤「七年半」的說法推算，兩人圓房大約是在約瑟夫來訪後不久。\n\n即使這樣，維也納的擔心也沒結束。1779 年春天，梅西說夫妻的親密正在恢復正常，條件之一是王后要放棄騎馬；女皇則擔心，下一個孩子會不會又要再等八年（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 pp. 301–303）。\n\n## 研究者怎麼看\n\n- 弗雷澤認為問題是心理上的，不是身體上的（[[s-2006-stamberg-npr-fraser]]）。\n- 醫學史研究者安德魯索斯（Androutsos）2002 年發表〈路易十六的包莖〉一文，討論包莖是否為原因；本站只讀到摘要，摘要說多數歷史學家同意婚後七年才圓房，並列出包莖等可能原因（未建資料卡）。\n- （推論）當時的書信顯示，梅西和女皇都把問題同時歸在國王的冷淡和王后的疏忽上，而不是單純的身體問題。\n\n## 延伸閱讀\n\n- [[s-1867-arneth-maria-theresia-joseph]]\n- [[s-1866-arneth-marie-antoinette]]\n- [[s-1874-arneth-mercy-correspondance]]\n- [[s-2006-stamberg-npr-fraser]]\n- 相關故事：[[t-handover]]、[[t-dubarry]]、[[t-louis]]\n\n## 還不知道的事\n\n- 約瑟夫二世形容這對夫妻「像兩個笨手笨腳的人」的那封信，常被引用，但本站在已下載的書信集裡還沒找到原文，可能在 Arneth 另一套《約瑟夫二世與利奧波德通信集》裡。\n- 包莖手術說：Androutsos 2002 年的醫學史論文全文、Évelyne Lever、Simone Poignant 等人的看法，待讀。\n- 女皇提到的那本說國王「性無能」的誹謗小冊子是哪一本，還沒查到。\n- 第一個孩子的出生與王后公開生產的場面，見 [[t-coppola]]。\n",
    "links": [
     "s-1866-arneth-marie-antoinette",
     "s-1867-arneth-maria-theresia-joseph",
@@ -1160,7 +1405,8 @@
     "s-2006-stamberg-npr-fraser",
     "t-coppola",
     "t-dubarry",
-    "t-handover"
+    "t-handover",
+    "t-louis"
    ]
   },
   {
@@ -1184,7 +1430,7 @@
     "s-2026-versailles-coppola-exhibition"
    ],
    "updated": "2026-11-15",
-   "body": "## 一句話說明\n\n蘇菲亞．柯波拉 2006 年的電影改編自一本嚴肅的傳記，大部分在凡爾賽宮實景拍攝；它故意混進球鞋和搖滾樂，但很多看起來誇張的宮廷細節，其實都有史料根據。\n\n## 故事是這樣的\n\n### 一部從傳記長出來的電影\n\n電影的底本是英國傳記作家安東尼婭．弗雷澤（Antonia Fraser）的《瑪麗．安東尼：旅程》（*Marie Antoinette: The Journey*）。研究這部電影的學者指出，弗雷澤的傳記替王后翻了一部分案，而它關心的核心，是一個少女怎麼在陌生的宮廷裡長大（[[s-2012-backman-rogers-threshold]] pp. 80、82）。柯波拉自己也說，這延續了她前兩部片的主題，「一個孤單的女孩努力長大……這是一個女孩變成女人的故事」（本站譯）（[[s-2012-backman-rogers-threshold]] p. 81）。\n\n電影大部分在凡爾賽宮實景拍攝。凡爾賽宮館長說，這部片「在宮殿的當代歷史裡占有獨特的位置」，2026 年 9 月到 2027 年 1 月，宮方還在小特里亞儂辦了電影二十週年展（[[s-2026-versailles-coppola-exhibition]]）。柯波拉說，片場的花是真的，在凡爾賽拍攝時點的蠟燭也是真的，「感謝老天，我們沒把窗簾燒起來！」（本站譯）（[[s-2026-harvard-gazette-coppola]] 第 4 段）她也說，在王后私人的小房間裡拍戲，讓她感覺到那裡的尺度「比較像人住的地方」（[[s-2026-harvard-gazette-coppola]] 第 7 段）。\n\n{{photo:t-coppola-galerie.jpg|今日凡爾賽宮的鏡廳（Galerie des Glaces），攝於 2011 年。|Wikimedia Commons，CC BY-SA 3.0}}\n\n### 刻意的時代錯置\n\n那雙出現在甜點蒙太奇裡的淺藍色 Converse 球鞋，是刻意的時代錯置，配樂也從 1980 年代的後龐克一路放到當代搖滾（[[s-2012-backman-rogers-threshold]] pp. 83、94）。服裝設計師卡諾內羅（Milena Canonero）說，衣服的剪裁「完全正確」，配色和髮型才是她們的創作（[[s-2011-andersson-queen-fashion]] p. 110）。整部片的粉彩色調，靈感來自巴黎老店的杏仁馬卡龍，柯波拉稱之為「蛋糕和餅乾的感覺」（本站譯）（[[s-2011-andersson-queen-fashion]] p. 111）。她說，在她看來，王后唯一的創作出口就是她的環境：衣服、花和花園（[[s-2026-harvard-gazette-coppola]] 第 2 段）。這套服裝後來拿下 2007 年奧斯卡最佳服裝設計（[[s-2026-versailles-coppola-exhibition]]）。\n\n### 那些看起來很誇張、其實是真的場面\n\n**早上更衣。** 電影裡王后光著身子、等著衣服一件件傳過來，看起來荒謬，但當時的規矩確實如此。王后的貼身女官康龐夫人說明：遞襯衣是女官長的特權，但如果有王室女眷在場，就要把這份榮譽讓給位階更高的人（[[s-1823-campan-memoires]] 第 1 冊 p. 97）。她親眼看過一個冬天早上：王后已經脫到只剩襯衣，女官長正要遞上新襯衣，奧爾良公爵夫人進來了，於是襯衣要轉交給她；接著普羅旺斯伯爵夫人又進來，襯衣只好再轉一手。王后一直交叉雙臂、冷得發抖，最後還被弄亂了頭髮，她勉強笑著，但嘴裡唸了好幾次：「真討厭！真煩人！」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 98）弗雷澤在訪談裡講的「光著身子發抖」，就是這個場面（[[s-2006-stamberg-npr-fraser]] 第 16 段）。康龐夫人批評，這套禮儀管到了王宮最私密的角落，讓貴族們爭著搶遞一杯水、一件襯衣、拿走一個便盆的特權（[[s-1823-campan-memoires]] 第 1 冊 pp. 98–99）。\n\n**公開用餐。** 國王和王后每天公開吃飯，只要穿著體面，誰都可以進來看。服侍他們的全是女性，女官長跪在矮凳上替國王遞盤子（[[s-1823-campan-memoires]] 第 1 冊 pp. 100–102）。康龐夫人在註腳裡說，這種飯吃起來毫無談話的樂趣，得從小習慣，才不會因為一堆人盯著看而吃不下（[[s-1823-campan-memoires]] 第 1 冊 p. 102 註）。\n\n**公開生產。** 1778 年 12 月 19 日中午前，王后的第一個孩子出生（[[s-1823-campan-memoires]] 第 1 冊 p. 201）。照規矩，王后生產要讓眾人在場作證，確認王位繼承人的血統（[[s-2006-stamberg-npr-fraser]] 第 18 段）。康龐夫人說，接生醫生一喊「王后要生了」，一大群人就湧進房間，擠得像廣場一樣，有兩個薩伏依人甚至爬到傢俱上看；國王前一晚已經叫人用繩子把床邊的大屏風綁牢，否則一定會被擠倒壓在王后身上（[[s-1823-campan-memoires]] 第 1 冊 p. 202）。王后突然昏了過去，醫生大喊「要空氣、要熱水、要放血！」窗戶早就用紙條封死，國王用力扯開那些高大的窗子；熱水來不及，外科醫生直接在王后腳上放血，她才睜開眼睛（[[s-1823-campan-memoires]] 第 1 冊 p. 202）。康龐夫人說，從此這個「殘酷的規矩」就永遠廢除了（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 203）。廣播節目說當時有兩百人圍觀，但康龐夫人並沒有寫人數（[[s-2006-stamberg-npr-fraser]] 第 18 段）。\n\n{{photo:t-coppola-chambre.jpg|今日的凡爾賽宮王后寢宮（Chambre de la Reine），攝於 2013 年。|Wikimedia Commons，CC BY-SA 3.0}}\n\n**遲遲沒有圓房。** 婚後七年半才圓房是真的，弗雷澤認為路易十六不是不能生育，而是「心理上做不到」（[[s-2006-stamberg-npr-fraser]] 第 9–10 段；詳見 [[t-consummation]]）。\n\n### 電影沒有演的部分\n\n電影沒有演到革命，故事停在王室一家離開凡爾賽（[[s-2012-backman-rogers-threshold]] p. 81）。也有一些地方被壓縮了：瑪麗亞．特蕾莎 1768 年就開始促成這門婚事，但女兒到 1770 年才離開奧地利（[[s-2012-backman-rogers-threshold]] p. 96 註 3）。片中也沒有鑽石項鍊事件，而那是真正毀掉王后名聲的事（見 [[t-necklace]]）。\n\n## 研究者怎麼看\n\n- 電影在坎城首映時評價兩極：《解放報》的評論批評它「空洞」，《電影筆記》的主編則欣賞它輕快的處理（[[s-2012-backman-rogers-threshold]] p. 80）。\n- 電影學者巴克曼．羅傑斯（Anna Backman Rogers）認為，那些時代錯置不是只有形式，而是在講一個少女的成年儀式（[[s-2012-backman-rogers-threshold]]）。\n- 弗雷澤在訪談裡說，「讓他們吃蛋糕」是個老掉牙的故事，會黏在王后身上，「是因為它證實了人們的偏見」；她也認為打亂法國預算的，是支持美國獨立戰爭（本站譯）（[[s-2006-stamberg-npr-fraser]] 第 4–5 段）。\n\n## 電影場景對照\n\n- 交接儀式、婚禮 → [[t-handover]]\n- 和杜巴利夫人的冷戰 → [[t-dubarry]]\n- 遲遲沒有圓房 → [[t-consummation]]\n- 甜點、蛋糕 → [[t-cake]]\n- 花錢如流水 → [[t-deficit]]\n- 小特里亞儂、農莊 → [[t-hameau]]\n- 白紗裙 → [[t-chemise]]\n- 衣服、髮型、羽毛 → [[t-bertin]]、[[t-pouf]]\n- 閨蜜們 → [[t-lamballe]]、[[t-polignac]]\n- 費爾森 → [[t-fersen]]\n- 鑽石項鍊（電影沒演）→ [[t-necklace]]\n- 離開凡爾賽（電影的結尾）→ [[t-october-days]]\n- 革命之後（電影沒演）→ [[t-varennes]]、[[t-white-hair]]、[[t-temple]]\n\n## 延伸閱讀\n\n- [[s-1823-campan-memoires]]\n- [[s-2006-stamberg-npr-fraser]]\n- [[s-2012-backman-rogers-threshold]]\n- [[s-2011-andersson-queen-fashion]]\n- [[s-2026-harvard-gazette-coppola]]\n- [[s-2026-versailles-coppola-exhibition]]\n- 名詞：[[e-petit-trianon]]\n\n## 還不知道的事\n\n- 弗雷澤傳記本身還沒讀，電影和傳記之間的差異待補。\n- 「兩百人圍觀生產」目前只有廣播節目的轉述，康龐夫人沒有寫人數。\n- 法國歷史學界對這部電影的評論（例如是否抗議它在凡爾賽拍攝）還沒找到。\n",
+   "body": "## 一句話說明\n\n蘇菲亞．柯波拉 2006 年的電影改編自一本嚴肅的傳記，大部分在凡爾賽宮實景拍攝；它故意混進球鞋和搖滾樂，但很多看起來誇張的宮廷細節，其實都有史料根據。\n\n## 故事是這樣的\n\n### 一部從傳記長出來的電影\n\n電影的底本是英國傳記作家安東尼婭．弗雷澤（Antonia Fraser）的《瑪麗．安東尼：旅程》（*Marie Antoinette: The Journey*）。研究這部電影的學者指出，弗雷澤的傳記替王后翻了一部分案，而它關心的核心，是一個少女怎麼在陌生的宮廷裡長大（[[s-2012-backman-rogers-threshold]] pp. 80、82）。柯波拉自己也說，這延續了她前兩部片的主題，「一個孤單的女孩努力長大……這是一個女孩變成女人的故事」（本站譯）（[[s-2012-backman-rogers-threshold]] p. 81）。\n\n電影大部分在凡爾賽宮實景拍攝。凡爾賽宮館長說，這部片「在宮殿的當代歷史裡占有獨特的位置」，2026 年 9 月到 2027 年 1 月，宮方還在小特里亞儂辦了電影二十週年展（[[s-2026-versailles-coppola-exhibition]]）。柯波拉說，片場的花是真的，在凡爾賽拍攝時點的蠟燭也是真的，「感謝老天，我們沒把窗簾燒起來！」（本站譯）（[[s-2026-harvard-gazette-coppola]] 第 4 段）她也說，在王后私人的小房間裡拍戲，讓她感覺到那裡的尺度「比較像人住的地方」（[[s-2026-harvard-gazette-coppola]] 第 7 段）。\n\n{{photo:t-coppola-galerie.jpg|今日凡爾賽宮的鏡廳（Galerie des Glaces），攝於 2011 年。|Wikimedia Commons，CC BY-SA 3.0}}\n\n### 刻意的時代錯置\n\n那雙出現在甜點蒙太奇裡的淺藍色 Converse 球鞋，是刻意的時代錯置，配樂也從 1980 年代的後龐克一路放到當代搖滾（[[s-2012-backman-rogers-threshold]] pp. 83、94）。服裝設計師卡諾內羅（Milena Canonero）說，衣服的剪裁「完全正確」，配色和髮型才是她們的創作（[[s-2011-andersson-queen-fashion]] p. 110）。整部片的粉彩色調，靈感來自巴黎老店的杏仁馬卡龍，柯波拉稱之為「蛋糕和餅乾的感覺」（本站譯）（[[s-2011-andersson-queen-fashion]] p. 111）。她說，在她看來，王后唯一的創作出口就是她的環境：衣服、花和花園（[[s-2026-harvard-gazette-coppola]] 第 2 段）。這套服裝後來拿下 2007 年奧斯卡最佳服裝設計（[[s-2026-versailles-coppola-exhibition]]）。\n\n### 那些看起來很誇張、其實是真的場面\n\n**早上更衣。** 電影裡王后光著身子、等著衣服一件件傳過來，看起來荒謬，但當時的規矩確實如此。王后的貼身女官康龐夫人說明：遞襯衣是女官長的特權，但如果有王室女眷在場，就要把這份榮譽讓給位階更高的人（[[s-1823-campan-memoires]] 第 1 冊 p. 97）。她親眼看過一個冬天早上：王后已經脫到只剩襯衣，女官長正要遞上新襯衣，奧爾良公爵夫人進來了，於是襯衣要轉交給她；接著普羅旺斯伯爵夫人又進來，襯衣只好再轉一手。王后一直交叉雙臂、冷得發抖，最後還被弄亂了頭髮，她勉強笑著，但嘴裡唸了好幾次：「真討厭！真煩人！」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 98）弗雷澤在訪談裡講的「光著身子發抖」，就是這個場面（[[s-2006-stamberg-npr-fraser]] 第 16 段）。康龐夫人批評，這套禮儀管到了王宮最私密的角落，讓貴族們爭著搶遞一杯水、一件襯衣、拿走一個便盆的特權（[[s-1823-campan-memoires]] 第 1 冊 pp. 98–99）。\n\n**公開用餐。** 國王和王后每天公開吃飯，只要穿著體面，誰都可以進來看。服侍他們的全是女性，女官長跪在矮凳上替國王遞盤子（[[s-1823-campan-memoires]] 第 1 冊 pp. 100–102）。康龐夫人在註腳裡說，這種飯吃起來毫無談話的樂趣，得從小習慣，才不會因為一堆人盯著看而吃不下（[[s-1823-campan-memoires]] 第 1 冊 p. 102 註）。\n\n**公開生產。** 1778 年 12 月 19 日中午前，王后的第一個孩子出生（[[s-1823-campan-memoires]] 第 1 冊 p. 201）。照規矩，王后生產要讓眾人在場作證，確認王位繼承人的血統（[[s-2006-stamberg-npr-fraser]] 第 18 段）。康龐夫人說，接生醫生一喊「王后要生了」，一大群人就湧進房間，擠得像廣場一樣，有兩個薩伏依人甚至爬到傢俱上看；國王前一晚已經叫人用繩子把床邊的大屏風綁牢，否則一定會被擠倒壓在王后身上（[[s-1823-campan-memoires]] 第 1 冊 p. 202）。王后突然昏了過去，醫生大喊「要空氣、要熱水、要放血！」窗戶早就用紙條封死，國王用力扯開那些高大的窗子；熱水來不及，外科醫生直接在王后腳上放血，她才睜開眼睛（[[s-1823-campan-memoires]] 第 1 冊 p. 202）。康龐夫人說，從此這個「殘酷的規矩」就永遠廢除了（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 203）。廣播節目說當時有兩百人圍觀，但康龐夫人並沒有寫人數（[[s-2006-stamberg-npr-fraser]] 第 18 段）。\n\n{{photo:t-coppola-chambre.jpg|今日的凡爾賽宮王后寢宮（Chambre de la Reine），攝於 2013 年。|Wikimedia Commons，CC BY-SA 3.0}}\n\n**遲遲沒有圓房。** 婚後七年半才圓房是真的，弗雷澤認為路易十六不是不能生育，而是「心理上做不到」（[[s-2006-stamberg-npr-fraser]] 第 9–10 段；詳見 [[t-consummation]]）。\n\n### 電影沒有演的部分\n\n電影沒有演到革命，故事停在王室一家離開凡爾賽（[[s-2012-backman-rogers-threshold]] p. 81）。也有一些地方被壓縮了：瑪麗亞．特蕾莎 1768 年就開始促成這門婚事，但女兒到 1770 年才離開奧地利（[[s-2012-backman-rogers-threshold]] p. 96 註 3）。片中也沒有鑽石項鍊事件，而那是真正毀掉王后名聲的事（見 [[t-necklace]]）。\n\n## 研究者怎麼看\n\n- 電影在坎城首映時評價兩極：《解放報》的評論批評它「空洞」，《電影筆記》的主編則欣賞它輕快的處理（[[s-2012-backman-rogers-threshold]] p. 80）。\n- 電影學者巴克曼．羅傑斯（Anna Backman Rogers）認為，那些時代錯置不是只有形式，而是在講一個少女的成年儀式（[[s-2012-backman-rogers-threshold]]）。\n- 弗雷澤在訪談裡說，「讓他們吃蛋糕」是個老掉牙的故事，會黏在王后身上，「是因為它證實了人們的偏見」；她也認為打亂法國預算的，是支持美國獨立戰爭（本站譯）（[[s-2006-stamberg-npr-fraser]] 第 4–5 段）。\n\n## 電影場景對照\n\n- 交接儀式、婚禮 → [[t-handover]]\n- 和杜巴利夫人的冷戰 → [[t-dubarry]]\n- 遲遲沒有圓房 → [[t-consummation]]\n- 甜點、蛋糕 → [[t-cake]]\n- 花錢如流水 → [[t-deficit]]\n- 小特里亞儂、農莊 → [[t-hameau]]\n- 白紗裙 → [[t-chemise]]\n- 衣服、髮型、羽毛 → [[t-bertin]]、[[t-pouf]]\n- 閨蜜們 → [[t-lamballe]]、[[t-polignac]]\n- 費爾森 → [[t-fersen]]\n- 鑽石項鍊（電影沒演）→ [[t-necklace]]\n- 離開凡爾賽（電影的結尾）→ [[t-october-days]]\n- 革命之後（電影沒演）→ [[t-varennes]]、[[t-white-hair]]、[[t-temple]]\n\n## 延伸閱讀\n\n- [[s-1823-campan-memoires]]\n- [[s-2006-stamberg-npr-fraser]]\n- [[s-2012-backman-rogers-threshold]]\n- [[s-2011-andersson-queen-fashion]]\n- [[s-2026-harvard-gazette-coppola]]\n- [[s-2026-versailles-coppola-exhibition]]\n- 名詞：[[e-petit-trianon]]\n- 相關故事：[[t-table]]、[[t-ghost]]、[[t-vigee]]\n\n## 還不知道的事\n\n- 弗雷澤傳記本身還沒讀，電影和傳記之間的差異待補。\n- 「兩百人圍觀生產」目前只有廣播節目的轉述，康龐夫人沒有寫人數。\n- 法國歷史學界對這部電影的評論（例如是否抗議它在凡爾賽拍攝）還沒找到。\n",
    "links": [
     "e-petit-trianon",
     "s-1823-campan-memoires",
@@ -1200,6 +1446,7 @@
     "t-deficit",
     "t-dubarry",
     "t-fersen",
+    "t-ghost",
     "t-hameau",
     "t-handover",
     "t-lamballe",
@@ -1207,8 +1454,10 @@
     "t-october-days",
     "t-polignac",
     "t-pouf",
+    "t-table",
     "t-temple",
     "t-varennes",
+    "t-vigee",
     "t-white-hair"
    ]
   },
@@ -1272,11 +1521,46 @@
     "s-1835-vigee-le-brun-souvenirs"
    ],
    "updated": "2026-11-16",
-   "body": "## 一句話說明\n\n十四歲的太子妃一到凡爾賽，就拒絕跟國王的情婦杜巴利夫人說話。這不只是兩個女人的恩怨：國王不高興、外交大臣施壓、維也納的母親寫信勸、大使在中間奔走，直到 1772 年元旦，太子妃終於對她說了一句話，而且只說了這一句。\n\n## 故事是這樣的\n\n### 第一頓晚餐\n\n杜巴利夫人是路易十五晚年最寵愛的情婦，出身平民。貼身女官康龐夫人回憶，太子妃剛到法國，國王就在拉米埃特（La Muette）安排她和杜巴利同桌吃晚餐；太子妃私下對這件事很不滿，說得相當直白，但在公開場合，她的舉止完美無缺（[[s-1823-campan-memoires]] 第 1 冊 p. 52）。\n\n### 姑姑們的影響\n\n太子妃的冷淡，背後有人撐腰。國王的三個未婚女兒，也就是太子妃的姑姑們（Mesdames），把杜巴利的醜聞一五一十說給王太子聽，王太子也開始一再表現出對她的厭惡（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 pp. 41–42）。康龐夫人則說，杜巴利因為得不到太子妃應有的禮貌而生氣，直接向國王告狀，還常在國王面前批評太子妃的長相（[[s-1823-campan-memoires]] 第 1 冊 p. 54）。\n\n太子妃為什麼不開口？駐法大使梅西向維也納解釋，照宮裡的說法，太子妃應該「裝作不知道」杜巴利真正的身分，只把她當成一位「被引見進宮的女士」來對待（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 p. 192）。換句話說，問題不是禮儀不准，而是她選擇不說。常見的說法「宮廷規矩是身分低的人不能先開口，所以要等太子妃先說話」，在梅西的信裡找不到明文。\n\n### 大使的努力\n\n梅西的任務，是讓這件事不要演變成外交問題。1771 年春天，他勸太子妃「只要說一次話」，就能讓杜巴利那一派的抱怨失去理由；太子妃承認，她不敢開口，是怕得罪姑姑們（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 pp. 161–162）。外交大臣艾吉永公爵（Aiguillon）也轉告梅西，國王希望他多找機會私下跟太子妃談（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 p. 180）。那年夏天在馬爾利（Marly）宮最後一晚的牌局上，因為牌局需要，太子妃對杜巴利說了「兩三句話」，梅西說之後爭執明顯少了（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 p. 192）。\n\n但真正的「那一句」遲遲說不出口。1771 年秋天在貢比涅，梅西好不容易安排好：太子妃在宮廷聚會上走到杜巴利面前說句話。就在太子妃走過去的時候，姑姑阿德萊德夫人大聲說：「該走了，走吧，我們去維克托瓦妹妹那裡等國王。」（本站譯）太子妃就跟著走了，整個安排泡湯（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 p. 209）。事後梅西要她去跟國王解釋，她說自己「完全沒有勇氣」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 p. 210）。梅西判斷，國王不會親自跟太子妃談這件事，只會用「鬧脾氣和冷淡」表示不滿（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 p. 211）。\n\n遠在維也納的母親也很著急。1772 年 1 月，瑪麗亞．特蕾莎在信裡形容女兒「漫不經心、輕浮」，只顧眼前的消遣，不想後果，但要梅西別被困難嚇倒（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 pp. 249–250）。\n\n### 1772 年元旦早上\n\n照慣例，新年那天，所有被引見進宮的女士都要去向王室成員拜年。梅西得知杜巴利也要去，就在除夕那天找到太子妃，用盡各種方法勸她「不要讓寵妃難堪」。好不容易她答應了，條件是不能讓姑姑們知道（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 253，1772 年 1 月 2 日報告）。\n\n元旦早上，杜巴利在艾吉永公爵夫人和米爾普瓦元帥夫人陪同下，來到太子妃的房間。太子妃先對艾吉永公爵夫人說話，然後經過杜巴利面前，不躲不閃地看著她，說了一句：「今天凡爾賽人真多。」接著她立刻轉頭去跟米爾普瓦元帥夫人說話（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 pp. 253–254）。\n\n那天午餐後，太子妃把梅西叫進來：「我照您的建議做了，王太子可以作證。」王太子只是笑，一句話也沒說。太子妃把經過講完，最後說：「我說過一次了，但我決定就到此為止，這個女人再也聽不到我的聲音。」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 254）\n\n這句話，嚴格說來甚至不是對杜巴利說的，裡面沒有她的名字，也沒有問候。但對宮廷來說，這已經足夠。姑姑們氣壞了，認為被背叛，太子妃一度「幾乎後悔」；同一天晚上，國王對太子妃比平常更親切（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 pp. 254–255）。兩個月後梅西回報，新年以後杜巴利「沒有再提新要求，也不再抱怨」（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 p. 283）。\n\n太子妃也寫信向母親交代：她聽說梅西已經報告了她新年那天的表現，希望母親滿意；她說自己不希望兩國家族為這種事起衝突，「至少我不會成為那個理由」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 pp. 250–251）。\n\n### 杜巴利的結局\n\n1774 年 5 月，路易十五病危，杜巴利被悄悄送出凡爾賽（[[s-1823-campan-memoires]] 第 1 冊約 p. 539）。新王路易十六即位後，把她送進一座修道院，康龐夫人說這「與其說是懲罰，不如說是必要」；她仍保有盧弗西安（Louveciennes）的莊園和可觀的年金（[[s-1823-campan-memoires]] 第 1 冊約 p. 85）。\n\n很多年後，畫家維傑．勒布倫到盧弗西安替她畫像。勒布倫說，她比想像中親切得多，談到路易十五時總是充滿敬意，但從不講細節；她帶畫家看一間餐廳，說「路易十五就是在這間屋子裡請我吃飯的」（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 15 章）。1789 年 9 月，畫第三幅像時，她對勒布倫說：「要是路易十五還活著，絕不會變成這樣。」（本站譯）勒布倫說，杜巴利在 1793 年底被革命法庭判處死刑（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 15 章）。那一年，王后也上了斷頭台。\n\n## 研究者怎麼看\n\n- 這場冷戰最詳細的紀錄來自梅西的密報。梅西的工作就是說服太子妃讓步，他的報告也帶著替自己表功的成分（[[s-1874-arneth-mercy-correspondance]]）。\n- 康龐夫人說，女皇的一封信曾在杜巴利家被當眾念出，引起王后怨恨；但書信集的編者指出，梅西的信裡完全沒有提到這件事，認為這個說法不可信（[[s-1874-arneth-mercy-correspondance]] 第 1 冊導論 p. XXXV；[[s-1823-campan-memoires]] 第 1 冊約 pp. 65–66）。\n- 網路上常說這句話是在舞會上說的；梅西的報告寫的是元旦早上在太子妃的房間裡（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 253）。\n\n## 延伸閱讀\n\n- [[s-1874-arneth-mercy-correspondance]]\n- [[s-1823-campan-memoires]]\n- [[s-1835-vigee-le-brun-souvenirs]]\n\n## 還不知道的事\n\n- 杜巴利被處決的確切日期，以及勒布倫描寫的斷頭台場面，需要用其他史料核對。\n- 宮廷禮儀到底有沒有「身分低的人不能先開口」的明文規定，還需要查禮儀書。\n- 路易十五本人對這件事說過什麼，原典裡只有間接的轉述。\n",
+   "body": "## 一句話說明\n\n十四歲的太子妃一到凡爾賽，就拒絕跟國王的情婦杜巴利夫人說話。這不只是兩個女人的恩怨：國王不高興、外交大臣施壓、維也納的母親寫信勸、大使在中間奔走，直到 1772 年元旦，太子妃終於對她說了一句話，而且只說了這一句。\n\n## 故事是這樣的\n\n### 第一頓晚餐\n\n杜巴利夫人是路易十五晚年最寵愛的情婦，出身平民。貼身女官康龐夫人回憶，太子妃剛到法國，國王就在拉米埃特（La Muette）安排她和杜巴利同桌吃晚餐；太子妃私下對這件事很不滿，說得相當直白，但在公開場合，她的舉止完美無缺（[[s-1823-campan-memoires]] 第 1 冊 p. 52）。\n\n### 姑姑們的影響\n\n太子妃的冷淡，背後有人撐腰。國王的三個未婚女兒，也就是太子妃的姑姑們（Mesdames），把杜巴利的醜聞一五一十說給王太子聽，王太子也開始一再表現出對她的厭惡（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 pp. 41–42）。康龐夫人則說，杜巴利因為得不到太子妃應有的禮貌而生氣，直接向國王告狀，還常在國王面前批評太子妃的長相（[[s-1823-campan-memoires]] 第 1 冊 p. 54）。\n\n太子妃為什麼不開口？駐法大使梅西向維也納解釋，照宮裡的說法，太子妃應該「裝作不知道」杜巴利真正的身分，只把她當成一位「被引見進宮的女士」來對待（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 p. 192）。換句話說，問題不是禮儀不准，而是她選擇不說。常見的說法「宮廷規矩是身分低的人不能先開口，所以要等太子妃先說話」，在梅西的信裡找不到明文。\n\n### 大使的努力\n\n梅西的任務，是讓這件事不要演變成外交問題。1771 年春天，他勸太子妃「只要說一次話」，就能讓杜巴利那一派的抱怨失去理由；太子妃承認，她不敢開口，是怕得罪姑姑們（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 pp. 161–162）。外交大臣艾吉永公爵（Aiguillon）也轉告梅西，國王希望他多找機會私下跟太子妃談（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 p. 180）。那年夏天在馬爾利（Marly）宮最後一晚的牌局上，因為牌局需要，太子妃對杜巴利說了「兩三句話」，梅西說之後爭執明顯少了（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 p. 192）。\n\n但真正的「那一句」遲遲說不出口。1771 年秋天在貢比涅，梅西好不容易安排好：太子妃在宮廷聚會上走到杜巴利面前說句話。就在太子妃走過去的時候，姑姑阿德萊德夫人大聲說：「該走了，走吧，我們去維克托瓦妹妹那裡等國王。」（本站譯）太子妃就跟著走了，整個安排泡湯（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 p. 209）。事後梅西要她去跟國王解釋，她說自己「完全沒有勇氣」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 p. 210）。梅西判斷，國王不會親自跟太子妃談這件事，只會用「鬧脾氣和冷淡」表示不滿（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 p. 211）。\n\n遠在維也納的母親也很著急。1772 年 1 月，瑪麗亞．特蕾莎在信裡形容女兒「漫不經心、輕浮」，只顧眼前的消遣，不想後果，但要梅西別被困難嚇倒（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 pp. 249–250）。\n\n### 1772 年元旦早上\n\n照慣例，新年那天，所有被引見進宮的女士都要去向王室成員拜年。梅西得知杜巴利也要去，就在除夕那天找到太子妃，用盡各種方法勸她「不要讓寵妃難堪」。好不容易她答應了，條件是不能讓姑姑們知道（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 253，1772 年 1 月 2 日報告）。\n\n元旦早上，杜巴利在艾吉永公爵夫人和米爾普瓦元帥夫人陪同下，來到太子妃的房間。太子妃先對艾吉永公爵夫人說話，然後經過杜巴利面前，不躲不閃地看著她，說了一句：「今天凡爾賽人真多。」接著她立刻轉頭去跟米爾普瓦元帥夫人說話（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 pp. 253–254）。\n\n那天午餐後，太子妃把梅西叫進來：「我照您的建議做了，王太子可以作證。」王太子只是笑，一句話也沒說。太子妃把經過講完，最後說：「我說過一次了，但我決定就到此為止，這個女人再也聽不到我的聲音。」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 254）\n\n這句話，嚴格說來甚至不是對杜巴利說的，裡面沒有她的名字，也沒有問候。但對宮廷來說，這已經足夠。姑姑們氣壞了，認為被背叛，太子妃一度「幾乎後悔」；同一天晚上，國王對太子妃比平常更親切（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 pp. 254–255）。兩個月後梅西回報，新年以後杜巴利「沒有再提新要求，也不再抱怨」（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 p. 283）。\n\n太子妃也寫信向母親交代：她聽說梅西已經報告了她新年那天的表現，希望母親滿意；她說自己不希望兩國家族為這種事起衝突，「至少我不會成為那個理由」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 pp. 250–251）。\n\n### 杜巴利的結局\n\n1774 年 5 月，路易十五病危，杜巴利被悄悄送出凡爾賽（[[s-1823-campan-memoires]] 第 1 冊約 p. 539）。新王路易十六即位後，把她送進一座修道院，康龐夫人說這「與其說是懲罰，不如說是必要」；她仍保有盧弗西安（Louveciennes）的莊園和可觀的年金（[[s-1823-campan-memoires]] 第 1 冊約 p. 85）。\n\n很多年後，畫家維傑．勒布倫到盧弗西安替她畫像。勒布倫說，她比想像中親切得多，談到路易十五時總是充滿敬意，但從不講細節；她帶畫家看一間餐廳，說「路易十五就是在這間屋子裡請我吃飯的」（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 15 章）。1789 年 9 月，畫第三幅像時，她對勒布倫說：「要是路易十五還活著，絕不會變成這樣。」（本站譯）勒布倫說，杜巴利在 1793 年底被革命法庭判處死刑（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 15 章）。那一年，王后也上了斷頭台。\n\n## 研究者怎麼看\n\n- 這場冷戰最詳細的紀錄來自梅西的密報。梅西的工作就是說服太子妃讓步，他的報告也帶著替自己表功的成分（[[s-1874-arneth-mercy-correspondance]]）。\n- 康龐夫人說，女皇的一封信曾在杜巴利家被當眾念出，引起王后怨恨；但書信集的編者指出，梅西的信裡完全沒有提到這件事，認為這個說法不可信（[[s-1874-arneth-mercy-correspondance]] 第 1 冊導論 p. XXXV；[[s-1823-campan-memoires]] 第 1 冊約 pp. 65–66）。\n- 網路上常說這句話是在舞會上說的；梅西的報告寫的是元旦早上在太子妃的房間裡（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 253）。\n\n## 延伸閱讀\n\n- 相關故事：[[t-vigee]]\n\n- [[s-1874-arneth-mercy-correspondance]]\n- [[s-1823-campan-memoires]]\n- [[s-1835-vigee-le-brun-souvenirs]]\n\n## 還不知道的事\n\n- 杜巴利被處決的確切日期，以及勒布倫描寫的斷頭台場面，需要用其他史料核對。\n- 宮廷禮儀到底有沒有「身分低的人不能先開口」的明文規定，還需要查禮儀書。\n- 路易十五本人對這件事說過什麼，原典裡只有間接的轉述。\n",
    "links": [
     "s-1823-campan-memoires",
     "s-1835-vigee-le-brun-souvenirs",
-    "s-1874-arneth-mercy-correspondance"
+    "s-1874-arneth-mercy-correspondance",
+    "t-vigee"
+   ]
+  },
+  {
+   "id": "t-execution",
+   "type": "topic",
+   "title": "國王的最後一天：「我無罪而死」",
+   "category": "革命",
+   "period": [
+    1792,
+    1793
+   ],
+   "summary": "從聽到判決，到斷頭台上被鼓聲蓋過的最後一句話。",
+   "myth": "斷頭台的斜刃，是路易十六親手改良的。",
+   "verdict": "查無實據",
+   "image": "t-execution.jpg",
+   "imageAlt": "粉彩畫風插畫：1793 年 1 月霧氣籠罩的巴黎廣場，遠處一輛深色馬車在成排士兵與鼓手之間緩緩前進。",
+   "sources": [
+    "s-1798-clery-journal",
+    "s-1815-edgeworth-memoirs",
+    "s-1852-marie-therese-temple",
+    "s-1862-sanson-sept-generations",
+    "s-1795-poncelin-proces-louis-xvi"
+   ],
+   "updated": "2026-11-16",
+   "body": "## 一句話說明\n\n1793 年 1 月 21 日上午，路易十六在巴黎的革命廣場被處決。這一天有四位證人留下了紀錄：國王的僕人克萊里、陪他走到最後的神父埃奇沃斯、他的女兒瑪麗－泰蕾茲，以及劊子手桑松的家族。他們對很多細節說法不同，但都記得他很平靜。\n\n## 迷思與史料\n\n常聽說斷頭台那片斜斜的刀刃，是喜歡機械的路易十六親手改良的。這個故事最早只見於 1862 年出版的《桑松家族回憶錄》：書裡說，1792 年 3 月初，劊子手桑松和設計斷頭台的醫生安托萬．路易在杜樂麗宮見到國王，國王看了設計圖，把半月形的刀刃改畫成一條斜線，還說「我可能錯了，試驗的時候兩種都試試看」（本站譯）（[[s-1862-sanson-sept-generations]] 第 3 冊 pp. 400–402）。書裡說這是家族流傳的說法，沒有引用任何當時的檔案（[[s-1862-sanson-sept-generations]] 第 3 冊）。\n\n這本書在國王死後將近七十年才出版，是劊子手後代整理的家族故事。本站在其他史料裡沒有找到國王參與改良刀刃的紀錄，所以判定是「查無實據」。（推論）一個愛打鎖的國王親手設計了砍自己頭的機器，這個故事太巧了，很適合流傳。\n\n## 故事是這樣的\n\n### 判決\n\n1793 年 1 月，國民公會審判國王。據 1795 年出版的審判彙編的編註，721 位投票的議員中，有 366 票主張死刑（[[s-1795-poncelin-proces-louis-xvi]] 第 1 冊）。克萊里說，國王後來看到投票名單，對他說，自己的堂兄奧爾良公爵也投了死刑票，「我很難過」（[[s-1798-clery-journal]] 約 p. 108）。\n\n替國王辯護的老律師馬勒澤布（Malesherbes）來到聖殿塔報信。克萊里說，他一進門就跪在國王腳邊痛哭：「全完了，國王被判死刑了。」國王反過來扶他起來、擁抱他、安慰他（[[s-1798-clery-journal]] 約 pp. 106–107）。瑪麗－泰蕾茲則記得國王說：「我寧可死，也不要有人為我發動暴動。國王是不會死在法國的！」（本站譯）（[[s-1852-marie-therese-temple]] pp. 63–64）（推論）這句話的意思是，國王一死，王位立刻由繼承人接續，王權本身不會死。\n\n1 月 20 日，政府派人到聖殿塔正式宣讀判決。克萊里說，國王聽到「陰謀」這個罪名時，嘴角露出一絲憤怒的笑；聽到「處以死刑」時，他環顧四周，那個眼神讓克萊里覺得，死亡對一個無辜的人並不可怕（[[s-1798-clery-journal]] 約 pp. 110–111）。國王提出幾項請求：延後三天、讓他自己選的神父來、讓家人自由離開。國民公會拒絕延期，但准許愛爾蘭籍神父埃奇沃斯（Edgeworth de Firmont）進塔（[[s-1798-clery-journal]] 約 pp. 110–111；[[s-1815-edgeworth-memoirs]] pp. 68–69）。\n\n### 最後的晚上\n\n那幾天，國王一直在讀英國史裡查理一世被處死的那一冊；克萊里說，國王在塔裡一共讀了大約兩百五十本書（[[s-1798-clery-journal]] 約 p. 109）。抽屜裡有三卷金幣，共三千里弗爾，每一卷上都寫了字，說這些錢不是他的，要還給馬勒澤布（[[s-1798-clery-journal]] 約 p. 109）。判決宣讀後，他照常吃晚飯，看守們很驚訝，以為他打算自殺（[[s-1852-marie-therese-temple]] p. 64）。\n\n那天晚上，他和家人告別了將近兩個小時，答應第二天早上再見一面（詳見 [[t-temple]]）。神父埃奇沃斯勸他不要再見王后，說「這會讓她崩潰」，國王嘆了口氣同意了：讓她再多抱一點希望吧（[[s-1815-edgeworth-memoirs]] 約 p. 72）。夜裡十一點，國王去睡了。埃奇沃斯躺在隔壁的小房間，聽見國王平靜地交代第二天的事（[[s-1815-edgeworth-memoirs]] 約 pp. 69–70）。\n\n同一天，在巴黎的另一頭，劊子手桑松家正準備慶祝結婚紀念日。家族回憶錄說，一個陌生的年輕人找上門，說願意代替國王去死，桑松的妻子當場昏倒；那頓晚飯整桌撤下，她一整夜跪著祈禱（[[s-1862-sanson-sept-generations]] 第 3 冊 pp. 468–469）。\n\n### 1 月 21 日早上\n\n清晨五點，國王起床，照常穿好衣服（[[s-1815-edgeworth-memoirs]] 約 p. 70）。六點，埃奇沃斯在臨時布置的祭壇前為他做彌撒，國王跪在地上，沒有跪墊。領完聖體，國王說：「我的上帝，我多麼幸福，還保有我的信仰。」（本站譯）（[[s-1815-edgeworth-memoirs]] 約 p. 70；[[s-1798-clery-journal]] 約 p. 111）\n\n全城從清晨開始武裝，鼓聲不斷（[[s-1798-clery-journal]] 約 p. 113）。國王想讓克萊里替他剪頭髮，看守開會討論了半小時，還是拒絕了（[[s-1798-clery-journal]] 約 pp. 111–112）。九點左右，國民衛隊司令桑泰爾帶人進塔。國王問：「你們來接我了？」說「給我一分鐘」，回房去拿遺囑（[[s-1798-clery-journal]] 約 p. 112）。下樓時，他對看守說：「前天我脾氣不好，請別放在心上。」然後說：「我們走吧。」（本站譯）（[[s-1798-clery-journal]] 約 p. 113）\n\n### 兩個小時的路\n\n埃奇沃斯說，馬車走了將近兩個小時。車前放了十五到二十面鼓，為的是蓋過任何支持國王的聲音；街上只有武裝的市民，門口和窗邊一個人也沒有（[[s-1815-edgeworth-memoirs]] 約 p. 80）。他後來才知道，前一晚有人計畫在路上劫車救國王，預計有四五百人，結果因為街道一早就被封鎖，只有二十五人到了集合點（[[s-1815-edgeworth-memoirs]] 約 pp. 78–79）。\n\n劊子手桑松那天早上八點出門，九點前到了革命廣場。家族回憶錄引他自己的話說，他和兩個弟弟的厚大衣底下藏著劍、短刀和四把手槍，怕有人來搶人（[[s-1862-sanson-sept-generations]] 第 3 冊 pp. 471–472）。他說，國王下車時「比在凡爾賽和杜樂麗宮時更平靜、更威嚴」（本站譯）（[[s-1862-sanson-sept-generations]] 第 3 冊 p. 473）。\n\n### 斷頭台上\n\n國王下車前對護送的士兵說：「我把這位好人託付給你們，我死後不要讓人侮辱他。」（本站譯）他指的是神父（[[s-1815-edgeworth-memoirs]] 約 pp. 80–81）。要綁他的手時，他起初拒絕；埃奇沃斯說，最後國王接受了，說：「不管你們要怎樣，我都會把這杯苦酒喝到底。」（本站譯）（[[s-1815-edgeworth-memoirs]] 約 p. 84）桑松家的版本是國王自己脫下外套，說「別碰我」，神父先伸出手示範；瑪麗－泰蕾茲則聽說是用手帕綁的（[[s-1862-sanson-sept-generations]] 第 3 冊 pp. 474–476；[[s-1852-marie-therese-temple]] p. 66）。\n\n埃奇沃斯說，國王走上刑台，腳步堅定，走到面向人群最多的一邊，大聲說：「我無罪而死。我原諒那些害死我的人。我祈求上帝，你們即將流下的血，永遠不要落在法國身上。」（本站譯）（[[s-1815-edgeworth-memoirs]] 約 p. 85）他還沒說完，鼓聲就響了起來。埃奇沃斯說是一個騎馬的軍官揮劍下令擊鼓，瑪麗－泰蕾茲和桑松家說是桑泰爾下令（[[s-1815-edgeworth-memoirs]] 約 p. 86；[[s-1852-marie-therese-temple]] pp. 65–66；[[s-1862-sanson-sept-generations]] 第 3 冊 p. 477）。\n\n瑪麗－泰蕾茲記下，父親死於上午十點十分，享年三十九歲又五個月三天（[[s-1852-marie-therese-temple]] p. 66）。埃奇沃斯說，一個大約十八歲的衛兵抓起國王的頭，繞著刑台走了一圈；一開始全場沒人出聲，接著有人喊「共和國萬歲」，不到十分鐘，整個廣場都在喊（[[s-1815-edgeworth-memoirs]] 約 pp. 86–87）。桑松家的說法則是，大多數人轉過身去，臉上帶著恐懼（[[s-1862-sanson-sept-generations]] 第 3 冊 pp. 478–479）。\n\n### 「聖路易之子，升天吧」\n\n最有名的一句話，是神父在刀落下前對國王說的「聖路易之子，升天吧」。瑪麗－泰蕾茲和桑松家的回憶錄都把這句話記在神父名下（[[s-1852-marie-therese-temple]] p. 66；[[s-1862-sanson-sept-generations]] 第 3 冊 pp. 477–478）。但埃奇沃斯自己的回憶錄裡沒有寫這句話；書的編者註說，有人問過他，他說自己既不能否認、也不能肯定，有可能說過，但事後不記得了（[[s-1815-edgeworth-memoirs]] 約 pp. 87–88 編者註）。\n\n## 研究者怎麼看\n\n- 四位證人都是事後才寫下回憶：克萊里 1798 年、埃奇沃斯的回憶 1815 年、瑪麗－泰蕾茲的回憶 1852 年才完整出版、桑松家族回憶錄 1862 年。他們對馬勒澤布哪天報信、誰下令擊鼓、怎麼綁手，說法都不一樣（[[s-1798-clery-journal]]；[[s-1815-edgeworth-memoirs]]；[[s-1852-marie-therese-temple]]；[[s-1862-sanson-sept-generations]]）。\n- 桑松家族回憶錄是後代整理的家族故事，細節生動，但可信度要打折扣（[[s-1862-sanson-sept-generations]]）。\n- 死刑的票數本站只讀到 1795 年彙編的編註，還沒用國民公會的正式紀錄核對（[[s-1795-poncelin-proces-louis-xvi]]）。\n\n## 延伸閱讀\n\n- [[s-1798-clery-journal]]\n- [[s-1815-edgeworth-memoirs]]\n- [[s-1852-marie-therese-temple]]\n- [[s-1862-sanson-sept-generations]]\n- [[s-1795-poncelin-proces-louis-xvi]]\n- 相關故事：[[t-louis]]、[[t-temple]]、[[t-trial]]\n\n## 還不知道的事\n\n- 國民公會正式的投票紀錄（死刑、緩刑的票數）。\n- 「國王臨死前還問拉佩魯茲有沒有消息」這個傳說，在這些證人的書裡都找不到（見 [[t-louis]]）。\n- 國王的遺囑全文，本站還沒讀到可靠的版本。\n",
+   "links": [
+    "s-1795-poncelin-proces-louis-xvi",
+    "s-1798-clery-journal",
+    "s-1815-edgeworth-memoirs",
+    "s-1852-marie-therese-temple",
+    "s-1862-sanson-sept-generations",
+    "t-louis",
+    "t-temple",
+    "t-trial"
    ]
   },
   {
@@ -1309,6 +1593,31 @@
    ]
   },
   {
+   "id": "t-ghost",
+   "type": "topic",
+   "title": "小特里亞儂的鬼魂：兩位牛津女學者的「奇遇」",
+   "category": "身後",
+   "period": [
+    1901,
+    1913
+   ],
+   "summary": "1901 年夏天的一個下午，兩位英國學者說她們走進了 1789 年。",
+   "myth": "1901 年，兩位英國學者在小特里亞儂的花園裡看見了瑪麗．安東尼的鬼魂。",
+   "verdict": "查無實據",
+   "image": "t-ghost.jpg",
+   "imageAlt": "粉彩畫風插畫：兩位穿維多利亞長裙的女士背影走在林間小徑，前方有小石橋和圓亭，樹蔭下隱約有一位穿 18 世紀長裙的女士在畫畫。",
+   "sources": [
+    "s-1913-moberly-jourdain-adventure"
+   ],
+   "updated": "2026-11-16",
+   "body": "## 一句話說明\n\n1901 年 8 月，牛津大學聖休學院的院長莫伯利（Charlotte Anne Moberly）和她後來的繼任者喬丹（Eleanor Jourdain）參觀小特里亞儂時迷了路。她們後來相信，自己看到了 1789 年的花園、聽到了當時的人說話，還見到了坐在草地上的王后。她們用筆名出版了一本書《一次奇遇》（*An Adventure*），一百多年來爭論不斷。\n\n## 迷思與史料\n\n這件事唯一的第一手資料，就是兩位當事人自己的書。書裡最明顯的問題是：兩人看到的並不一樣。莫伯利說，她們一起經過一位坐在草地上、舉著一張紙的女士，喬丹卻完全沒看到這位女士（[[s-1913-moberly-jourdain-adventure]] pp. 8、13）。而那位女士在畫畫，只是莫伯利當時的猜測；她在附錄裡又說，自己有一種印象，紙上什麼也沒有（[[s-1913-moberly-jourdain-adventure]] pp. 8、187）。\n\n其他細節也一改再改：那個跑來指路的男人，口音一開始說像「奧地利人講法語」，後來又改說是「布列塔尼口音」，書裡沒有解釋為什麼改口（[[s-1913-moberly-jourdain-adventure]] pp. 22、65–66）。兩人也承認，她們在 1904 年以前已經把故事講給很多人聽過，之後才開始到檔案館查證（[[s-1913-moberly-jourdain-adventure]]）。後來的研究者對這本書有各種解釋（見「研究者怎麼看」），但沒有任何獨立的證據支持她們看到的是鬼魂，所以判定是「查無實據」。\n\n## 故事是這樣的\n\n### 一個八月的星期六\n\n那天下午，兩人從凡爾賽宮走向小特里亞儂。莫伯利說，因為沒有問路，她們繞了不必要的遠路（[[s-1913-moberly-jourdain-adventure]] p. 2）。書裡沒有寫確切的日期，只說是「八月的一個星期六」；照日曆推算，應該是 1901 年 8 月 10 日。\n\n走著走著，四周的氣氛變了。在一條岔路旁，她們看到一座有柱子、矮牆圍起來的小圓亭，像個小型樂隊亭；亭子旁坐著一個披黑色斗篷、戴寬邊帽的男人，莫伯利說他膚色深，表情「非常討厭」，喬丹則說他臉上有天花留下的痕跡（[[s-1913-moberly-jourdain-adventure]] pp. 4–5、18–19）。\n\n突然，一個紅臉、戴大帽子、披斗篷的男人不知從哪塊岩石後面冒出來，用法語大喊：「女士們，女士們，別往那邊走……往這邊，去找那棟房子。」說完就消失了（[[s-1913-moberly-jourdain-adventure]] pp. 6–7）。她們走過一座小橋，旁邊有一道細細的瀑布從長滿蕨類的岩坡上流下來（[[s-1913-moberly-jourdain-adventure]] p. 7）。\n\n### 草地上的女士\n\n到了小特里亞儂旁邊的英式花園，莫伯利看到一位女士坐在露台下的草地上，手上舉著一張紙。她戴著寬邊白帽，一頭金髮，披著有綠色或金色細邊的披肩，裙子腰線長、裙擺蓬起（[[s-1913-moberly-jourdain-adventure]] p. 8）。那天晚上，莫伯利寫下：「我們兩個都覺得小特里亞儂鬧鬼。」（本站譯）（[[s-1913-moberly-jourdain-adventure]] p. 103）\n\n### 「8 月 10 日」\n\n三個月後，1901 年 11 月，喬丹在備課時想起：8 月 10 日在歷史上有特別的意義。1792 年 8 月 10 日，杜樂麗宮被攻陷，王后在國民議會的小包廂裡坐了十八個小時（[[s-1913-moberly-jourdain-adventure]] pp. 21–23）。她們推斷，自己可能是「走進了王后的記憶」。喬丹還從一位法國朋友那裡聽到一個當地傳說：每年 8 月，王后會穿著粉紅色的裙子、戴著寬帽，坐在小特里亞儂的花園裡；但這個傳說的粉紅色裙子，和莫伯利看到的對不上，書的附錄自己也承認了（[[s-1913-moberly-jourdain-adventure]] pp. 22、186）。\n\n### 第二次、第三次\n\n1902 年 1 月一個冷雨天，喬丹獨自回去。她說自己在王后農莊附近看到兩個穿棕色短斗篷、一個戴紅兜帽一個戴藍兜帽的工人在把樹枝裝上車，一轉身，人和車都不見了；她還聽到遠處傳來一段樂曲（[[s-1913-moberly-jourdain-adventure]] pp. 26–27、94–97）。\n\n1904 年 7 月，兩人一起回去，那座小圓亭、小橋、瀑布都不見了，女士坐過的地方只剩一叢大灌木，草地上到處是遊客、攤販和賣檸檬水的人（[[s-1913-moberly-jourdain-adventure]] pp. 35–37）。\n\n### 到檔案館找證據\n\n接下來的幾年，兩人跑遍凡爾賽和巴黎的檔案館，想證明她們看到的東西在 18 世紀確實存在。她們找到一份沒有署名、沒有日期的估價單，寫著一座有七根柱子、牆和圓頂的「廢墟」，認為那就是小圓亭；又找到 1788 年的工程紀錄，提到沿著岩石放置的石頭和一座「木橋」（[[s-1913-moberly-jourdain-adventure]] pp. 48–49、68–69）。她們把亭子旁那個臉上有天花疤的男人，比對成王后的朋友沃德勒伊伯爵（[[s-1913-moberly-jourdain-adventure]] pp. 51–52）。\n\n書的第三章，兩人也自己列出了反對的理由，其中一個是「有人在拍電影」。她們說這解釋不了那些已經不存在的建築，而且她們在 1910 年查過，1901 年 8 月沒有核准任何拍攝（[[s-1913-moberly-jourdain-adventure]] pp. 112–116）。\n\n### 一本書，兩個筆名\n\n1911 年，兩人用伊莉莎白．莫里森（Elizabeth Morison）和法蘭西絲．拉蒙（Frances Lamont）的筆名出版了《一次奇遇》，1913 年再版時加上了附錄和地圖（[[s-1913-moberly-jourdain-adventure]]）。她們的核心理論是：1792 年 8 月 10 日，王后被困在國民議會時，回想起 1789 年 10 月 5 日在小特里亞儂聽到暴民來了的那個下午；而她們在 1901 年同一天，誤闖進了這段記憶（[[s-1913-moberly-jourdain-adventure]] pp. 106–109）。這是她們自己的推論，書裡沒有直接證據。\n\n## 研究者怎麼看\n\n- 英國心靈研究學會（SPR）1911 年的書評認為，這可能是記憶出錯；1950 年，研究者索爾特（W. H. Salter）比對兩人不同時期的紀錄，認為後來的版本比最早的版本更完整、更像經過潤飾。本站只讀到這兩份評論的二手轉述，還沒讀到原文。\n- 法國作家朱利安（Philippe Jullian）1965 年提出另一種解釋：當時住在凡爾賽附近的孟德斯鳩伯爵（Robert de Montesquiou）常辦古裝派對和活人畫，兩位女士可能誤入了排練現場。但目前沒有證據說明 1901 年 8 月那天他在不在小特里亞儂辦活動。\n- 文學研究者卡斯爾（Terry Castle）1991 年寫過一篇長文，討論這本書和它的懷疑者，本站還沒讀到。\n- （推論）兩人對同一件事的描述不一致，又在多年後才系統整理紀錄，是這個故事最大的弱點。\n\n## 延伸閱讀\n\n- [[s-1913-moberly-jourdain-adventure]]\n- 相關故事：[[t-hameau]]、[[t-october-days]]\n\n## 還不知道的事\n\n- 兩人在 1901 年當時寫下的最早紀錄長什麼樣子？據說曾寄給英國心靈研究學會，本站還沒讀到。\n- 書裡提到的「1789 年 10 月 5 日王后在小特里亞儂的石窟收到消息」，康龐夫人的回憶錄確實有記載（見 [[t-october-days]]），這正是兩人推理的起點。\n- 後來凡爾賽宮方面怎麼看這件事？\n",
+   "links": [
+    "s-1913-moberly-jourdain-adventure",
+    "t-hameau",
+    "t-october-days"
+   ]
+  },
+  {
    "id": "t-hameau",
    "type": "topic",
    "title": "王后的農莊：她真的擠過牛奶嗎？",
@@ -1330,7 +1639,7 @@
     "s-2016-maes-laiterie-rambouillet"
    ],
    "updated": "2026-11-15",
-   "body": "## 一句話說明\n\n農莊和乳品室都是真的，但它是真正在運作的農場，王后在那裡散步、招待朋友；「她穿圍裙擠牛奶」這個畫面，目前找不到當時的證據。\n\n## 迷思與史料\n\n凡爾賽宮的官方介紹寫得很直接：「和瑪麗．安東尼根深柢固的大眾形象相反，王后和她的隨從並沒有在這片田園風光裡『扮演農夫』。」王后其實是把農莊當作散步、舉辦小型聚會的地方（本站譯）（[[s-2016-versailles-queens-hamlet]]）。\n\n最接近的當時證詞來自貼身女官康龐夫人。她說，在小特里亞儂，王后最喜歡的是「走遍農莊裡所有的工坊、看人擠牛奶、在湖裡釣魚」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 298）。是「看」人擠牛奶，不是自己擠。農莊本身也不是布景：官網說它同時是正常運作的農場，這是王后堅持的（[[s-2016-versailles-queens-hamlet]]）。所以判定是「半真半假」：農場、牛奶都是真的，王后親手擠奶找不到證據。\n\n## 故事是這樣的\n\n### 國王的第一份禮物\n\n小特里亞儂是凡爾賽宮花園裡的一座小宮殿，原本是路易十五蓋的，他就是在這裡染上天花去世的（[[s-1823-campan-memoires]] 第 1 冊 p. 110 及原註）。1774 年新王即位後，駐法大使梅西向維也納報告：王后沒有透過任何中間人，自己直接向國王開口要這座別墅，國王當場答應（[[s-1874-arneth-mercy-correspondance]] 第 2 冊）。母親瑪麗亞．特蕾莎回信說，聽說那是「最宜人的住所」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊）。梅西卻已經在擔心，提醒王后別讓國王這份「迷人的第一份禮物」變成大筆花費的藉口（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 205 前後）。\n\n{{photo:t-hameau-petit-trianon.jpg|今日的小特里亞儂（Petit Trianon），位於凡爾賽宮園區，攝於 2022 年。|Wikimedia Commons，CC BY-SA 4.0}}\n\n那年夏天，王后就忙著把這裡的花園改成英式庭園，國王也下令把圍牆往外擴（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 209，1774 年 7 月 31 日信）。據康龐夫人說，王后只改花園，房子不准加蓋，傢俱也不換：到 1789 年都還是路易十五時代的舊東西，王后睡的床又舊又褪色，據說還是杜巴利夫人用過的（[[s-1823-campan-memoires]] 第 1 冊 p. 110）。宮廷裡謠傳她把這裡改名為「小維也納」，康龐夫人說那是謠言（[[s-1823-campan-memoires]] 第 1 冊 pp. 110–111）。\n\n### 躲開宮廷的地方\n\n在凡爾賽，王后連起床都有一群人圍觀；在小特里亞儂，她一個人去，只帶一名跟班，接待她的是看門人夫婦，看門人的妻子兼當貼身侍女（[[s-1823-campan-memoires]] 第 1 冊 p. 111）。夏天，她和女伴們的「盛裝」只有白色平紋細布長裙、薄紗披肩和草帽，這身打扮後來還引出一場肖像醜聞（[[s-1823-campan-memoires]] 第 1 冊 p. 298；另見 [[t-chemise]]）。\n\n她也在這裡演戲。王后排演盧梭的小歌劇《鄉村占卜師》（*Le Devin du village*），規定劇團裡除了國王的弟弟阿圖瓦伯爵，不收任何年輕男子；觀眾只有國王和王室，前排讓給王后的侍女和她們的姊妹女兒，大約四十人。演牧羊人的阿德瑪伯爵年紀大、聲音發抖，王后笑得很開心，還說這樣的「情人」應該沒人能挑剔吧。國王非常喜歡看這些戲（[[s-1823-campan-memoires]] 第 1 冊 pp. 298–299）。\n\n### 關起門來的代價\n\n但「關起門來」也惹了麻煩。1780 年，梅西報告：王后常常整天待在小特里亞儂，有時一住就是一個星期；只有宮廷內部的人能進去，女官們白天才能過來吃飯，宮裡因此怨聲四起（[[s-1874-arneth-mercy-correspondance]] 第 3 冊，1780 年 5 月、9 月信）。梅西還說，這個退居小特里亞儂的主意，是王后的閨蜜波利尼亞克夫人出的（[[s-1874-arneth-mercy-correspondance]] 第 3 冊，1780 年 9 月 16 日信）。梅西一向站在王后這邊，連他都覺得不妥。\n\n### 模範村莊與乳品室\n\n1783 年夏天，王后請建築師米克（Richard Mique）把花園往北擴建，蓋一整座模範村莊，1786 年完工。它有農舍、磨坊，也有馬廄、牛舍、羊欄和雞舍。拿破崙時代整修時，最破舊的建築被拆掉了，其中就包括穀倉和真正在用的乳品室（[[s-2016-versailles-queens-hamlet]]）。\n\n{{photo:t-hameau-ferme.jpg|今日的王后農莊（Hameau de la Reine）農舍，位於凡爾賽宮園區，攝於 2010 年。|Wikimedia Commons，CC BY-SA 3.0}}\n\n另一座常被搞混的乳品室在朗布依埃（Rambouillet）。法國文化部的資料說，它是路易十六為王后蓋的；1787 到 1788 年間，塞弗爾瓷器廠送來 65 件瓷器，在畫家于貝爾．羅貝爾（Hubert Robert）指導下設計，器形參考古代陶器。其中最有名的是「乳房碗」（bol sein），塞弗爾到今天還在生產（[[s-2025-dati-culture-sevres-rambouillet]]）。\n\n{{photo:t-hameau-rambouillet.jpg|朗布依埃（Rambouillet）的王后乳品室，由建築師理查．米克（Richard Mique）設計，今日的照片。|Wikimedia Commons，CC BY-SA 3.0}}\n\n## 研究者怎麼看\n\n- 凡爾賽宮的研究立場是：農莊是功能完整的農場，王后在那裡休息、社交，並沒有扮農夫（[[s-2016-versailles-queens-hamlet]]）。\n- 研究朗布依埃乳品室的專書，把它稱為「一座為王后的愉悅而建的田園神殿」（本站譯）（[[s-2016-maes-laiterie-rambouillet]]）。本站只讀到這本書的書目與簡介。\n- （推論）「乳房碗是照王后的胸部做的」流傳很廣，但本站讀到的官方資料只說器形參考古代陶器，沒有提到王后。\n\n## 延伸閱讀\n\n- [[s-2016-versailles-queens-hamlet]]\n- [[s-2025-dati-culture-sevres-rambouillet]]\n- [[s-1823-campan-memoires]]\n- [[s-1874-arneth-mercy-correspondance]]\n- [[s-2016-maes-laiterie-rambouillet]]\n- 名詞：[[e-campan]]\n- 名詞：[[e-petit-trianon]]\n- 相關故事：[[t-polignac]]、[[t-chemise]]\n\n## 還不知道的事\n\n- 「王后扮農婦」的形象最早從哪裡來：是當時的誹謗小冊子、19 世紀的小說，還是電影？還沒查到。\n- 美術史家 Meredith Martin《乳品室的王后們》（*Dairy Queens*, 2011）討論了貴族女性的乳品室風潮，本站還沒讀到。\n- 農莊裡實際務農的人是誰，官網沒有寫，需要再找檔案。\n- 王后在小特里亞儂穿的衣服，見 [[t-chemise]]。\n",
+   "body": "## 一句話說明\n\n農莊和乳品室都是真的，但它是真正在運作的農場，王后在那裡散步、招待朋友；「她穿圍裙擠牛奶」這個畫面，目前找不到當時的證據。\n\n## 迷思與史料\n\n凡爾賽宮的官方介紹寫得很直接：「和瑪麗．安東尼根深柢固的大眾形象相反，王后和她的隨從並沒有在這片田園風光裡『扮演農夫』。」王后其實是把農莊當作散步、舉辦小型聚會的地方（本站譯）（[[s-2016-versailles-queens-hamlet]]）。\n\n最接近的當時證詞來自貼身女官康龐夫人。她說，在小特里亞儂，王后最喜歡的是「走遍農莊裡所有的工坊、看人擠牛奶、在湖裡釣魚」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 298）。是「看」人擠牛奶，不是自己擠。農莊本身也不是布景：官網說它同時是正常運作的農場，這是王后堅持的（[[s-2016-versailles-queens-hamlet]]）。所以判定是「半真半假」：農場、牛奶都是真的，王后親手擠奶找不到證據。\n\n## 故事是這樣的\n\n### 國王的第一份禮物\n\n小特里亞儂是凡爾賽宮花園裡的一座小宮殿，原本是路易十五蓋的，他就是在這裡染上天花去世的（[[s-1823-campan-memoires]] 第 1 冊 p. 110 及原註）。1774 年新王即位後，駐法大使梅西向維也納報告：王后沒有透過任何中間人，自己直接向國王開口要這座別墅，國王當場答應（[[s-1874-arneth-mercy-correspondance]] 第 2 冊）。母親瑪麗亞．特蕾莎回信說，聽說那是「最宜人的住所」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊）。梅西卻已經在擔心，提醒王后別讓國王這份「迷人的第一份禮物」變成大筆花費的藉口（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 205 前後）。\n\n{{photo:t-hameau-petit-trianon.jpg|今日的小特里亞儂（Petit Trianon），位於凡爾賽宮園區，攝於 2022 年。|Wikimedia Commons，CC BY-SA 4.0}}\n\n那年夏天，王后就忙著把這裡的花園改成英式庭園，國王也下令把圍牆往外擴（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 209，1774 年 7 月 31 日信）。據康龐夫人說，王后只改花園，房子不准加蓋，傢俱也不換：到 1789 年都還是路易十五時代的舊東西，王后睡的床又舊又褪色，據說還是杜巴利夫人用過的（[[s-1823-campan-memoires]] 第 1 冊 p. 110）。宮廷裡謠傳她把這裡改名為「小維也納」，康龐夫人說那是謠言（[[s-1823-campan-memoires]] 第 1 冊 pp. 110–111）。\n\n### 躲開宮廷的地方\n\n在凡爾賽，王后連起床都有一群人圍觀；在小特里亞儂，她一個人去，只帶一名跟班，接待她的是看門人夫婦，看門人的妻子兼當貼身侍女（[[s-1823-campan-memoires]] 第 1 冊 p. 111）。夏天，她和女伴們的「盛裝」只有白色平紋細布長裙、薄紗披肩和草帽，這身打扮後來還引出一場肖像醜聞（[[s-1823-campan-memoires]] 第 1 冊 p. 298；另見 [[t-chemise]]）。\n\n她也在這裡演戲。王后排演盧梭的小歌劇《鄉村占卜師》（*Le Devin du village*），規定劇團裡除了國王的弟弟阿圖瓦伯爵，不收任何年輕男子；觀眾只有國王和王室，前排讓給王后的侍女和她們的姊妹女兒，大約四十人。演牧羊人的阿德瑪伯爵年紀大、聲音發抖，王后笑得很開心，還說這樣的「情人」應該沒人能挑剔吧。國王非常喜歡看這些戲（[[s-1823-campan-memoires]] 第 1 冊 pp. 298–299）。\n\n### 關起門來的代價\n\n但「關起門來」也惹了麻煩。1780 年，梅西報告：王后常常整天待在小特里亞儂，有時一住就是一個星期；只有宮廷內部的人能進去，女官們白天才能過來吃飯，宮裡因此怨聲四起（[[s-1874-arneth-mercy-correspondance]] 第 3 冊，1780 年 5 月、9 月信）。梅西還說，這個退居小特里亞儂的主意，是王后的閨蜜波利尼亞克夫人出的（[[s-1874-arneth-mercy-correspondance]] 第 3 冊，1780 年 9 月 16 日信）。梅西一向站在王后這邊，連他都覺得不妥。\n\n### 模範村莊與乳品室\n\n1783 年夏天，王后請建築師米克（Richard Mique）把花園往北擴建，蓋一整座模範村莊，1786 年完工。它有農舍、磨坊，也有馬廄、牛舍、羊欄和雞舍。拿破崙時代整修時，最破舊的建築被拆掉了，其中就包括穀倉和真正在用的乳品室（[[s-2016-versailles-queens-hamlet]]）。\n\n{{photo:t-hameau-ferme.jpg|今日的王后農莊（Hameau de la Reine）農舍，位於凡爾賽宮園區，攝於 2010 年。|Wikimedia Commons，CC BY-SA 3.0}}\n\n另一座常被搞混的乳品室在朗布依埃（Rambouillet）。法國文化部的資料說，它是路易十六為王后蓋的；1787 到 1788 年間，塞弗爾瓷器廠送來 65 件瓷器，在畫家于貝爾．羅貝爾（Hubert Robert）指導下設計，器形參考古代陶器。其中最有名的是「乳房碗」（bol sein），塞弗爾到今天還在生產（[[s-2025-dati-culture-sevres-rambouillet]]）。\n\n{{photo:t-hameau-rambouillet.jpg|朗布依埃（Rambouillet）的王后乳品室，由建築師理查．米克（Richard Mique）設計，今日的照片。|Wikimedia Commons，CC BY-SA 3.0}}\n\n## 研究者怎麼看\n\n- 凡爾賽宮的研究立場是：農莊是功能完整的農場，王后在那裡休息、社交，並沒有扮農夫（[[s-2016-versailles-queens-hamlet]]）。\n- 研究朗布依埃乳品室的專書，把它稱為「一座為王后的愉悅而建的田園神殿」（本站譯）（[[s-2016-maes-laiterie-rambouillet]]）。本站只讀到這本書的書目與簡介。\n- （推論）「乳房碗是照王后的胸部做的」流傳很廣，但本站讀到的官方資料只說器形參考古代陶器，沒有提到王后。\n\n## 延伸閱讀\n\n- [[s-2016-versailles-queens-hamlet]]\n- [[s-2025-dati-culture-sevres-rambouillet]]\n- [[s-1823-campan-memoires]]\n- [[s-1874-arneth-mercy-correspondance]]\n- [[s-2016-maes-laiterie-rambouillet]]\n- 名詞：[[e-campan]]\n- 名詞：[[e-petit-trianon]]\n- 相關故事：[[t-polignac]]、[[t-chemise]]、[[t-ghost]]\n\n## 還不知道的事\n\n- 「王后扮農婦」的形象最早從哪裡來：是當時的誹謗小冊子、19 世紀的小說，還是電影？還沒查到。\n- 美術史家 Meredith Martin《乳品室的王后們》（*Dairy Queens*, 2011）討論了貴族女性的乳品室風潮，本站還沒讀到。\n- 農莊裡實際務農的人是誰，官網沒有寫，需要再找檔案。\n- 王后在小特里亞儂穿的衣服，見 [[t-chemise]]。\n",
    "links": [
     "e-campan",
     "e-petit-trianon",
@@ -1340,6 +1649,7 @@
     "s-2016-versailles-queens-hamlet",
     "s-2025-dati-culture-sevres-rambouillet",
     "t-chemise",
+    "t-ghost",
     "t-polignac"
    ]
   },
@@ -1403,6 +1713,43 @@
     "s-1883-tourzel-memoires",
     "t-polignac",
     "t-white-hair"
+   ]
+  },
+  {
+   "id": "t-louis",
+   "type": "topic",
+   "title": "鎖匠國王：被低估的路易十六",
+   "category": "人物",
+   "period": [
+    1770,
+    1793
+   ],
+   "summary": "會讀彌爾頓、會畫地圖、會打鑰匙的國王，卻被記成只會吃和打獵的人。",
+   "myth": "路易十六又胖又貪吃，腦袋簡單，只會打獵和打鎖。",
+   "verdict": "半真半假",
+   "image": "t-louis.jpg",
+   "imageAlt": "粉彩畫風插畫：木工台上放著拆開的鎖、鑰匙和小工具，旁邊攤著太平洋航海圖、地球儀和羽毛筆。",
+   "sources": [
+    "s-1823-campan-memoires",
+    "s-1874-arneth-mercy-correspondance",
+    "s-1866-arneth-marie-antoinette",
+    "s-1798-clery-journal",
+    "s-1797-laperouse-voyage",
+    "s-1883-tourzel-memoires"
+   ],
+   "updated": "2026-11-16",
+   "body": "## 一句話說明\n\n路易十六真的愛打獵、也真的在宮裡打鎖；但認識他的人留下的紀錄裡，他也是一個英文流利、愛畫地圖、對戲劇很有眼光的人。至於「又胖又貪吃」，本站讀到的原典裡找不到這樣的描述。\n\n## 迷思與史料\n\n打鎖是真的。貼身女官康龐夫人親眼看過：國王對手工藝的興趣「太濃了」，他讓一個鎖匠學徒進到自己的私人房間，兩人一起打造鑰匙和鎖；他的手常常弄得黑黑的，王后當著她的面責備過好幾次，希望他換一種消遣（[[s-1823-campan-memoires]] 第 1 冊 p. 124）。打獵也是真的，他在凡爾賽的小樓梯上，掛著記錄自己每次打獵收穫的表格（[[s-1823-campan-memoires]] 第 1 冊附錄）。\n\n但同一位康龐夫人也寫道：國王英文非常好，她好幾次聽到他翻譯彌爾頓《失樂園》裡最難的段落；他是「很厲害的地理學者」，喜歡自己畫地圖、上色；他熟知歷史，對戲劇很有判斷力（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 pp. 123–124）。至於身材和食量，大使梅西記過他打獵回來「胃口很好」，國王的僕人克萊里記過他在聖殿塔「吃得不多，但吃得有胃口」（[[s-1874-arneth-mercy-correspondance]] 第 1 冊；[[s-1798-clery-journal]]），都說不上貪吃。所以判定是「半真半假」。\n\n## 故事是這樣的\n\n### 鎖匠的工坊\n\n康龐夫人回憶錄的附錄裡，收了幾段關於國王工坊的描述：在國王私人圖書室的樓上，有一座鍛爐、兩個鐵砧、上千件鐵製工具，還有各式各樣的鎖，精巧的普通鎖、密碼鎖、鍍金的銅鎖（[[s-1823-campan-memoires]] 第 1 冊附錄）。工坊上方有一座鋪鉛板的平台，國王會坐在那裡，用大型望遠鏡看凡爾賽宮的院子、通往巴黎的大道和附近的花園；附錄還說他近視（[[s-1823-campan-memoires]] 第 1 冊附錄）。\n\n教他手藝的是一個叫加曼（Gamain）的鎖匠。後來他成了國王的敵人，給國王的評語是：好人、寬容、膽小、好奇，而且「很愛睡覺」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊附錄）。這位師傅還替國王在杜樂麗宮的牆裡做了一個暗藏的鐵櫃，牆面漆成石塊的樣子，接縫藏在陰影的線條裡；1792 年，他向國民議會揭發了這個櫃子，裡面的文件成了審判國王的證據（[[s-1823-campan-memoires]] 第 2 冊註；另見 [[t-execution]]）。\n\n### 讀書的國王\n\n康龐夫人說，國王小時候的老師是一位溫和博學的法蘭西學院院士，培養了他讀書的習慣，他長大後一直沒停（[[s-1823-campan-memoires]] 第 1 冊 p. 123）。她記下一個小故事：有一次在舒瓦西宮，幾位貴婦抱怨法蘭西喜劇院要來演莫里哀，說莫里哀品味很差；國王回答，莫里哀的戲裡也許有很多不夠文雅的東西，但很難找到品味差的地方（[[s-1823-campan-memoires]] 第 1 冊 p. 123）。\n\n### 太平洋上的指示\n\n國王對地理的興趣，最有名的證據是 1785 年出發的拉佩魯茲（La Pérouse）環球探險。1797 年出版的探險紀錄收了出發前的指示，開頭寫著「國王陛下已為拉佩魯茲先生畫出航線」，目的之一是「改進地理學、擴展航海」（本站譯）（[[s-1797-laperouse-voyage]] 第 1 冊）。不過書的導言也寫明，這份指示是前海軍官員弗勒里厄（Fleurieu）起草、以國王的名義發出的（[[s-1797-laperouse-voyage]] 第 1 冊導言）。常見說法是國王在稿子上親筆加了很多批註，印刷本裡看不出來。\n\n### 自己知道別人怎麼看他\n\n年輕的王太子很清楚巴黎人怎麼看他。康龐夫人轉述，他曾問身邊的侍從：「巴黎人怎麼說這個大笨蛋王太子？是不是覺得他很蠢？」（本站譯）（[[s-1823-campan-memoires]] 第 3 冊）\n\n外人的觀察也差不多。1777 年，王后的哥哥約瑟夫二世來訪，說國王受的教育不夠、外表不討喜，卻是個正直的人（見 [[t-consummation]]）；他問國王為什麼某些事沒先跟他說，國王不生氣，只是「看起來有點尷尬」，有時候回答說沒想到（本站譯）（[[s-1866-arneth-marie-antoinette]]）。梅西則說國王「天性寡言、性格膽怯」；王后認為他意志薄弱、自己管得住他，梅西覺得王后低估了國王（[[s-1874-arneth-mercy-correspondance]] 第 3 冊，1777 年 6 月、11 月信）。\n\n### 一個顧家的人\n\n康龐夫人說，王后懷孕時國王「高興得不得了」；他討厭宮裡的大賭局，聽到有人輸了大錢就不高興（[[s-1823-campan-memoires]] 第 1 冊；另見 [[t-deficit]]）。她說他同時具備「最好的丈夫、最慈愛的父親、最寬厚的主人」的特質（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 123），這當然是一位忠僕的評語。\n\n到了最後的日子，他在聖殿塔裡每天替兒子上地理課：讓孩子背法國新劃分的省、縣、城市和河流，還教他給地圖上色；也讓孩子背高乃依和拉辛的詩（[[s-1798-clery-journal]] pp. 14–15；另見 [[t-temple]]）。\n\n## 研究者怎麼看\n\n- 本站讀到的描述，大多來自王室身邊的人（康龐夫人、梅西、克萊里）。他們對國王的人品大多同情，對他的決斷力則常有保留（[[s-1823-campan-memoires]]；[[s-1874-arneth-mercy-correspondance]]；[[s-1798-clery-journal]]）。\n- 對他最刻薄的評語，來自後來揭發他的鎖匠師傅，是敵對證人的說法（[[s-1823-campan-memoires]] 第 1 冊附錄）。\n\n## 延伸閱讀\n\n- [[s-1823-campan-memoires]]\n- [[s-1874-arneth-mercy-correspondance]]\n- [[s-1866-arneth-marie-antoinette]]\n- [[s-1798-clery-journal]]\n- [[s-1797-laperouse-voyage]]\n\n## 還不知道的事\n\n- 1789 年 7 月 14 日，國王日記上寫的那個「Rien」（沒事）：常見解釋是那天打獵一無所獲，本站還沒讀到日記原頁。\n- 「國王臨刑前還問：有拉佩魯茲的消息嗎？」在克萊里的日記裡找不到，目前只是傳說。\n- 加曼的年金，康龐夫人回憶錄兩處寫的數字差了十倍，待查。\n- 他到底多高、多重，需要其他史料。\n",
+   "links": [
+    "s-1797-laperouse-voyage",
+    "s-1798-clery-journal",
+    "s-1823-campan-memoires",
+    "s-1866-arneth-marie-antoinette",
+    "s-1874-arneth-mercy-correspondance",
+    "s-1883-tourzel-memoires",
+    "t-consummation",
+    "t-deficit",
+    "t-execution",
+    "t-temple"
    ]
   },
   {
@@ -1478,11 +1825,12 @@
     "s-1823-campan-memoires"
    ],
    "updated": "2026-11-16",
-   "body": "## 一句話說明\n\n1789 年 10 月 5 日，巴黎的婦女和群眾為了麵包走到凡爾賽；6 日清晨，有人衝進王宮、殺了侍衛，王后從寢室逃到國王身邊。當天下午，王室一家被「護送」回巴黎，從此再也沒有回到凡爾賽。\n\n## 故事是這樣的\n\n> 這兩天有兩位證人都在宮裡：王室子女的家庭教師圖澤爾夫人，和王后的貼身女官康龐夫人。她們都忠於王后，但很多細節說得不一樣，本篇會把兩種說法並列。\n\n### 前奏：一場宴會\n\n10 月 1 日，王宮的禁衛軍在凡爾賽宮的歌劇院宴請剛調來的法蘭德斯團軍官，桌子擺在舞台上，樂隊演奏忠君的歌曲〈噢，理查，噢，我的國王〉（[[s-1823-campan-memoires]] 第 2 冊 pp. 71–72）。康龐夫人說，王后原本不想出席，怕在這種時候露面弊多於利，後來被人說動，和國王、王太子一起走進大廳，全場沸騰（[[s-1823-campan-memoires]] 第 2 冊 p. 72）；圖澤爾夫人則說，是大家懇請國王出席，「國王萬歲、王后萬歲」的呼聲不用人指揮（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 5）。\n\n這場宴會很快變成巴黎報紙上的醜聞，傳說有人在宴會上戴白色帽徽（波旁王室的顏色）、侮辱革命的三色帽徽。康龐夫人說這是假的：只是幾個國民衛隊的年輕人把帽徽翻過來，而帽徽的內側剛好是白的（[[s-1823-campan-memoires]] 第 2 冊 p. 72）。\n\n### 10 月 5 日：女人走在最前面\n\n圖澤爾夫人說，巴黎的人群先擠到市政廳，抱怨麵包短缺是宮廷囤積造成的，接著逼市政府命令國民衛隊司令拉法葉帶兵去凡爾賽，要國王搬回巴黎（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 6）。康龐夫人說，隊伍出現在通往凡爾賽的大道入口時，走在最前面的是女人（[[s-1823-campan-memoires]] 第 2 冊 p. 74）。\n\n那天國王在外打獵。康龐夫人說，王后正一個人坐在小特里亞儂花園的人造洞穴裡，收到大臣的紙條要她立刻回宮；國王也被人請回來，卻騎得「非常慢」（[[s-1823-campan-memoires]] 第 2 冊 p. 74）。王宮的鐵柵門關了起來，禁衛軍和法蘭德斯團在廣場上列隊，宮裡一片混亂（[[s-1823-campan-memoires]] 第 2 冊 p. 75）。\n\n晚上，十二位市場婦女被准許進去見國王。圖澤爾夫人說，她們出來時態度完全變了，差點被同伴當成叛徒（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 11）。大臣已經在宮外備好馬車，準備把王室送到朗布依埃避難，但因為國王對婦女們的回應很溫和，出發的計畫取消了；康龐夫人認為，王室就這樣錯過了離開的時機（[[s-1823-campan-memoires]] 第 2 冊 p. 76）。\n\n拉法葉帶著巴黎國民衛隊趕到，要求接管王宮外圍的守衛，禁衛軍被調回室內（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 10）。他向國王保證「我用我的軍隊擔保」，請國王去休息；康龐夫人說，王后後來一直認為拉法葉是在演戲（[[s-1823-campan-memoires]] 第 2 冊 pp. 75–76）。晚上十一點，王后傳話給圖澤爾夫人：如果有危險，就把孩子帶到國王那裡；但她自己不肯到國王房裡過夜，說「我寧願自己冒險，也要讓危險離國王和孩子遠一點」（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 11）。凌晨兩點，王后上床睡覺（[[s-1883-tourzel-memoires]] 第 1 冊約 pp. 11–12）。\n\n### 10 月 6 日清晨：「快救王后！」\n\n康龐夫人說，王后叫兩位侍女去睡，她們沒有聽，和另外兩名侍女一起坐在王后寢室門口守著（[[s-1823-campan-memoires]] 第 2 冊 p. 77）。這個沒聽話的決定，後來救了王后。\n\n清晨六點左右，群眾衝過柵門。站崗的禁衛軍被殺，頭被割了下來（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 13）。一名滿臉是血的侍衛在王后的門外被人群包圍，對康龐夫人的姊妹大喊：「夫人，快救王后，他們來殺她了！」她立刻把門鎖上，跑進去叫醒王后（[[s-1823-campan-memoires]] 第 2 冊 p. 78）。\n\n王后怎麼逃到國王那裡，兩位證人說法不同。康龐夫人說，王后連衣服都來不及穿好，被侍女們帶向通往國王房間的走廊，卻發現中間那扇門從另一邊鎖上了，敲了好一會兒，才有國王的僕人來開門；進去以後，國王卻不在，他正趕往王后房間找她（[[s-1823-campan-memoires]] 第 2 冊 pp. 78–79）。圖澤爾夫人則說，王后是從一道小樓梯下去，經過孩子們的房間，帶著女兒一起上到國王那裡（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 15）。\n\n群眾衝進王后寢室時，她已經不在了。圖澤爾夫人說，暴徒用長矛刺穿了她的床（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 14）；康龐夫人卻明確寫說，這件事不是真的（[[s-1823-campan-memoires]] 第 2 冊 p. 79）。後來，王太子見到那位受了重傷、救了母親的侍衛，抱著他說：「你救了媽媽，我真不知道怎麼謝你！」（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 14 註 11）\n\n### 陽台上的王后\n\n天亮後，王宮前的廣場擠滿了人，要王后到陽台上來。兩位證人這次說法一致：王后帶著孩子出來，群眾喊「不要孩子！」，她讓孩子們退回去，自己一個人站在陽台上（[[s-1823-campan-memoires]] 第 2 冊 p. 81；[[s-1883-tourzel-memoires]] 第 1 冊約 p. 17）。康龐夫人說她雙手和眼睛都望向天空，「像一個自願獻身的犧牲者」；圖澤爾夫人說，群眾的情緒從憤怒變成欽佩，喊起了「王后萬歲！」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 p. 81；[[s-1883-tourzel-memoires]] 第 1 冊約 p. 17）\n\n屋裡，衛兵和國民衛隊也在談和。據康龐夫人說，國民衛隊的擲彈兵和王宮侍衛交換了帽徽、甚至交換了帽子，抱在一起喊「國王、國家和侍衛萬歲！」（[[s-1823-campan-memoires]] 第 2 冊 pp. 80–81）。國王最後對群眾說：「孩子們，你們要我跟你們去巴黎，我答應，但條件是我不能和我的妻子、孩子分開。」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 p. 82）\n\n### 回巴黎的隊伍\n\n下午一點多，馬車出發。圖澤爾夫人坐在前座，膝上抱著王太子；拉法葉騎馬跟在車門旁（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 18）。隊伍裡的人一邊走一邊喊：「我們不會再缺麵包了，我們把麵包師、麵包師的老婆和小學徒都帶回來了！」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 p. 82）圖澤爾夫人說，士兵的刺刀上插著麵包，女人們戴著花環，滿載麵粉的馬車走在前面，遠遠看去「像一座會走路的森林」，刺刀和槍管在林間閃閃發光（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 19）。隊伍裡也有兩根長矛，上面挑著被殺侍衛的頭（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 19 及註 12）。\n\n天黑以前，巴黎市長巴伊在城門口迎接，致辭第一句就是：「陛下，多麼美好的一天！」國王嘆了口氣，回答說希望自己住在巴黎能帶來和平、和諧與守法（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 21）。到了市政廳，國王說他總是「帶著喜悅與信任」來到巴黎；巴伊轉述給群眾時漏了「信任」兩個字，王后當場提醒他補上（[[s-1823-campan-memoires]] 第 2 冊 p. 84）。\n\n那天晚上，他們住進杜樂麗宮。康龐夫人說，宮裡「什麼都沒準備」（[[s-1823-campan-memoires]] 第 2 冊 p. 85）。圖澤爾夫人說，王太子的房間四面都是門、關也關不上，她用傢俱把門堵住，整夜坐在孩子床邊（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 23）。\n\n## 研究者怎麼看\n\n- 兩位證人都把群眾描寫成被人收買、操縱的暴民。圖澤爾夫人甚至說，陽台下有些女人「皮膚白、牙齒好、襯衣比平常乾淨」，認為她們是被雇來的；康龐夫人也認為這次行動「早有計畫」（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 18；[[s-1823-campan-memoires]] 第 2 冊 pp. 74–75）。（推論）這是王室身邊的人的觀點，不能直接當成事實。\n- 「讓他們吃蛋糕」常被說成是王后在這兩天對饑民說的話；兩位證人的記載裡都沒有這句話（見 [[t-cake]]）。\n- 本站還沒有讀到從巴黎婦女、國民衛隊或革命派角度寫的史料與研究。\n\n## 延伸閱讀\n\n- [[s-1883-tourzel-memoires]]\n- [[s-1823-campan-memoires]]\n\n## 還不知道的事\n\n- 常見說法「10 月 5 日下著雨」「宴會上有人踩踏三色帽徽」，在兩位證人的書裡都找不到，需要查當時的報紙。\n- 婦女們自己的說法：當時的報紙與日後的審訊紀錄。\n- 拉法葉為什麼到得那麼晚、6 日清晨他在哪裡，各方說法不一。\n- 王室在杜樂麗宮的生活，接著見 [[t-varennes]]。\n",
+   "body": "## 一句話說明\n\n1789 年 10 月 5 日，巴黎的婦女和群眾為了麵包走到凡爾賽；6 日清晨，有人衝進王宮、殺了侍衛，王后從寢室逃到國王身邊。當天下午，王室一家被「護送」回巴黎，從此再也沒有回到凡爾賽。\n\n## 故事是這樣的\n\n> 這兩天有兩位證人都在宮裡：王室子女的家庭教師圖澤爾夫人，和王后的貼身女官康龐夫人。她們都忠於王后，但很多細節說得不一樣，本篇會把兩種說法並列。\n\n### 前奏：一場宴會\n\n10 月 1 日，王宮的禁衛軍在凡爾賽宮的歌劇院宴請剛調來的法蘭德斯團軍官，桌子擺在舞台上，樂隊演奏忠君的歌曲〈噢，理查，噢，我的國王〉（[[s-1823-campan-memoires]] 第 2 冊 pp. 71–72）。康龐夫人說，王后原本不想出席，怕在這種時候露面弊多於利，後來被人說動，和國王、王太子一起走進大廳，全場沸騰（[[s-1823-campan-memoires]] 第 2 冊 p. 72）；圖澤爾夫人則說，是大家懇請國王出席，「國王萬歲、王后萬歲」的呼聲不用人指揮（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 5）。\n\n這場宴會很快變成巴黎報紙上的醜聞，傳說有人在宴會上戴白色帽徽（波旁王室的顏色）、侮辱革命的三色帽徽。康龐夫人說這是假的：只是幾個國民衛隊的年輕人把帽徽翻過來，而帽徽的內側剛好是白的（[[s-1823-campan-memoires]] 第 2 冊 p. 72）。\n\n### 10 月 5 日：女人走在最前面\n\n圖澤爾夫人說，巴黎的人群先擠到市政廳，抱怨麵包短缺是宮廷囤積造成的，接著逼市政府命令國民衛隊司令拉法葉帶兵去凡爾賽，要國王搬回巴黎（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 6）。康龐夫人說，隊伍出現在通往凡爾賽的大道入口時，走在最前面的是女人（[[s-1823-campan-memoires]] 第 2 冊 p. 74）。\n\n那天國王在外打獵。康龐夫人說，王后正一個人坐在小特里亞儂花園的人造洞穴裡，收到大臣的紙條要她立刻回宮；國王也被人請回來，卻騎得「非常慢」（[[s-1823-campan-memoires]] 第 2 冊 p. 74）。王宮的鐵柵門關了起來，禁衛軍和法蘭德斯團在廣場上列隊，宮裡一片混亂（[[s-1823-campan-memoires]] 第 2 冊 p. 75）。\n\n晚上，十二位市場婦女被准許進去見國王。圖澤爾夫人說，她們出來時態度完全變了，差點被同伴當成叛徒（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 11）。大臣已經在宮外備好馬車，準備把王室送到朗布依埃避難，但因為國王對婦女們的回應很溫和，出發的計畫取消了；康龐夫人認為，王室就這樣錯過了離開的時機（[[s-1823-campan-memoires]] 第 2 冊 p. 76）。\n\n拉法葉帶著巴黎國民衛隊趕到，要求接管王宮外圍的守衛，禁衛軍被調回室內（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 10）。他向國王保證「我用我的軍隊擔保」，請國王去休息；康龐夫人說，王后後來一直認為拉法葉是在演戲（[[s-1823-campan-memoires]] 第 2 冊 pp. 75–76）。晚上十一點，王后傳話給圖澤爾夫人：如果有危險，就把孩子帶到國王那裡；但她自己不肯到國王房裡過夜，說「我寧願自己冒險，也要讓危險離國王和孩子遠一點」（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 11）。凌晨兩點，王后上床睡覺（[[s-1883-tourzel-memoires]] 第 1 冊約 pp. 11–12）。\n\n### 10 月 6 日清晨：「快救王后！」\n\n康龐夫人說，王后叫兩位侍女去睡，她們沒有聽，和另外兩名侍女一起坐在王后寢室門口守著（[[s-1823-campan-memoires]] 第 2 冊 p. 77）。這個沒聽話的決定，後來救了王后。\n\n清晨六點左右，群眾衝過柵門。站崗的禁衛軍被殺，頭被割了下來（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 13）。一名滿臉是血的侍衛在王后的門外被人群包圍，對康龐夫人的姊妹大喊：「夫人，快救王后，他們來殺她了！」她立刻把門鎖上，跑進去叫醒王后（[[s-1823-campan-memoires]] 第 2 冊 p. 78）。\n\n王后怎麼逃到國王那裡，兩位證人說法不同。康龐夫人說，王后連衣服都來不及穿好，被侍女們帶向通往國王房間的走廊，卻發現中間那扇門從另一邊鎖上了，敲了好一會兒，才有國王的僕人來開門；進去以後，國王卻不在，他正趕往王后房間找她（[[s-1823-campan-memoires]] 第 2 冊 pp. 78–79）。圖澤爾夫人則說，王后是從一道小樓梯下去，經過孩子們的房間，帶著女兒一起上到國王那裡（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 15）。\n\n群眾衝進王后寢室時，她已經不在了。圖澤爾夫人說，暴徒用長矛刺穿了她的床（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 14）；康龐夫人卻明確寫說，這件事不是真的（[[s-1823-campan-memoires]] 第 2 冊 p. 79）。後來，王太子見到那位受了重傷、救了母親的侍衛，抱著他說：「你救了媽媽，我真不知道怎麼謝你！」（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 14 註 11）\n\n### 陽台上的王后\n\n天亮後，王宮前的廣場擠滿了人，要王后到陽台上來。兩位證人這次說法一致：王后帶著孩子出來，群眾喊「不要孩子！」，她讓孩子們退回去，自己一個人站在陽台上（[[s-1823-campan-memoires]] 第 2 冊 p. 81；[[s-1883-tourzel-memoires]] 第 1 冊約 p. 17）。康龐夫人說她雙手和眼睛都望向天空，「像一個自願獻身的犧牲者」；圖澤爾夫人說，群眾的情緒從憤怒變成欽佩，喊起了「王后萬歲！」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 p. 81；[[s-1883-tourzel-memoires]] 第 1 冊約 p. 17）\n\n屋裡，衛兵和國民衛隊也在談和。據康龐夫人說，國民衛隊的擲彈兵和王宮侍衛交換了帽徽、甚至交換了帽子，抱在一起喊「國王、國家和侍衛萬歲！」（[[s-1823-campan-memoires]] 第 2 冊 pp. 80–81）。國王最後對群眾說：「孩子們，你們要我跟你們去巴黎，我答應，但條件是我不能和我的妻子、孩子分開。」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 p. 82）\n\n### 回巴黎的隊伍\n\n下午一點多，馬車出發。圖澤爾夫人坐在前座，膝上抱著王太子；拉法葉騎馬跟在車門旁（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 18）。隊伍裡的人一邊走一邊喊：「我們不會再缺麵包了，我們把麵包師、麵包師的老婆和小學徒都帶回來了！」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 p. 82）圖澤爾夫人說，士兵的刺刀上插著麵包，女人們戴著花環，滿載麵粉的馬車走在前面，遠遠看去「像一座會走路的森林」，刺刀和槍管在林間閃閃發光（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 19）。隊伍裡也有兩根長矛，上面挑著被殺侍衛的頭（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 19 及註 12）。\n\n天黑以前，巴黎市長巴伊在城門口迎接，致辭第一句就是：「陛下，多麼美好的一天！」國王嘆了口氣，回答說希望自己住在巴黎能帶來和平、和諧與守法（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 21）。到了市政廳，國王說他總是「帶著喜悅與信任」來到巴黎；巴伊轉述給群眾時漏了「信任」兩個字，王后當場提醒他補上（[[s-1823-campan-memoires]] 第 2 冊 p. 84）。\n\n那天晚上，他們住進杜樂麗宮。康龐夫人說，宮裡「什麼都沒準備」（[[s-1823-campan-memoires]] 第 2 冊 p. 85）。圖澤爾夫人說，王太子的房間四面都是門、關也關不上，她用傢俱把門堵住，整夜坐在孩子床邊（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 23）。\n\n## 研究者怎麼看\n\n- 兩位證人都把群眾描寫成被人收買、操縱的暴民。圖澤爾夫人甚至說，陽台下有些女人「皮膚白、牙齒好、襯衣比平常乾淨」，認為她們是被雇來的；康龐夫人也認為這次行動「早有計畫」（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 18；[[s-1823-campan-memoires]] 第 2 冊 pp. 74–75）。（推論）這是王室身邊的人的觀點，不能直接當成事實。\n- 「讓他們吃蛋糕」常被說成是王后在這兩天對饑民說的話；兩位證人的記載裡都沒有這句話（見 [[t-cake]]）。\n- 本站還沒有讀到從巴黎婦女、國民衛隊或革命派角度寫的史料與研究。\n\n## 延伸閱讀\n\n- [[s-1883-tourzel-memoires]]\n- [[s-1823-campan-memoires]]\n- 相關故事：[[t-ghost]]\n\n## 還不知道的事\n\n- 常見說法「10 月 5 日下著雨」「宴會上有人踩踏三色帽徽」，在兩位證人的書裡都找不到，需要查當時的報紙。\n- 婦女們自己的說法：當時的報紙與日後的審訊紀錄。\n- 拉法葉為什麼到得那麼晚、6 日清晨他在哪裡，各方說法不一。\n- 王室在杜樂麗宮的生活，接著見 [[t-varennes]]。\n",
    "links": [
     "s-1823-campan-memoires",
     "s-1883-tourzel-memoires",
     "t-cake",
+    "t-ghost",
     "t-varennes"
    ]
   },
@@ -1496,6 +1844,8 @@
     1789
    ],
    "summary": "一個窮貴族家的少婦，成了王后最親的朋友；她的家人則成了全宮廷的眼中釘。",
+   "image": "t-polignac.jpg",
+   "imageAlt": "粉彩畫風插畫：夏日的英式花園裡，幾位戴草帽、穿淺色長裙的女士背影圍坐草地聊天，遠處有白色小涼亭和湖水。",
    "sources": [
     "s-1823-campan-memoires",
     "s-1874-arneth-mercy-correspondance",
@@ -1503,13 +1853,14 @@
     "s-1835-vigee-le-brun-souvenirs"
    ],
    "updated": "2026-11-16",
-   "body": "## 一句話說明\n\n1775 年起，波利尼亞克伯爵夫人取代了朗巴勒親王妃，成為王后最親密的朋友。貼身女官說她本人淡泊、不貪；大使的密報卻一筆一筆記下她的家族拿到的官職和金錢。1789 年巴士底陷落後，她是最早出逃的人之一。\n\n## 故事是這樣的\n\n### 住在鄉下的少婦\n\n康龐夫人說，波利尼亞克伯爵夫人一家原本並不富裕，平常住在巴黎東郊克萊（Claye）的莊園；她是透過小姑黛安娜（她在國王弟媳身邊當女官）被引進宮廷的。王后很驚訝這樣一位女士從來沒在宮裡出現過，才知道她連王子們的婚禮都因為缺錢而沒能參加（[[s-1823-campan-memoires]] 第 1 冊約 pp. 158–159）。王后很快就真心喜歡上她，兩人的親密是在舞會和四人舞裡建立起來的（[[s-1823-campan-memoires]] 第 1 冊約 pp. 159–160）。\n\n大使梅西的評價冷淡得多。他說，波利尼亞克家族出身還算不錯，但自從那位有名的樞機主教以後，就沒有人在法國擔任過重要角色，家產和地位都「相當普通」；伯爵夫人本人風度不錯，「但沒什麼見識」，身邊還圍著一些「非常危險的人」，尤其是她那位名聲不好的姑媽（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 pp. 391–392）。\n\n### 一封告別信\n\n康龐夫人記下了一段讓人看清宮廷手段的插曲。有位朋友事先告訴她：伯爵夫人要突然離開凡爾賽，只寫一封信向王后告別，而那封信其實是小姑黛安娜和沃德勒伊伯爵口述的，目的就是要讓王后心軟。康龐夫人當時半信半疑，隔天王后就拿著那封信給她看了（[[s-1823-campan-memoires]] 第 1 冊約 pp. 139–140）。信裡說，她家境拮据，又怕王后的友誼反而會替王后惹麻煩；王后讀了很感動（[[s-1823-campan-memoires]] 第 1 冊約 p. 140）。\n\n### 她拿了什麼？\n\n在康龐夫人筆下，伯爵夫人「真心喜愛平靜的生活」，不在乎宮廷排場，只看重王后的情誼（[[s-1823-campan-memoires]] 第 1 冊約 pp. 159–160）。王后給她一間大理石樓梯頂端的漂亮房間，那只是一般寵臣的待遇；她的收入不過是丈夫的薪俸、軍團的微薄收入、一點家產和幾份年金。康龐夫人說，王后很開心地告訴她，伯爵夫人買彩券中了一萬法郎，可見王后從來沒送過她什麼真正值錢的東西（[[s-1823-campan-memoires]] 第 1 冊約 p. 144）。\n\n梅西的密報說的是另一回事。1775 年底，王后要替伯爵夫人的公公謀瑞士大使的職位，梅西勸阻，因為另一位候選人更夠格，但首相莫爾帕替子爵說話，外交大臣最後讓步（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 408 註 1）。1776 年秋天，伯爵夫人的丈夫拿到王后馬廄總管的接任權；梅西說他二十八歲，「沒什麼見識，只有上校的頭銜」，而且前任時王后的馬廄只有 150 匹馬，等他配齊自己的馬，會變成 300 匹，一年多花二十萬里弗爾以上（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 495）。1777 年，梅西抱怨伯爵夫人身邊的人不斷拿到金錢上的好處，擋住了真正該得的人，大臣也不敢反對王后（[[s-1874-arneth-mercy-correspondance]] 第 3 冊，1777 年 10 月 17 日信）。到了 1780 年，連維也納的女皇都聽說了波利尼亞克家拿到的錢，王后很驚訝這些細節會傳到維也納；梅西說，這在巴黎早就是公開的事（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 pp. 411–412）。\n\n（推論）兩位證人並不完全矛盾：康龐夫人說的是伯爵夫人本人，梅西說的是她背後那個家族和朋友圈。\n\n### 小圈子\n\n1779 年，梅西說王后已經把社交上的親密全部放在伯爵夫人身上，朗巴勒親王妃因此失寵（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 328；另見 [[t-lamballe]]）。國王晚上也只去伯爵夫人那裡，不去朗巴勒的客廳（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 410）。康龐夫人坦白說，伯爵夫人的沙龍「對王后造成了很大的傷害」，大大激怒了她的敵人（[[s-1823-campan-memoires]] 第 1 冊約 p. 145）。\n\n後來伯爵夫人當上了王室子女的家庭教師（[[s-1823-campan-memoires]] 第 1 冊目錄）。康龐夫人說，王太子在世時，她幾乎寸步不離，放棄了所有旅行和宮廷娛樂（[[s-1823-campan-memoires]] 第 2 冊）。畫家維傑．勒布倫替她畫過好幾次像，說她年輕得像自己女兒的姊妹；勒布倫還說，她本來想辭去家庭教師的職位，國王怕王后傷心，「跪在她面前」請她留下（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊）。這個說法只有勒布倫一個人提過。\n\n### 最早出逃的人\n\n1789 年初，革命的輿論已經在攻擊王后身邊的人，圖澤爾夫人說，排在第一位的就是波利尼亞克夫人（[[s-1883-tourzel-memoires]] 第 1 冊）。巴士底陷落之後，她「是最早走上流亡之路的人之一」，去了杜林，和國王的弟弟阿圖瓦伯爵會合（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊）。\n\n接替她當王室家庭教師的，正是圖澤爾夫人。圖澤爾回憶錄的編者在導言裡記下了王后第一次見到圖澤爾夫人時說的話：「夫人，我曾經把孩子託付給友誼，現在，我把他們託付給德行。」（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊編者導言）\n\n## 研究者怎麼看\n\n- 康龐夫人、維傑．勒布倫都對伯爵夫人本人很有好感，強調她不貪不爭（[[s-1823-campan-memoires]]；[[s-1835-vigee-le-brun-souvenirs]]）。\n- 梅西的任務是保護王后的名聲與財務，他對波利尼亞克一家的開銷特別敏感，也常把責任推給王后身邊的人（[[s-1874-arneth-mercy-correspondance]]）。\n- 她什麼時候、去哪裡流亡，說法不一：圖澤爾夫人說巴士底陷落後直接去杜林，勒布倫則說她在 1789 年前去過英國療養（[[s-1883-tourzel-memoires]]；[[s-1835-vigee-le-brun-souvenirs]]）。\n\n## 延伸閱讀\n\n- [[s-1874-arneth-mercy-correspondance]]\n- [[s-1823-campan-memoires]]\n- [[s-1883-tourzel-memoires]]\n- [[s-1835-vigee-le-brun-souvenirs]]\n\n## 還不知道的事\n\n- 她什麼時候升為公爵夫人、當上家庭教師的確切年份。\n- 波利尼亞克家族一共從王室拿到多少年金與職位，需要讀專門研究或王室帳目。\n- 她 1793 年在維也納過世，據說是聽到王后死訊後不久；本站還沒讀到可靠出處。\n",
+   "body": "## 一句話說明\n\n1775 年起，波利尼亞克伯爵夫人取代了朗巴勒親王妃，成為王后最親密的朋友。貼身女官說她本人淡泊、不貪；大使的密報卻一筆一筆記下她的家族拿到的官職和金錢。1789 年巴士底陷落後，她是最早出逃的人之一。\n\n## 故事是這樣的\n\n### 住在鄉下的少婦\n\n康龐夫人說，波利尼亞克伯爵夫人一家原本並不富裕，平常住在巴黎東郊克萊（Claye）的莊園；她是透過小姑黛安娜（她在國王弟媳身邊當女官）被引進宮廷的。王后很驚訝這樣一位女士從來沒在宮裡出現過，才知道她連王子們的婚禮都因為缺錢而沒能參加（[[s-1823-campan-memoires]] 第 1 冊約 pp. 158–159）。王后很快就真心喜歡上她，兩人的親密是在舞會和四人舞裡建立起來的（[[s-1823-campan-memoires]] 第 1 冊約 pp. 159–160）。\n\n大使梅西的評價冷淡得多。他說，波利尼亞克家族出身還算不錯，但自從那位有名的樞機主教以後，就沒有人在法國擔任過重要角色，家產和地位都「相當普通」；伯爵夫人本人風度不錯，「但沒什麼見識」，身邊還圍著一些「非常危險的人」，尤其是她那位名聲不好的姑媽（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 pp. 391–392）。\n\n### 一封告別信\n\n康龐夫人記下了一段讓人看清宮廷手段的插曲。有位朋友事先告訴她：伯爵夫人要突然離開凡爾賽，只寫一封信向王后告別，而那封信其實是小姑黛安娜和沃德勒伊伯爵口述的，目的就是要讓王后心軟。康龐夫人當時半信半疑，隔天王后就拿著那封信給她看了（[[s-1823-campan-memoires]] 第 1 冊約 pp. 139–140）。信裡說，她家境拮据，又怕王后的友誼反而會替王后惹麻煩；王后讀了很感動（[[s-1823-campan-memoires]] 第 1 冊約 p. 140）。\n\n### 她拿了什麼？\n\n在康龐夫人筆下，伯爵夫人「真心喜愛平靜的生活」，不在乎宮廷排場，只看重王后的情誼（[[s-1823-campan-memoires]] 第 1 冊約 pp. 159–160）。王后給她一間大理石樓梯頂端的漂亮房間，那只是一般寵臣的待遇；她的收入不過是丈夫的薪俸、軍團的微薄收入、一點家產和幾份年金。康龐夫人說，王后很開心地告訴她，伯爵夫人買彩券中了一萬法郎，可見王后從來沒送過她什麼真正值錢的東西（[[s-1823-campan-memoires]] 第 1 冊約 p. 144）。\n\n梅西的密報說的是另一回事。1775 年底，王后要替伯爵夫人的公公謀瑞士大使的職位，梅西勸阻，因為另一位候選人更夠格，但首相莫爾帕替子爵說話，外交大臣最後讓步（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 408 註 1）。1776 年秋天，伯爵夫人的丈夫拿到王后馬廄總管的接任權；梅西說他二十八歲，「沒什麼見識，只有上校的頭銜」，而且前任時王后的馬廄只有 150 匹馬，等他配齊自己的馬，會變成 300 匹，一年多花二十萬里弗爾以上（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 495）。1777 年，梅西抱怨伯爵夫人身邊的人不斷拿到金錢上的好處，擋住了真正該得的人，大臣也不敢反對王后（[[s-1874-arneth-mercy-correspondance]] 第 3 冊，1777 年 10 月 17 日信）。到了 1780 年，連維也納的女皇都聽說了波利尼亞克家拿到的錢，王后很驚訝這些細節會傳到維也納；梅西說，這在巴黎早就是公開的事（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 pp. 411–412）。\n\n（推論）兩位證人並不完全矛盾：康龐夫人說的是伯爵夫人本人，梅西說的是她背後那個家族和朋友圈。\n\n### 小圈子\n\n1779 年，梅西說王后已經把社交上的親密全部放在伯爵夫人身上，朗巴勒親王妃因此失寵（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 328；另見 [[t-lamballe]]）。國王晚上也只去伯爵夫人那裡，不去朗巴勒的客廳（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 410）。康龐夫人坦白說，伯爵夫人的沙龍「對王后造成了很大的傷害」，大大激怒了她的敵人（[[s-1823-campan-memoires]] 第 1 冊約 p. 145）。\n\n後來伯爵夫人當上了王室子女的家庭教師（[[s-1823-campan-memoires]] 第 1 冊目錄）。康龐夫人說，王太子在世時，她幾乎寸步不離，放棄了所有旅行和宮廷娛樂（[[s-1823-campan-memoires]] 第 2 冊）。畫家維傑．勒布倫替她畫過好幾次像，說她年輕得像自己女兒的姊妹；勒布倫還說，她本來想辭去家庭教師的職位，國王怕王后傷心，「跪在她面前」請她留下（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊）。這個說法只有勒布倫一個人提過。\n\n### 最早出逃的人\n\n1789 年初，革命的輿論已經在攻擊王后身邊的人，圖澤爾夫人說，排在第一位的就是波利尼亞克夫人（[[s-1883-tourzel-memoires]] 第 1 冊）。巴士底陷落之後，她「是最早走上流亡之路的人之一」，去了杜林，和國王的弟弟阿圖瓦伯爵會合（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊）。\n\n接替她當王室家庭教師的，正是圖澤爾夫人。圖澤爾回憶錄的編者在導言裡記下了王后第一次見到圖澤爾夫人時說的話：「夫人，我曾經把孩子託付給友誼，現在，我把他們託付給德行。」（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊編者導言）\n\n## 研究者怎麼看\n\n- 康龐夫人、維傑．勒布倫都對伯爵夫人本人很有好感，強調她不貪不爭（[[s-1823-campan-memoires]]；[[s-1835-vigee-le-brun-souvenirs]]）。\n- 梅西的任務是保護王后的名聲與財務，他對波利尼亞克一家的開銷特別敏感，也常把責任推給王后身邊的人（[[s-1874-arneth-mercy-correspondance]]）。\n- 她什麼時候、去哪裡流亡，說法不一：圖澤爾夫人說巴士底陷落後直接去杜林，勒布倫則說她在 1789 年前去過英國療養（[[s-1883-tourzel-memoires]]；[[s-1835-vigee-le-brun-souvenirs]]）。\n\n## 延伸閱讀\n\n- [[s-1874-arneth-mercy-correspondance]]\n- [[s-1823-campan-memoires]]\n- [[s-1883-tourzel-memoires]]\n- [[s-1835-vigee-le-brun-souvenirs]]\n- 相關故事：[[t-vigee]]、[[t-lamballe]]\n\n## 還不知道的事\n\n- 她什麼時候升為公爵夫人、當上家庭教師的確切年份。\n- 波利尼亞克家族一共從王室拿到多少年金與職位，需要讀專門研究或王室帳目。\n- 她 1793 年在維也納過世，據說是聽到王后死訊後不久；本站還沒讀到可靠出處。\n",
    "links": [
     "s-1823-campan-memoires",
     "s-1835-vigee-le-brun-souvenirs",
     "s-1874-arneth-mercy-correspondance",
     "s-1883-tourzel-memoires",
-    "t-lamballe"
+    "t-lamballe",
+    "t-vigee"
    ]
   },
   {
@@ -1541,6 +1892,42 @@
    ]
   },
   {
+   "id": "t-table",
+   "type": "topic",
+   "title": "王后吃什麼：只喝水的王后與愛吃甜點的國王",
+   "category": "飲食",
+   "period": [
+    1770,
+    1793
+   ],
+   "summary": "從凡爾賽的公開午餐，到古監獄裡一隻切成兩半的雞。",
+   "myth": "可頌麵包是瑪麗．安東尼從維也納帶到法國的。",
+   "verdict": "查無實據",
+   "image": "t-table.jpg",
+   "imageAlt": "粉彩畫風插畫：鋪白桌布的小圓桌上，有一杯熱巧克力、銀製巧克力壺、一杯清水、一小盤布里歐麵包和幾顆草莓。",
+   "sources": [
+    "s-1823-campan-memoires",
+    "s-1874-arneth-mercy-correspondance",
+    "s-1798-clery-journal",
+    "s-1824-lafont-daussonne-memoires",
+    "s-1883-tourzel-memoires"
+   ],
+   "updated": "2026-11-16",
+   "body": "## 一句話說明\n\n電影裡的王后整天吃馬卡龍和蛋糕，史料裡的她吃得很簡單：烤雞或水煮雞，只喝水。愛吃甜點的反而是國王。這篇從凡爾賽的公開午餐，一路寫到聖殿塔和古監獄的最後幾餐。\n\n## 迷思與史料\n\n常聽說可頌麵包（croissant）是瑪麗．安東尼從維也納帶到法國的。最接近的當時說法來自康龐夫人：王后對吃沒什麼講究，只特別喜歡早上的咖啡，和一種她在維也納從小吃慣的麵包（[[s-1823-campan-memoires]] 第 1 冊約 p. 102）。但康龐夫人沒有說那是什麼麵包，沒有說它的形狀，更沒有說它叫可頌。本站在所有已讀的原典裡搜尋 croissant、kipferl（奧地利的月牙麵包）等字，都沒有找到任何 18 世紀的記載，所以判定是「查無實據」。（推論）「維也納麵包」這個印象，加上她是最有名的奧地利人，很容易被後人連在一起。\n\n## 故事是這樣的\n\n### 只喝水的王后\n\n康龐夫人說，王后有兩個難得的美德：節制和端莊。她平常只吃烤的或水煮的家禽，只喝水（[[s-1823-campan-memoires]] 第 1 冊約 p. 102）。回憶錄的附錄更仔細：王后早上九點左右吃早餐，喝咖啡或巧克力，有時在床上，有時站在床邊的小桌子前吃；正餐通常只吃白肉，晚餐喝肉湯（[[s-1823-campan-memoires]] 第 1 冊附錄 pp. 310–312）。\n\n她剛嫁到法國時也一樣匆忙。1770 年 7 月，十四歲的太子妃寫信告訴母親：她和王太子當著大家的面吃午飯，「因為我們兩個吃得很快」，一點半就吃完了；晚上九點吃晚飯，十一點睡覺（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 pp. 18–20）。\n\n### 吃給大家看\n\n在凡爾賽，吃飯也是表演。王后每天都得在眾人面前吃午飯，康龐夫人說這是她最討厭的規矩之一（[[s-1823-campan-memoires]] 第 1 冊約 p. 101）。只要穿著整齊，誰都可以進來看，外省來的人最開心。康龐夫人帶點諷刺地說，大家的行程是：先去看太子妃喝湯，再去看王子們吃水煮肉，最後跑去看公主們吃甜點（[[s-1823-campan-memoires]] 第 1 冊約 p. 101）。服侍國王和王后用餐的全是女性，女官跪在一張很矮的凳子上遞盤子（[[s-1823-campan-memoires]] 第 1 冊約 pp. 101–102；另見 [[t-coppola]]）。\n\n上一代的國王路易十五，在公開晚餐上最有名的是剝蛋殼的功夫：他能一下子把水煮蛋的頂端漂亮地削掉，每個星期天都有人專程來看，康龐夫人說，大家回家後記得他剝蛋的本事，比記得他的長相還清楚（[[s-1823-campan-memoires]] 第 1 冊）。\n\n### 愛吃甜點的國王\n\n國王的胃口好是真的。1770 年 8 月，大使梅西報告：王太子因為吃了太多糕點，腸胃不舒服；太子妃下令以後餐桌上不准再端這類點心，王太子笑著接受了（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 pp. 32–33）。康龐夫人也說，國王喜歡甜點；但他喝酒很節制，從來不喝完一整瓶，大約只喝半瓶（[[s-1823-campan-memoires]] 第 2 冊約 pp. 189–190）。至於「貪吃」，本站在原典裡沒有找到這樣的描述（另見 [[t-louis]]）。\n\n路易十五時代，國王打獵回來常有「獵人宵夜」，照禮儀王后和公主不能跟男人同桌。1774 年新王即位後，梅西特別回報：到目前為止還沒有辦過這種宵夜，這是好事（[[s-1874-arneth-mercy-correspondance]] 第 2 冊）。那年夏天，王室一家常在王后的寢宮一起吃午飯和晚飯，國王要弟弟和弟媳們別叫他「陛下」（[[s-1874-arneth-mercy-correspondance]] 第 2 冊約 p. 161）。\n\n### 小廳裡的晚餐\n\n康龐夫人說，國王和王后在小廳裡吃飯時，菜單上的菜「有一大半根本沒端上來」。有一次瑞典國王古斯塔夫三世臨時來吃飯，管家擔心菜不夠，王后叫人加菜；康龐夫人在一旁看著，忍不住笑了出來，王后對她使了個眼色（[[s-1823-campan-memoires]] 第 1 冊）。在小特里亞儂，女官們不住在那裡，客人從凡爾賽趕來吃午飯，國王和王子們則固定來吃晚飯（[[s-1823-campan-memoires]] 第 1 冊）。\n\n### 怕被下毒的日子\n\n革命之後，吃飯變成了一件危險的事。1791 年底以後，王室擔心有人下毒，決定國王和王后只吃烤肉，麵包和酒由信得過的人送進來；國王愛吃的糕點，由康龐夫人自己向不同的糕點店訂，再偷偷帶進房間，放在國王的櫃子裡（[[s-1823-campan-memoires]] 第 2 冊約 pp. 189–190）。\n\n逃亡途中，他們也沒有停下來大吃。王室子女的家庭教師圖澤爾夫人說，去程國王只在馬車裡吃東西；回程才在聖默努爾德停下吃了一頓飯（[[s-1883-tourzel-memoires]] 第 1 冊 pp. 310、328；另見 [[t-varennes]]）。\n\n### 聖殿塔的餐桌\n\n在聖殿塔，國王的僕人克萊里每天下午兩點送上午餐，晚上九點國王吃晚飯，王后和伊莉莎白夫人輪流坐在王太子身邊陪他吃（[[s-1798-clery-journal]]）。飯菜從一個很遠的廚房送來（[[s-1798-clery-journal]]）。看守們為了要不要讓王室用刀叉爭論不休，最後決定可以用，但每餐後要收走；伊莉莎白夫人有一把金柄的小刀，每次飯後克萊里擦乾淨，看守還會拿去檢查裡面有沒有藏紙條（[[s-1798-clery-journal]]）。\n\n1792 年 12 月的一個早上，克萊里端上早餐，國王說今天是齋戒日，不吃（[[s-1798-clery-journal]]）。1793 年 1 月 20 日，被判死刑的國王吃晚飯，克萊里寫道：國王「吃得不多，但吃得有胃口」（本站譯）（[[s-1798-clery-journal]]）。\n\n### 古監獄裡的最後幾餐\n\n1793 年 8 月，王后被移到古監獄。後來出版的一本回憶錄收了古監獄女僕羅莎莉．拉莫利耶（Rosalie Lamorlière）的證詞：一開始看守夫婦讓王后吃得不錯，後來上面下令只准兩道菜、不准甜點（[[s-1824-lafont-daussonne-memoires]] 約 p. 66）。王后用的是錫製餐具，因為看守太太為了躲避新法令，把家裡的銀器藏起來了；羅莎莉說，她把那些錫餐具擦得跟銀器一樣亮（[[s-1824-lafont-daussonne-memoires]] 約 p. 37）。\n\n羅莎莉說，王后吃得有胃口：她會把一隻雞切成兩半，一半留到第二天吃；吃完後默默禱告，然後起身，這就是服侍的人可以離開的信號（[[s-1824-lafont-daussonne-memoires]] 約 pp. 37–38）。\n\n## 研究者怎麼看\n\n- 這篇的細節大多來自王后身邊的人：康龐夫人、克萊里，以及古監獄女僕羅莎莉的證詞。羅莎莉的證詞是很多年後由他人整理出版的（[[s-1824-lafont-daussonne-memoires]]）。\n- 大使梅西的報告是另一種眼光：他關心的是王后的飲食和作息會不會惹出批評（[[s-1874-arneth-mercy-correspondance]]）。\n- 本站還沒讀到研究凡爾賽宮廷飲食的學術著作。\n\n## 延伸閱讀\n\n- [[s-1823-campan-memoires]]\n- [[s-1874-arneth-mercy-correspondance]]\n- [[s-1798-clery-journal]]\n- [[s-1824-lafont-daussonne-memoires]]\n- [[s-1883-tourzel-memoires]]\n- 相關故事：[[t-cake]]、[[t-coppola]]、[[t-temple]]\n\n## 還不知道的事\n\n- 凡爾賽的御膳房有多少人、一天做多少菜，需要讀宮廷帳目或研究專書。\n- 王后在維也納從小吃慣的那種麵包到底是什麼？\n- 「可頌來自維也納」這個說法是什麼時候出現的？常見說法和 19 世紀在巴黎開店的奧地利麵包師有關，本站還沒有讀到可靠出處。\n",
+   "links": [
+    "s-1798-clery-journal",
+    "s-1823-campan-memoires",
+    "s-1824-lafont-daussonne-memoires",
+    "s-1874-arneth-mercy-correspondance",
+    "s-1883-tourzel-memoires",
+    "t-cake",
+    "t-coppola",
+    "t-louis",
+    "t-temple",
+    "t-varennes"
+   ]
+  },
+  {
    "id": "t-temple",
    "type": "topic",
    "title": "聖殿塔：一家人最後的五個月",
@@ -1558,12 +1945,49 @@
     "s-1883-tourzel-memoires"
    ],
    "updated": "2026-11-16",
-   "body": "## 一句話說明\n\n1792 年 8 月，王室一家被關進巴黎的聖殿塔。國王的貼身僕人克萊里和王后的女兒瑪麗－泰蕾茲，都留下了這段日子的紀錄：上課、散步、被羞辱，然後一個一個被帶走。\n\n## 故事是這樣的\n\n> 這段故事主要來自兩位塔裡的證人：國王的貼身僕人克萊里（Jean-Baptiste Cléry），他 1798 年在倫敦出版了日記；以及王后的女兒瑪麗－泰蕾茲（Marie-Thérèse），她當時十三四歲，後來寫下回憶。兩人都是王室這邊的人，很多細節說法不同，本篇會並列。\n\n### 「你們會看到，他們會把我們關進塔裡」\n\n1792 年 8 月 10 日，杜樂麗宮被攻陷，王室到國民議會避難。三天後，議會決定把他們移到聖殿塔。圖澤爾夫人記得，王后聽到消息時對她說：「你們會看到，他們會把我們關進那座塔。」王后說她一直很怕那座塔，以前還請國王的弟弟把它拆掉（本站譯）（[[s-1883-tourzel-memoires]] 第 2 冊第 23 章）。8 月 13 日，馬車沿著大街慢慢走了兩個半小時，人群不斷攔車（[[s-1883-tourzel-memoires]] 第 2 冊第 23 章）。\n\n### 一天的作息\n\n克萊里記下了塔裡的一天。國王每天早上先跪著禱告五六分鐘，然後讀書到九點；王后要等克萊里到了才開門，免得市政官員進她房間（[[s-1798-clery-journal]] p. 13）。九點，全家到國王房間吃早餐。早餐後，國王替王太子上地理課，七歲的孩子能在攤開的地圖上指出法國各省、各縣和河流（[[s-1798-clery-journal]] pp. 14–15）。瑪麗－泰蕾茲則說，國王教地理，王后教歷史、讓他背詩，國王的妹妹伊莉莎白夫人教算術（[[s-1852-marie-therese-temple]] p. 48）。\n\n克萊里替王太子做了一張乘法表，結果一個市政官員說，王后是在教兒子「用數字說暗語」，算術課就被取消了（[[s-1798-clery-journal]] p. 32）。中午一點，天氣好的話，全家在四名市政官員和一名軍官的陪同下到花園散步（[[s-1798-clery-journal]] p. 15）。晚上七點，一個報販會在牆外大聲叫賣當天的新聞，克萊里在國王書房裡聽，再轉述給王后（[[s-1798-clery-journal]] p. 16）。九點，王后替兒子脫衣服、哄他睡覺（[[s-1852-marie-therese-temple]] pp. 58–59）。\n\n### 小小的羞辱\n\n看守的羞辱是每天都有的。門房羅歇（Rocher）開門時故意拖拖拉拉，還對著公主和王后吐菸（[[s-1798-clery-journal]] p. 33；[[s-1852-marie-therese-temple]] p. 49）。一個當鞋匠的市政官員西蒙（Simon），常在國王面前對克萊里說：「去問問卡佩（Capet），他需不需要什麼。」故意用國王祖先的姓氏叫他，不叫他國王（[[s-1798-clery-journal]] p. 32）。花園的牆上寫滿了大字，散步回來不可能看不到，例如「否決夫人會跳舞的」（本站譯）（[[s-1798-clery-journal]] pp. 33–34）。國民衛隊司令桑泰爾（Santerre）每天兩點來巡房；國王偶爾跟他說話，王后從來不開口（[[s-1798-clery-journal]] pp. 15–16）。\n\n### 窗外\n\n9 月初，巴黎的監獄發生屠殺。9 月 3 日，王后的好友朗巴勒親王妃的頭被插在長矛上，送到塔的窗前（詳見 [[t-lamballe]]）。克萊里說，外面有人要王后到窗口露面，王后聽到這個威脅，當場昏了過去，他和伊莉莎白夫人把她扶到椅子上（[[s-1798-clery-journal]] p. 20）；瑪麗－泰蕾茲則說，母親嚇呆了，站著不動，什麼也沒看（[[s-1852-marie-therese-temple]] pp. 54–55）。一位叫多戎（Daujon）的市政官員擋了群眾一個多小時，對他們說：「安東妮特的頭不屬於你們」，各省對這個「大罪人」也有份（本站譯）（[[s-1798-clery-journal]] pp. 20–21）。那天晚上，群眾想把屍體拖到塔門口，市政官員拿一條三色綬帶橫擋在門口；事後還有人要克萊里付那條綬帶的錢，四十五蘇（[[s-1798-clery-journal]] p. 21）。\n\n### 國王被帶走\n\n1792 年 12 月 11 日清晨五點，城裡響起鼓聲，騎兵和大砲開進了花園。早餐後，市政官員把王太子從國王身邊帶回王后那裡，國王問為什麼，對方只說是「執行公社的命令」；之後巴黎市長上樓，要帶國王去國民公會受審（[[s-1798-clery-journal]] pp. 76–77）。從這天起，國王和家人分開住。\n\n### 最後一晚\n\n1793 年 1 月 20 日晚上八點半，國王已經被判死刑。克萊里看著王后牽著王太子先走進來，公主和伊莉莎白夫人跟在後面，全家撲進國王懷裡。他把玻璃門關上，好幾分鐘，屋裡只有一片沉默（[[s-1798-clery-journal]] p. 110）。這場告別持續了「七刻鐘」，也就是將近兩個小時；國王每說一句話，女眷的哭聲就更大（[[s-1798-clery-journal]] p. 110）。瑪麗－泰蕾茲記得，父親特別叮囑弟弟，要原諒那些害死他的人（[[s-1852-marie-therese-temple]] p. 65）。\n\n告別時，國王答應第二天早上再見一面。王后問：「為什麼不是七點？」國王答應七點（[[s-1798-clery-journal]] p. 110）。公主在父親腳邊昏了過去（[[s-1798-clery-journal]] p. 110）。第二天早上，國王沒有去見她們；瑪麗－泰蕾茲說，他想讓家人少受一次折磨（[[s-1852-marie-therese-temple]] p. 65）。\n\n1 月 21 日清晨，國王要克萊里當著他的面替他剪頭髮，市政官員不准，說要先經委員會同意（[[s-1798-clery-journal]] pp. 111–112）。他想把遺囑交給一個市政官員，對方拒絕：「我來這裡，是要送你上斷頭台的。」（本站譯）（[[s-1798-clery-journal]] 約 pp. 113–114）瑪麗－泰蕾茲說，國王在斷頭台上想對群眾說話，被鼓聲蓋過（[[s-1852-marie-therese-temple]] p. 66）。那天下午，克萊里把國王留下的結婚戒指和一小包家人的頭髮交給了王后（[[s-1852-marie-therese-temple]] pp. 66–67）。\n\n### 被帶走的兒子\n\n1793 年 7 月 3 日，國民公會下令把王太子移到「塔裡最安全的房間」。孩子撲進母親懷裡大哭，不肯分開。瑪麗－泰蕾茲說，母親死命不肯交出兒子，直到市政官員威脅要殺了孩子，她才放手；伊莉莎白夫人和她替弟弟穿好衣服，母親流著淚把他交出去（[[s-1852-marie-therese-temple]] pp. 75–76）。\n\n孩子被交給那位鞋匠西蒙看管。瑪麗－泰蕾茲說，母親唯一的樂趣，是在塔上一道小小的牆縫後面，等著遠遠看兒子走過，一等就是好幾個小時（[[s-1852-marie-therese-temple]] pp. 76–77）。西蒙讓孩子戴上紅帽子、唱革命歌曲，還教他罵家人的話（[[s-1852-marie-therese-temple]] pp. 80–81）。\n\n### 凌晨兩點\n\n1793 年 8 月 2 日凌晨兩點，王后被叫醒，聽人宣讀命令：她要被移到古監獄（Conciergerie），等候革命法庭審判。女兒和小姑請求一起去，被拒絕了。市政官員搜了她的口袋，只留下一條手帕和一瓶香水。走出塔門時，她的頭撞在門楣上；有人問她有沒有受傷，她說：「現在，什麼都不會再傷害我了。」（本站譯）（[[s-1852-marie-therese-temple]] p. 79）瑪麗－泰蕾茲聽說，古監獄給她的房間是「最髒、最潮濕、最不健康的」，日夜都有一名憲兵看守（[[s-1852-marie-therese-temple]] p. 80）。\n\n## 研究者怎麼看\n\n- 克萊里的日記 1798 年在倫敦出版，是流亡王黨最重要的宣傳品之一；瑪麗－泰蕾茲的回憶也是事後寫成。兩份都是第一手，但都站在王室一邊（[[s-1798-clery-journal]]；[[s-1852-marie-therese-temple]]）。（推論）兩人對同一件事的時間和細節常常對不上，例如 9 月 3 日王后是昏倒還是呆立、國王的遺囑寫於 12 月 25 日還是 26 日，正好提醒讀者回憶的不可靠。\n- 本站還沒讀到從看守、市政府一方留下的紀錄，也還沒讀到現代研究。\n\n## 延伸閱讀\n\n- [[s-1798-clery-journal]]\n- [[s-1852-marie-therese-temple]]\n- [[s-1883-tourzel-memoires]]\n\n## 還不知道的事\n\n- 王太子後來的命運（路易十七之謎、2000 年的心臟 DNA 鑑定）待寫。\n- 國王的審判與處決、王后的審判，各自可以寫成一篇故事。\n- 王后在古監獄的最後兩個半月，需要其他史料（例如古監獄女僕的證詞）。\n",
+   "body": "## 一句話說明\n\n1792 年 8 月，王室一家被關進巴黎的聖殿塔。國王的貼身僕人克萊里和王后的女兒瑪麗－泰蕾茲，都留下了這段日子的紀錄：上課、散步、被羞辱，然後一個一個被帶走。\n\n## 故事是這樣的\n\n> 這段故事主要來自兩位塔裡的證人：國王的貼身僕人克萊里（Jean-Baptiste Cléry），他 1798 年在倫敦出版了日記；以及王后的女兒瑪麗－泰蕾茲（Marie-Thérèse），她當時十三四歲，後來寫下回憶。兩人都是王室這邊的人，很多細節說法不同，本篇會並列。\n\n### 「你們會看到，他們會把我們關進塔裡」\n\n1792 年 8 月 10 日，杜樂麗宮被攻陷，王室到國民議會避難。三天後，議會決定把他們移到聖殿塔。圖澤爾夫人記得，王后聽到消息時對她說：「你們會看到，他們會把我們關進那座塔。」王后說她一直很怕那座塔，以前還請國王的弟弟把它拆掉（本站譯）（[[s-1883-tourzel-memoires]] 第 2 冊第 23 章）。8 月 13 日，馬車沿著大街慢慢走了兩個半小時，人群不斷攔車（[[s-1883-tourzel-memoires]] 第 2 冊第 23 章）。\n\n### 一天的作息\n\n克萊里記下了塔裡的一天。國王每天早上先跪著禱告五六分鐘，然後讀書到九點；王后要等克萊里到了才開門，免得市政官員進她房間（[[s-1798-clery-journal]] p. 13）。九點，全家到國王房間吃早餐。早餐後，國王替王太子上地理課，七歲的孩子能在攤開的地圖上指出法國各省、各縣和河流（[[s-1798-clery-journal]] pp. 14–15）。瑪麗－泰蕾茲則說，國王教地理，王后教歷史、讓他背詩，國王的妹妹伊莉莎白夫人教算術（[[s-1852-marie-therese-temple]] p. 48）。\n\n克萊里替王太子做了一張乘法表，結果一個市政官員說，王后是在教兒子「用數字說暗語」，算術課就被取消了（[[s-1798-clery-journal]] p. 32）。中午一點，天氣好的話，全家在四名市政官員和一名軍官的陪同下到花園散步（[[s-1798-clery-journal]] p. 15）。晚上七點，一個報販會在牆外大聲叫賣當天的新聞，克萊里在國王書房裡聽，再轉述給王后（[[s-1798-clery-journal]] p. 16）。九點，王后替兒子脫衣服、哄他睡覺（[[s-1852-marie-therese-temple]] pp. 58–59）。\n\n### 小小的羞辱\n\n看守的羞辱是每天都有的。門房羅歇（Rocher）開門時故意拖拖拉拉，還對著公主和王后吐菸（[[s-1798-clery-journal]] p. 33；[[s-1852-marie-therese-temple]] p. 49）。一個當鞋匠的市政官員西蒙（Simon），常在國王面前對克萊里說：「去問問卡佩（Capet），他需不需要什麼。」故意用國王祖先的姓氏叫他，不叫他國王（[[s-1798-clery-journal]] p. 32）。花園的牆上寫滿了大字，散步回來不可能看不到，例如「否決夫人會跳舞的」（本站譯）（[[s-1798-clery-journal]] pp. 33–34）。國民衛隊司令桑泰爾（Santerre）每天兩點來巡房；國王偶爾跟他說話，王后從來不開口（[[s-1798-clery-journal]] pp. 15–16）。\n\n### 窗外\n\n9 月初，巴黎的監獄發生屠殺。9 月 3 日，王后的好友朗巴勒親王妃的頭被插在長矛上，送到塔的窗前（詳見 [[t-lamballe]]）。克萊里說，外面有人要王后到窗口露面，王后聽到這個威脅，當場昏了過去，他和伊莉莎白夫人把她扶到椅子上（[[s-1798-clery-journal]] p. 20）；瑪麗－泰蕾茲則說，母親嚇呆了，站著不動，什麼也沒看（[[s-1852-marie-therese-temple]] pp. 54–55）。一位叫多戎（Daujon）的市政官員擋了群眾一個多小時，對他們說：「安東妮特的頭不屬於你們」，各省對這個「大罪人」也有份（本站譯）（[[s-1798-clery-journal]] pp. 20–21）。那天晚上，群眾想把屍體拖到塔門口，市政官員拿一條三色綬帶橫擋在門口；事後還有人要克萊里付那條綬帶的錢，四十五蘇（[[s-1798-clery-journal]] p. 21）。\n\n### 國王被帶走\n\n1792 年 12 月 11 日清晨五點，城裡響起鼓聲，騎兵和大砲開進了花園。早餐後，市政官員把王太子從國王身邊帶回王后那裡，國王問為什麼，對方只說是「執行公社的命令」；之後巴黎市長上樓，要帶國王去國民公會受審（[[s-1798-clery-journal]] pp. 76–77）。從這天起，國王和家人分開住。\n\n### 最後一晚\n\n1793 年 1 月 20 日晚上八點半，國王已經被判死刑。克萊里看著王后牽著王太子先走進來，公主和伊莉莎白夫人跟在後面，全家撲進國王懷裡。他把玻璃門關上，好幾分鐘，屋裡只有一片沉默（[[s-1798-clery-journal]] p. 110）。這場告別持續了「七刻鐘」，也就是將近兩個小時；國王每說一句話，女眷的哭聲就更大（[[s-1798-clery-journal]] p. 110）。瑪麗－泰蕾茲記得，父親特別叮囑弟弟，要原諒那些害死他的人（[[s-1852-marie-therese-temple]] p. 65）。\n\n告別時，國王答應第二天早上再見一面。王后問：「為什麼不是七點？」國王答應七點（[[s-1798-clery-journal]] p. 110）。公主在父親腳邊昏了過去（[[s-1798-clery-journal]] p. 110）。第二天早上，國王沒有去見她們；瑪麗－泰蕾茲說，他想讓家人少受一次折磨（[[s-1852-marie-therese-temple]] p. 65）。\n\n1 月 21 日清晨，國王要克萊里當著他的面替他剪頭髮，市政官員不准，說要先經委員會同意（[[s-1798-clery-journal]] pp. 111–112）。他想把遺囑交給一個市政官員，對方拒絕：「我來這裡，是要送你上斷頭台的。」（本站譯）（[[s-1798-clery-journal]] 約 pp. 113–114）瑪麗－泰蕾茲說，國王在斷頭台上想對群眾說話，被鼓聲蓋過（[[s-1852-marie-therese-temple]] p. 66）。國王出發前，把結婚戒指和一小包家人的頭髮交給克萊里，要他轉交王后，說這枚戒指他到死才肯離身（[[s-1798-clery-journal]] 約 pp. 110–111；[[s-1852-marie-therese-temple]] pp. 66–67）。但看守不准克萊里去見王后；瑪麗－泰蕾茲聽說，克萊里為此痛苦得不得了（[[s-1852-marie-therese-temple]] pp. 66–67）。這些東西被市政官員封存起來。第二年 2 月，有人發現封條被撬開，戒指和國王的印章都不見了；瑪麗－泰蕾茲說，拿走的人不是小偷，而是想替王后把它們保存下來、留給她兒子的人（[[s-1852-marie-therese-temple]] p. 68）。\n\n### 被帶走的兒子\n\n1793 年 7 月 3 日，國民公會下令把王太子移到「塔裡最安全的房間」。孩子撲進母親懷裡大哭，不肯分開。瑪麗－泰蕾茲說，母親死命不肯交出兒子，直到市政官員威脅要殺了孩子，她才放手；伊莉莎白夫人和她替弟弟穿好衣服，母親流著淚把他交出去（[[s-1852-marie-therese-temple]] pp. 75–76）。\n\n孩子被交給那位鞋匠西蒙看管。瑪麗－泰蕾茲說，母親唯一的樂趣，是在塔上一道小小的牆縫後面，等著遠遠看兒子走過，一等就是好幾個小時（[[s-1852-marie-therese-temple]] pp. 76–77）。西蒙讓孩子戴上紅帽子、唱革命歌曲，還教他罵家人的話（[[s-1852-marie-therese-temple]] pp. 80–81）。\n\n### 凌晨兩點\n\n1793 年 8 月 2 日凌晨兩點，王后被叫醒，聽人宣讀命令：她要被移到古監獄（Conciergerie），等候革命法庭審判。女兒和小姑請求一起去，被拒絕了。市政官員搜了她的口袋，只留下一條手帕和一瓶香水。走出塔門時，她的頭撞在門楣上；有人問她有沒有受傷，她說：「現在，什麼都不會再傷害我了。」（本站譯）（[[s-1852-marie-therese-temple]] p. 79）瑪麗－泰蕾茲聽說，古監獄給她的房間是「最髒、最潮濕、最不健康的」，日夜都有一名憲兵看守（[[s-1852-marie-therese-temple]] p. 80）。\n\n## 研究者怎麼看\n\n- 克萊里的日記 1798 年在倫敦出版，是流亡王黨最重要的宣傳品之一；瑪麗－泰蕾茲的回憶也是事後寫成。兩份都是第一手，但都站在王室一邊（[[s-1798-clery-journal]]；[[s-1852-marie-therese-temple]]）。（推論）兩人對同一件事的時間和細節常常對不上，例如 9 月 3 日王后是昏倒還是呆立、國王的遺囑寫於 12 月 25 日還是 26 日，正好提醒讀者回憶的不可靠。\n- 本站還沒讀到從看守、市政府一方留下的紀錄，也還沒讀到現代研究。\n\n## 延伸閱讀\n\n- [[s-1798-clery-journal]]\n- [[s-1852-marie-therese-temple]]\n- [[s-1883-tourzel-memoires]]\n- 相關故事：[[t-louis]]、[[t-lamballe]]\n\n## 還不知道的事\n\n- 王太子後來的命運（路易十七之謎、2000 年的心臟 DNA 鑑定）待寫。\n- 國王的審判與處決、王后的審判，各自可以寫成一篇故事。\n- 王后在古監獄的最後兩個半月，需要其他史料（例如古監獄女僕的證詞）。\n",
    "links": [
     "s-1798-clery-journal",
     "s-1852-marie-therese-temple",
     "s-1883-tourzel-memoires",
-    "t-lamballe"
+    "t-lamballe",
+    "t-louis"
+   ]
+  },
+  {
+   "id": "t-trial",
+   "type": "topic",
+   "title": "最後的七十五天：古監獄、審判與一封沒有送到的信",
+   "category": "革命",
+   "period": [
+    1793,
+    1793
+   ],
+   "summary": "她在法庭上只激動過一次，是被問到兒子的時候。",
+   "myth": "王后走上斷頭台時踩到劊子手的腳，說了最後一句話：「對不起，先生，我不是故意的。」",
+   "verdict": "查無實據",
+   "image": "t-trial.jpg",
+   "imageAlt": "粉彩畫風插畫：石牆小牢房裡，木桌上點著快燒完的蠟燭，一個淡淡的人影正在寫信，高處有一扇鐵窗。",
+   "sources": [
+    "s-1793-tribunal-proces-marie-antoinette",
+    "s-1793-tribunal-proces-criminel-testament",
+    "s-1824-lafont-daussonne-memoires",
+    "s-1865-prevost-proces-recueil",
+    "s-1989-colwill-citoyenne",
+    "s-1862-sanson-sept-generations"
+   ],
+   "updated": "2026-11-16",
+   "body": "## 一句話說明\n\n1793 年 8 月 2 日，王后被移到巴黎的古監獄（Conciergerie）；10 月中旬受審，16 日凌晨被判死刑，當天中午上了斷頭台。這段日子留下了兩種史料：革命法庭自己印行的審判紀錄，和多年後出版的、同情王后的證人回憶。\n\n## 迷思與史料\n\n「對不起，先生，我不是故意的」是流傳最廣的王后遺言：據說她上斷頭台時踩到了劊子手的腳。本站查了 1793 年印行的兩種審判紀錄、1865 年重印的審判彙編、1824 年收有古監獄女僕證詞的回憶錄，以及劊子手桑松家族的回憶錄，都沒有找到這句話（[[s-1793-tribunal-proces-marie-antoinette]]；[[s-1793-tribunal-proces-criminel-testament]]；[[s-1865-prevost-proces-recueil]]；[[s-1824-lafont-daussonne-memoires]]；[[s-1862-sanson-sept-generations]]）。1793 年的紀錄只寫她「相當勇敢地」上了斷頭台（[[s-1793-tribunal-proces-criminel-testament]]）。所以判定是「查無實據」：這句話也許是真的，但目前找不到任何當時的記載。\n\n## 故事是這樣的\n\n### 古監獄的房間\n\n1793 年 8 月 2 日凌晨，王后從聖殿塔被帶到古監獄（見 [[t-temple]]）。一本 1824 年出版的回憶錄描述了她的牢房：穿過兩道閘門，是一條整天點著燈的昏暗走廊；左邊就是她的房間，兩扇裝鐵條的小窗朝向女囚的小院子；房間用屏風隔成兩半，一名持槍的憲兵站在入口，王后那一半只有一張床、一張桌子和兩把椅子（[[s-1824-lafont-daussonne-memoires]]）。照顧她飲食和床鋪的，是看守家的廚娘羅莎莉（見 [[t-table]]）。\n\n### 康乃馨裡的紙條\n\n在古監獄的日子裡發生了一件事。一個男人跟著監獄的市政督察米修尼斯（Michonis）來到王后的房間，交給她一朵康乃馨，花裡藏著一張紙條。審判時，看守的憲兵作證，紙條上寫著：「你在這裡做什麼？我們有人手和錢可以為你效勞。」（本站譯）（[[s-1793-tribunal-proces-criminel-testament]]）這次營救沒有成功，反而讓監視更嚴了。有趣的是，到了審判時，連起訴人富基耶－坦維爾（Fouquier-Tinville）都說，這件事「不過是監獄裡的陰謀」，不應該列入起訴（[[s-1793-tribunal-proces-criminel-testament]]）。\n\n### 審判\n\n審判開始了。陪審團最後要回答四個問題：有沒有勾結外敵、引外軍入侵的陰謀；王后有沒有參與；有沒有煽動內戰的陰謀；王后有沒有參與。起訴人要求依「勾結外敵」的法條判處死刑（[[s-1793-tribunal-proces-criminel-testament]]）。起訴時引用了她寫給瑞士衛隊長的一封信：「我們能指望你的瑞士衛兵嗎？到時候他們會堅守嗎？」（本站譯）但紀錄裡沒有附上信的原件（[[s-1793-tribunal-proces-criminel-testament]]）。\n\n證人們搬出了各種東西。巴黎公社的檢察官埃貝爾（Hébert）作證，他在聖殿塔王后的祈禱書裡找到一顆被箭射穿、燃燒著的心，那是當時反革命者佩戴的標記；王后回答，那是兒子從姊姊那裡拿到的（[[s-1793-tribunal-proces-criminel-testament]]）。審判後半段，埃貝爾自己承認，法庭上出示的那顆心「不是我找到的那一個，但很像」（[[s-1793-tribunal-proces-criminel-testament]]）。\n\n### 「我向在場所有的人呼籲」\n\n最難堪的是埃貝爾的另一項指控：他說王后和小姑在聖殿塔裡對年幼的王太子做了不倫的事。研究這場審判的歷史學者科爾威爾指出，埃貝爾不只在法庭上，也在他的報紙上提出這個指控（[[s-1989-colwill-citoyenne]] p. 79）。\n\n王后一開始沒有回答。陪審員要求庭長追問，她才開口。1793 年的審判紀錄這樣寫：「如果我沒有回答，那是因為天性拒絕回答對一位母親提出的這種質問。」紀錄在這裡加了一句括號：「（被告此時顯得非常激動）」，接著她說：「我向在場所有的人呼籲。」（本站譯）（[[s-1793-tribunal-proces-marie-antoinette]]；[[s-1793-tribunal-proces-criminel-testament]]）兩個 1793 年的印本，用字有一點不同（[[s-1793-tribunal-proces-criminel-testament]]）。\n\n這句話後來被寫成更戲劇化的版本。1824 年那本同情王后的回憶錄，說她喊的是「我向在場所有的母親呼籲！」，全場的女人都哭了（[[s-1824-lafont-daussonne-memoires]]）。（推論）最早的紀錄沒有「母親」這兩個字，也沒有寫旁聽席的反應。\n\n### 凌晨四點半\n\n判決在 10 月 16 日凌晨四點半宣讀，死刑，財產充公。紀錄寫：「受刑人的臉色完全沒有改變。」（本站譯）（[[s-1793-tribunal-proces-criminel-testament]]）\n\n回到牢房，她要了紙和墨水，寫了一封信給還在聖殿塔的小姑伊莉莎白夫人，信末寫著「10 月 16 日，凌晨四點半」（[[s-1824-lafont-daussonne-memoires]]）。信是這樣開頭的：「我最後一次寫信給你，我的妹妹。我剛被判刑，不是可恥的死刑，那只屬於罪犯，而是去和你的哥哥團聚。和他一樣，我是無辜的……」（本站譯）她說，最深的遺憾是拋下可憐的孩子；她從審判的辯論裡才知道，女兒已經和小姑分開了。她請小姑原諒那個孩子：他年紀太小，很容易被人教著說出自己不懂的話（[[s-1824-lafont-daussonne-memoires]]）。信的最後是：「再見了，再見了。」（本站譯）（[[s-1824-lafont-daussonne-memoires]]）\n\n她把信交給看守長，請他設法送到聖殿塔。據這本回憶錄說，看守長一走出牢房，信就被當局的人拿走，交給了起訴人（[[s-1824-lafont-daussonne-memoires]]）。伊莉莎白夫人從來沒有收到這封信。\n\n### 最後一個早上\n\n天亮後，一位向革命政府宣誓過的神父來問她要不要懺悔，她拒絕了（[[s-1824-lafont-daussonne-memoires]]）。八點，羅莎莉幫她換衣服。她想要一點隱私，憲兵說：「我的命令是要盯著你的一舉一動。」羅莎莉說，她把換下來、沾了血的內衣捲起來，藏在舊壁紙和牆之間（[[s-1824-lafont-daussonne-memoires]]）。\n\n1793 年的紀錄寫，她穿著白色的棉布晨衣離開古監獄（[[s-1793-tribunal-proces-criminel-testament]]）。1824 年的回憶錄說，十一點左右，劊子手把她的手反綁、剪短了她的頭髮，這兩個細節只出現在這本書裡（[[s-1824-lafont-daussonne-memoires]]）。她坐的車，1793 年的紀錄說是「劊子手的車」，回憶錄說是一輛敞開的囚車；車上有一位憲法派神父，前後是大批憲兵（[[s-1793-tribunal-proces-criminel-testament]]；[[s-1824-lafont-daussonne-memoires]]）。\n\n紀錄說，沿路站著三萬多名武裝人員；她看著路邊的旗子和招牌，既不沮喪也不驕傲。到了革命廣場（今天的協和廣場），她望向原本的王宮花園，臉色突然變得比剛才更白（[[s-1793-tribunal-proces-criminel-testament]]）。中午過後，劊子手把她的頭舉給群眾看，群眾高喊「共和國萬歲！」（[[s-1793-tribunal-proces-criminel-testament]]）\n\n## 研究者怎麼看\n\n- 1793 年的審判紀錄是革命一方印行的；1824 年的回憶錄出版於王政復辟時期，立場同情王后，很多細節（剪髮、綁手、全場落淚）只見於後者（[[s-1793-tribunal-proces-criminel-testament]]；[[s-1824-lafont-daussonne-memoires]]）。\n- 歷史學者科爾威爾認為，這場審判與其說在審叛國，不如說在審一個女人：起訴的正式罪名是叛國，背後卻是通姦、破壞家庭、甚至殺嬰的指控；王后在庭上則以妻子和母親的身分為自己辯護（[[s-1989-colwill-citoyenne]] pp. 78–79）。\n- 1793 年原刊的編者已經說明，當時街頭流傳的王后「懺悔錄」和「遺囑」是假的（[[s-1865-prevost-proces-recueil]]）。今天流傳的那封最後的信，來歷也有疑點：同一本回憶錄的正文說 1816 年才被發現，註腳卻說更早就被找到了（[[s-1824-lafont-daussonne-memoires]]）。\n\n## 延伸閱讀\n\n- [[s-1793-tribunal-proces-marie-antoinette]]\n- [[s-1793-tribunal-proces-criminel-testament]]\n- [[s-1865-prevost-proces-recueil]]\n- [[s-1824-lafont-daussonne-memoires]]\n- [[s-1989-colwill-citoyenne]]\n- [[s-1862-sanson-sept-generations]]\n- 相關故事：[[t-temple]]、[[t-white-hair]]、[[t-table]]\n\n## 還不知道的事\n\n- 畫家大衛（Jacques-Louis David）在路邊畫下的那張王后坐囚車的速寫，本站還沒讀到藝術史的研究。\n- 審判開庭的確切日期、康乃馨事件的確切日期、帶花來的那個人是誰（一般說是騎士德魯日維爾），需要其他史料。\n- 「我向所有的母親呼籲」這個版本最早出現在哪裡？\n",
+   "links": [
+    "s-1793-tribunal-proces-criminel-testament",
+    "s-1793-tribunal-proces-marie-antoinette",
+    "s-1824-lafont-daussonne-memoires",
+    "s-1862-sanson-sept-generations",
+    "s-1865-prevost-proces-recueil",
+    "s-1989-colwill-citoyenne",
+    "t-table",
+    "t-temple",
+    "t-white-hair"
    ]
   },
   {
@@ -1590,7 +2014,7 @@
     "s-2005-ozouf-varennes"
    ],
    "updated": "2026-11-15",
-   "body": "## 一句話說明\n\n1791 年 6 月，國王一家喬裝逃離巴黎，在距離邊境不遠的小鎮瓦雷納（Varennes）被攔下；他們不是因為停下來吃飯而被追上，而是一路上的小延誤累積成一個半小時，又被驛站長認出了臉。\n\n## 迷思與史料\n\n和國王一家同車逃亡的王室子女家庭教師圖澤爾夫人（Madame de Tourzel）在回憶錄裡特別澄清：「有人說國王停下來吃晚餐，這說法完全錯誤。他只在車上吃東西」，一路上「哪裡都沒有停」，國王只下過一次車（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊 p. 310）。\n\n不過，被押回巴黎的路上，他們確實在聖默努爾德（Sainte-Menehould）停下來吃了一頓飯（[[s-1883-tourzel-memoires]] 第 1 冊 p. 328）。所以判定是「半真半假」：吃飯這件事真的有，只是發生在回程，而且跟被抓無關。要注意的是，圖澤爾夫人是當事人、也是王室的忠實僕人，回憶錄在她死後才出版。\n\n## 故事是這樣的\n\n### 出發前\n\n逃亡原本訂在 6 月 19 日晚上，因為宮裡有一個被懷疑效忠拉法葉（Lafayette）的女僕輪值，才延到 20 日（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 303）。這段故事最主要的證人，是王室子女的家庭教師圖澤爾夫人（Madame de Tourzel）。她剛生過病，王后勸她去溫泉療養，她回答：「如果我是男人，陛下也不會攔著我上戰場吧。」（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊約 pp. 302–303）於是她跟著上了車。\n\n那天晚上，王后親自去叫醒六歲的王太子。孩子一聽說要去一座「可以指揮自己軍團」的要塞，立刻跳下床大喊：「快快快，給我軍刀、靴子，我們走！」（本站譯）他被換上一套小女孩的裙子和帽子，喬裝成女孩（[[s-1883-tourzel-memoires]] 第 1 冊約 pp. 303–305）。王后把孩子交給圖澤爾夫人時說：「國王和我，把我們最珍貴的東西完全託付給你了。」（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊約 pp. 305–306）\n\n宮外，一輛像出租馬車的舊車在等著，駕車的是扮成車夫的瑞典伯爵費爾森（見 [[t-fersen]]）。他吹著口哨、跟一個假裝路過的同伴閒聊、遞鼻煙盒，裝得很像。等著等著，九歲的公主突然看見拉法葉從旁邊經過，圖澤爾夫人趕緊把王太子藏到自己的裙子底下（[[s-1883-tourzel-memoires]] 第 1 冊 p. 306）。國王則被他每晚的就寢儀式絆住：拉法葉和巴黎市長也來參加，國王不能顯得急著打發他們走。等人散了，他再起來換衣服、戴假髮，從杜樂麗宮走路出來（[[s-1883-tourzel-memoires]] 第 1 冊 pp. 306–307）。王后是最後一個上車的。圖澤爾夫人記得，國王緊緊抱住她，一直說：「看到你來了，我真高興！」（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊 p. 307）\n\n### 一路累積的延誤\n\n費爾森在日記裡把這一夜記成了時刻表：午夜出發，凌晨一點半到邦迪（Bondy）換驛馬（[[s-1877-klinckowstrom-fersen]] 第 1 冊日記，1791 年 6 月 20 日條）。康龐夫人的記錄也說是邦迪（[[s-1823-campan-memoires]] 第 2 冊 p. 328）；圖澤爾夫人卻寫成巴黎東郊的克萊（Claye）（[[s-1883-tourzel-memoires]] 第 1 冊 p. 310）。費爾森在這裡跟王室分開，抄小路往北走。\n\n延誤從一開始就在累積。圖澤爾夫人一筆一筆記下來：費爾森繞了遠路，多花半小時；國王的就寢儀式拖了四十五分鐘；路上遇到婚禮的人群；後來馬車翻倒、套具斷裂，修了一個多小時。加起來，他們比預定時間晚了一個半小時（[[s-1883-tourzel-memoires]] 第 1 冊 pp. 309–310）。過了沙隆（Châlons），國王鬆了一口氣，說到了下一站就會遇到第一支接應的部隊（[[s-1883-tourzel-memoires]] 第 1 冊 p. 313）。但部隊等不到人，以為計畫取消，已經撤走；指揮官舒瓦瑟爾公爵慌了手腳，竟派王后的髮型師去通知其他部隊（[[s-1883-tourzel-memoires]] 第 1 冊 pp. 313–314）。\n\n### 鈔票上的臉\n\n6 月 21 日傍晚，馬車在聖默努爾德（Sainte-Menehould）換馬。驛站長德魯埃（Jean-Baptiste Drouet）後來在國民議會說，他覺得車裡的女士像王后，又發現那位先生的臉，和五十里弗爾指券（assignat，當時的紙鈔）上印的國王頭像很像；他怕是自己弄錯、引起虛驚，猶豫之後才和同伴騎馬抄小路去追（[[s-1887-drouet-barre]] p. 508）。康龐夫人說，後來還有一個陌生騎士經過車窗，只丟下一句「你們被認出來了！」就跑了（[[s-1823-campan-memoires]] 第 2 冊 p. 330）。\n\n{{photo:t-varennes-drouet.jpg|德魯埃的肖像版畫，1791 年出版，現藏法國國家圖書館。他就是在聖默努爾德認出國王的驛站長。|Wikimedia Commons，Public domain}}\n\n### 瓦雷納的八個鐘頭\n\n德魯埃搶先趕到瓦雷納，在橋上翻倒一輛貨車擋路，叫醒鎮上的人。晚上十一點半，馬車被持槍的居民攔下（[[s-1883-tourzel-memoires]] 第 1 冊 p. 318）。王后催他們快一點，對方故意拖延，好讓民兵集合；孩子們被安置在鎮上雜貨商、也是公社檢察官索斯（Sauce）家樓上的床上，很快就睡著了，圖澤爾夫人說，這種安穩和父母的處境對比，看得人心碎（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 319）。王后坐在索斯家店鋪深處、堆滿蠟燭和肥皂箱子的地方，求索斯太太勸丈夫放他們走。索斯太太哭著說：「我很愛我的國王，可是，您聽我說，我也很愛我的丈夫，他是要負責任的。」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 pp. 331–332）\n\n這時一位軍官帶著騎兵趕到，問國王要不要用武力衝出去。國王問：「會流血嗎？」對方說不可能不流血，國王就不肯冒這個險（[[s-1823-campan-memoires]] 第 2 冊 p. 333）。據圖澤爾夫人說，一個小時之內，鎮上就集合了四千名國民自衛軍（[[s-1883-tourzel-memoires]] 第 1 冊約 pp. 319–320）。他們在瓦雷納熬過了「八個鐘頭要命的等待」（本站譯），接應的大軍始終沒來（[[s-1883-tourzel-memoires]] 第 1 冊 p. 325）。\n\n### 回程\n\n回程是一場漫長的遊街。馬車一啟程，就有人大喊「抓住舒瓦瑟爾！」；一路上群眾高喊「國民與國民議會萬歲！」（[[s-1883-tourzel-memoires]] 第 1 冊 p. 326）。一位貴族丹皮耶爾只是想靠近馬車向國王致意，就在路上被開槍打死（[[s-1883-tourzel-memoires]] 第 1 冊 p. 327）。在聖默努爾德，他們確實停下來吃了一頓飯，當地官員當面責備國王（[[s-1883-tourzel-memoires]] 第 1 冊 p. 328）。路上有士兵餓著肚子抱怨，王后從車裡拿出食物分給他們；有人大喊「別碰，一定下了毒！」，國王和孩子們就當場吃給他們看（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 331）。\n\n國民議會派來三位議員上車同行，其中巴納夫（Barnave）和佩蒂翁（Pétion）擠進了王室的車廂。佩蒂翁一路大談美國和共和的好處（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 337）。天氣熱到極點，車裡每個人都滿身汗水和灰塵，王后抱著王太子（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 340）。小王子在途中過夜時夢見自己在森林裡和狼在一起，媽媽有危險，哭著醒來（[[s-1883-tourzel-memoires]] 第 1 冊 p. 334）。6 月 25 日，他們從莫城（Meaux）回到巴黎。拉法葉下令沿途群眾不准脫帽、保持安靜（[[s-1883-tourzel-memoires]] 第 1 冊 p. 343）。同年 8 月 18 日，國民議會通過法令，獎賞德魯埃和其他攔下國王的人（[[s-1887-ap-varennes-reward]]）。\n\n{{photo:t-varennes-retour-1791.jpg|1791 年 6 月國王一家被押回巴黎的版畫，Prieur 繪、Baleverest 刻，製作於 1791 年之後，現藏卡納瓦雷博物館。|Wikimedia Commons，CC0}}\n\n## 研究者怎麼看\n\n- 美國歷史學家塔克特（Timothy Tackett）的《國王逃亡之時》（*When the King Took Flight*, 2003）和法國歷史學家奧祖夫（Mona Ozouf）的《瓦雷納：王權之死》（*Varennes*, 2005）都把這次逃亡視為革命的轉捩點：國王出逃之後，許多法國人不再信任他（[[s-2003-tackett-king]]；[[s-2005-ozouf-varennes]]）。本站目前只讀到這兩本書的書目資訊，還沒讀到內文。\n- 德魯埃的陳述是在議會上爭取功勞時說的，他有領賞的利害關係；圖澤爾夫人則是王室這一邊的人。兩人各自的立場，都可能影響細節（[[s-1887-drouet-barre]]；[[s-1883-tourzel-memoires]]）。\n\n## 延伸閱讀\n\n- [[s-1883-tourzel-memoires]]\n- [[s-1823-campan-memoires]]\n- [[s-1877-klinckowstrom-fersen]]\n- [[s-1887-drouet-barre]]\n- [[s-1887-ap-varennes-reward]]\n- [[s-2003-tackett-king]]\n- [[s-2005-ozouf-varennes]]\n- 名詞：[[e-fersen]]\n- 相關故事：[[t-october-days]]、[[t-temple]]\n\n## 還不知道的事\n\n- 那輛大型豪華馬車（berline）的細節、逃亡路線圖，需要讀 Tackett 或 Ozouf 的原書。\n- 圖澤爾夫人和康龐夫人的版本有幾處對不上：費爾森送到邦迪還是克萊；佩蒂翁談共和時國王有沒有回話（圖澤爾說有，康龐說國王從此一路不發一語）；三名護衛有沒有被綁在車座上（只有康龐這樣寫）（[[s-1883-tourzel-memoires]]；[[s-1823-campan-memoires]] 第 2 冊 pp. 328–336）。\n- 康龐夫人這段是王后回到巴黎第二天親口講給她聽的，等於是王后自己的版本。\n- 王后在這次逃亡後頭髮變白的說法，見 [[t-white-hair]]。\n",
+   "body": "## 一句話說明\n\n1791 年 6 月，國王一家喬裝逃離巴黎，在距離邊境不遠的小鎮瓦雷納（Varennes）被攔下；他們不是因為停下來吃飯而被追上，而是一路上的小延誤累積成一個半小時，又被驛站長認出了臉。\n\n## 迷思與史料\n\n和國王一家同車逃亡的王室子女家庭教師圖澤爾夫人（Madame de Tourzel）在回憶錄裡特別澄清：「有人說國王停下來吃晚餐，這說法完全錯誤。他只在車上吃東西」，一路上「哪裡都沒有停」，國王只下過一次車（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊 p. 310）。\n\n不過，被押回巴黎的路上，他們確實在聖默努爾德（Sainte-Menehould）停下來吃了一頓飯（[[s-1883-tourzel-memoires]] 第 1 冊 p. 328）。所以判定是「半真半假」：吃飯這件事真的有，只是發生在回程，而且跟被抓無關。要注意的是，圖澤爾夫人是當事人、也是王室的忠實僕人，回憶錄在她死後才出版。\n\n## 故事是這樣的\n\n### 出發前\n\n逃亡原本訂在 6 月 19 日晚上，因為宮裡有一個被懷疑效忠拉法葉（Lafayette）的女僕輪值，才延到 20 日（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 303）。這段故事最主要的證人，是王室子女的家庭教師圖澤爾夫人（Madame de Tourzel）。她剛生過病，王后勸她去溫泉療養，她回答：「如果我是男人，陛下也不會攔著我上戰場吧。」（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊約 pp. 302–303）於是她跟著上了車。\n\n那天晚上，王后親自去叫醒六歲的王太子。孩子一聽說要去一座「可以指揮自己軍團」的要塞，立刻跳下床大喊：「快快快，給我軍刀、靴子，我們走！」（本站譯）他被換上一套小女孩的裙子和帽子，喬裝成女孩（[[s-1883-tourzel-memoires]] 第 1 冊約 pp. 303–305）。王后把孩子交給圖澤爾夫人時說：「國王和我，把我們最珍貴的東西完全託付給你了。」（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊約 pp. 305–306）\n\n宮外，一輛像出租馬車的舊車在等著，駕車的是扮成車夫的瑞典伯爵費爾森（見 [[t-fersen]]）。他吹著口哨、跟一個假裝路過的同伴閒聊、遞鼻煙盒，裝得很像。等著等著，九歲的公主突然看見拉法葉從旁邊經過，圖澤爾夫人趕緊把王太子藏到自己的裙子底下（[[s-1883-tourzel-memoires]] 第 1 冊 p. 306）。國王則被他每晚的就寢儀式絆住：拉法葉和巴黎市長也來參加，國王不能顯得急著打發他們走。等人散了，他再起來換衣服、戴假髮，從杜樂麗宮走路出來（[[s-1883-tourzel-memoires]] 第 1 冊 pp. 306–307）。王后是最後一個上車的。圖澤爾夫人記得，國王緊緊抱住她，一直說：「看到你來了，我真高興！」（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊 p. 307）\n\n### 一路累積的延誤\n\n費爾森在日記裡把這一夜記成了時刻表：午夜出發，凌晨一點半到邦迪（Bondy）換驛馬（[[s-1877-klinckowstrom-fersen]] 第 1 冊日記，1791 年 6 月 20 日條）。康龐夫人的記錄也說是邦迪（[[s-1823-campan-memoires]] 第 2 冊 p. 328）；圖澤爾夫人卻寫成巴黎東郊的克萊（Claye）（[[s-1883-tourzel-memoires]] 第 1 冊 p. 310）。費爾森在這裡跟王室分開，抄小路往北走。\n\n延誤從一開始就在累積。圖澤爾夫人一筆一筆記下來：費爾森繞了遠路，多花半小時；國王的就寢儀式拖了四十五分鐘；路上遇到婚禮的人群；後來馬車翻倒、套具斷裂，修了一個多小時。加起來，他們比預定時間晚了一個半小時（[[s-1883-tourzel-memoires]] 第 1 冊 pp. 309–310）。過了沙隆（Châlons），國王鬆了一口氣，說到了下一站就會遇到第一支接應的部隊（[[s-1883-tourzel-memoires]] 第 1 冊 p. 313）。但部隊等不到人，以為計畫取消，已經撤走；指揮官舒瓦瑟爾公爵慌了手腳，竟派王后的髮型師去通知其他部隊（[[s-1883-tourzel-memoires]] 第 1 冊 pp. 313–314）。\n\n### 鈔票上的臉\n\n6 月 21 日傍晚，馬車在聖默努爾德（Sainte-Menehould）換馬。驛站長德魯埃（Jean-Baptiste Drouet）後來在國民議會說，他覺得車裡的女士像王后，又發現那位先生的臉，和五十里弗爾指券（assignat，當時的紙鈔）上印的國王頭像很像；他怕是自己弄錯、引起虛驚，猶豫之後才和同伴騎馬抄小路去追（[[s-1887-drouet-barre]] p. 508）。康龐夫人說，後來還有一個陌生騎士經過車窗，只丟下一句「你們被認出來了！」就跑了（[[s-1823-campan-memoires]] 第 2 冊 p. 330）。\n\n{{photo:t-varennes-drouet.jpg|德魯埃的肖像版畫，1791 年出版，現藏法國國家圖書館。他就是在聖默努爾德認出國王的驛站長。|Wikimedia Commons，Public domain}}\n\n### 瓦雷納的八個鐘頭\n\n德魯埃搶先趕到瓦雷納，在橋上翻倒一輛貨車擋路，叫醒鎮上的人。晚上十一點半，馬車被持槍的居民攔下（[[s-1883-tourzel-memoires]] 第 1 冊 p. 318）。王后催他們快一點，對方故意拖延，好讓民兵集合；孩子們被安置在鎮上雜貨商、也是公社檢察官索斯（Sauce）家樓上的床上，很快就睡著了，圖澤爾夫人說，這種安穩和父母的處境對比，看得人心碎（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 319）。王后坐在索斯家店鋪深處、堆滿蠟燭和肥皂箱子的地方，求索斯太太勸丈夫放他們走。索斯太太哭著說：「我很愛我的國王，可是，您聽我說，我也很愛我的丈夫，他是要負責任的。」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 pp. 331–332）\n\n這時一位軍官帶著騎兵趕到，問國王要不要用武力衝出去。國王問：「會流血嗎？」對方說不可能不流血，國王就不肯冒這個險（[[s-1823-campan-memoires]] 第 2 冊 p. 333）。據圖澤爾夫人說，一個小時之內，鎮上就集合了四千名國民自衛軍（[[s-1883-tourzel-memoires]] 第 1 冊約 pp. 319–320）。他們在瓦雷納熬過了「八個鐘頭要命的等待」（本站譯），接應的大軍始終沒來（[[s-1883-tourzel-memoires]] 第 1 冊 p. 325）。\n\n### 回程\n\n回程是一場漫長的遊街。馬車一啟程，就有人大喊「抓住舒瓦瑟爾！」；一路上群眾高喊「國民與國民議會萬歲！」（[[s-1883-tourzel-memoires]] 第 1 冊 p. 326）。一位貴族丹皮耶爾只是想靠近馬車向國王致意，就在路上被開槍打死（[[s-1883-tourzel-memoires]] 第 1 冊 p. 327）。在聖默努爾德，他們確實停下來吃了一頓飯，當地官員當面責備國王（[[s-1883-tourzel-memoires]] 第 1 冊 p. 328）。路上有士兵餓著肚子抱怨，王后從車裡拿出食物分給他們；有人大喊「別碰，一定下了毒！」，國王和孩子們就當場吃給他們看（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 331）。\n\n國民議會派來三位議員上車同行，其中巴納夫（Barnave）和佩蒂翁（Pétion）擠進了王室的車廂。佩蒂翁一路大談美國和共和的好處（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 337）。天氣熱到極點，車裡每個人都滿身汗水和灰塵，王后抱著王太子（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 340）。小王子在途中過夜時夢見自己在森林裡和狼在一起，媽媽有危險，哭著醒來（[[s-1883-tourzel-memoires]] 第 1 冊 p. 334）。6 月 25 日，他們從莫城（Meaux）回到巴黎。拉法葉下令沿途群眾不准脫帽、保持安靜（[[s-1883-tourzel-memoires]] 第 1 冊 p. 343）。同年 8 月 18 日，國民議會通過法令，獎賞德魯埃和其他攔下國王的人（[[s-1887-ap-varennes-reward]]）。\n\n{{photo:t-varennes-retour-1791.jpg|1791 年 6 月國王一家被押回巴黎的版畫，Prieur 繪、Baleverest 刻，製作於 1791 年之後，現藏卡納瓦雷博物館。|Wikimedia Commons，CC0}}\n\n## 研究者怎麼看\n\n- 美國歷史學家塔克特（Timothy Tackett）的《國王逃亡之時》（*When the King Took Flight*, 2003）和法國歷史學家奧祖夫（Mona Ozouf）的《瓦雷納：王權之死》（*Varennes*, 2005）都把這次逃亡視為革命的轉捩點：國王出逃之後，許多法國人不再信任他（[[s-2003-tackett-king]]；[[s-2005-ozouf-varennes]]）。本站目前只讀到這兩本書的書目資訊，還沒讀到內文。\n- 德魯埃的陳述是在議會上爭取功勞時說的，他有領賞的利害關係；圖澤爾夫人則是王室這一邊的人。兩人各自的立場，都可能影響細節（[[s-1887-drouet-barre]]；[[s-1883-tourzel-memoires]]）。\n\n## 延伸閱讀\n\n- [[s-1883-tourzel-memoires]]\n- [[s-1823-campan-memoires]]\n- [[s-1877-klinckowstrom-fersen]]\n- [[s-1887-drouet-barre]]\n- [[s-1887-ap-varennes-reward]]\n- [[s-2003-tackett-king]]\n- [[s-2005-ozouf-varennes]]\n- 名詞：[[e-fersen]]\n- 相關故事：[[t-october-days]]、[[t-temple]]、[[t-table]]\n\n## 還不知道的事\n\n- 那輛大型豪華馬車（berline）的細節、逃亡路線圖，需要讀 Tackett 或 Ozouf 的原書。\n- 圖澤爾夫人和康龐夫人的版本有幾處對不上：費爾森送到邦迪還是克萊；佩蒂翁談共和時國王有沒有回話（圖澤爾說有，康龐說國王從此一路不發一語）；三名護衛有沒有被綁在車座上（只有康龐這樣寫）（[[s-1883-tourzel-memoires]]；[[s-1823-campan-memoires]] 第 2 冊 pp. 328–336）。\n- 康龐夫人這段是王后回到巴黎第二天親口講給她聽的，等於是王后自己的版本。\n- 王后在這次逃亡後頭髮變白的說法，見 [[t-white-hair]]。\n",
    "links": [
     "e-fersen",
     "s-1823-campan-memoires",
@@ -1602,8 +2026,36 @@
     "s-2005-ozouf-varennes",
     "t-fersen",
     "t-october-days",
+    "t-table",
     "t-temple",
     "t-white-hair"
+   ]
+  },
+  {
+   "id": "t-vigee",
+   "type": "topic",
+   "title": "王后的畫家：維傑．勒布倫與一幅被撤下的家庭像",
+   "category": "人物",
+   "period": [
+    1779,
+    1815
+   ],
+   "summary": "她畫了王后三十多次，最後一幅大畫還沒進宮就被叫做「赤字」。",
+   "image": "t-vigee.jpg",
+   "imageAlt": "粉彩畫風插畫：明亮畫室裡，大畫架上是一幅只有淡淡人物輪廓的未完成大畫，旁邊有調色盤和一個空搖籃。",
+   "sources": [
+    "s-1835-vigee-le-brun-souvenirs",
+    "s-1823-campan-memoires"
+   ],
+   "updated": "2026-11-16",
+   "body": "## 一句話說明\n\n伊莉莎白．維傑．勒布倫（Élisabeth Vigée Le Brun）是王后最喜歡的畫家，從 1779 年到革命前夕替她畫了許多肖像。她的回憶錄讓我們看到一個很少人描寫的王后：會在畫室裡唱歌、會彎腰撿畫筆、走路姿態全法國最美。但這些都是一位終身仰慕者的回憶。\n\n## 故事是這樣的\n\n### 粉彩畫家的女兒\n\n勒布倫的父親是一位粉彩肖像畫家。她說，小時候父親准她在旁邊畫幾張粉彩頭像，還能拿父親的粉筆亂畫一整天（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊）。父親吞了一根魚刺，手術後傷口感染，兩個月後過世，臨終時把她和弟弟叫到床前說：「孩子們，你們要幸福。」（本站譯）她一度放下畫筆，是父親最好的朋友勸她重新拿起來（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊）。少女時期，她和朋友每天帶著自己的午餐，到羅浮宮裡一位畫家的畫室臨摹，在門房那裡買熟牛肉配飯（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊）。\n\n### 第一次見到王后\n\n她說自己是在 1779 年第一次替王后畫像，那時王后正在最美的年紀（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信）。她的描寫非常具體：王后高挑、體態勻稱，手臂很美，手和腳都小巧；她是「全法國走路最好看的女人」，頭抬得很高，有威嚴又不失溫和；眼睛近乎藍色，臉是奧地利家族特有的長橢圓形；皮膚透亮到「不會投下陰影」，讓她很難畫出那種光澤（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信）。\n\n第一幅是正式的大禮服像：撐大裙架、穿緞子長裙、手拿玫瑰，要送給王后的哥哥約瑟夫二世；王后又要她畫了兩份複製品，一份送俄國女皇（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信）。後來那幅戴草帽、穿白紗裙的像，引起了「穿內衣見人」的醜聞（見 [[t-chemise]]）。\n\n### 畫室裡的王后\n\n勒布倫說，王后很愛音樂，知道她嗓子好，常常在作畫的空檔叫她一起唱格雷特里（Grétry）的二重唱；她也老實說，王后唱得不太準（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信）。有一次她懷著第二胎，錯過了約好的時間，隔天趕去道歉；王后本來叫好了馬車要去散步，卻取消了，留下來讓她畫。她一緊張打翻了顏料盒，王后說：「別動，別動，你懷孕這麼重，不能彎腰。」然後自己把畫筆一支支撿起來（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信）。\n\n有一次在楓丹白露，王后盛裝出席，滿身鑽石，勒布倫稱讚她頭部的姿態；王后笑著說：「如果我不是王后，人家會說我看起來很傲慢，對吧？」（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信）她還記得，王后讓當時六歲左右的女兒和一個農家小女孩一起吃飯，要女兒先替客人上菜：「你要招待她。」（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信）\n\n### 一個女人要進美術學院\n\n1783 年，勒布倫被推薦進入皇家繪畫學院。學院的首席畫家皮耶（Pierre）強烈反對，說他「不願意收女人」，雖然學院裡其實已經有女畫家了（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊）。支持她的人寫了一首諷刺小詩，最後一句拿他的名字開玩笑：要拒絕她這份榮譽，非得有一顆「石頭（Pierre）做的心」。皮耶又放話說，她能進去是宮廷施壓；她回答，王室也許希望她入選，「但也就這樣而已」（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊）。\n\n### 被叫做「赤字」的大畫\n\n她最後一次替王后畫像是在小特里亞儂，畫的是王后的頭部，要放進一幅大型家庭像裡：王后坐著，身旁是大王子和公主，膝上抱著小兒子諾曼第公爵（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信；第 3 冊）。那天坐在旁邊的大臣布勒特伊男爵，一直在說宮裡其他女人的壞話，她說自己從來沒把那些話轉述給任何人（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信）。\n\n這幅畫要送去沙龍展覽。畫還沒掛上，光是空畫框被送進展場，就引來一陣冷言冷語：「這就是赤字。」（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信；另見 [[t-deficit]]）展出後畫被送到凡爾賽，管理王室藝術的大臣帶她去見國王。路易十六對她說：「我不懂繪畫，但你讓我喜歡上它了。」（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信）\n\n不久，大王子病逝。勒布倫說，王后每次經過那個房間看到畫裡的兒子，都忍不住流淚，於是下令把畫撤下（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信）。她相信，正因為畫已經撤下，1789 年 10 月群眾衝進王宮時，這幅畫才沒被刺破（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信；另見 [[t-october-days]]）。康龐夫人的說法略有不同：她說這幅畫是被王室傢俱的保管人員從革命的怒火中救下來的（[[s-1823-campan-memoires]] 第 1 冊）。\n\n### 出逃\n\n1789 年 10 月，王室被帶回巴黎那天，勒布倫的弟弟在市政廳看到王后，回來告訴她：「王后從來沒有像今天這麼像王后。」（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊）她自己早已感到危險：有人往她家的地窖丟硫磺，有人在窗下對她揮拳。當天午夜，她帶著女兒搭上驛馬車離開巴黎，身上只有一點衣物和八十個路易金幣（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊）。\n\n她在義大利、維也納、俄國流亡了十多年，一路替各國王室畫像。在聖彼得堡，她把那幅穿藍色天鵝絨長裙的王后像拿出來展示；流亡的孔代親王來看，一句話也沒說，就哭了（[[s-1835-vigee-le-brun-souvenirs]] 第 3 冊）。拿破崙時代，她回到凡爾賽，那幅家庭像被丟在城堡角落，不准公開展示；看守認出她，立刻把畫轉過來給她看，還不肯收她的小費（[[s-1835-vigee-le-brun-souvenirs]] 第 3 冊）。\n\n## 研究者怎麼看\n\n- 這篇故事幾乎全部來自勒布倫自己的回憶錄，寫在事件過後四十多年，她一生都仰慕王后，很多細節只有她一個人的說法（[[s-1835-vigee-le-brun-souvenirs]]）。\n- 博物館和研究者常說，家庭像裡那個空搖籃代表剛夭折的小女兒蘇菲，整幅畫的目的是把王后塑造成慈愛的母親、修補她的形象；本站在勒布倫三冊回憶錄裡找不到她提到搖籃或蘇菲，這是後人的解讀，本站還沒讀到原始研究。\n- 回憶錄的年份常和其他資料對不上：她說家庭像在 1788 年沙龍展出，一般資料說是 1787 年；她把白紗裙肖像寫成 1786 年，一般說是 1783 年（[[s-1835-vigee-le-brun-souvenirs]]）。\n\n## 延伸閱讀\n\n- [[s-1835-vigee-le-brun-souvenirs]]\n- [[s-1823-campan-memoires]]\n- 相關故事：[[t-chemise]]、[[t-deficit]]、[[t-dubarry]]\n\n## 還不知道的事\n\n- 她和財政總監卡隆的緋聞：她說卡隆只付了四千法郎的畫費，誹謗者卻說她收了鉅款，本站還沒讀到其他資料核對。\n- 她一共替王后畫了多少幅：回憶錄末尾的作品目錄裡，和王后有關的有二十多件（含複製品），待核對原書。\n- 那個空搖籃的意義，需要讀博物館的研究出版品。\n",
+   "links": [
+    "s-1823-campan-memoires",
+    "s-1835-vigee-le-brun-souvenirs",
+    "t-chemise",
+    "t-deficit",
+    "t-dubarry",
+    "t-october-days"
    ]
   },
   {
@@ -1745,8 +2197,28 @@
    "t-necklace"
   ],
   [
+   "s-1793-tribunal-proces-criminel-testament",
+   "t-trial"
+  ],
+  [
+   "s-1793-tribunal-proces-marie-antoinette",
+   "t-trial"
+  ],
+  [
+   "s-1795-poncelin-proces-louis-xvi",
+   "t-execution"
+  ],
+  [
+   "s-1797-laperouse-voyage",
+   "t-louis"
+  ],
+  [
    "s-1798-clery-journal",
    "t-temple"
+  ],
+  [
+   "s-1815-edgeworth-memoirs",
+   "t-execution"
   ],
   [
    "s-1823-campan-memoires",
@@ -1781,6 +2253,10 @@
    "t-white-hair"
   ],
   [
+   "s-1824-lafont-daussonne-memoires",
+   "t-trial"
+  ],
+  [
    "s-1835-vigee-le-brun-souvenirs",
    "t-chemise"
   ],
@@ -1803,6 +2279,14 @@
   [
    "s-1852-marie-therese-temple",
    "t-temple"
+  ],
+  [
+   "s-1862-sanson-sept-generations",
+   "t-execution"
+  ],
+  [
+   "s-1865-prevost-proces-recueil",
+   "t-trial"
   ],
   [
    "s-1866-arneth-marie-antoinette",
@@ -1847,6 +2331,10 @@
   [
    "s-1887-drouet-barre",
    "t-varennes"
+  ],
+  [
+   "s-1913-moberly-jourdain-adventure",
+   "t-ghost"
   ],
   [
    "s-1989-colwill-citoyenne",
@@ -2013,6 +2501,10 @@
    "t-october-days"
   ],
   [
+   "t-cake",
+   "t-table"
+  ],
+  [
    "t-chemise",
    "e-petit-trianon"
   ],
@@ -2041,6 +2533,10 @@
    "t-pouf"
   ],
   [
+   "t-chemise",
+   "t-vigee"
+  ],
+  [
    "t-consummation",
    "s-1866-arneth-marie-antoinette"
   ],
@@ -2067,6 +2563,10 @@
   [
    "t-consummation",
    "t-handover"
+  ],
+  [
+   "t-consummation",
+   "t-louis"
   ],
   [
    "t-coppola",
@@ -2126,6 +2626,10 @@
   ],
   [
    "t-coppola",
+   "t-ghost"
+  ],
+  [
+   "t-coppola",
    "t-hameau"
   ],
   [
@@ -2154,11 +2658,19 @@
   ],
   [
    "t-coppola",
+   "t-table"
+  ],
+  [
+   "t-coppola",
    "t-temple"
   ],
   [
    "t-coppola",
    "t-varennes"
+  ],
+  [
+   "t-coppola",
+   "t-vigee"
   ],
   [
    "t-coppola",
@@ -2229,6 +2741,42 @@
    "s-1874-arneth-mercy-correspondance"
   ],
   [
+   "t-dubarry",
+   "t-vigee"
+  ],
+  [
+   "t-execution",
+   "s-1795-poncelin-proces-louis-xvi"
+  ],
+  [
+   "t-execution",
+   "s-1798-clery-journal"
+  ],
+  [
+   "t-execution",
+   "s-1815-edgeworth-memoirs"
+  ],
+  [
+   "t-execution",
+   "s-1852-marie-therese-temple"
+  ],
+  [
+   "t-execution",
+   "s-1862-sanson-sept-generations"
+  ],
+  [
+   "t-execution",
+   "t-louis"
+  ],
+  [
+   "t-execution",
+   "t-temple"
+  ],
+  [
+   "t-execution",
+   "t-trial"
+  ],
+  [
    "t-fersen",
    "e-fersen"
   ],
@@ -2247,6 +2795,18 @@
   [
    "t-fersen",
    "t-varennes"
+  ],
+  [
+   "t-ghost",
+   "s-1913-moberly-jourdain-adventure"
+  ],
+  [
+   "t-ghost",
+   "t-hameau"
+  ],
+  [
+   "t-ghost",
+   "t-october-days"
   ],
   [
    "t-hameau",
@@ -2279,6 +2839,10 @@
   [
    "t-hameau",
    "t-chemise"
+  ],
+  [
+   "t-hameau",
+   "t-ghost"
   ],
   [
    "t-hameau",
@@ -2337,6 +2901,46 @@
    "t-white-hair"
   ],
   [
+   "t-louis",
+   "s-1797-laperouse-voyage"
+  ],
+  [
+   "t-louis",
+   "s-1798-clery-journal"
+  ],
+  [
+   "t-louis",
+   "s-1823-campan-memoires"
+  ],
+  [
+   "t-louis",
+   "s-1866-arneth-marie-antoinette"
+  ],
+  [
+   "t-louis",
+   "s-1874-arneth-mercy-correspondance"
+  ],
+  [
+   "t-louis",
+   "s-1883-tourzel-memoires"
+  ],
+  [
+   "t-louis",
+   "t-consummation"
+  ],
+  [
+   "t-louis",
+   "t-deficit"
+  ],
+  [
+   "t-louis",
+   "t-execution"
+  ],
+  [
+   "t-louis",
+   "t-temple"
+  ],
+  [
    "t-mops",
    "s-1823-campan-memoires"
   ],
@@ -2382,6 +2986,10 @@
   ],
   [
    "t-october-days",
+   "t-ghost"
+  ],
+  [
+   "t-october-days",
    "t-varennes"
   ],
   [
@@ -2405,6 +3013,10 @@
    "t-lamballe"
   ],
   [
+   "t-polignac",
+   "t-vigee"
+  ],
+  [
    "t-pouf",
    "s-1823-campan-memoires"
   ],
@@ -2425,6 +3037,46 @@
    "t-varennes"
   ],
   [
+   "t-table",
+   "s-1798-clery-journal"
+  ],
+  [
+   "t-table",
+   "s-1823-campan-memoires"
+  ],
+  [
+   "t-table",
+   "s-1824-lafont-daussonne-memoires"
+  ],
+  [
+   "t-table",
+   "s-1874-arneth-mercy-correspondance"
+  ],
+  [
+   "t-table",
+   "s-1883-tourzel-memoires"
+  ],
+  [
+   "t-table",
+   "t-cake"
+  ],
+  [
+   "t-table",
+   "t-coppola"
+  ],
+  [
+   "t-table",
+   "t-louis"
+  ],
+  [
+   "t-table",
+   "t-temple"
+  ],
+  [
+   "t-table",
+   "t-varennes"
+  ],
+  [
    "t-temple",
    "s-1798-clery-journal"
   ],
@@ -2439,6 +3091,46 @@
   [
    "t-temple",
    "t-lamballe"
+  ],
+  [
+   "t-temple",
+   "t-louis"
+  ],
+  [
+   "t-trial",
+   "s-1793-tribunal-proces-criminel-testament"
+  ],
+  [
+   "t-trial",
+   "s-1793-tribunal-proces-marie-antoinette"
+  ],
+  [
+   "t-trial",
+   "s-1824-lafont-daussonne-memoires"
+  ],
+  [
+   "t-trial",
+   "s-1862-sanson-sept-generations"
+  ],
+  [
+   "t-trial",
+   "s-1865-prevost-proces-recueil"
+  ],
+  [
+   "t-trial",
+   "s-1989-colwill-citoyenne"
+  ],
+  [
+   "t-trial",
+   "t-table"
+  ],
+  [
+   "t-trial",
+   "t-temple"
+  ],
+  [
+   "t-trial",
+   "t-white-hair"
   ],
   [
    "t-varennes",
@@ -2482,11 +3174,39 @@
   ],
   [
    "t-varennes",
+   "t-table"
+  ],
+  [
+   "t-varennes",
    "t-temple"
   ],
   [
    "t-varennes",
    "t-white-hair"
+  ],
+  [
+   "t-vigee",
+   "s-1823-campan-memoires"
+  ],
+  [
+   "t-vigee",
+   "s-1835-vigee-le-brun-souvenirs"
+  ],
+  [
+   "t-vigee",
+   "t-chemise"
+  ],
+  [
+   "t-vigee",
+   "t-deficit"
+  ],
+  [
+   "t-vigee",
+   "t-dubarry"
+  ],
+  [
+   "t-vigee",
+   "t-october-days"
   ],
   [
    "t-white-hair",
@@ -3152,6 +3872,78 @@
    "category": "革命",
    "topic": "t-temple",
    "source": "s-1852-marie-therese-temple"
+  },
+  {
+   "date": "1785",
+   "title": "拉佩魯茲探險隊出發",
+   "desc": "以國王名義發出的指示說，目的之一是改進地理學、擴展航海。",
+   "category": "人物",
+   "topic": "t-louis",
+   "source": "s-1797-laperouse-voyage"
+  },
+  {
+   "date": "1792-03",
+   "title": "斜刃斷頭台的傳說",
+   "desc": "劊子手家族回憶錄說，國王在設計圖上把刀刃改成斜線；當時的檔案沒有記載。",
+   "category": "革命",
+   "topic": "t-execution",
+   "source": "s-1862-sanson-sept-generations"
+  },
+  {
+   "date": "1793-01-17",
+   "title": "馬勒澤布帶來判決",
+   "desc": "老律師跪在國王腳邊痛哭：「全完了。」",
+   "category": "革命",
+   "topic": "t-execution",
+   "source": "s-1798-clery-journal"
+  },
+  {
+   "date": "1793-01-21",
+   "title": "國王被處決",
+   "desc": "斷頭台上，最後一句話被鼓聲蓋過；上午十點十分。",
+   "category": "革命",
+   "topic": "t-execution",
+   "source": "s-1815-edgeworth-memoirs"
+  },
+  {
+   "date": "1793-10",
+   "title": "王后受審",
+   "desc": "被問到亂倫指控時，她說：「我向在場所有的人呼籲。」",
+   "category": "革命",
+   "topic": "t-trial",
+   "source": "s-1793-tribunal-proces-criminel-testament"
+  },
+  {
+   "date": "1793-10-16",
+   "title": "凌晨四點半的信",
+   "desc": "王后寫信給小姑伊莉莎白夫人，這封信沒有送到。",
+   "category": "革命",
+   "topic": "t-trial",
+   "source": "s-1824-lafont-daussonne-memoires"
+  },
+  {
+   "date": "1793-10-16",
+   "title": "王后被處決",
+   "desc": "穿著白色晨衣離開古監獄，中午過後在革命廣場被處決。",
+   "category": "革命",
+   "topic": "t-trial",
+   "source": "s-1793-tribunal-proces-criminel-testament"
+  },
+  {
+   "date": "1901-08",
+   "title": "兩位牛津學者在小特里亞儂迷路",
+   "desc": "她們後來相信自己看到了 1789 年的花園和王后。",
+   "category": "身後",
+   "topic": "t-ghost",
+   "source": "s-1913-moberly-jourdain-adventure"
+  },
+  {
+   "date": "1911",
+   "title": "《一次奇遇》出版",
+   "desc": "兩人用筆名出版了她們的「鬼魂」經歷。",
+   "category": "身後",
+   "topic": "t-ghost",
+   "source": "s-1913-moberly-jourdain-adventure"
   }
  ],
  "stats": [],
@@ -3259,6 +4051,14 @@
    "desc": "1770 年婚禮煙火慘劇的地點。",
    "topic": "t-handover",
    "source": "s-1823-campan-memoires"
+  },
+  {
+   "name": "革命廣場（今協和廣場）",
+   "lat": 48.8656,
+   "lng": 2.3212,
+   "desc": "1793 年 1 月國王、10 月王后在這裡被處決。",
+   "topic": "t-execution",
+   "source": "s-1815-edgeworth-memoirs"
   }
  ],
  "debates": [

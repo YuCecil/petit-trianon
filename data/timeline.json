@@ -494,5 +494,77 @@
   "category": "革命",
   "topic": "t-temple",
   "source": "s-1852-marie-therese-temple"
+ },
+ {
+  "date": "1785",
+  "title": "拉佩魯茲探險隊出發",
+  "desc": "以國王名義發出的指示說，目的之一是改進地理學、擴展航海。",
+  "category": "人物",
+  "topic": "t-louis",
+  "source": "s-1797-laperouse-voyage"
+ },
+ {
+  "date": "1792-03",
+  "title": "斜刃斷頭台的傳說",
+  "desc": "劊子手家族回憶錄說，國王在設計圖上把刀刃改成斜線；當時的檔案沒有記載。",
+  "category": "革命",
+  "topic": "t-execution",
+  "source": "s-1862-sanson-sept-generations"
+ },
+ {
+  "date": "1793-01-17",
+  "title": "馬勒澤布帶來判決",
+  "desc": "老律師跪在國王腳邊痛哭：「全完了。」",
+  "category": "革命",
+  "topic": "t-execution",
+  "source": "s-1798-clery-journal"
+ },
+ {
+  "date": "1793-01-21",
+  "title": "國王被處決",
+  "desc": "斷頭台上，最後一句話被鼓聲蓋過；上午十點十分。",
+  "category": "革命",
+  "topic": "t-execution",
+  "source": "s-1815-edgeworth-memoirs"
+ },
+ {
+  "date": "1793-10",
+  "title": "王后受審",
+  "desc": "被問到亂倫指控時，她說：「我向在場所有的人呼籲。」",
+  "category": "革命",
+  "topic": "t-trial",
+  "source": "s-1793-tribunal-proces-criminel-testament"
+ },
+ {
+  "date": "1793-10-16",
+  "title": "凌晨四點半的信",
+  "desc": "王后寫信給小姑伊莉莎白夫人，這封信沒有送到。",
+  "category": "革命",
+  "topic": "t-trial",
+  "source": "s-1824-lafont-daussonne-memoires"
+ },
+ {
+  "date": "1793-10-16",
+  "title": "王后被處決",
+  "desc": "穿著白色晨衣離開古監獄，中午過後在革命廣場被處決。",
+  "category": "革命",
+  "topic": "t-trial",
+  "source": "s-1793-tribunal-proces-criminel-testament"
+ },
+ {
+  "date": "1901-08",
+  "title": "兩位牛津學者在小特里亞儂迷路",
+  "desc": "她們後來相信自己看到了 1789 年的花園和王后。",
+  "category": "身後",
+  "topic": "t-ghost",
+  "source": "s-1913-moberly-jourdain-adventure"
+ },
+ {
+  "date": "1911",
+  "title": "《一次奇遇》出版",
+  "desc": "兩人用筆名出版了她們的「鬼魂」經歷。",
+  "category": "身後",
+  "topic": "t-ghost",
+  "source": "s-1913-moberly-jourdain-adventure"
  }
 ]

@@ -5,6 +5,8 @@ title: 波利尼亞克夫人：王后的閨蜜，和一整個家族
 category: 人物
 period: [1775, 1789]
 summary: 一個窮貴族家的少婦，成了王后最親的朋友；她的家人則成了全宮廷的眼中釘。
+image: t-polignac.jpg
+imageAlt: 粉彩畫風插畫：夏日的英式花園裡，幾位戴草帽、穿淺色長裙的女士背影圍坐草地聊天，遠處有白色小涼亭和湖水。
 sources: [s-1823-campan-memoires, s-1874-arneth-mercy-correspondance, s-1883-tourzel-memoires, s-1835-vigee-le-brun-souvenirs]
 updated: 2026-11-16
 ---
@@ -57,6 +59,7 @@ updated: 2026-11-16
 - [[s-1823-campan-memoires]]
 - [[s-1883-tourzel-memoires]]
 - [[s-1835-vigee-le-brun-souvenirs]]
+- 相關故事：[[t-vigee]]、[[t-lamballe]]
 
 ## 還不知道的事
 

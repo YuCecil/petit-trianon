@@ -102,5 +102,13 @@
   "desc": "1770 年婚禮煙火慘劇的地點。",
   "topic": "t-handover",
   "source": "s-1823-campan-memoires"
+ },
+ {
+  "name": "革命廣場（今協和廣場）",
+  "lat": 48.8656,
+  "lng": 2.3212,
+  "desc": "1793 年 1 月國王、10 月王后在這裡被處決。",
+  "topic": "t-execution",
+  "source": "s-1815-edgeworth-memoirs"
  }
 ]

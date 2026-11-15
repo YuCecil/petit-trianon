@@ -68,7 +68,7 @@ updated: 2026-11-15
 - [[s-2016-maes-laiterie-rambouillet]]
 - 名詞：[[e-campan]]
 - 名詞：[[e-petit-trianon]]
-- 相關故事：[[t-polignac]]、[[t-chemise]]
+- 相關故事：[[t-polignac]]、[[t-chemise]]、[[t-ghost]]
 
 ## 還不知道的事
 
