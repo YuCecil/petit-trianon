@@ -10,6 +10,10 @@ const CATS = {
   "時尚": { key: "mode", glaze: "龐巴度粉" }, "飲食": { key: "table", glaze: "黃水仙" }, "人物": { key: "people", glaze: "紫羅蘭" },
   "革命": { key: "rev", glaze: "鉛灰" }, "身後": { key: "after", glaze: "灰玫瑰" },
 };
+/* 盤心的鍍金小花飾（沒有判定的故事用） */
+const ROSETTE = `<svg class="rosette" viewBox="0 0 40 40" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-width="1.2">${[0, 45, 90, 135].map(r => `<ellipse cx="20" cy="20" rx="4" ry="13" transform="rotate(${r} 20 20)"/>`).join("")}<circle cx="20" cy="20" r="2.6" fill="currentColor"/></g></svg>`;
+/* 判定章的字照詞斷行：四字分成兩行，「研究者還在吵」分成三字兩行 */
+const sealText = v => esc(v).replace(/^(.{2,3})(.{2,3})$/, "$1<br>$2");
 const VERDICTS = ["確有其事", "半真半假", "查無實據", "研究者還在吵"];
 const cssVar = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
 const catKey = c => (CATS[c] || { key: "myth" }).key;
@@ -25,7 +29,14 @@ const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": 
 
 function shortName(p) {
   if (!p) return "";
-  if (p.type === "source") return `${p.author || ""} ${p.year || ""}`.trim();
+  if (p.type === "source") {
+    /* 出處標記只放第一位作者的姓，多位作者加「等」 */
+    const all = String(p.author || "").split(/\s*(?:;|、|＆|&|,| and | et |與|和)\s*/).filter(Boolean);
+    let a = (all[0] || "").replace(/（.*?）|\(.*?\)/g, "").trim();
+    const org = /^(Archives|Château|Chateau|Musée|Ministère|Bibliothèque|Centre|Harvard|NPR|Assemblée|Société)\b/i.test(a);
+    if (!org && /^[\x00-\u024F'’.\- ]+$/.test(a)) a = a.split(/\s+/).filter(w => !/^(de|von|van|la|le|du)$/i.test(w)).pop() || a;
+    return `${a}${all.length > 1 ? " 等" : ""} ${p.year || ""}`.trim();
+  }
   return p.title;
 }
 function refLink(id, label) {
@@ -103,21 +114,20 @@ function home(anchor) {
   const topics = W.pages.filter(p => p.type === "topic").sort((a, b) => (a.period?.[0] || 0) - (b.period?.[0] || 0) || (a.period?.[1] || 0) - (b.period?.[1] || 0));
   const c = W.counts;
   const plate = t => `<li><a class="plate" data-cat="${catKey(t.category)}" href="#/p/${t.id}">
-    <span class="dish" aria-hidden="true">${t.image ? `<img src="assets/img/${esc(t.image)}" alt="" loading="lazy" decoding="async">` : ""}</span>
-    <h4 class="toc-t">${phrase(t.title)}</h4><p>${esc(t.summary)}</p>
-    ${t.verdict ? `<span class="verdict">${esc(t.verdict)}</span>` : ""}</a></li>`;
+    <span class="dish">${t.image ? `<img src="assets/img/${esc(t.image)}" alt="" loading="lazy" decoding="async">` : t.verdict ? `<span class="cart"><small>判定</small>${esc(t.verdict)}</span>` : ROSETTE}</span>
+    <h4 class="toc-t">${phrase(t.title)}</h4><p>${esc(t.summary)}</p></a></li>`;
   const groups = Object.keys(CATS).map(k => [k, topics.filter(t => t.category === k)]).filter(g => g[1].length);
   const toc = groups.map(([k, list]) => `<div class="toc-group" data-cat="${catKey(k)}"><h3><i class="glaze-dot" aria-hidden="true"></i>${k}</h3><ol class="plates">${list.map(plate).join("")}</ol></div>`).join("")
     || `<p class="lead">第一批故事正在準備中。</p>`;
   app.innerHTML = `
   <section class="hero">
     <div class="hero-t">
-      <h1>${phrase("蛋糕、絲綢與斷頭台：")}<br>${phrase("凡爾賽最後的國王與王后")}</h1>
-      <p class="lead">電影裡的她吃著粉紅色的甜點、穿著一件又一件新衣。史料裡的她是什麼樣子？這裡把傳說、宮廷、時尚、餐桌、身邊的人，還有最後的結局，一盤一盤端上來。每個流傳的說法，都會告訴你史料怎麼說。</p>
+      <h1><span class="q">「讓他們吃蛋糕。」</span>${phrase("她其實沒說過，")}${phrase("那她說過什麼？")}</h1>
+      <p class="lead">看完《凡爾賽拜金女》，想知道瑪麗．安東尼和路易十六真正的樣子？這裡把傳說、宮廷、時尚、餐桌、身邊的人和最後的結局，一盤一盤端上來；每個流傳的說法，都對照當時的書信、回憶錄和今天的研究。</p>
       <div class="cat-menu" aria-label="分類">${Object.keys(CATS).map(k => `<span data-cat="${CATS[k].key}"><i class="glaze-dot" aria-hidden="true"></i>${k}</span>`).join("")}</div>
       <a class="go" href="#/#stories">從故事開始讀</a>
     </div>
-    <img class="mascot mascot-hero" src="assets/img/mascot.png" alt="王后的小狗，本站的導覽員" width="380" height="380" onerror="this.remove()">
+    <div class="big-plate"><img class="mascot" src="assets/img/mascot.png" alt="王后的小狗，戴著國王藍的緞帶，坐在瓷盤中央，是本站的導覽員" width="314" height="410"></div>
   </section>
 
   <section class="sec" id="stories">
@@ -145,7 +155,7 @@ function mythsPage() {
   const groups = VERDICTS.map(v => [v, list.filter(p => p.verdict === v)]).filter(g => g[1].length);
   app.innerHTML = `<section class="sec reading" style="border:0"><h1>迷思對照</h1>
     <p class="lead">關於他們的傳說很多。每一則都查過：最早出現在哪裡、當時的人怎麼說、今天的研究者怎麼看。</p>
-    ${groups.map(([v, ps]) => `<h2 class="v-h"><span class="seal">${esc(v)}</span></h2><ol class="myth-list">${ps.map(p => `<li data-cat="${catKey(p.category)}"><a href="#/p/${p.id}"><span class="m-say">${esc(p.myth)}</span><span class="m-t">${esc(p.title)}</span></a></li>`).join("")}</ol>`).join("")
+    ${groups.map(([v, ps]) => `<h2 class="v-h"><span class="seal">${sealText(v)}</span></h2><ol class="myth-list">${ps.map(p => `<li data-cat="${catKey(p.category)}"><a href="#/p/${p.id}"><span class="m-say">${esc(p.myth)}</span><span class="m-t">${esc(p.title)}</span></a></li>`).join("")}</ol>`).join("")
     || `<p>還沒有判定過的迷思。</p>`}
   </section>`;
   scrollTo(0, 0);
@@ -283,20 +293,19 @@ function page(p) {
   if (p.type === "topic") {
     const m = body.match(/^## 一句話說明\s*\n+([\s\S]*?)(?=\n## )/m);
     if (m) { lede = m[1].trim(); body = body.replace(m[0], ""); }
-    const mm = body.match(/^## 迷思與史料\s*\n+([\s\S]*?)(?=\n## |$)/m);
+    const mm = body.match(/^## 迷思與史料\s*\n+([\s\S]*?)(?=\n## |(?![\s\S]))/m);
     if (mm) {
       body = body.replace(mm[0], "");
       if (p.myth) myth = `<section class="myth" aria-label="迷思與史料"><h2>迷思與史料</h2><dl>
         <dt>流傳的說法</dt><dd>${esc(p.myth)}</dd><dt>史料怎麼說</dt><dd>${renderMd(mm[1].trim())}</dd></dl>
-        ${p.verdict ? `<p class="judge"><span class="seal">${esc(p.verdict)}</span><a href="#/myths">其他迷思</a></p>` : ""}</section>`;
+        ${p.verdict ? `<p class="judge"><span class="seal">${sealText(p.verdict)}</span><a href="#/myths">其他迷思</a></p>` : ""}</section>`;
     }
   }
-  const facts = [p.period ? p.period.join("–") : "", p.kind || "", p.sources ? `根據 ${p.sources.length} 份資料` : "", p.updated ? `更新於 ${p.updated}` : ""].filter(Boolean).map(esc).join("，");
+  const facts = [p.type === "topic" ? `<span class="cat"><i class="glaze-dot" aria-hidden="true"></i>${esc(p.category)}</span>` : "", p.period ? esc(p.period.join("–")) : "", esc(p.kind || ""), p.sources ? `根據 ${p.sources.length} 份資料` : "", p.updated ? `更新於 ${esc(p.updated)}` : ""].filter(Boolean).join("，");
   const sub = p.type === "source" ? `${esc(p.author)}，${esc(p.year)}。${esc(p.venue)}` : `${esc(p.summary || "")}${facts && p.type !== "overview" ? `<br><span class="small">${facts}</span>` : ""}`;
   app.innerHTML = `<div class="page" ${p.type === "topic" ? `data-cat="${catKey(p.category)}"` : ""}><div>
     <div class="crumb"><a href="#/">首頁</a>　${TYPE_NAME[p.type] || ""}</div>
     <header class="page-h ${p.type === "topic" ? "glaze-h" : ""}" ${p.type === "topic" ? `data-cat="${catKey(p.category)}"` : ""}>
-      ${p.type === "topic" ? `<div class="cat-line"><i class="glaze-dot" aria-hidden="true"></i>${esc(p.category)}</div>` : ""}
       <div class="ph-body"><h1>${phrase(p.title)}</h1>${sub ? `<div class="meta">${sub}</div>` : ""}</div></header>
     ${p.image ? figure(p.image, p.imageAlt || p.title, "lead-art") : ""}
     ${lede ? `<div class="lede">${renderMd(lede)}</div>` : ""}
