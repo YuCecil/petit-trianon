@@ -72,7 +72,7 @@ updated: 2026-11-15
 - [[s-1881-vizetelly-diamond-necklace]]
 - [[s-1823-campan-memoires]]
 - [[s-1789-la-motte-justification]]
-- 相關故事：[[t-bertin]]
+- 相關故事：[[t-bertin]]、[[t-libels]]
 
 ## 還不知道的事
 

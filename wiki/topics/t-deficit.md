@@ -78,7 +78,7 @@ updated: 2026-11-15
 - [[s-1823-campan-memoires]]
 - [[s-2006-stamberg-npr-fraser]]
 - 名詞：[[e-campan]]
-- 相關故事：[[t-bertin]]、[[t-polignac]]、[[t-pouf]]
+- 相關故事：[[t-bertin]]、[[t-polignac]]、[[t-pouf]]、[[t-libels]]
 
 ## 還不知道的事
 

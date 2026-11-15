@@ -16,6 +16,134 @@
   "source": "s-2012-backman-rogers-threshold"
  },
  {
+  "date": "1770-05",
+  "title": "萊茵河上的交接",
+  "desc": "太子妃在凱爾附近的亭子裡脫下所有奧地利衣物，撲進諾瓦耶伯爵夫人懷裡。",
+  "category": "生平",
+  "topic": "t-handover",
+  "source": "s-1823-campan-memoires"
+ },
+ {
+  "date": "1770-05",
+  "title": "巴黎婚禮煙火釀成慘劇",
+  "desc": "路易十五廣場的煙火架起火，人群推擠，死傷慘重。",
+  "category": "生平",
+  "topic": "t-handover",
+  "source": "s-1823-campan-memoires"
+ },
+ {
+  "date": "1770-08-23",
+  "title": "想要一隻從維也納來的 Mops",
+  "desc": "太子妃對梅西說想從維也納弄一隻巴哥犬，梅西說可以託信使送。",
+  "category": "迷思",
+  "topic": "t-mops",
+  "source": "s-1874-arneth-mercy-correspondance"
+ },
+ {
+  "date": "1770-09",
+  "title": "王太子爽約",
+  "desc": "王太子答應某晚到太子妃房裡過夜卻沒做到，梅西向維也納回報。",
+  "category": "生平",
+  "topic": "t-consummation",
+  "source": "s-1874-arneth-mercy-correspondance"
+ },
+ {
+  "date": "1771",
+  "title": "阿德萊德夫人一句「該走了」",
+  "desc": "梅西安排好的「一句話」被姑姑打斷，計畫泡湯。",
+  "category": "人物",
+  "topic": "t-dubarry",
+  "source": "s-1874-arneth-mercy-correspondance"
+ },
+ {
+  "date": "1772-01-01",
+  "title": "「今天凡爾賽人真多」",
+  "desc": "太子妃終於對杜巴利夫人說了一句話，也只說了這一句。",
+  "category": "人物",
+  "topic": "t-dubarry",
+  "source": "s-1874-arneth-mercy-correspondance"
+ },
+ {
+  "date": "1774",
+  "title": "國王把小特里亞儂送給王后",
+  "desc": "王后直接向國王開口，國王當場答應。",
+  "category": "宮廷",
+  "topic": "t-hameau",
+  "source": "s-1874-arneth-mercy-correspondance"
+ },
+ {
+  "date": "1774",
+  "title": "小冊子說王后聽母親指示挑情人",
+  "desc": "最早強調她「奧地利出身」的誹謗小冊子之一。",
+  "category": "迷思",
+  "topic": "t-libels",
+  "source": "s-1993-barker-cake"
+ },
+ {
+  "date": "1774-05-10",
+  "title": "路易十五駕崩",
+  "desc": "蠟燭熄滅，廷臣湧向新國王；年輕夫婦跪下祈禱。",
+  "category": "生平",
+  "topic": "t-coronation",
+  "source": "s-1823-campan-memoires"
+ },
+ {
+  "date": "1774-10",
+  "title": "「國王動了手術」的傳言",
+  "desc": "瑪麗亞．特蕾莎在信裡說，維也納傳言國王動了手術，她一點也不信。",
+  "category": "生平",
+  "topic": "t-consummation",
+  "source": "s-1874-arneth-mercy-correspondance"
+ },
+ {
+  "date": "1775-03-05",
+  "title": "三十六吋高的頭髮",
+  "desc": "瑪麗亞．特蕾莎寫信勸女兒：跟流行可以，但永遠不要過頭。",
+  "category": "時尚",
+  "topic": "t-pouf",
+  "source": "s-1874-arneth-mercy-correspondance"
+ },
+ {
+  "date": "1775-06-11",
+  "title": "蘭斯加冕",
+  "desc": "王后在觀禮席上流淚，說活一百年也忘不了這一天。",
+  "category": "生平",
+  "topic": "t-coronation",
+  "source": "s-1874-arneth-mercy-correspondance"
+ },
+ {
+  "date": "1775-07",
+  "title": "「我會讓我的密友幸福」",
+  "desc": "王后要請國王任命朗巴勒親王妃為王后家總管。",
+  "category": "人物",
+  "topic": "t-lamballe",
+  "source": "s-1874-arneth-mercy-correspondance"
+ },
+ {
+  "date": "1776-09",
+  "title": "王后的馬廄要從 150 匹變成 300 匹",
+  "desc": "梅西抱怨波利尼亞克伯爵獲得馬廄總管接任權的花費。",
+  "category": "人物",
+  "topic": "t-polignac",
+  "source": "s-1874-arneth-mercy-correspondance"
+ },
+ {
+  "date": "1776-10-30",
+  "title": "一夜賭到萬聖節",
+  "desc": "國王准了「一個晚上」的法老牌局，王后一路賭到 11 月 1 日凌晨。",
+  "category": "迷思",
+  "topic": "t-deficit",
+  "source": "s-1874-arneth-mercy-correspondance"
+ },
+ {
+  "date": "1777-01-17",
+  "title": "王后欠債 487,272 里弗爾",
+  "desc": "梅西替王后算出債務總額，國王答應用私房錢還清。",
+  "category": "迷思",
+  "topic": "t-deficit",
+  "source": "s-1874-arneth-mercy-correspondance"
+ },
+ {
   "date": "1777-04",
   "title": "約瑟夫二世來到凡爾賽",
   "desc": "王后的哥哥化名來訪，寫信給弟弟描述這對遲遲沒有圓房的夫妻。",
@@ -32,6 +160,38 @@
   "source": "s-1866-arneth-marie-antoinette"
  },
  {
+  "date": "1778",
+  "title": "「啊，是老相識了！」",
+  "desc": "費爾森在凡爾賽被引見給王室，寫信告訴父親王后對他說的話。",
+  "category": "人物",
+  "topic": "t-fersen",
+  "source": "s-1877-klinckowstrom-fersen"
+ },
+ {
+  "date": "1778-05-05",
+  "title": "懷孕「可以視為確定」",
+  "desc": "梅西向維也納報告好消息，國王高興到了極點。",
+  "category": "生平",
+  "topic": "t-consummation",
+  "source": "s-1874-arneth-mercy-correspondance"
+ },
+ {
+  "date": "1778-12",
+  "title": "長女瑪麗－泰蕾茲出生",
+  "desc": "等了八年的第一個孩子，梅西說王后忍痛非常勇敢。",
+  "category": "生平",
+  "topic": "t-children",
+  "source": "s-1874-arneth-mercy-correspondance"
+ },
+ {
+  "date": "1778-12-19",
+  "title": "第一個孩子出生",
+  "desc": "公開生產時人群擠滿寢室，王后昏厥，國王親手扯開封死的窗戶。",
+  "category": "身後",
+  "topic": "t-coppola",
+  "source": "s-1823-campan-memoires"
+ },
+ {
   "date": "1779",
   "title": "芭蕾《米爾札》在巴黎上演",
   "desc": "背景設在法屬加勒比的舞劇，研究者推測它影響了王后的白紗裙。",
@@ -40,12 +200,36 @@
   "source": "s-2024-pearce-creole"
  },
  {
+  "date": "1779-04-10",
+  "title": "瑞典大使的密函",
+  "desc": "克羅伊茨寫給瑞典國王：「我不能不相信她對他有好感。」",
+  "category": "人物",
+  "topic": "t-fersen",
+  "source": "s-1877-klinckowstrom-fersen"
+ },
+ {
+  "date": "1780",
+  "title": "王后退居小特里亞儂",
+  "desc": "梅西抱怨王后一住就是一星期，只准自己人進去，宮裡怨聲四起。",
+  "category": "宮廷",
+  "topic": "t-hameau",
+  "source": "s-1874-arneth-mercy-correspondance"
+ },
+ {
   "date": "1781",
   "title": "內克公布財政報告",
   "desc": "報告宣稱收入大於支出；王后家用沒有單獨列項，戰爭特別經費一年約 6,520 萬里弗爾。",
   "category": "迷思",
   "topic": "t-deficit",
   "source": "s-1781-necker-compte-rendu"
+ },
+ {
+  "date": "1781-10-22",
+  "title": "王太子路易－約瑟夫出生",
+  "desc": "傷兵院的禮砲宣告王太子誕生。",
+  "category": "生平",
+  "topic": "t-children",
+  "source": "s-1883-tourzel-memoires"
  },
  {
   "date": "1782",
@@ -88,12 +272,52 @@
   "source": "s-1881-vizetelly-diamond-necklace"
  },
  {
+  "date": "1785",
+  "title": "拉佩魯茲探險隊出發",
+  "desc": "以國王名義發出的指示說，目的之一是改進地理學、擴展航海。",
+  "category": "人物",
+  "topic": "t-louis",
+  "source": "s-1797-laperouse-voyage"
+ },
+ {
+  "date": "1785-03-27",
+  "title": "諾曼第公爵出生",
+  "desc": "國王親筆寫信向約瑟夫二世報喜。",
+  "category": "生平",
+  "topic": "t-children",
+  "source": "s-1866-arneth-marie-antoinette"
+ },
+ {
+  "date": "1785-08-03",
+  "title": "珠寶商找上康龐夫人",
+  "desc": "柏默說王后已付了第一期款，騙局開始露餡。",
+  "category": "迷思",
+  "topic": "t-necklace",
+  "source": "s-1823-campan-memoires"
+ },
+ {
   "date": "1785-08-15",
   "title": "樞機主教在宮中被捕",
   "desc": "聖母升天節中午，羅昂穿著祭衣在凡爾賽被帶走。",
   "category": "迷思",
   "topic": "t-necklace",
   "source": "s-1881-vizetelly-diamond-necklace"
+ },
+ {
+  "date": "1786",
+  "title": "「樞機主教帽」",
+  "desc": "項鍊案審理期間，貝爾坦推出紅頂草帽，暗指坐牢的羅昂。",
+  "category": "時尚",
+  "topic": "t-bertin",
+  "source": "s-1881-vizetelly-diamond-necklace"
+ },
+ {
+  "date": "1786",
+  "title": "王后到聖母院還願，警方擔心群眾",
+  "desc": "生下第四個孩子後，巴黎警方怕保護不了她。",
+  "category": "迷思",
+  "topic": "t-libels",
+  "source": "s-1993-barker-cake"
  },
  {
   "date": "1786-05-31",
@@ -110,6 +334,54 @@
   "category": "宮廷",
   "topic": "t-hameau",
   "source": "s-2025-dati-culture-sevres-rambouillet"
+ },
+ {
+  "date": "1787-06",
+  "title": "拉莫特逃出監獄",
+  "desc": "據她自己說，她混在參觀人群裡走出硝石庫監獄，逃往英國。",
+  "category": "迷思",
+  "topic": "t-necklace",
+  "source": "s-1881-vizetelly-diamond-necklace"
+ },
+ {
+  "date": "1787-06-19",
+  "title": "小公主蘇菲夭折",
+  "desc": "還在吃奶的小女兒過世。",
+  "category": "生平",
+  "topic": "t-children",
+  "source": "s-1883-tourzel-memoires"
+ },
+ {
+  "date": "1789-07",
+  "title": "波利尼亞克夫人出逃",
+  "desc": "巴士底陷落後，她是最早流亡的人之一。",
+  "category": "人物",
+  "topic": "t-polignac",
+  "source": "s-1883-tourzel-memoires"
+ },
+ {
+  "date": "1789-10-05",
+  "title": "巴黎婦女走向凡爾賽",
+  "desc": "為了麵包，女人走在隊伍最前面。",
+  "category": "革命",
+  "topic": "t-october-days",
+  "source": "s-1823-campan-memoires"
+ },
+ {
+  "date": "1789-10-06",
+  "title": "「快救王后！」",
+  "desc": "清晨群眾衝進王宮，王后逃到國王身邊；下午全家被帶回巴黎。",
+  "category": "革命",
+  "topic": "t-october-days",
+  "source": "s-1883-tourzel-memoires"
+ },
+ {
+  "date": "1791-01",
+  "title": "《杜歇老爹》開始頻繁攻擊王后",
+  "desc": "到 1794 年 3 月，14% 的期數標題拿王后當主角。",
+  "category": "革命",
+  "topic": "t-libels",
+  "source": "s-1989-colwill-citoyenne"
  },
  {
   "date": "1791-06-20",
@@ -168,156 +440,12 @@
   "source": "s-2021-michelin-xrf"
  },
  {
-  "date": "1793-10-16",
-  "title": "王后被處決",
-  "desc": "手被綁在背後、頭髮被剪短，坐囚車穿過巴黎。",
-  "category": "身後",
-  "topic": "t-coppola",
-  "source": "s-2006-stamberg-npr-fraser"
- },
- {
-  "date": "1823",
-  "title": "康龐夫人回憶錄出版",
-  "desc": "王后貼身女官的回憶錄出版，記下了「一夜白頭」。",
-  "category": "迷思",
-  "topic": "t-white-hair",
-  "source": "s-1823-campan-memoires"
- },
- {
-  "date": "1843-03",
-  "title": "「蛋糕」第一次被安到王后頭上",
-  "desc": "作家卡爾在《黃蜂》寫道，這是敵人散布的謠言。",
-  "category": "迷思",
-  "topic": "t-cake",
-  "source": "s-2002-campion-vincent-marie-antoinette"
- },
- {
-  "date": "1877",
-  "title": "費爾森文件出版",
-  "desc": "編者在註腳寫下「這八行已被抹去」，謎團從此開始。",
-  "category": "人物",
-  "topic": "t-fersen",
-  "source": "s-1877-klinckowstrom-fersen"
- },
- {
-  "date": "1982",
-  "title": "國家檔案館買下密信",
-  "desc": "法國國家檔案館向費爾森家族購入部分信件。",
-  "category": "人物",
-  "topic": "t-fersen",
-  "source": "s-2021-michelin-xrf"
- },
- {
-  "date": "2006",
-  "title": "《凡爾賽拜金女》上映",
-  "desc": "柯波拉的電影在坎城首映，評價兩極。",
-  "category": "身後",
-  "topic": "t-coppola",
-  "source": "s-2012-backman-rogers-threshold"
- },
- {
-  "date": "2021",
-  "title": "X 光讀出塗黑的字",
-  "desc": "研究團隊用 X 射線螢光光譜讀出八封信的塗黑段落。",
-  "category": "人物",
-  "topic": "t-fersen",
-  "source": "s-2021-michelin-xrf"
- },
- {
-  "date": "1770-09",
-  "title": "王太子爽約",
-  "desc": "王太子答應某晚到太子妃房裡過夜卻沒做到，梅西向維也納回報。",
-  "category": "生平",
-  "topic": "t-consummation",
-  "source": "s-1874-arneth-mercy-correspondance"
- },
- {
-  "date": "1774",
-  "title": "國王把小特里亞儂送給王后",
-  "desc": "王后直接向國王開口，國王當場答應。",
-  "category": "宮廷",
-  "topic": "t-hameau",
-  "source": "s-1874-arneth-mercy-correspondance"
- },
- {
-  "date": "1774-10",
-  "title": "「國王動了手術」的傳言",
-  "desc": "瑪麗亞．特蕾莎在信裡說，維也納傳言國王動了手術，她一點也不信。",
-  "category": "生平",
-  "topic": "t-consummation",
-  "source": "s-1874-arneth-mercy-correspondance"
- },
- {
-  "date": "1776-10-30",
-  "title": "一夜賭到萬聖節",
-  "desc": "國王准了「一個晚上」的法老牌局，王后一路賭到 11 月 1 日凌晨。",
-  "category": "迷思",
-  "topic": "t-deficit",
-  "source": "s-1874-arneth-mercy-correspondance"
- },
- {
-  "date": "1777-01-17",
-  "title": "王后欠債 487,272 里弗爾",
-  "desc": "梅西替王后算出債務總額，國王答應用私房錢還清。",
-  "category": "迷思",
-  "topic": "t-deficit",
-  "source": "s-1874-arneth-mercy-correspondance"
- },
- {
-  "date": "1778",
-  "title": "「啊，是老相識了！」",
-  "desc": "費爾森在凡爾賽被引見給王室，寫信告訴父親王后對他說的話。",
-  "category": "人物",
-  "topic": "t-fersen",
-  "source": "s-1877-klinckowstrom-fersen"
- },
- {
-  "date": "1778-05-05",
-  "title": "懷孕「可以視為確定」",
-  "desc": "梅西向維也納報告好消息，國王高興到了極點。",
-  "category": "生平",
-  "topic": "t-consummation",
-  "source": "s-1874-arneth-mercy-correspondance"
- },
- {
-  "date": "1778-12-19",
-  "title": "第一個孩子出生",
-  "desc": "公開生產時人群擠滿寢室，王后昏厥，國王親手扯開封死的窗戶。",
-  "category": "身後",
-  "topic": "t-coppola",
-  "source": "s-1823-campan-memoires"
- },
- {
-  "date": "1779-04-10",
-  "title": "瑞典大使的密函",
-  "desc": "克羅伊茨寫給瑞典國王：「我不能不相信她對他有好感。」",
-  "category": "人物",
-  "topic": "t-fersen",
-  "source": "s-1877-klinckowstrom-fersen"
- },
- {
-  "date": "1780",
-  "title": "王后退居小特里亞儂",
-  "desc": "梅西抱怨王后一住就是一星期，只准自己人進去，宮裡怨聲四起。",
-  "category": "宮廷",
-  "topic": "t-hameau",
-  "source": "s-1874-arneth-mercy-correspondance"
- },
- {
-  "date": "1785-08-03",
-  "title": "珠寶商找上康龐夫人",
-  "desc": "柏默說王后已付了第一期款，騙局開始露餡。",
-  "category": "迷思",
-  "topic": "t-necklace",
-  "source": "s-1823-campan-memoires"
- },
- {
-  "date": "1787-06",
-  "title": "拉莫特逃出監獄",
-  "desc": "據她自己說，她混在參觀人群裡走出硝石庫監獄，逃往英國。",
-  "category": "迷思",
-  "topic": "t-necklace",
-  "source": "s-1881-vizetelly-diamond-necklace"
+  "date": "1792-03",
+  "title": "斜刃斷頭台的傳說",
+  "desc": "劊子手家族回憶錄說，國王在設計圖上把刀刃改成斜線；當時的檔案沒有記載。",
+  "category": "革命",
+  "topic": "t-execution",
+  "source": "s-1862-sanson-sept-generations"
  },
  {
   "date": "1792-06-20",
@@ -328,115 +456,19 @@
   "source": "s-1883-tourzel-memoires"
  },
  {
-  "date": "1841-11",
-  "title": "卡爾的「據說是王后說的話」",
-  "desc": "《黃蜂》月刊已把「沒有麵包就吃布里歐」稱為據說是王后說的話。",
-  "category": "迷思",
-  "topic": "t-cake",
-  "source": "s-1841-karr-guepes"
- },
- {
-  "date": "1931",
-  "title": "童書把故事帶進教室",
-  "desc": "凱斯特納的《小不點和安東》寫了王后說「吃布里歐」的場景，後來譯成 25 種語言。",
-  "category": "迷思",
-  "topic": "t-cake",
-  "source": "s-2002-campion-vincent-marie-antoinette"
- },
- {
-  "date": "1770-05",
-  "title": "萊茵河上的交接",
-  "desc": "太子妃在凱爾附近的亭子裡脫下所有奧地利衣物，撲進諾瓦耶伯爵夫人懷裡。",
-  "category": "生平",
-  "topic": "t-handover",
-  "source": "s-1823-campan-memoires"
- },
- {
-  "date": "1770-05",
-  "title": "巴黎婚禮煙火釀成慘劇",
-  "desc": "路易十五廣場的煙火架起火，人群推擠，死傷慘重。",
-  "category": "生平",
-  "topic": "t-handover",
-  "source": "s-1823-campan-memoires"
- },
- {
-  "date": "1770-08-23",
-  "title": "想要一隻從維也納來的 Mops",
-  "desc": "太子妃對梅西說想從維也納弄一隻巴哥犬，梅西說可以託信使送。",
-  "category": "迷思",
-  "topic": "t-mops",
-  "source": "s-1874-arneth-mercy-correspondance"
- },
- {
-  "date": "1771",
-  "title": "阿德萊德夫人一句「該走了」",
-  "desc": "梅西安排好的「一句話」被姑姑打斷，計畫泡湯。",
+  "date": "1792-06-20",
+  "title": "伊莉莎白夫人被當成王后",
+  "desc": "「別糾正他們，如果他們把我當成王后，就有時間去救她了。」",
   "category": "人物",
-  "topic": "t-dubarry",
-  "source": "s-1874-arneth-mercy-correspondance"
- },
- {
-  "date": "1772-01-01",
-  "title": "「今天凡爾賽人真多」",
-  "desc": "太子妃終於對杜巴利夫人說了一句話，也只說了這一句。",
-  "category": "人物",
-  "topic": "t-dubarry",
-  "source": "s-1874-arneth-mercy-correspondance"
- },
- {
-  "date": "1775-03-05",
-  "title": "三十六吋高的頭髮",
-  "desc": "瑪麗亞．特蕾莎寫信勸女兒：跟流行可以，但永遠不要過頭。",
-  "category": "時尚",
-  "topic": "t-pouf",
-  "source": "s-1874-arneth-mercy-correspondance"
- },
- {
-  "date": "1775-07",
-  "title": "「我會讓我的密友幸福」",
-  "desc": "王后要請國王任命朗巴勒親王妃為王后家總管。",
-  "category": "人物",
-  "topic": "t-lamballe",
-  "source": "s-1874-arneth-mercy-correspondance"
- },
- {
-  "date": "1776-09",
-  "title": "王后的馬廄要從 150 匹變成 300 匹",
-  "desc": "梅西抱怨波利尼亞克伯爵獲得馬廄總管接任權的花費。",
-  "category": "人物",
-  "topic": "t-polignac",
-  "source": "s-1874-arneth-mercy-correspondance"
- },
- {
-  "date": "1786",
-  "title": "「樞機主教帽」",
-  "desc": "項鍊案審理期間，貝爾坦推出紅頂草帽，暗指坐牢的羅昂。",
-  "category": "時尚",
-  "topic": "t-bertin",
-  "source": "s-1881-vizetelly-diamond-necklace"
- },
- {
-  "date": "1789-07",
-  "title": "波利尼亞克夫人出逃",
-  "desc": "巴士底陷落後，她是最早流亡的人之一。",
-  "category": "人物",
-  "topic": "t-polignac",
+  "topic": "t-elisabeth",
   "source": "s-1883-tourzel-memoires"
  },
  {
-  "date": "1789-10-05",
-  "title": "巴黎婦女走向凡爾賽",
-  "desc": "為了麵包，女人走在隊伍最前面。",
+  "date": "1792-08-10",
+  "title": "杜樂麗宮陷落",
+  "desc": "王室在議會的記者包廂裡待了十二個小時；瑞士衛兵被屠殺。",
   "category": "革命",
-  "topic": "t-october-days",
-  "source": "s-1823-campan-memoires"
- },
- {
-  "date": "1789-10-06",
-  "title": "「快救王后！」",
-  "desc": "清晨群眾衝進王宮，王后逃到國王身邊；下午全家被帶回巴黎。",
-  "category": "革命",
-  "topic": "t-october-days",
+  "topic": "t-august10",
   "source": "s-1883-tourzel-memoires"
  },
  {
@@ -472,12 +504,28 @@
   "source": "s-1798-clery-journal"
  },
  {
+  "date": "1793-01-17",
+  "title": "馬勒澤布帶來判決",
+  "desc": "老律師跪在國王腳邊痛哭：「全完了。」",
+  "category": "革命",
+  "topic": "t-execution",
+  "source": "s-1798-clery-journal"
+ },
+ {
   "date": "1793-01-20",
   "title": "最後一晚",
   "desc": "國王與家人告別將近兩個小時。",
   "category": "革命",
   "topic": "t-temple",
   "source": "s-1798-clery-journal"
+ },
+ {
+  "date": "1793-01-21",
+  "title": "國王被處決",
+  "desc": "斷頭台上，最後一句話被鼓聲蓋過；上午十點十分。",
+  "category": "革命",
+  "topic": "t-execution",
+  "source": "s-1815-edgeworth-memoirs"
  },
  {
   "date": "1793-07-03",
@@ -496,44 +544,20 @@
   "source": "s-1852-marie-therese-temple"
  },
  {
-  "date": "1785",
-  "title": "拉佩魯茲探險隊出發",
-  "desc": "以國王名義發出的指示說，目的之一是改進地理學、擴展航海。",
-  "category": "人物",
-  "topic": "t-louis",
-  "source": "s-1797-laperouse-voyage"
- },
- {
-  "date": "1792-03",
-  "title": "斜刃斷頭台的傳說",
-  "desc": "劊子手家族回憶錄說，國王在設計圖上把刀刃改成斜線；當時的檔案沒有記載。",
-  "category": "革命",
-  "topic": "t-execution",
-  "source": "s-1862-sanson-sept-generations"
- },
- {
-  "date": "1793-01-17",
-  "title": "馬勒澤布帶來判決",
-  "desc": "老律師跪在國王腳邊痛哭：「全完了。」",
-  "category": "革命",
-  "topic": "t-execution",
-  "source": "s-1798-clery-journal"
- },
- {
-  "date": "1793-01-21",
-  "title": "國王被處決",
-  "desc": "斷頭台上，最後一句話被鼓聲蓋過；上午十點十分。",
-  "category": "革命",
-  "topic": "t-execution",
-  "source": "s-1815-edgeworth-memoirs"
- },
- {
   "date": "1793-10",
   "title": "王后受審",
   "desc": "被問到亂倫指控時，她說：「我向在場所有的人呼籲。」",
   "category": "革命",
   "topic": "t-trial",
   "source": "s-1793-tribunal-proces-criminel-testament"
+ },
+ {
+  "date": "1793-10-16",
+  "title": "王后被處決",
+  "desc": "手被綁在背後、頭髮被剪短，坐囚車穿過巴黎。",
+  "category": "身後",
+  "topic": "t-coppola",
+  "source": "s-2006-stamberg-npr-fraser"
  },
  {
   "date": "1793-10-16",
@@ -550,86 +574,6 @@
   "category": "革命",
   "topic": "t-trial",
   "source": "s-1793-tribunal-proces-criminel-testament"
- },
- {
-  "date": "1901-08",
-  "title": "兩位牛津學者在小特里亞儂迷路",
-  "desc": "她們後來相信自己看到了 1789 年的花園和王后。",
-  "category": "身後",
-  "topic": "t-ghost",
-  "source": "s-1913-moberly-jourdain-adventure"
- },
- {
-  "date": "1911",
-  "title": "《一次奇遇》出版",
-  "desc": "兩人用筆名出版了她們的「鬼魂」經歷。",
-  "category": "身後",
-  "topic": "t-ghost",
-  "source": "s-1913-moberly-jourdain-adventure"
- },
- {
-  "date": "1774-05-10",
-  "title": "路易十五駕崩",
-  "desc": "蠟燭熄滅，廷臣湧向新國王；年輕夫婦跪下祈禱。",
-  "category": "生平",
-  "topic": "t-coronation",
-  "source": "s-1823-campan-memoires"
- },
- {
-  "date": "1775-06-11",
-  "title": "蘭斯加冕",
-  "desc": "王后在觀禮席上流淚，說活一百年也忘不了這一天。",
-  "category": "生平",
-  "topic": "t-coronation",
-  "source": "s-1874-arneth-mercy-correspondance"
- },
- {
-  "date": "1778-12",
-  "title": "長女瑪麗－泰蕾茲出生",
-  "desc": "等了八年的第一個孩子，梅西說王后忍痛非常勇敢。",
-  "category": "生平",
-  "topic": "t-children",
-  "source": "s-1874-arneth-mercy-correspondance"
- },
- {
-  "date": "1781-10-22",
-  "title": "王太子路易－約瑟夫出生",
-  "desc": "傷兵院的禮砲宣告王太子誕生。",
-  "category": "生平",
-  "topic": "t-children",
-  "source": "s-1883-tourzel-memoires"
- },
- {
-  "date": "1785-03-27",
-  "title": "諾曼第公爵出生",
-  "desc": "國王親筆寫信向約瑟夫二世報喜。",
-  "category": "生平",
-  "topic": "t-children",
-  "source": "s-1866-arneth-marie-antoinette"
- },
- {
-  "date": "1787-06-19",
-  "title": "小公主蘇菲夭折",
-  "desc": "還在吃奶的小女兒過世。",
-  "category": "生平",
-  "topic": "t-children",
-  "source": "s-1883-tourzel-memoires"
- },
- {
-  "date": "1792-06-20",
-  "title": "伊莉莎白夫人被當成王后",
-  "desc": "「別糾正他們，如果他們把我當成王后，就有時間去救她了。」",
-  "category": "人物",
-  "topic": "t-elisabeth",
-  "source": "s-1883-tourzel-memoires"
- },
- {
-  "date": "1792-08-10",
-  "title": "杜樂麗宮陷落",
-  "desc": "王室在議會的記者包廂裡待了十二個小時；瑞士衛兵被屠殺。",
-  "category": "革命",
-  "topic": "t-august10",
-  "source": "s-1883-tourzel-memoires"
  },
  {
   "date": "1794-05-10",
@@ -656,11 +600,91 @@
   "source": "s-1824-lafont-daussonne-memoires"
  },
  {
+  "date": "1823",
+  "title": "康龐夫人回憶錄出版",
+  "desc": "王后貼身女官的回憶錄出版，記下了「一夜白頭」。",
+  "category": "迷思",
+  "topic": "t-white-hair",
+  "source": "s-1823-campan-memoires"
+ },
+ {
+  "date": "1841-11",
+  "title": "卡爾的「據說是王后說的話」",
+  "desc": "《黃蜂》月刊已把「沒有麵包就吃布里歐」稱為據說是王后說的話。",
+  "category": "迷思",
+  "topic": "t-cake",
+  "source": "s-1841-karr-guepes"
+ },
+ {
+  "date": "1843-03",
+  "title": "「蛋糕」第一次被安到王后頭上",
+  "desc": "作家卡爾在《黃蜂》寫道，這是敵人散布的謠言。",
+  "category": "迷思",
+  "topic": "t-cake",
+  "source": "s-2002-campion-vincent-marie-antoinette"
+ },
+ {
+  "date": "1877",
+  "title": "費爾森文件出版",
+  "desc": "編者在註腳寫下「這八行已被抹去」，謎團從此開始。",
+  "category": "人物",
+  "topic": "t-fersen",
+  "source": "s-1877-klinckowstrom-fersen"
+ },
+ {
+  "date": "1901-08",
+  "title": "兩位牛津學者在小特里亞儂迷路",
+  "desc": "她們後來相信自己看到了 1789 年的花園和王后。",
+  "category": "身後",
+  "topic": "t-ghost",
+  "source": "s-1913-moberly-jourdain-adventure"
+ },
+ {
+  "date": "1911",
+  "title": "《一次奇遇》出版",
+  "desc": "兩人用筆名出版了她們的「鬼魂」經歷。",
+  "category": "身後",
+  "topic": "t-ghost",
+  "source": "s-1913-moberly-jourdain-adventure"
+ },
+ {
+  "date": "1931",
+  "title": "童書把故事帶進教室",
+  "desc": "凱斯特納的《小不點和安東》寫了王后說「吃布里歐」的場景，後來譯成 25 種語言。",
+  "category": "迷思",
+  "topic": "t-cake",
+  "source": "s-2002-campion-vincent-marie-antoinette"
+ },
+ {
+  "date": "1982",
+  "title": "國家檔案館買下密信",
+  "desc": "法國國家檔案館向費爾森家族購入部分信件。",
+  "category": "人物",
+  "topic": "t-fersen",
+  "source": "s-2021-michelin-xrf"
+ },
+ {
   "date": "2001",
   "title": "心臟的 DNA 鑑定",
   "desc": "兩間實驗室獨立分析，心臟的粒線體 DNA 與王后的母系親屬相同。",
   "category": "身後",
   "topic": "t-louis17",
   "source": "s-2001-jehaes-louis17"
+ },
+ {
+  "date": "2006",
+  "title": "《凡爾賽拜金女》上映",
+  "desc": "柯波拉的電影在坎城首映，評價兩極。",
+  "category": "身後",
+  "topic": "t-coppola",
+  "source": "s-2012-backman-rogers-threshold"
+ },
+ {
+  "date": "2021",
+  "title": "X 光讀出塗黑的字",
+  "desc": "研究團隊用 X 射線螢光光譜讀出八封信的塗黑段落。",
+  "category": "人物",
+  "topic": "t-fersen",
+  "source": "s-2021-michelin-xrf"
  }
 ]

@@ -7,6 +7,8 @@ period: [1774, 1775]
 summary: 一對年輕的國王與王后，和一場讓她「活一百年也忘不了」的典禮。
 myth: 路易十五死訊傳來時，年輕的國王夫婦跪下說：「上帝啊，我們太年輕了，不會治國。」
 verdict: 半真半假
+image: t-coronation.jpg
+imageAlt: 粉彩畫風插畫：哥德式大教堂內部，彩色玻璃窗透進光，滿座的觀禮人群前方，藍色織物上的軟墊放著王冠與權杖。
 sources: [s-1823-campan-memoires, s-1874-arneth-mercy-correspondance]
 updated: 2026-11-16
 ---

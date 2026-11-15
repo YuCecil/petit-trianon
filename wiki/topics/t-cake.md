@@ -82,7 +82,7 @@ updated: 2026-11-15
 - [[s-1782-rousseau-confessions]]
 - [[s-1841-karr-guepes]]
 - [[s-1874-arneth-mercy-correspondance]]
-- 相關故事：[[t-october-days]]、[[t-deficit]]、[[t-table]]
+- 相關故事：[[t-october-days]]、[[t-deficit]]、[[t-table]]、[[t-libels]]
 
 ## 還不知道的事
 

@@ -7,6 +7,8 @@ period: [1793, 1824]
 summary: 一位律師在亂葬崗上種花守護了二十年，直到新國王來把他們接走。
 myth: 1815 年挖出王后的遺骸時，是靠一副吊襪帶才認出來的。
 verdict: 半真半假
+image: t-reburial.jpg
+imageAlt: 粉彩畫風插畫：長滿花草的老墓園，石牆、柏樹和十字架，一位穿 18 世紀外套的男子背影站在鐵門邊。
 sources: [s-1824-lafont-daussonne-memoires, s-1862-sanson-sept-generations, s-1852-marie-therese-temple]
 updated: 2026-11-16
 ---
