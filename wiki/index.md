@@ -2,7 +2,7 @@
 
 > 由 `tools/build.py` 自動產生於 2026-11-16，不要手改。
 
-資料卡 36 張（全文 9）｜主題 19｜實體 3｜問答 0
+資料卡 37 張（全文 9）｜主題 19｜實體 3｜問答 0
 
 ## 主題頁
 
@@ -66,6 +66,7 @@
 - [[s-2016-versailles-queens-hamlet]] 凡爾賽宮官網「Queen's Hamlet」頁面與長文（英文） — 凡爾賽宮（Château de Versailles）（2016）｜網頁｜全文
 - [[s-2021-archives-nationales-xray]] Marie-Antoinette's Correspondence under X-Ray（法國國家檔案館說明頁） — Archives nationales（2021）｜網頁｜摘要
 - [[s-2021-michelin-xrf]] 2D macro-XRF to reveal redacted sections of French queen Marie-Antoinette secret correspondence with Swedish count Axel von Fersen — Anne Michelin, Fabien Pottier, Christine Andraud（2021）｜期刊論文｜部分
+- [[s-2022-hassler-strasbourg]] « Lien de deux États, ornement de deux Cours » : Marie-Antoinette à Strasbourg en mai 1770 — Éric Hassler（2022）｜期刊論文｜摘要
 - [[s-2024-pearce-creole]] Creole Creations: Unraveling Caribbean origins, makers and wearers of the robe à la creole c.1780-1815 — Emma Pearce（2024）｜期刊論文｜部分
 - [[s-2025-dati-culture-sevres-rambouillet]] Rachida Dati 宣布 Sèvres 國立陶瓷博物館將收藏兩件 Rambouillet 乳品室瓷器（政府新聞稿） — 法國文化部（Ministère de la Culture）（2025）｜網頁｜全文
 - [[s-2026-harvard-gazette-coppola]] Why Sofia Coppola gave Marie Antoinette sneakers — Harvard Gazette（2026）｜報刊｜全文
