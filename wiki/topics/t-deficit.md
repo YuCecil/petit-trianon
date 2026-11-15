@@ -9,7 +9,7 @@ myth: 王后揮霍無度，一個人花光了法國的國庫，人稱「赤字�
 verdict: 半真半假
 image: t-deficit.jpg
 imageAlt: 粉彩畫風插畫：書桌上攤開一本大帳簿和一小堆金幣，窗邊架子上放著插滿羽毛的高聳假髮。
-sources: [s-1874-arneth-mercy-correspondance, s-1823-campan-memoires, s-1781-necker-compte-rendu, s-2006-stamberg-npr-fraser, s-2002-campion-vincent-marie-antoinette]
+sources: [s-1989-white-solution, s-1995-sargent-macroeconomic, s-1874-arneth-mercy-correspondance, s-1823-campan-memoires, s-1781-necker-compte-rendu, s-2006-stamberg-npr-fraser, s-2002-campion-vincent-marie-antoinette]
 updated: 2026-11-15
 ---
 
@@ -21,7 +21,7 @@ updated: 2026-11-15
 
 1781 年，財政總監內克（Jacques Necker）公布了給國王的財政報告。在報告列出的支出項目裡，王后的家用並沒有單獨列出，而是和國王、國王的妹妹、姑姑們併成同一項；相比之下，戰爭的特別經費一年約 6,520 萬里弗爾（livres）（[[s-1781-necker-compte-rendu]] 約 pp. 80–84）。傳記作家弗雷澤也認為，真正打亂法國預算的是支持美國獨立戰爭（[[s-2006-stamberg-npr-fraser]] 第 5 段）。
 
-所以判定是「半真半假」：王后花錢、帶動奢華是真的；說她一個人拖垮國家財政，帳目上看不出來。不過，本站還沒讀到王后衣櫥的實際帳目，也還沒讀到財政史學者的研究，這個判定之後可能再修正。
+所以判定是「半真半假」：王后花錢、賭博、帶動奢華都是真的；說她一個人拖垮國家財政，帳目上看不出來，財政史學者也不這麼認為（見「研究者怎麼看」）。
 
 ## 故事是這樣的
 
@@ -45,6 +45,8 @@ updated: 2026-11-15
 
 這些花費是真的，可是放在國家的帳本裡，規模就完全不同了。1781 年，財政總監內克（Jacques Necker）公布給國王的財政報告，王后的家用並沒有單獨列出，而是和國王、國王的妹妹、姑姑們併成同一項；相比之下，戰爭的特別經費一年約 6,520 萬里弗爾（[[s-1781-necker-compte-rendu]] 約 pp. 80–84）。（推論）王后一整年欠下的四十幾萬，還不到這一項的百分之一。
 
+經濟史學者懷特（Eugene White）根據 1781 年的帳目整理過一張表：這一年國家的一般支出約 2 億 8,320 萬里弗爾，其中軍事 1 億 2,520 萬，借款利息 4,520 萬，整個王室的家用（不只王后，還包括國王和所有王族）3,620 萬（[[s-1989-white-solution]] p. 552）。（推論）換算下來，王室家用約占一般支出的八分之一，而王后 1777 年那筆讓梅西頭痛的賭債，大約只是王室家用的百分之一點三。
+
 內克當時宣稱國家收入大於支出；但幾年後接任的卡隆（Calonne）卻發現了每年超過一億里弗爾的祕密赤字（[[s-1823-campan-memoires]] 第 3 冊附錄 p. 35）。這段時間，法國正出錢出兵幫美國打獨立戰爭。傳記作家弗雷澤認為，打亂法國預算的正是這場戰爭（[[s-2006-stamberg-npr-fraser]] 第 5 段）。
 
 ### 「赤字夫人」
@@ -57,10 +59,13 @@ updated: 2026-11-15
 
 - 弗雷澤認為，法國預算失衡的主因是支持美國革命，而不是王后（[[s-2006-stamberg-npr-fraser]]）。
 - 康龐夫人的辯護是當事人一方的說法，可信度要打折扣（[[s-1823-campan-memoires]]）。
-- 財政史的研究（例如 Sargent 與 Velde 1995、Eugene White 1989）討論了法國舊制度的財政困境，本站還沒讀到全文，暫不轉述。
+- 懷特認為，法國的財政其實不是無藥可救：1769 年財政總監泰雷（Terray）上任時，赤字已有 6,000 萬里弗爾、政府借無可借（[[s-1989-white-solution]] pp. 548–549）；美國獨立戰爭期間，內克靠 5 億 3,000 萬里弗爾的借款打仗，一般帳目卻在 1778 年平衡過（[[s-1989-white-solution]] p. 558）。真正讓危機變得無法收拾的，是 1781 年以後改革被推翻、1787 年名士會議拒絕加稅；他認為 1788–89 年的破產原本可以避免（[[s-1989-white-solution]] pp. 565–568）。在他的分析裡，宮廷開支不是主因（[[s-1989-white-solution]] pp. 552、568）。
+- 經濟學家薩金特（Thomas Sargent）與費爾德（François Velde）指出，法國在 1688 到 1788 年的英法戰爭裡一再違約，借錢的成本比英國高得多（[[s-1995-sargent-macroeconomic]] p. 474）。
 
 ## 延伸閱讀
 
+- [[s-1989-white-solution]]
+- [[s-1995-sargent-macroeconomic]]
 - [[s-1874-arneth-mercy-correspondance]]
 - [[s-1781-necker-compte-rendu]]
 - [[s-1823-campan-memoires]]

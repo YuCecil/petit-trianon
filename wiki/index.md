@@ -2,7 +2,7 @@
 
 > 由 `tools/build.py` 自動產生於 2026-11-16，不要手改。
 
-資料卡 33 張（全文 7）｜主題 10｜實體 3｜問答 0
+資料卡 33 張（全文 8）｜主題 10｜實體 3｜問答 0
 
 ## 主題頁
 
@@ -39,7 +39,7 @@
 - [[s-1883-tourzel-memoires]] Mémoires de Madame la duchesse de Tourzel（第一卷，1791 年「Voyage de Varennes」一節） — 杜爾澤夫人（Duchesse de Tourzel，名字全稱待核）（1883）｜回憶錄｜部分
 - [[s-1887-ap-varennes-reward]] Décret accordant des récompenses à l'occasion de l'arrestation du roi（1791 年 8 月 18 日，Archives parlementaires，第 29 卷） — Archives parlementaires（集體紀錄）（1887）｜檔案｜部分
 - [[s-1887-drouet-barre]] Admission de M. Drouet à la barre, lors de la séance du 24 juin 1791（Archives parlementaires，第 27 卷） — Jean-Baptiste Drouet（陳述人）；Archives parlementaires（1887 年版）（1887）｜檔案｜部分
-- [[s-1989-white-solution]] Was There a Solution to the Ancien Régime's Financial Dilemma? — Eugene Nelson White（1989）｜期刊論文｜部分
+- [[s-1989-white-solution]] Was There a Solution to the Ancien Régime's Financial Dilemma? — Eugene Nelson White（1989）｜期刊論文｜全文
 - [[s-1995-sargent-macroeconomic]] Macroeconomic Features of the French Revolution — Thomas J. Sargent; François R. Velde（1995）｜期刊論文｜部分
 - [[s-2002-campion-vincent-marie-antoinette]] Marie-Antoinette et son célèbre dire：deux scénographies et deux siècles de désordres, trois niveaux de communication et trois modes accusatoires — Véronique Campion-Vincent; Christine Shojaei Kawan（2002）｜期刊論文｜部分
 - [[s-2003-tackett-king]] When the King Took Flight — Timothy Tackett（2003）｜專書｜書目
