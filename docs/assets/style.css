@@ -229,3 +229,7 @@ code{font-size:.9em;background:var(--sheet);border:1px solid var(--line);padding
   .log-row{grid-template-columns:6em 1fr}.log-row i{display:none}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+
+/* 資料卡、名詞頁的標題通常是長書名，字級降一階；表頭不換行 */
+.page-h:not(.glaze-h) h1{font-family:var(--serif-tc);font-size:clamp(24px,3vw,32px);line-height:1.4}
+.lib th{white-space:nowrap}
