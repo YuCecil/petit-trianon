@@ -250,3 +250,14 @@ code{font-size:.9em;background:var(--sheet);border:1px solid var(--line);padding
 .photo img{display:block;width:100%;height:auto;background:var(--sheet)}
 .photo figcaption{font-size:14.5px;color:var(--muted);margin-top:8px;line-height:1.6}
 .photo figcaption small{display:block;font-size:12.5px;margin-top:2px}
+
+/* 本文段落導覽、閱讀進度線 */
+.toc{margin:30px 0 8px;padding:16px 20px;border:1px solid var(--line);background:var(--sheet)}
+.toc b{display:block;font-family:var(--serif-tc);font-weight:500;font-size:15px;color:var(--muted);margin-bottom:6px}
+.toc ol{margin:0;padding-left:1.4em;display:grid;grid-template-columns:1fr 1fr;column-gap:40px;font-size:15.5px}
+.toc li{break-inside:avoid;margin:3px 0}
+.toc a{color:var(--ink);text-decoration:none}
+.toc a:hover{color:var(--link);text-decoration:underline}
+.md h3{scroll-margin-top:90px}
+.progress{position:fixed;top:0;left:0;right:0;height:3px;background:var(--gilt);transform-origin:0 50%;transform:scaleX(0);z-index:1100;pointer-events:none}
+@media (max-width:720px){.toc ol{grid-template-columns:1fr}}

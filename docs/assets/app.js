@@ -334,6 +334,17 @@ function page(p) {
     ${aside ? `<aside class="page-info" aria-label="這一頁的相關資訊">${aside}</aside>` : ""}
   </div></div>`;
   mountCharts(app);
+  /* 長文的段落導覽：故事裡有 3 個以上小標時，在「故事是這樣的」上方列出 */
+  const hs = [...app.querySelectorAll("article.md h3")];
+  if (p.type === "topic" && hs.length >= 3) {
+    hs.forEach((h, i) => h.id = "sec-" + (i + 1));
+    const nav = document.createElement("nav");
+    nav.className = "toc"; nav.setAttribute("aria-label", "本文段落");
+    nav.innerHTML = `<b>本文段落</b><ol>${hs.map(h => `<li><a href="#${h.id}" data-sec="${h.id}">${esc(h.textContent)}</a></li>`).join("")}</ol>`;
+    const story = [...app.querySelectorAll("article.md h2")].find(h => h.textContent.includes("故事是這樣的"));
+    (story || app.querySelector("article.md")).before(nav);
+    nav.addEventListener("click", e => { const a = e.target.closest("a[data-sec]"); if (a) { e.preventDefault(); document.getElementById(a.dataset.sec).scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" }); } });
+  }
   requestAnimationFrame(() => scrollTo(0, 0));
 }
 
@@ -406,6 +417,16 @@ fetch("data/wiki.json").then(r => r.json()).then(d => {
   Object.keys(backlinks).forEach(k => backlinks[k] = [...new Set(backlinks[k])]);
   document.getElementById("built").textContent = `資料更新：${W.built}。${W.counts.sources} 份資料、${W.counts.topics} 個故事。`;
   addEventListener("hashchange", route);
+  /* 閱讀進度線：只在故事頁顯示 */
+  const bar = document.createElement("div");
+  bar.className = "progress"; bar.setAttribute("aria-hidden", "true");
+  document.body.appendChild(bar);
+  const upd = () => {
+    const on = !!document.querySelector(".glaze-h");
+    const h = document.documentElement.scrollHeight - innerHeight;
+    bar.style.transform = `scaleX(${on && h > 0 ? Math.min(1, scrollY / h) : 0})`;
+  };
+  addEventListener("scroll", upd, { passive: true }); addEventListener("hashchange", () => setTimeout(upd, 50));
   /* 已經在 #/#stories 時再按一次「故事」，hash 不變、不會觸發 hashchange，直接捲過去 */
   document.addEventListener("click", e => {
     const l = e.target.closest('a[href^="#/#"]');
