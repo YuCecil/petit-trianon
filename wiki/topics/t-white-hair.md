@@ -31,11 +31,15 @@ updated: 2026-11-15
 
 康龐夫人接著寫了一個常被忽略的細節：王后給她看一枚剛做好、要送給好友朗巴勒親王妃（princesse de Lamballe）的戒指，裡面嵌著一束她自己的白髮，刻著一句話：「被不幸染白」（blanchis par le malheur）（[[s-1823-campan-memoires]] 第 2 冊 p. 151）。在康龐夫人的敘述裡，白髮不只是外貌的變化，王后自己也把它當成紀念。同一頁還寫到，那年秋天朗巴勒親王妃想回法國陪王后，王后反對，她還是回來了，「也就是回來送死」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 p. 151）。一年後，她在九月屠殺中遇害。
 
+{{photo:t-white-hair-kucharski.jpg|庫查爾斯基（Kucharski）為王后所畫的晚年肖像，未完成。|Wikimedia Commons，Public domain}}
+
 ### 1792 年：另一位證人看到的身體
 
 王室子女的家庭教師圖澤爾夫人，也留下了王后在壓力下的身體反應，只是她寫的不是頭髮。1792 年 6 月 20 日，群眾闖進杜樂麗宮，有個女人遞給王后一頂毛線帽，王后接了卻沒戴；圖澤爾夫人說，王后的神情一刻都沒有失去鎮定和尊嚴（[[s-1883-tourzel-memoires]] 第 2 冊）。同年 8 月，大臣勸國王離開王宮、到國民議會避難，王后一聽國王要照辦，胸口和臉頰一下子全都泛起紅斑（[[s-1883-tourzel-memoires]] 第 2 冊）。
 
 （推論）這兩位證人都在王后身邊，也都一向站在她那一邊；但她們描述的重點不同：一位記下了白髮，一位記下了臉上的紅斑。
+
+{{photo:t-white-hair-david.jpg|大衛 1793 年畫的王后坐囚車赴刑場素描，此為 1868 年 Dauban《1793 年的巴黎煽動》書中的刊印版。|Wikimedia Commons，Public domain}}
 
 ### 醫學怎麼說：頭髮會在一夜之間變白嗎？
 
@@ -62,6 +66,7 @@ updated: 2026-11-15
 - [[s-2013-nahm-canities-subita]]
 - [[s-2008-skellett-sudden-whitening]]
 - 名詞：[[e-campan]]
+- 相關故事：[[t-lamballe]]、[[t-temple]]
 
 ## 還不知道的事
 

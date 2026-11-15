@@ -182,6 +182,11 @@ def main():
         for c in re.findall(r"\{\{chart:([\w\-]+)\}\}", p["body"]):
             if c not in chart_ids:
                 err(p["path"].name, f"嵌入了不存在的圖表 {c}")
+        for f in re.findall(r"\{\{photo:([\w\-.]+)\|", p["body"]):
+            if not (Path(__file__).resolve().parent.parent / "docs/assets/photo" / f).exists():
+                err(p["path"].name, f"真實圖片檔案不存在 {f}")
+        if len(re.findall(r"\{\{photo:", p["body"])) > 4:
+            warn(p["path"].name, "真實圖片超過 4 張")
         imgs = re.findall(r"\{\{img:([\w\-.]+)\|", p["body"])
         if len(imgs) > 1:
             err(p["path"].name, "內文插圖最多一張")

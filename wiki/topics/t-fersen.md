@@ -29,6 +29,8 @@ updated: 2026-11-15
 
 費爾森是瑞典貴族，年輕時到歐洲各國遊歷。1778 年 8 月，他在凡爾賽被引見給王室，寫信告訴父親：王后一看到他就說「啊，是老相識了！」（本站譯）（[[s-1877-klinckowstrom-fersen]] 序言 p. XXXIII）。至於兩人第一次見面是什麼時候，現存的文件沒有說清楚。同一年年底他又寫信說，王后因為星期天的牌局沒見到他，還特地向他道歉，說想看他穿瑞典軍服的樣子（[[s-1877-klinckowstrom-fersen]] 序言 p. XXXIII）。
 
+{{photo:t-fersen-dreuillon.jpg|Pierre Dreuillon 1793 年所畫的瑞典伯爵阿克塞爾．馮．費爾森（Axel von Fersen）肖像，現藏厄斯特約特蘭博物館。|Wikimedia Commons，Public domain}}
+
 流言很快就出現了。1779 年 4 月，瑞典駐法大使克羅伊茨（Creutz）寫密函給瑞典國王，說「我不能不相信她對他有好感」，但也說費爾森的態度非常謹慎、有節制（本站譯）（[[s-1877-klinckowstrom-fersen]] 序言 p. XXXV）。要注意，這是外交官的觀察和推測，不是直接證據。
 
 ### 逃亡那一夜

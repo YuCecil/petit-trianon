@@ -29,6 +29,8 @@ updated: 2026-11-15
 
 小特里亞儂是凡爾賽宮花園裡的一座小宮殿，原本是路易十五蓋的，他就是在這裡染上天花去世的（[[s-1823-campan-memoires]] 第 1 冊 p. 110 及原註）。1774 年新王即位後，駐法大使梅西向維也納報告：王后沒有透過任何中間人，自己直接向國王開口要這座別墅，國王當場答應（[[s-1874-arneth-mercy-correspondance]] 第 2 冊）。母親瑪麗亞．特蕾莎回信說，聽說那是「最宜人的住所」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊）。梅西卻已經在擔心，提醒王后別讓國王這份「迷人的第一份禮物」變成大筆花費的藉口（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 205 前後）。
 
+{{photo:t-hameau-petit-trianon.jpg|今日的小特里亞儂（Petit Trianon），位於凡爾賽宮園區，攝於 2022 年。|Wikimedia Commons，CC BY-SA 4.0}}
+
 那年夏天，王后就忙著把這裡的花園改成英式庭園，國王也下令把圍牆往外擴（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 209，1774 年 7 月 31 日信）。據康龐夫人說，王后只改花園，房子不准加蓋，傢俱也不換：到 1789 年都還是路易十五時代的舊東西，王后睡的床又舊又褪色，據說還是杜巴利夫人用過的（[[s-1823-campan-memoires]] 第 1 冊 p. 110）。宮廷裡謠傳她把這裡改名為「小維也納」，康龐夫人說那是謠言（[[s-1823-campan-memoires]] 第 1 冊 pp. 110–111）。
 
 ### 躲開宮廷的地方
@@ -45,7 +47,11 @@ updated: 2026-11-15
 
 1783 年夏天，王后請建築師米克（Richard Mique）把花園往北擴建，蓋一整座模範村莊，1786 年完工。它有農舍、磨坊，也有馬廄、牛舍、羊欄和雞舍。拿破崙時代整修時，最破舊的建築被拆掉了，其中就包括穀倉和真正在用的乳品室（[[s-2016-versailles-queens-hamlet]]）。
 
+{{photo:t-hameau-ferme.jpg|今日的王后農莊（Hameau de la Reine）農舍，位於凡爾賽宮園區，攝於 2010 年。|Wikimedia Commons，CC BY-SA 3.0}}
+
 另一座常被搞混的乳品室在朗布依埃（Rambouillet）。法國文化部的資料說，它是路易十六為王后蓋的；1787 到 1788 年間，塞弗爾瓷器廠送來 65 件瓷器，在畫家于貝爾．羅貝爾（Hubert Robert）指導下設計，器形參考古代陶器。其中最有名的是「乳房碗」（bol sein），塞弗爾到今天還在生產（[[s-2025-dati-culture-sevres-rambouillet]]）。
+
+{{photo:t-hameau-rambouillet.jpg|朗布依埃（Rambouillet）的王后乳品室，由建築師理查．米克（Richard Mique）設計，今日的照片。|Wikimedia Commons，CC BY-SA 3.0}}
 
 ## 研究者怎麼看
 
@@ -62,6 +68,7 @@ updated: 2026-11-15
 - [[s-2016-maes-laiterie-rambouillet]]
 - 名詞：[[e-campan]]
 - 名詞：[[e-petit-trianon]]
+- 相關故事：[[t-polignac]]、[[t-chemise]]
 
 ## 還不知道的事
 

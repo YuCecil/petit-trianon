@@ -23,6 +23,8 @@ updated: 2026-11-15
 
 電影大部分在凡爾賽宮實景拍攝。凡爾賽宮館長說，這部片「在宮殿的當代歷史裡占有獨特的位置」，2026 年 9 月到 2027 年 1 月，宮方還在小特里亞儂辦了電影二十週年展（[[s-2026-versailles-coppola-exhibition]]）。柯波拉說，片場的花是真的，在凡爾賽拍攝時點的蠟燭也是真的，「感謝老天，我們沒把窗簾燒起來！」（本站譯）（[[s-2026-harvard-gazette-coppola]] 第 4 段）她也說，在王后私人的小房間裡拍戲，讓她感覺到那裡的尺度「比較像人住的地方」（[[s-2026-harvard-gazette-coppola]] 第 7 段）。
 
+{{photo:t-coppola-galerie.jpg|今日凡爾賽宮的鏡廳（Galerie des Glaces），攝於 2011 年。|Wikimedia Commons，CC BY-SA 3.0}}
+
 ### 刻意的時代錯置
 
 那雙出現在甜點蒙太奇裡的淺藍色 Converse 球鞋，是刻意的時代錯置，配樂也從 1980 年代的後龐克一路放到當代搖滾（[[s-2012-backman-rogers-threshold]] pp. 83、94）。服裝設計師卡諾內羅（Milena Canonero）說，衣服的剪裁「完全正確」，配色和髮型才是她們的創作（[[s-2011-andersson-queen-fashion]] p. 110）。整部片的粉彩色調，靈感來自巴黎老店的杏仁馬卡龍，柯波拉稱之為「蛋糕和餅乾的感覺」（本站譯）（[[s-2011-andersson-queen-fashion]] p. 111）。她說，在她看來，王后唯一的創作出口就是她的環境：衣服、花和花園（[[s-2026-harvard-gazette-coppola]] 第 2 段）。這套服裝後來拿下 2007 年奧斯卡最佳服裝設計（[[s-2026-versailles-coppola-exhibition]]）。
@@ -34,6 +36,8 @@ updated: 2026-11-15
 **公開用餐。** 國王和王后每天公開吃飯，只要穿著體面，誰都可以進來看。服侍他們的全是女性，女官長跪在矮凳上替國王遞盤子（[[s-1823-campan-memoires]] 第 1 冊 pp. 100–102）。康龐夫人在註腳裡說，這種飯吃起來毫無談話的樂趣，得從小習慣，才不會因為一堆人盯著看而吃不下（[[s-1823-campan-memoires]] 第 1 冊 p. 102 註）。
 
 **公開生產。** 1778 年 12 月 19 日中午前，王后的第一個孩子出生（[[s-1823-campan-memoires]] 第 1 冊 p. 201）。照規矩，王后生產要讓眾人在場作證，確認王位繼承人的血統（[[s-2006-stamberg-npr-fraser]] 第 18 段）。康龐夫人說，接生醫生一喊「王后要生了」，一大群人就湧進房間，擠得像廣場一樣，有兩個薩伏依人甚至爬到傢俱上看；國王前一晚已經叫人用繩子把床邊的大屏風綁牢，否則一定會被擠倒壓在王后身上（[[s-1823-campan-memoires]] 第 1 冊 p. 202）。王后突然昏了過去，醫生大喊「要空氣、要熱水、要放血！」窗戶早就用紙條封死，國王用力扯開那些高大的窗子；熱水來不及，外科醫生直接在王后腳上放血，她才睜開眼睛（[[s-1823-campan-memoires]] 第 1 冊 p. 202）。康龐夫人說，從此這個「殘酷的規矩」就永遠廢除了（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 203）。廣播節目說當時有兩百人圍觀，但康龐夫人並沒有寫人數（[[s-2006-stamberg-npr-fraser]] 第 18 段）。
+
+{{photo:t-coppola-chambre.jpg|今日的凡爾賽宮王后寢宮（Chambre de la Reine），攝於 2013 年。|Wikimedia Commons，CC BY-SA 3.0}}
 
 **遲遲沒有圓房。** 婚後七年半才圓房是真的，弗雷澤認為路易十六不是不能生育，而是「心理上做不到」（[[s-2006-stamberg-npr-fraser]] 第 9–10 段；詳見 [[t-consummation]]）。
 
@@ -49,15 +53,19 @@ updated: 2026-11-15
 
 ## 電影場景對照
 
-- 交接儀式、婚禮 → 本站故事待寫
+- 交接儀式、婚禮 → [[t-handover]]
+- 和杜巴利夫人的冷戰 → [[t-dubarry]]
 - 遲遲沒有圓房 → [[t-consummation]]
 - 甜點、蛋糕 → [[t-cake]]
 - 花錢如流水 → [[t-deficit]]
 - 小特里亞儂、農莊 → [[t-hameau]]
 - 白紗裙 → [[t-chemise]]
+- 衣服、髮型、羽毛 → [[t-bertin]]、[[t-pouf]]
+- 閨蜜們 → [[t-lamballe]]、[[t-polignac]]
 - 費爾森 → [[t-fersen]]
 - 鑽石項鍊（電影沒演）→ [[t-necklace]]
-- 革命之後（電影沒演）→ [[t-varennes]]、[[t-white-hair]]
+- 離開凡爾賽（電影的結尾）→ [[t-october-days]]
+- 革命之後（電影沒演）→ [[t-varennes]]、[[t-white-hair]]、[[t-temple]]
 
 ## 延伸閱讀
 

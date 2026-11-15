@@ -20,3 +20,11 @@
 - 更新：t-necklace、t-fersen、t-hameau、t-chemise、t-varennes 擴寫為 8–11 段，大量取自康龐、梅西通信、費爾森日記、圖澤爾、維傑．勒布倫原文（主 session 逐條抽查原文）
 - 發現：費爾森日記寫邦迪、圖澤爾寫克萊；康龐說王后「看人擠牛奶」（第 1 冊 p. 298）；卡爾 1841 年 11 月號《黃蜂》已把「布里歐」安到王后頭上（早於研究者說的 1843）
 - 待做：t-cake、t-deficit、t-white-hair、t-consummation、t-coppola 的擴寫材料已在 raw/notes/expand-*.md，尚未寫進故事頁；需替卡爾 1841 建資料卡
+
+## [2026-11-16] ingest | 擴寫第一批（第二輪）與第二批 9 個故事
+- 擴寫：t-cake（論文後半、卡爾 1841、梅西 1770 麵包降價）、t-deficit（梅西密報的債務與賭局、White 1989 全文、Colwill 1989）、t-white-hair（Nahm 2013 全文、圖澤爾 1792）、t-consummation（梅西通信、1774 手術傳言，新增判定）、t-coppola（康龐的更衣、用餐、公開生產）
+- 新增故事：t-mops、t-pouf、t-dubarry、t-october-days、t-lamballe、t-temple、t-handover、t-polignac、t-bertin
+- 新資料卡：s-1841-karr-guepes、s-1989-white-solution（台大資料庫全文）、s-1995-sargent-macroeconomic（部分）、s-1989-colwill-citoyenne（台大資料庫全文）、s-1798-clery-journal、s-1852-marie-therese-temple
+- 網站：報導者式註釋（上標、原地展開、文末收合）、長文段落導覽、閱讀進度線、真實圖片 27 張（data/photos.json）、插圖 +8
+- rule：CLAUDE.md 故事 8–14 段、註釋（8.4）、真實圖片（8.5）、使用者不自己下載論文
+- 發現：吉祥物的 Mops 在梅西 1770 年 8 月的報告裡真的出現過；朗巴勒的頭被舉到聖殿塔窗前有克萊里的目擊紀錄

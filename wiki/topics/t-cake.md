@@ -9,7 +9,7 @@ myth: 聽說百姓沒有麵包吃，王后說：「那就讓他們吃蛋糕吧�
 verdict: 查無實據
 image: t-cake.jpg
 imageAlt: 粉彩畫風插畫：窗邊木桌上，藍邊瓷盤裡放著一個金黃色的布里歐麵包，旁邊是攤開的舊書和羽毛筆。
-sources: [s-2002-campion-vincent-marie-antoinette, s-1782-rousseau-confessions, s-1841-karr-guepes]
+sources: [s-2002-campion-vincent-marie-antoinette, s-1782-rousseau-confessions, s-1841-karr-guepes, s-1874-arneth-mercy-correspondance]
 updated: 2026-11-15
 ---
 
@@ -31,7 +31,11 @@ updated: 2026-11-15
 
 1730 年代，年輕的盧梭寄住在別人家，偷偷弄到幾瓶葡萄酒想在房間裡喝，卻發現沒有麵包配不下去。叫僕人去買太丟臉，自己一個「腰間佩劍的紳士」走進麵包店也太丟臉。這時他想起「一位偉大的公主」的蠢話：沒有麵包，就吃布里歐吧。於是他走遍城裡三十家糕點店，卻一家也不敢進去（[[s-1782-rousseau-confessions]] 卷六）。這段尷尬的小插曲，就是這句名言目前已知最早的法文出處。
 
+{{photo:t-cake-rousseau.jpg|艾倫．拉姆齊（Allan Ramsay）1766 年所畫的盧梭肖像，現藏蘇格蘭國家畫廊。|Wikimedia Commons，Public domain}}
+
 布里歐不是我們想像中插著蠟燭的蛋糕，而是用奶油和雞蛋做的軟麵包，在糕點店買得到，比一般麵包貴。英文世界後來把它翻成 cake，才變成今天大家熟悉的「讓他們吃蛋糕」；《懺悔錄》的古老英譯本裡，這句話其實寫成「讓他們吃糕點（pastry）」（[[s-1782-rousseau-confessions]] 卷六英譯本）。
+
+{{photo:t-cake-chardin.jpg|夏丹（Chardin）1763 年的靜物畫《布里歐》，現藏羅浮宮。|Wikimedia Commons，Public domain}}
 
 這個笑話比盧梭還要老。研究者在 16 世紀的德文笑話集裡，就找到同樣的結構：有權有勢的人聽說窮人沒東西吃，說出一句完全搞不清楚狀況的回答，只是德文版說得粗俗得多。拉脫維亞的民間故事裡，說這話的是德裔地主；中國也有晉惠帝「何不食肉糜」的故事。民俗學家甚至替這類故事編了一個國際分類號碼（AaTh 1446）（[[s-2002-campion-vincent-marie-antoinette]] 「德文與法文的歷史版本」一節）。
 
@@ -47,11 +51,16 @@ updated: 2026-11-15
 
 「據說」兩個字很重要。它表示到了 1841 年，這句話安在王后頭上，已經是巴黎人聽過的說法，卡爾只是順手借來用（[[s-1841-karr-guepes]]）。
 
+{{photo:t-cake-karr.jpg|德斯布坦（Marcellin Desboutin）1878 年所作的卡爾肖像，是後來的作品，不是卡爾同時代的圖；現藏大都會博物館。|Wikimedia Commons，CC0}}
+
 ### 一本童書把它帶進教室
 
 這句話最廣為流傳的版本，出自一本童書。1931 年，德國作家凱斯特納（Erich Kästner）在小說《小不點和安東》裡寫了一段：巴黎的窮人走到凡爾賽，在王宮前喊「我們沒有麵包」，王后從窗戶探頭，問軍官他們要什麼，聽了以後很驚訝：「他們沒有麵包？那就吃布里歐吧！」書裡接著說，她不是在嘲笑窮人，她只是根本不知道什麼是貧窮，「一年後她就被砍了頭」（本站譯）（[[s-2002-campion-vincent-marie-antoinette]] 「兩種場景」一節）。研究者指出，這本書到 1999 年已經印到第 117 版、翻成 25 種語言，在德國對這個故事的傳播影響很大；而它連時間都搞錯了，王后被處決是在那次遊行四年之後（[[s-2002-campion-vincent-marie-antoinette]] 「兩種場景」一節及註 2）。
 
 ### 為什麼偏偏是她
+
+諷刺的是，她剛到法國時，巴黎人對她的想像正好相反。1770 年 12 月，駐法大使梅西向維也納報告：前陣子麵包降價，巴黎的老百姓在街上、市場上大聲說，「一定是太子妃替窮人求來的」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 108，1770 年 12 月 17 日報告）。同一封信還說，她聽到有人安慰她「馬廄的下人心腸硬」，很不以為然（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 108）。
+
 
 這句話到今天還在被引用。1997 年，法國哲學家芬基爾克勞（Alain Finkielkraut）在雜誌訪談中拿它比喻菁英對窮人說教；讀者馬上投書抗議，說這是一句「先後安在龐巴度夫人、杜巴利夫人和瑪麗．安東尼頭上的假話」（本站譯）（[[s-2002-campion-vincent-marie-antoinette]] 「當代的用法」一節）。研究者說，連學者一離開自己的專業，也會把這句話當真；反倒是研究法國大革命的歷史學家，幾乎都不提它（[[s-2002-campion-vincent-marie-antoinette]] 「當代的用法」一節）。
 
@@ -69,6 +78,8 @@ updated: 2026-11-15
 - [[s-2002-campion-vincent-marie-antoinette]]
 - [[s-1782-rousseau-confessions]]
 - [[s-1841-karr-guepes]]
+- [[s-1874-arneth-mercy-correspondance]]
+- 相關故事：[[t-october-days]]、[[t-deficit]]
 
 ## 還不知道的事
 

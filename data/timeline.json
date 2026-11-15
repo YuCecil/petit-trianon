@@ -342,5 +342,157 @@
   "category": "迷思",
   "topic": "t-cake",
   "source": "s-2002-campion-vincent-marie-antoinette"
+ },
+ {
+  "date": "1770-05",
+  "title": "萊茵河上的交接",
+  "desc": "太子妃在凱爾附近的亭子裡脫下所有奧地利衣物，撲進諾瓦耶伯爵夫人懷裡。",
+  "category": "生平",
+  "topic": "t-handover",
+  "source": "s-1823-campan-memoires"
+ },
+ {
+  "date": "1770-05",
+  "title": "巴黎婚禮煙火釀成慘劇",
+  "desc": "路易十五廣場的煙火架起火，人群推擠，死傷慘重。",
+  "category": "生平",
+  "topic": "t-handover",
+  "source": "s-1823-campan-memoires"
+ },
+ {
+  "date": "1770-08-23",
+  "title": "想要一隻從維也納來的 Mops",
+  "desc": "太子妃對梅西說想從維也納弄一隻巴哥犬，梅西說可以託信使送。",
+  "category": "迷思",
+  "topic": "t-mops",
+  "source": "s-1874-arneth-mercy-correspondance"
+ },
+ {
+  "date": "1771",
+  "title": "阿德萊德夫人一句「該走了」",
+  "desc": "梅西安排好的「一句話」被姑姑打斷，計畫泡湯。",
+  "category": "人物",
+  "topic": "t-dubarry",
+  "source": "s-1874-arneth-mercy-correspondance"
+ },
+ {
+  "date": "1772-01-01",
+  "title": "「今天凡爾賽人真多」",
+  "desc": "太子妃終於對杜巴利夫人說了一句話，也只說了這一句。",
+  "category": "人物",
+  "topic": "t-dubarry",
+  "source": "s-1874-arneth-mercy-correspondance"
+ },
+ {
+  "date": "1775-03-05",
+  "title": "三十六吋高的頭髮",
+  "desc": "瑪麗亞．特蕾莎寫信勸女兒：跟流行可以，但永遠不要過頭。",
+  "category": "時尚",
+  "topic": "t-pouf",
+  "source": "s-1874-arneth-mercy-correspondance"
+ },
+ {
+  "date": "1775-07",
+  "title": "「我會讓我的密友幸福」",
+  "desc": "王后要請國王任命朗巴勒親王妃為王后家總管。",
+  "category": "人物",
+  "topic": "t-lamballe",
+  "source": "s-1874-arneth-mercy-correspondance"
+ },
+ {
+  "date": "1776-09",
+  "title": "王后的馬廄要從 150 匹變成 300 匹",
+  "desc": "梅西抱怨波利尼亞克伯爵獲得馬廄總管接任權的花費。",
+  "category": "人物",
+  "topic": "t-polignac",
+  "source": "s-1874-arneth-mercy-correspondance"
+ },
+ {
+  "date": "1786",
+  "title": "「樞機主教帽」",
+  "desc": "項鍊案審理期間，貝爾坦推出紅頂草帽，暗指坐牢的羅昂。",
+  "category": "時尚",
+  "topic": "t-bertin",
+  "source": "s-1881-vizetelly-diamond-necklace"
+ },
+ {
+  "date": "1789-07",
+  "title": "波利尼亞克夫人出逃",
+  "desc": "巴士底陷落後，她是最早流亡的人之一。",
+  "category": "人物",
+  "topic": "t-polignac",
+  "source": "s-1883-tourzel-memoires"
+ },
+ {
+  "date": "1789-10-05",
+  "title": "巴黎婦女走向凡爾賽",
+  "desc": "為了麵包，女人走在隊伍最前面。",
+  "category": "革命",
+  "topic": "t-october-days",
+  "source": "s-1823-campan-memoires"
+ },
+ {
+  "date": "1789-10-06",
+  "title": "「快救王后！」",
+  "desc": "清晨群眾衝進王宮，王后逃到國王身邊；下午全家被帶回巴黎。",
+  "category": "革命",
+  "topic": "t-october-days",
+  "source": "s-1883-tourzel-memoires"
+ },
+ {
+  "date": "1792-08-13",
+  "title": "王室被關進聖殿塔",
+  "desc": "從國民議會到聖殿塔，馬車走了兩個半小時。",
+  "category": "革命",
+  "topic": "t-temple",
+  "source": "s-1883-tourzel-memoires"
+ },
+ {
+  "date": "1792-09-02",
+  "title": "朗巴勒親王妃在拉福斯監獄被帶走",
+  "desc": "她和圖澤爾夫人最後一次握手。",
+  "category": "人物",
+  "topic": "t-lamballe",
+  "source": "s-1883-tourzel-memoires"
+ },
+ {
+  "date": "1792-09-03",
+  "title": "窗外的長矛",
+  "desc": "朗巴勒親王妃的頭被舉到聖殿塔窗前。",
+  "category": "人物",
+  "topic": "t-lamballe",
+  "source": "s-1798-clery-journal"
+ },
+ {
+  "date": "1792-12-11",
+  "title": "國王被帶去受審",
+  "desc": "鼓聲、騎兵與大砲開進聖殿塔花園。",
+  "category": "革命",
+  "topic": "t-temple",
+  "source": "s-1798-clery-journal"
+ },
+ {
+  "date": "1793-01-20",
+  "title": "最後一晚",
+  "desc": "國王與家人告別將近兩個小時。",
+  "category": "革命",
+  "topic": "t-temple",
+  "source": "s-1798-clery-journal"
+ },
+ {
+  "date": "1793-07-03",
+  "title": "王太子被帶離母親",
+  "desc": "王后從牆縫裡等著看兒子走過。",
+  "category": "革命",
+  "topic": "t-temple",
+  "source": "s-1852-marie-therese-temple"
+ },
+ {
+  "date": "1793-08-02",
+  "title": "凌晨兩點，王后被移往古監獄",
+  "desc": "「現在，什麼都不會再傷害我了。」",
+  "category": "革命",
+  "topic": "t-temple",
+  "source": "s-1852-marie-therese-temple"
  }
 ]

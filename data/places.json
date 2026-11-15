@@ -1,10 +1,106 @@
 [
- {"name": "小特里亞儂", "lat": 48.8159, "lng": 2.1100, "desc": "路易十六送給王后的小宮殿，她在這裡躲開宮廷禮儀。", "topic": "t-hameau", "source": "s-1823-campan-memoires"},
- {"name": "王后的農莊", "lat": 48.8187, "lng": 2.1117, "desc": "1783–1786 年蓋的模範村莊，也是真正運作的農場。", "topic": "t-hameau", "source": "s-2016-versailles-queens-hamlet"},
- {"name": "朗布依埃乳品室", "lat": 48.6436, "lng": 1.8236, "desc": "路易十六為王后蓋的乳品室，有塞弗爾的「乳房碗」。", "topic": "t-hameau", "source": "s-2025-dati-culture-sevres-rambouillet"},
- {"name": "凡爾賽宮", "lat": 48.8049, "lng": 2.1204, "desc": "1784 年夏夜，花園裡上演了鑽石項鍊騙局最關鍵的一幕。", "topic": "t-necklace", "source": "s-1881-vizetelly-diamond-necklace"},
- {"name": "杜樂麗宮", "lat": 48.8635, "lng": 2.3275, "desc": "革命後王室被安置的宮殿，1791 年 6 月 20 日深夜從這裡出逃。", "topic": "t-varennes", "source": "s-1883-tourzel-memoires"},
- {"name": "聖默努爾德", "lat": 49.0906, "lng": 4.8975, "desc": "驛站長德魯埃在這裡認出國王；回程時一家人在這裡停下吃飯。", "topic": "t-varennes", "source": "s-1883-tourzel-memoires"},
- {"name": "瓦雷納", "lat": 49.2244, "lng": 5.0328, "desc": "1791 年 6 月 21 日晚上十一點半，國王的馬車在這裡被攔下。", "topic": "t-varennes", "source": "s-1883-tourzel-memoires"},
- {"name": "克萊", "lat": 48.9858, "lng": 2.6942, "desc": "費爾森扮成車夫，把國王一家送到這裡換乘驛馬車。", "topic": "t-varennes", "source": "s-1883-tourzel-memoires"}
+ {
+  "name": "小特里亞儂",
+  "lat": 48.8159,
+  "lng": 2.11,
+  "desc": "路易十六送給王后的小宮殿，她在這裡躲開宮廷禮儀。",
+  "topic": "t-hameau",
+  "source": "s-1823-campan-memoires"
+ },
+ {
+  "name": "王后的農莊",
+  "lat": 48.8187,
+  "lng": 2.1117,
+  "desc": "1783–1786 年蓋的模範村莊，也是真正運作的農場。",
+  "topic": "t-hameau",
+  "source": "s-2016-versailles-queens-hamlet"
+ },
+ {
+  "name": "朗布依埃乳品室",
+  "lat": 48.6436,
+  "lng": 1.8236,
+  "desc": "路易十六為王后蓋的乳品室，有塞弗爾的「乳房碗」。",
+  "topic": "t-hameau",
+  "source": "s-2025-dati-culture-sevres-rambouillet"
+ },
+ {
+  "name": "凡爾賽宮",
+  "lat": 48.8049,
+  "lng": 2.1204,
+  "desc": "1784 年夏夜，花園裡上演了鑽石項鍊騙局最關鍵的一幕。",
+  "topic": "t-necklace",
+  "source": "s-1881-vizetelly-diamond-necklace"
+ },
+ {
+  "name": "杜樂麗宮",
+  "lat": 48.8635,
+  "lng": 2.3275,
+  "desc": "革命後王室被安置的宮殿，1791 年 6 月 20 日深夜從這裡出逃。",
+  "topic": "t-varennes",
+  "source": "s-1883-tourzel-memoires"
+ },
+ {
+  "name": "聖默努爾德",
+  "lat": 49.0906,
+  "lng": 4.8975,
+  "desc": "驛站長德魯埃在這裡認出國王；回程時一家人在這裡停下吃飯。",
+  "topic": "t-varennes",
+  "source": "s-1883-tourzel-memoires"
+ },
+ {
+  "name": "瓦雷納",
+  "lat": 49.2244,
+  "lng": 5.0328,
+  "desc": "1791 年 6 月 21 日晚上十一點半，國王的馬車在這裡被攔下。",
+  "topic": "t-varennes",
+  "source": "s-1883-tourzel-memoires"
+ },
+ {
+  "name": "克萊",
+  "lat": 48.9858,
+  "lng": 2.6942,
+  "desc": "費爾森扮成車夫，把國王一家送到這裡換乘驛馬車。",
+  "topic": "t-varennes",
+  "source": "s-1883-tourzel-memoires"
+ },
+ {
+  "name": "凱爾（萊茵河交接處）",
+  "lat": 48.5728,
+  "lng": 7.8094,
+  "desc": "1770 年，太子妃在這附近的萊茵河邊境被「交接」給法國。",
+  "topic": "t-handover",
+  "source": "s-1823-campan-memoires"
+ },
+ {
+  "name": "聖殿塔（今已拆除）",
+  "lat": 48.8665,
+  "lng": 2.361,
+  "desc": "1792–1793 年王室被囚禁的地方。",
+  "topic": "t-temple",
+  "source": "s-1798-clery-journal"
+ },
+ {
+  "name": "拉福斯監獄",
+  "lat": 48.8562,
+  "lng": 2.361,
+  "desc": "朗巴勒親王妃和圖澤爾夫人被關在這裡，1792 年 9 月的屠殺發生在此。",
+  "topic": "t-lamballe",
+  "source": "s-1883-tourzel-memoires"
+ },
+ {
+  "name": "古監獄（Conciergerie）",
+  "lat": 48.8562,
+  "lng": 2.3456,
+  "desc": "1793 年 8 月起，王后在這裡度過最後的兩個半月。",
+  "topic": "t-temple",
+  "source": "s-1852-marie-therese-temple"
+ },
+ {
+  "name": "路易十五廣場（今協和廣場）",
+  "lat": 48.8656,
+  "lng": 2.3212,
+  "desc": "1770 年婚禮煙火慘劇的地點。",
+  "topic": "t-handover",
+  "source": "s-1823-campan-memoires"
+ }
 ]

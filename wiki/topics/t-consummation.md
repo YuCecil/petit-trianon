@@ -29,17 +29,23 @@ updated: 2026-11-15
 
 1770 年 5 月，十四歲的奧地利公主嫁給了只比她大一歲的法國王太子。第一個夏天，梅西就向維也納回報：7 月 8 日兩人談了一次話，王太子說到了貢比涅（Compiègne）就要跟太子妃同住，達到「夫妻結合所應有的親密」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 25）。
 
+{{photo:t-consummation-wedding.jpg|約 1770 年為慶祝路易（後來的路易十六）與瑪麗．安東尼婚禮而製作的燈飾版畫，現藏卡納瓦雷博物館。|Wikimedia Commons，CC0}}
+
 9 月，王太子答應某一天晚上到太子妃房裡過夜，卻沒有做到，宮裡馬上傳出兩人鬧翻的流言（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 pp. 77–78）。梅西更擔心的是消息走漏：太子妃把這種事告訴了身邊的女官，他去信責備，說「婚姻的親密是神聖的祕密」，一旦外洩就無法挽回（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 pp. 78–79）。
 
 ### 一年一年過去
 
 兩年後，1772 年 6 月，梅西說兩人感情融洽，但婚姻「沒有被證實」，「目前只有希望」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 311）。1774 年，路易十五過世，十九歲的王太子成了路易十六，問題從王太子家的私事，變成了王位繼承的大事。這一年秋天，巴黎開始流傳國王動了手術的消息，女皇不信（[[s-1874-arneth-mercy-correspondance]] 第 2 冊，1774 年 10 月信）。坊間的誹謗小冊子更直接說國王「性無能」，女皇讀到了，還希望國王能出面反駁（[[s-1874-arneth-mercy-correspondance]] 第 2 冊）。在給梅西的信裡，她說女兒的婚姻是讓她唯一放不下的「那個要命的問題」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊）。
 
+{{photo:t-consummation-gautier.jpg|雅尼內（Janinet）1777 年的彩色版畫，據 Gautier-Dagoty 的王后肖像製作，是瑪麗．安東尼早年的形象；現藏洛杉磯郡立藝術博物館。|Wikimedia Commons，Public domain}}
+
 ### 哥哥出馬
 
 1777 年 4 月，女皇寫信說，法國駐維也納大使期待皇帝去過之後，王后的婚姻狀況「會有改變」，但她自己「希望多於相信」（[[s-1874-arneth-mercy-correspondance]] 第 3 冊約 pp. 38–39）。梅西則認為問題有一半在王后：她很少主動接近國王，這些疏忽「會造成致命的後果」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊約 pp. 38–39）。
 
 約瑟夫二世化名來到凡爾賽。他寫信給弟弟利奧波德，對妹妹的第一印象是：「王后是個漂亮的女人，但是個輕浮的人」，整天從一場娛樂趕往另一場（本站譯）（[[s-1867-arneth-maria-theresia-joseph]] 第 2 冊約 p. 131）。他寫道，國王受的教育不夠、外表不討喜，卻是個正直的人，只是活在「持續的冷漠」裡；王后「對國王毫無感覺」，又完全忽略他，但她「德行無虧」（本站譯）（[[s-1867-arneth-maria-theresia-joseph]] 第 2 冊 pp. 133–134）。
+
+{{photo:t-consummation-batoni.jpg|龐培歐．巴托尼（Pompeo Batoni）1769 年所畫的神聖羅馬皇帝約瑟夫二世與弟弟托斯卡納大公皮耶特羅．利奧波德的雙人肖像，現藏維也納美術史博物館。|Wikimedia Commons，Public domain}}
 
 據梅西報告，約瑟夫和國王單獨談過一次。國王主動提起自己的婚姻，說希望「很快就會有孩子」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊約 pp. 56–57）。臨走前，約瑟夫給妹妹留下一份長長的書面建議，其中一句是：「你已經沒有年紀小的藉口了。」（本站譯）（[[s-1866-arneth-marie-antoinette]] pp. 17–18）離開法國後，他在信裡說，自己真的跟妹妹很親，分別讓他很難過；他形容國王「有點軟弱，但一點也不笨」（本站譯）（[[s-1867-arneth-maria-theresia-joseph]] 第 2 冊約 pp. 138–139）。
 
@@ -63,6 +69,7 @@ updated: 2026-11-15
 - [[s-1866-arneth-marie-antoinette]]
 - [[s-1874-arneth-mercy-correspondance]]
 - [[s-2006-stamberg-npr-fraser]]
+- 相關故事：[[t-handover]]、[[t-dubarry]]
 
 ## 還不知道的事
 

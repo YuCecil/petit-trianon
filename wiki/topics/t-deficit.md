@@ -9,7 +9,7 @@ myth: 王后揮霍無度，一個人花光了法國的國庫，人稱「赤字�
 verdict: 半真半假
 image: t-deficit.jpg
 imageAlt: 粉彩畫風插畫：書桌上攤開一本大帳簿和一小堆金幣，窗邊架子上放著插滿羽毛的高聳假髮。
-sources: [s-1989-white-solution, s-1995-sargent-macroeconomic, s-1874-arneth-mercy-correspondance, s-1823-campan-memoires, s-1781-necker-compte-rendu, s-2006-stamberg-npr-fraser, s-2002-campion-vincent-marie-antoinette]
+sources: [s-1989-white-solution, s-1989-colwill-citoyenne, s-1995-sargent-macroeconomic, s-1874-arneth-mercy-correspondance, s-1823-campan-memoires, s-1781-necker-compte-rendu, s-2006-stamberg-npr-fraser, s-2002-campion-vincent-marie-antoinette]
 updated: 2026-11-15
 ---
 
@@ -20,6 +20,8 @@ updated: 2026-11-15
 ## 迷思與史料
 
 1781 年，財政總監內克（Jacques Necker）公布了給國王的財政報告。在報告列出的支出項目裡，王后的家用並沒有單獨列出，而是和國王、國王的妹妹、姑姑們併成同一項；相比之下，戰爭的特別經費一年約 6,520 萬里弗爾（livres）（[[s-1781-necker-compte-rendu]] 約 pp. 80–84）。傳記作家弗雷澤也認為，真正打亂法國預算的是支持美國獨立戰爭（[[s-2006-stamberg-npr-fraser]] 第 5 段）。
+
+{{photo:t-deficit-necker.jpg|杜普萊西（Duplessis）所畫內克肖像的版刻，1789 年出版，現藏美國國會圖書館。|Wikimedia Commons，Public domain}}
 
 所以判定是「半真半假」：王后花錢、賭博、帶動奢華都是真的；說她一個人拖垮國家財政，帳目上看不出來，財政史學者也不這麼認為（見「研究者怎麼看」）。
 
@@ -49,6 +51,8 @@ updated: 2026-11-15
 
 內克當時宣稱國家收入大於支出；但幾年後接任的卡隆（Calonne）卻發現了每年超過一億里弗爾的祕密赤字（[[s-1823-campan-memoires]] 第 3 冊附錄 p. 35）。這段時間，法國正出錢出兵幫美國打獨立戰爭。傳記作家弗雷澤認為，打亂法國預算的正是這場戰爭（[[s-2006-stamberg-npr-fraser]] 第 5 段）。
 
+{{photo:t-deficit-calonne.jpg|維傑．勒布倫 1784 年為財政總監卡隆（Charles-Alexandre de Calonne）所畫的肖像，現藏英國王室收藏。|Wikimedia Commons，Public domain}}
+
 ### 「赤字夫人」
 
 研究「讓他們吃蛋糕」的學者在結論裡提到，王后在世時被叫做「赤字夫人」和「否決夫人」，她的奢侈與私生活是無數歌謠、諷刺文和小冊子的攻擊目標（[[s-2002-campion-vincent-marie-antoinette]] 結論）。康龐夫人則堅決替王后辯護：她說王后一輩子沒從國庫拿過一分錢，「揮霍」是世人對王后所犯的錯誤中「最不可思議的一個」，而這個罪名之所以傳遍歐洲，是有人想把國家財政的爛攤子全推給宮廷（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 110 及原註；第 3 冊）。要記得，康龐夫人一輩子都是王后這邊的人。
@@ -60,17 +64,20 @@ updated: 2026-11-15
 - 弗雷澤認為，法國預算失衡的主因是支持美國革命，而不是王后（[[s-2006-stamberg-npr-fraser]]）。
 - 康龐夫人的辯護是當事人一方的說法，可信度要打折扣（[[s-1823-campan-memoires]]）。
 - 懷特認為，法國的財政其實不是無藥可救：1769 年財政總監泰雷（Terray）上任時，赤字已有 6,000 萬里弗爾、政府借無可借（[[s-1989-white-solution]] pp. 548–549）；美國獨立戰爭期間，內克靠 5 億 3,000 萬里弗爾的借款打仗，一般帳目卻在 1778 年平衡過（[[s-1989-white-solution]] p. 558）。真正讓危機變得無法收拾的，是 1781 年以後改革被推翻、1787 年名士會議拒絕加稅；他認為 1788–89 年的破產原本可以避免（[[s-1989-white-solution]] pp. 565–568）。在他的分析裡，宮廷開支不是主因（[[s-1989-white-solution]] pp. 552、568）。
+- 歷史學者科爾威爾（Elizabeth Colwill）研究革命時期攻擊王后的報刊：埃貝爾（Hébert）的通俗報紙《杜歇老爹》（*Le Père Duchesne*）在 1791 年 1 月到 1794 年 3 月間，有 14% 的期數標題拿王后當主角；報上還刊登一份偽造的「國王供詞」，指控王后掏空國庫、牽著國王的鼻子走（[[s-1989-colwill-citoyenne]] pp. 64、72）。她認為，王后的形象被拿來當反面教材，定義革命時代女人「應有的本分」（[[s-1989-colwill-citoyenne]] p. 74）。
 - 經濟學家薩金特（Thomas Sargent）與費爾德（François Velde）指出，法國在 1688 到 1788 年的英法戰爭裡一再違約，借錢的成本比英國高得多（[[s-1995-sargent-macroeconomic]] p. 474）。
 
 ## 延伸閱讀
 
 - [[s-1989-white-solution]]
+- [[s-1989-colwill-citoyenne]]
 - [[s-1995-sargent-macroeconomic]]
 - [[s-1874-arneth-mercy-correspondance]]
 - [[s-1781-necker-compte-rendu]]
 - [[s-1823-campan-memoires]]
 - [[s-2006-stamberg-npr-fraser]]
 - 名詞：[[e-campan]]
+- 相關故事：[[t-bertin]]、[[t-polignac]]、[[t-pouf]]
 
 ## 還不知道的事
 
