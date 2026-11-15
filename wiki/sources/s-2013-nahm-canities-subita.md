@@ -9,7 +9,7 @@ lang: en
 venue: International Journal of Trichology 5(2): 63–68（doi:10.4103/0974-7753.122959；PMC3877474）
 url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3877474/
 access: 公開
-depth: 摘要
+depth: 全文
 period: [1800, 2013]
 topics: [t-white-hair]
 entities: []
@@ -23,24 +23,26 @@ added: 2026-11-15
 
 ## 三個重點
 
-1. 196 篇個案依證據分為：44 篇可認證（authenticated）、82 篇未認證、37 篇軼事、33 篇不清楚（Introduction，摘要）。文中沒有列出各類「一夜」、「數天」、「數週」的人數統計。
-2. 文中的例子大多是數小時到數週的變化：例如 Raymond 的個案約 5 小時變色；Parry 的個案約半小時；Landois 的個案「overnight」（摘要，未見頁碼）。這些例子多來自 19 世紀醫學文獻，也是最常被引用的「一夜變白」來源。
-3. 作者不主張已有確定證據。原文說「沒有決定性證據」能在沒有斑禿的情況下快速發生，並呼籲系統性研究（Discussion，摘要）。
+1. 196 篇個案依證據分為：44 篇可認證（authenticated，作者親眼見到變色）、82 篇未認證（作者看到時已經變色）、37 篇軼事（只是聽人說）、33 篇不清楚（Introduction）。全文沒有統計「一夜」「數天」「數週」各有幾篇。
+2. 最常被引用的「一夜」來源是 19 世紀個案：Brown-Séquard 自己的鬍鬚白毛「apparently overnight」變白（Studies concerning color changes of single hairs）；Landois 1866 的病人在住院第 4 天早上「overnight」由金髮變灰，作者在毛髮中發現空氣包，用水、醚或松節油浸泡後顏色恢復（psychiatric disorders 段）。Raymond 個案約 5 小時變色；Parry 個案約半小時變灰（emotional stress 段）。
+3. 作者不主張已有確定證據。斑禿只能解釋 44 篇可認證個案中的 6 篇，以及 82 篇未認證個案中的 16 篇（Discussion）。結論是「在沒有斑禿的情況下快速變白，仍然沒有決定性證據」，並呼籲系統性研究。
 
 ## 用了什麼史料
 
-以 1800 年代到 2000 年代的醫學個案報告為主，沒有直接討論瑪麗．安東尼或康龐夫人。
+以 1800 年代到 2000 年代的醫學個案報告為主，涵蓋荷、英、法、德、義、西班牙文獻（Introduction）。全文沒有直接討論瑪麗．安東尼或康龐夫人。
 
 ## 跟其他資料的關係
 
-- 作者群與 s-2009-navarini-marie-antoinette 同一團隊，承接其「斑禿變體」框架。
-- 本文沒有提到康龐夫人，也沒有提到瑪麗．安東尼的傳說內容，只在參考書目中引用 2009 年的短文。
+- 參考文獻第 3 條是 Navarini, Nobbe & Trüeb 2009 的「Marie Antoinette syndrome」短文，作者群與 s-2009-navarini-marie-antoinette 有重疊，承接其「斑禿變體」框架。
+- 參考文獻第 49 條是 s-2008-skellett-sudden-whitening（Skellett et al. 2008），在 Discussion 的「其他假說」段被引用。
+- 全文沒有提到康龐夫人，也沒有提到瑪麗．安東尼的傳說內容。
 
 ## 值得記住的一句話
 
-<!-- 原文未取得全文（PDF 下載被驗證頁擋住），不附原文引文 -->
+「the observation of viable hair losing color along the axis within a timespan shorter than its growth rate remain as yet unexplained」（活著的毛髮沿著軸向在比生長速度還短的時間內失去顏色，目前仍然無法解釋）（Abstract）。
 
 ## 還不確定的地方
 
-- 本卡只來自 WebFetch 摘要，未取得全文，頁碼與段落只能用章節名稱標示。
-- 原始 PDF 的 curl 下載被 PMC 的 reCAPTCHA 擋住，需要在瀏覽器或台大 VPN 下載才能讀全文。
+- PMC 全文 XML 沒有頁碼，只能用章節名稱標示。
+- 論文本身是「個案回顧」，作者自己承認 44 篇可認證個案的時間跨度從數小時到數週，並不都是「一夜」。
+- 數字（44 / 82 / 37 / 33、斑禿 6 與 16）只來自本文的 Introduction 與 Discussion，沒有交叉驗證。

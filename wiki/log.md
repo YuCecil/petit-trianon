@@ -15,3 +15,8 @@
 
 ## [2026-11-15] art | 吉祥物王后的小狗
 - 新增：mascot.png、mascot-about.png、mascot-404.png（Gemini 生成，主 session 寫提示詞、檢查、去背）
+
+## [2026-11-15] ingest | 擴寫第一批故事（第一輪）
+- 更新：t-necklace、t-fersen、t-hameau、t-chemise、t-varennes 擴寫為 8–11 段，大量取自康龐、梅西通信、費爾森日記、圖澤爾、維傑．勒布倫原文（主 session 逐條抽查原文）
+- 發現：費爾森日記寫邦迪、圖澤爾寫克萊；康龐說王后「看人擠牛奶」（第 1 冊 p. 298）；卡爾 1841 年 11 月號《黃蜂》已把「布里歐」安到王后頭上（早於研究者說的 1843）
+- 待做：t-cake、t-deficit、t-white-hair、t-consummation、t-coppola 的擴寫材料已在 raw/notes/expand-*.md，尚未寫進故事頁；需替卡爾 1841 建資料卡
