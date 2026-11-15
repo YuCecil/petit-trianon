@@ -1,7 +1,7 @@
 {
- "built": "2026-11-15",
+ "built": "2026-11-16",
  "counts": {
-  "sources": 30,
+  "sources": 32,
   "fulltext": 7,
   "topics": 10,
   "entities": 3,
@@ -161,6 +161,34 @@
     "t-chemise",
     "t-hameau",
     "t-varennes"
+   ]
+  },
+  {
+   "id": "s-1841-karr-guepes",
+   "type": "source",
+   "title": "Les Guêpes（《黃蜂》），1841 年 11 月號",
+   "author": "Alphonse Karr",
+   "year": 1841,
+   "kind": "報刊",
+   "lang": "fr",
+   "venue": "巴黎月刊《黃蜂》；Project Gutenberg 電子書 42798（séries 3 & 4，Michel Lévy 再版）",
+   "url": "https://www.gutenberg.org/ebooks/42798",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1841,
+    1841
+   ],
+   "topics": [
+    "t-cake"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n諷刺作家卡爾在 1841 年 11 月號的《黃蜂》裡，已經把「沒有麵包就吃布里歐」當成「一句據說是瑪麗．安東尼說的話」來引用，早於研究者過去認定的 1843 年。\n\n## 三個重點\n\n1. 原句是「S'il n'y a pas de pain, on mangera de la brioche」（沒有麵包，就吃布里歐吧），卡爾稱之為「一句真假難辨、據說是瑪麗．安東尼說的話」（mot vrai ou faux qu'on rapporte de Marie-Antoinette）。\n2. 上下文是在諷刺《辯論日報》（*Journal des Débats*）建議窮苦工人去存錢，不是在攻擊王后本人；他接著又舉霍亂時期警察局長勸人民「喝波爾多紅酒」的例子，說當局常有這種「高見」。\n3. 「據說」兩個字表示，1841 年時這句話安在王后頭上已經是流傳中的說法，不是卡爾發明的。\n\n## 用了什麼史料\n\n卡爾本人的月刊評論。\n\n## 跟其他資料的關係\n\n[[s-2002-campion-vincent-marie-antoinette]] 說目前找到最早把這句話連到王后的是卡爾 1843 年 3 月號（pp. 85–86）；本卡顯示 1841 年 11 月號已出現，兩者並不矛盾（同一作者可能提過不只一次），但最早年份應往前推。\n\n## 值得記住的一句話\n\n原文：「Cet aperçu rappelle le mot vrai ou faux qu'on rapporte de Marie-Antoinette」／中譯：「這番高見，讓人想起那句真假難辨、據說是瑪麗．安東尼說的話」（1841 年 11 月號）\n\n## 還不確定的地方\n\n- Gutenberg 版沒有原書頁碼，本卡以月號定位（文字檔第 5521 行，位於「Novembre 1841」與「Décembre 1841」之間）。\n- 1843 年 3 月號那一段（研究者引用的版本）還沒讀到原文。\n",
+   "links": [
+    "s-2002-campion-vincent-marie-antoinette",
+    "t-cake"
    ]
   },
   {
@@ -382,6 +410,33 @@
    "body": "## 一句話\n\nSainte-Menehould 驛站長 Drouet 在 1791 年 6 月 24 日向制憲國民議會口頭陳述他如何認出國王，是最接近第一手、事發三天後的記錄；但陳述人本人有領賞的利害，原文 OCR 殘缺，引文需對照原頁。\n\n## 三個重點\n\n1. 他的說法：一開始「crut reconnaître la reine」（以為認出王后），然後被一個人與五十里弗爾 assignat 上的頭像「ressemblance subite」（突然的相似）打動（頁 508，OCR 可辨識）。\n2. 他自述猶豫：怕是假警報，先與同伴 Guillaume 商量，之後騎馬走小路先趕到 Varennes，並在城裡設置障礙、通知居民（頁 508–509，OCR 殘缺）。\n3. 這段陳述與 Tourzel 回憶錄（頁 316）都提到 assignat，但細節不同：Drouet 說一開始以為是王后；Tourzel 說是「crut reconnaître le Roi」。\n\n## 用了什麼史料\n\n議會記錄（主持人 Beauharnais 在 1887 年版中的紀錄），是當時的口頭陳述；並非 Drouet 親筆。\n\n## 跟其他資料的關係\n\n- 與 Tourzel 回憶錄（s-1883-tourzel-memoires，頁 316、318）：在 assignat 與 Varennes 城內的障礙等處大致一致（Drouet 段落 OCR 殘缺，需對照原頁）。\n- 與 1791 年 8 月 18 日獎賞法令（s-1887-ap-varennes-reward）相連：陳述後議會給獎；Drouet 的獎金金額未在本次 OCR 中確認。\n- 英文維基說 Drouet 是「Legislative Assembly」邀請陳述；本紀錄的議會是制憲國民議會（Assemblée nationale），此處以原紀錄為準。\n\n## 值得記住的一句話\n\n原文：「je crus reconnaître la reine que j'avais déjà vue」（頁 508，OCR 句子，需對照原頁）\n中譯：「我以為認出了王后，我之前見過她。」（本站譯）\n\n## 還不確定的地方\n\n- OCR 嚴重斷字，大部分句子只能拼湊，逐字引用前必須對照 Gallica 或 Persée 掃描頁。\n- 到達 Sainte-Menehould 的確切時刻未能確認（OCR 讀成 \"sept\" 或 \"11\" 之類）。\n- 主持人答覆（頁 509）未讀。\n- 陳述人有領賞利害，陳述內容未經獨立核對。\n",
    "links": [
     "t-varennes"
+   ]
+  },
+  {
+   "id": "s-1995-sargent-macroeconomic",
+   "type": "source",
+   "title": "Macroeconomic Features of the French Revolution",
+   "author": "Thomas J. Sargent; François R. Velde",
+   "year": 1995,
+   "kind": "期刊論文",
+   "lang": "en",
+   "venue": "Journal of Political Economy 103(3), pp. 474-518",
+   "url": "https://www.jstor.org/stable/2138696",
+   "access": "台大資料庫",
+   "depth": "部分",
+   "period": [
+    1774,
+    1795
+   ],
+   "topics": [
+    "t-deficit"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n用政府預算限制的理論解釋大革命財政：路易十六即位後債務與利息上升，三級會議與之後的紙幣實驗都與財政壓力有關。\n\n## 三個重點\n\n1. 1774 年路易十六承諾承認王室債務，但稅制改革不均，「不違約」的壓力超過徵稅能力，使 1789 年前債務與利息支出上升（p. 474）。\n2. 1688–1788 年英法戰爭中，英國贏三場、法國輸三場，法國多次違約，英國沒有（p. 474）。\n3. 國民議會以沒收的教會土地為擔保發行紙幣，財政問題由此轉為土地與紙幣的管理問題（p. 475）。\n\n## 用了什麼史料\n\n理論框架為政府預算限制與財政算術。本次只讀到引言（pp. 474–475），沒有讀到以檔案或數字為主的章節。\n\n## 跟其他資料的關係\n\n引言的框架是制度與稅收，而非宮廷消費。腳註引用 Conklin (1993) 討論「改革」與「違約」的界線（p. 474 腳註 1）。\n\n## 值得記住的一句話\n\n本次不摘錄原文，避免重製全文。\n\n## 還不確定的地方\n\n- 1780 年代赤字的具體數字、戰爭借款與宮廷支出占比：本次未讀到，需要讀後面章節。\n- 目前 depth 為「部分」，只涵蓋引言兩頁。\n",
+   "links": [
+    "t-deficit"
    ]
   },
   {
@@ -855,21 +910,23 @@
    "category": "迷思",
    "period": [
     1765,
-    1843
+    1997
    ],
-   "summary": "這句話比她嫁到法國還早出現，五十年後才被安到她頭上。",
+   "summary": "革命時罵她的小冊子成千上萬，卻沒有一本提過這句話。",
    "myth": "聽說百姓沒有麵包吃，王后說：「那就讓他們吃蛋糕吧。」",
    "verdict": "查無實據",
    "image": "t-cake.jpg",
    "imageAlt": "粉彩畫風插畫：窗邊木桌上，藍邊瓷盤裡放著一個金黃色的布里歐麵包，旁邊是攤開的舊書和羽毛筆。",
    "sources": [
     "s-2002-campion-vincent-marie-antoinette",
-    "s-1782-rousseau-confessions"
+    "s-1782-rousseau-confessions",
+    "s-1841-karr-guepes"
    ],
    "updated": "2026-11-15",
-   "body": "## 一句話說明\n\n這是她最有名的一句話，但她很可能從沒說過：這句話在她還是奧地利小女孩時就已經被寫下，到她死後約五十年才第一次跟她的名字連在一起。\n\n## 迷思與史料\n\n目前找得到的最早書面版本，在盧梭（Jean-Jacques Rousseau）的自傳《懺悔錄》第六卷：他回憶「一位偉大的公主」聽說鄉下人沒有麵包，就說「那就讓他們吃布里歐（brioche）吧」。這位公主沒有名字（[[s-1782-rousseau-confessions]] 卷六）。研究這句話流傳史的兩位學者指出，盧梭在 1765 年就寫完了第一到六卷，而瑪麗．安東尼要到 1770 年才嫁到法國，所以盧梭不可能在講她（[[s-2002-campion-vincent-marie-antoinette]] PDF 第 12 頁）。\n\n她們找到第一份把這句話安到瑪麗．安東尼頭上的文字，是作家卡爾（Alphonse Karr）1843 年 3 月在諷刺刊物《黃蜂》（*Les Guêpes*）裡寫的；而且卡爾自己說，這是她的敵人散布、用來攻擊她的謠言（[[s-2002-campion-vincent-marie-antoinette]] PDF 第 8 頁、註 20）。這時距離她上斷頭台已經五十年。\n\n## 故事是這樣的\n\n1730 年代，年輕的盧梭寄住在別人家，偷偷弄到幾瓶葡萄酒想在房間裡喝，卻發現沒有麵包配不下去。叫僕人去買太丟臉，自己一個「腰間佩劍的紳士」走進麵包店也太丟臉。這時他想起「一位偉大的公主」的蠢話：沒有麵包，就吃布里歐吧。於是他走遍城裡三十家糕點店，卻一家也不敢進去（[[s-1782-rousseau-confessions]] 卷六）。這段尷尬的小插曲，就是這句名言目前已知最早的法文出處。\n\n布里歐不是我們想像中插著蠟燭的蛋糕，而是用奶油和雞蛋做的軟麵包，在糕點店買得到，比一般麵包貴。英文世界後來把它翻成 cake，才變成今天大家熟悉的「讓他們吃蛋糕」；《懺悔錄》的古老英譯本裡，這句話其實寫成「讓他們吃糕點（pastry）」（[[s-1782-rousseau-confessions]] 卷六英譯本）。\n\n這個笑話比盧梭還要老。研究者在 16 世紀的德文笑話集裡就找到同樣的結構：有權有勢的人聽說窮人沒東西吃，說出一句完全搞不清楚狀況的回答，只是德文版說得更粗俗。拉脫維亞的民間故事裡，說這話的是德國地主；中國也有晉惠帝「何不食肉糜」的故事（[[s-2002-campion-vincent-marie-antoinette]] PDF 第 7–8 頁）。\n\n在法國，這句話也不是只屬於瑪麗．安東尼。大革命前，人們常把它安到國王的姑姑維克托瓦夫人（Madame Victoire）、或龐巴度夫人、杜巴利夫人這類受寵的貴婦頭上（[[s-2002-campion-vincent-marie-antoinette]] PDF 第 6 頁）。1791 年，路易十六的弟弟（後來的路易十八）在回憶錄裡講了個家族笑話：一百年前路易十四的王后瑪麗－泰蕾絲說過「天哪，他們為什麼不吃點派皮呢？」（本站譯）（[[s-2002-campion-vincent-marie-antoinette]] PDF 第 13 頁）。\n\n所以這句話比較像一個「流動的笑話」：每當有饑荒、有人想罵上位者不食人間煙火，就把它借來，安到當時最惹人厭的那位貴婦身上。研究者認為，這句話的功能一直是攻擊，而不是紀錄某人真的說過什麼（[[s-2002-campion-vincent-marie-antoinette]] PDF 第 1–2 頁）。\n\n## 研究者怎麼看\n\n- 流傳史研究者坎皮翁－文森（Véronique Campion-Vincent）與肖賈伊．卡萬（Christine Shojaei Kawan）把這句話歸入國際民間故事分類裡的同一型笑話，認為它是在 1843 年才被固定到瑪麗．安東尼身上（[[s-2002-campion-vincent-marie-antoinette]]）。\n- 她們也指出，有些辭典把盧梭的段落當成瑪麗．安東尼說過這句話的證據，這是年代上的錯誤（[[s-2002-campion-vincent-marie-antoinette]] PDF 第 12 頁）。\n- 盧梭寫第六卷的確切年份，各家說法在 1765 到 1769 年之間，但都早於 1770 年她嫁到法國，不影響結論（[[s-2002-campion-vincent-marie-antoinette]]）。\n\n## 延伸閱讀\n\n- [[s-2002-campion-vincent-marie-antoinette]]\n- [[s-1782-rousseau-confessions]]\n\n## 還不知道的事\n\n- 卡爾提到的那本「1760 年的書」是哪一本，研究者也沒找到。\n- 英文什麼時候開始把 brioche 譯成 cake，目前沒有找到學術來源。\n- 想再補：Antonia Fraser 的傳記、Chantal Thomas《邪惡的王后》（*The Wicked Queen*）裡對這句話的討論。\n",
+   "body": "## 一句話說明\n\n這是她最有名的一句話，但她很可能從沒說過：這句話在她還是奧地利小女孩時就已經被寫下，革命期間成千上萬的反王后小冊子沒有一本提過它，要到她死後將近五十年，才開始和她的名字連在一起。\n\n## 迷思與史料\n\n目前找得到的最早法文版本，在盧梭（Jean-Jacques Rousseau）的自傳《懺悔錄》第六卷：他回憶「一位偉大的公主」聽說鄉下人沒有麵包，就說「那就讓他們吃布里歐（brioche）吧」。這位公主沒有名字（[[s-1782-rousseau-confessions]] 卷六）。研究這句話流傳史的兩位學者指出，盧梭在 1765 年就寫完了第一到六卷，而瑪麗．安東尼要到 1770 年才嫁到法國，所以盧梭不可能在講她（[[s-2002-campion-vincent-marie-antoinette]] 「盧梭與路易十八」一節）。\n\n更有力的證據是「沒有」。王后生前和革命期間，攻擊她的歌謠、漫畫、誹謗小冊子多得數不清，罵她酗酒、淫亂、揮霍國庫，連亂倫都編得出來；但研究者翻遍了這些材料，「沒有一行」把這句話安在她身上。研究革命報刊的學者也說沒見過，19 世紀的法國小學課本裡同樣找不到（本站譯）（[[s-2002-campion-vincent-marie-antoinette]] 「三種傳播層次」一節）。\n\n本站找到最早把這句話和王后連在一起的文字，是諷刺作家卡爾（Alphonse Karr）在 1841 年 11 月號的月刊《黃蜂》（*Les Guêpes*）裡寫的。他稱之為「一句真假難辨、據說是瑪麗．安東尼說的話」（本站譯）（[[s-1841-karr-guepes]]）。研究者先前找到的是同一位作家 1843 年 3 月號的段落，他在那裡說這是王后的敵人散布的謠言（[[s-2002-campion-vincent-marie-antoinette]] 註 20）。這時距離她上斷頭台已經將近五十年。所以判定是「查無實據」。\n\n## 故事是這樣的\n\n### 一個比王后還老的笑話\n\n1730 年代，年輕的盧梭寄住在別人家，偷偷弄到幾瓶葡萄酒想在房間裡喝，卻發現沒有麵包配不下去。叫僕人去買太丟臉，自己一個「腰間佩劍的紳士」走進麵包店也太丟臉。這時他想起「一位偉大的公主」的蠢話：沒有麵包，就吃布里歐吧。於是他走遍城裡三十家糕點店，卻一家也不敢進去（[[s-1782-rousseau-confessions]] 卷六）。這段尷尬的小插曲，就是這句名言目前已知最早的法文出處。\n\n布里歐不是我們想像中插著蠟燭的蛋糕，而是用奶油和雞蛋做的軟麵包，在糕點店買得到，比一般麵包貴。英文世界後來把它翻成 cake，才變成今天大家熟悉的「讓他們吃蛋糕」；《懺悔錄》的古老英譯本裡，這句話其實寫成「讓他們吃糕點（pastry）」（[[s-1782-rousseau-confessions]] 卷六英譯本）。\n\n這個笑話比盧梭還要老。研究者在 16 世紀的德文笑話集裡，就找到同樣的結構：有權有勢的人聽說窮人沒東西吃，說出一句完全搞不清楚狀況的回答，只是德文版說得粗俗得多。拉脫維亞的民間故事裡，說這話的是德裔地主；中國也有晉惠帝「何不食肉糜」的故事。民俗學家甚至替這類故事編了一個國際分類號碼（AaTh 1446）（[[s-2002-campion-vincent-marie-antoinette]] 「德文與法文的歷史版本」一節）。\n\n### 在法國，它換過好幾個主人\n\n在法國，這句話也不是只屬於瑪麗．安東尼。大革命前，人們常把它安到國王的姑姑維克托瓦夫人（Madame Victoire）、或龐巴度夫人、杜巴利夫人這類受寵的貴婦頭上（[[s-2002-campion-vincent-marie-antoinette]] 「18 世紀的歸屬」一節）。1791 年，路易十六的弟弟（後來的路易十八）在回憶錄裡講了個家族笑話：一百年前路易十四的王后瑪麗－泰蕾絲說過「天哪，他們為什麼不吃點派皮呢？」（本站譯）（[[s-2002-campion-vincent-marie-antoinette]] 「盧梭與路易十八」一節）\n\n研究者整理了上百個版本，發現一個有趣的規律：說這句話的如果是女人，故事要嘲笑的是她「笨」、不知人間疾苦；說話的如果是男人，故事就變成「殘忍」，是在羞辱窮人（[[s-2002-campion-vincent-marie-antoinette]] 「三種指控方式」一節）。瑪麗．安東尼的版本屬於前者。\n\n### 卡爾的玩笑話\n\n1841 年 11 月，卡爾在《黃蜂》裡嘲笑《辯論日報》給失業工人的建議：去銀行存錢。他說，這番高見讓人想起那句「據說是瑪麗．安東尼說的話」：「沒有麵包，就吃布里歐吧。」緊接著他又舉一個例子：霍亂流行時，巴黎警察局長貼出告示，勸人民別吃壞東西、多喝波爾多紅酒（[[s-1841-karr-guepes]]）。卡爾要諷刺的是當局，不是王后；王后只是一個大家都懂的比喻。\n\n「據說」兩個字很重要。它表示到了 1841 年，這句話安在王后頭上，已經是巴黎人聽過的說法，卡爾只是順手借來用（[[s-1841-karr-guepes]]）。\n\n### 一本童書把它帶進教室\n\n這句話最廣為流傳的版本，出自一本童書。1931 年，德國作家凱斯特納（Erich Kästner）在小說《小不點和安東》裡寫了一段：巴黎的窮人走到凡爾賽，在王宮前喊「我們沒有麵包」，王后從窗戶探頭，問軍官他們要什麼，聽了以後很驚訝：「他們沒有麵包？那就吃布里歐吧！」書裡接著說，她不是在嘲笑窮人，她只是根本不知道什麼是貧窮，「一年後她就被砍了頭」（本站譯）（[[s-2002-campion-vincent-marie-antoinette]] 「兩種場景」一節）。研究者指出，這本書到 1999 年已經印到第 117 版、翻成 25 種語言，在德國對這個故事的傳播影響很大；而它連時間都搞錯了，王后被處決是在那次遊行四年之後（[[s-2002-campion-vincent-marie-antoinette]] 「兩種場景」一節及註 2）。\n\n### 為什麼偏偏是她\n\n這句話到今天還在被引用。1997 年，法國哲學家芬基爾克勞（Alain Finkielkraut）在雜誌訪談中拿它比喻菁英對窮人說教；讀者馬上投書抗議，說這是一句「先後安在龐巴度夫人、杜巴利夫人和瑪麗．安東尼頭上的假話」（本站譯）（[[s-2002-campion-vincent-marie-antoinette]] 「當代的用法」一節）。研究者說，連學者一離開自己的專業，也會把這句話當真；反倒是研究法國大革命的歷史學家，幾乎都不提它（[[s-2002-campion-vincent-marie-antoinette]] 「當代的用法」一節）。\n\n研究者的結論是：王后在世時的形象非常負面，人們叫她「赤字夫人」「否決夫人」，鑽石項鍊事件又讓她名聲更壞。但時間一久，這些複雜的政治與私人恩怨太難記了；「讓他們吃布里歐」簡單、直接、好記，於是變成了整個革命前時代的縮寫：饑荒、剝削，加上貴族的輕浮與傲慢。其他曾經「說過」這句話的人慢慢被遺忘，只剩下最有象徵意義的她（[[s-2002-campion-vincent-marie-antoinette]] 結論）。\n\n## 研究者怎麼看\n\n- 民俗學者坎皮翁－文森（Véronique Campion-Vincent）與肖賈伊．卡萬（Christine Shojaei Kawan）把這句話歸入國際民間故事分類裡的同一型笑話，認為它跟王后的連結是後人加上的，而且主要在一般讀物和民間流傳，嚴肅的歷史著作幾乎不提它（[[s-2002-campion-vincent-marie-antoinette]]）。\n- 她們也指出，民俗學大師湯普森（Stith Thompson）在分類這個故事時寫道，不管王后犯過什麼錯，她都不太可能說過這麼殘忍的話（[[s-2002-campion-vincent-marie-antoinette]] 「兩種場景」一節）。\n- 法國大革命史家勒費弗爾（Georges Lefebvre）在名著《1789 年大恐慌》裡，也把這句話當成錯誤的歸屬（[[s-2002-campion-vincent-marie-antoinette]] 「三種傳播層次」一節及註 28）。\n- 盧梭寫第六卷的確切年份，各家說法在 1765 到 1769 年之間，但都早於 1770 年她嫁到法國，不影響結論（[[s-2002-campion-vincent-marie-antoinette]]）。\n\n## 延伸閱讀\n\n- [[s-2002-campion-vincent-marie-antoinette]]\n- [[s-1782-rousseau-confessions]]\n- [[s-1841-karr-guepes]]\n\n## 還不知道的事\n\n- 卡爾 1843 年 3 月號那一段、以及他提到的「1760 年的書」，本站還沒讀到原文。\n- 1841 年以前，有沒有其他人把這句話安到王后頭上？還需要搜尋 19 世紀初的報刊與回憶錄。\n- 英文什麼時候開始把 brioche 譯成 cake，目前沒有找到學術來源。\n- 想再補：Chantal Thomas《邪惡的王后》（*La Reine scélérate*, 1989）裡對反王后小冊子的整理。\n",
    "links": [
     "s-1782-rousseau-confessions",
+    "s-1841-karr-guepes",
     "s-2002-campion-vincent-marie-antoinette"
    ]
   },
@@ -1298,6 +1355,14 @@
    "t-varennes"
   ],
   [
+   "s-1841-karr-guepes",
+   "s-2002-campion-vincent-marie-antoinette"
+  ],
+  [
+   "s-1841-karr-guepes",
+   "t-cake"
+  ],
+  [
    "s-1866-arneth-marie-antoinette",
    "t-consummation"
   ],
@@ -1340,6 +1405,10 @@
   [
    "s-1887-drouet-barre",
    "t-varennes"
+  ],
+  [
+   "s-1995-sargent-macroeconomic",
+   "t-deficit"
   ],
   [
    "s-2002-campion-vincent-marie-antoinette",
@@ -1432,6 +1501,10 @@
   [
    "t-cake",
    "s-1782-rousseau-confessions"
+  ],
+  [
+   "t-cake",
+   "s-1841-karr-guepes"
   ],
   [
    "t-cake",
@@ -1785,6 +1858,11 @@
    "date": "2026-11-15",
    "kind": "art",
    "title": "吉祥物王后的小狗"
+  },
+  {
+   "date": "2026-11-15",
+   "kind": "ingest",
+   "title": "擴寫第一批故事（第一輪）"
   }
  ],
  "timeline": [

@@ -130,7 +130,7 @@ def main():
             sm = re.search(r"^## 故事是這樣的\s*\n(.*?)(?=^## |\Z)", p["body"], re.M | re.S)
             if sm:
                 for para in [x for x in sm.group(1).split("\n\n") if x.strip()]:
-                    if "[[s-" not in para and not para.strip().startswith(("（推論）", "{{", ">")):
+                    if "[[s-" not in para and not para.strip().startswith(("（推論）", "{{", ">", "#")):
                         warn(name, f"「故事是這樣的」有段落沒有標出處：{para.strip()[:20]}…")
         # 連結
         for l in links_of(p):

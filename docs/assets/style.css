@@ -233,3 +233,20 @@ code{font-size:.9em;background:var(--sheet);border:1px solid var(--line);padding
 /* 資料卡、名詞頁的標題通常是長書名，字級降一階；表頭不換行 */
 .page-h:not(.glaze-h) h1{font-family:var(--serif-tc);font-size:clamp(24px,3vw,32px);line-height:1.4}
 .lib th{white-space:nowrap}
+
+/* 註釋：上標註號、原地展開、文末收合（CLAUDE.md 8.4） */
+.fn{line-height:0}
+.fn-b{font:600 11.5px/1 var(--sans);color:var(--link);background:none;border:0;padding:0 2px;cursor:pointer;vertical-align:super}
+.fn-b:hover,.fn-b[aria-expanded="true"]{color:var(--gilt-ink)}
+.fn-pop{display:block;margin:8px 0 10px;padding:10px 14px;background:var(--sheet);border:1px solid var(--line);font-size:14.5px;line-height:1.7;color:var(--muted)}
+.fn-pop .ref{font-size:1em}
+.notes{margin-top:44px;border-top:1px solid var(--line);padding-top:6px}
+.notes summary{cursor:pointer;font-family:var(--serif-tc);font-size:17px;padding:10px 0;color:var(--ink)}
+.notes ol{margin:6px 0 0;padding-left:2em;font-size:14.5px;line-height:1.75;color:var(--muted)}
+.notes li{margin:4px 0}
+.notes .ref{font-size:1em;white-space:normal}
+/* 真實圖片（CLAUDE.md 8.5） */
+.photo{margin:28px 0}
+.photo img{display:block;width:100%;height:auto;background:var(--sheet)}
+.photo figcaption{font-size:14.5px;color:var(--muted);margin-top:8px;line-height:1.6}
+.photo figcaption small{display:block;font-size:12.5px;margin-top:2px}

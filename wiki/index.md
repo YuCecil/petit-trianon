@@ -1,12 +1,12 @@
 # 目錄（index）
 
-> 由 `tools/build.py` 自動產生於 2026-11-15，不要手改。
+> 由 `tools/build.py` 自動產生於 2026-11-16，不要手改。
 
-資料卡 30 張（全文 7）｜主題 10｜實體 3｜問答 0
+資料卡 32 張（全文 7）｜主題 10｜實體 3｜問答 0
 
 ## 主題頁
 
-- [[t-cake]] 讓他們吃蛋糕：一句她沒說過的話 — 這句話比她嫁到法國還早出現，五十年後才被安到她頭上。
+- [[t-cake]] 讓他們吃蛋糕：一句她沒說過的話 — 革命時罵她的小冊子成千上萬，卻沒有一本提過這句話。
 - [[t-chemise]] 穿內衣見人？一幅肖像引起的醜聞 — 一件白紗裙被罵成內衣，後來卻變成全歐洲的流行。
 - [[t-consummation]] 七年沒有圓房：哥哥從維也納來「開導」 — 全歐洲都在等一個王位繼承人，而國王夫婦七年多都沒有圓房。
 - [[t-coppola]] 《凡爾賽拜金女》哪些是真的：從電影走進史料 — 粉紅色的馬卡龍和那雙 Converse，背後各自有一段真正的歷史。
@@ -30,6 +30,7 @@
 - [[s-1789-la-motte-justification]] Memoirs of the Countess de Valois de La Motte（拉莫特夫人回憶錄，英譯本） — Jeanne de Saint-Rémy de Valois, comtesse de La Motte（1789）｜回憶錄｜部分
 - [[s-1823-campan-memoires]] Mémoires sur la vie privée de Marie-Antoinette, reine de France et de Navarre（三卷本，1823） — Jeanne-Louise-Henriette Campan（康龐夫人，1752–1822）；編者 F. Barrière（1823）｜回憶錄｜部分
 - [[s-1835-vigee-le-brun-souvenirs]] Souvenirs de Madame Louise-Élisabeth Vigée-Lebrun（三卷，1835–1837） — Louise-Élisabeth Vigée Le Brun（1755–1842）（1835）｜回憶錄｜部分
+- [[s-1841-karr-guepes]] Les Guêpes（《黃蜂》），1841 年 11 月號 — Alphonse Karr（1841）｜報刊｜部分
 - [[s-1866-arneth-marie-antoinette]] Marie Antoinette, Joseph II. und Leopold II. Ihr Briefwechsel — Alfred Ritter von Arneth（編）（1866）｜書信｜部分
 - [[s-1867-arneth-maria-theresia-joseph]] Maria Theresia und Joseph II. Ihre Correspondenz sammt Briefen Joseph's an seinen Bruder Leopold, Zweiter Band (1773–1778) — Alfred Ritter von Arneth（編）（1867）｜書信｜部分
 - [[s-1874-arneth-mercy-correspondance]] Marie-Antoinette. Correspondance secrète entre Marie-Thérèse et le comte de Mercy-Argenteau（三卷，1874） — 瑪麗亞．特蕾莎、瑪麗．安東尼、梅西－阿爾讓托（書信作者）；編者 Alfred von Arneth（導論與註）、Auguste Geffroy（評註）（1874）｜書信｜部分
@@ -38,6 +39,7 @@
 - [[s-1883-tourzel-memoires]] Mémoires de Madame la duchesse de Tourzel（第一卷，1791 年「Voyage de Varennes」一節） — 杜爾澤夫人（Duchesse de Tourzel，名字全稱待核）（1883）｜回憶錄｜部分
 - [[s-1887-ap-varennes-reward]] Décret accordant des récompenses à l'occasion de l'arrestation du roi（1791 年 8 月 18 日，Archives parlementaires，第 29 卷） — Archives parlementaires（集體紀錄）（1887）｜檔案｜部分
 - [[s-1887-drouet-barre]] Admission de M. Drouet à la barre, lors de la séance du 24 juin 1791（Archives parlementaires，第 27 卷） — Jean-Baptiste Drouet（陳述人）；Archives parlementaires（1887 年版）（1887）｜檔案｜部分
+- [[s-1995-sargent-macroeconomic]] Macroeconomic Features of the French Revolution — Thomas J. Sargent; François R. Velde（1995）｜期刊論文｜部分
 - [[s-2002-campion-vincent-marie-antoinette]] Marie-Antoinette et son célèbre dire：deux scénographies et deux siècles de désordres, trois niveaux de communication et trois modes accusatoires — Véronique Campion-Vincent; Christine Shojaei Kawan（2002）｜期刊論文｜部分
 - [[s-2003-tackett-king]] When the King Took Flight — Timothy Tackett（2003）｜專書｜書目
 - [[s-2005-ozouf-varennes]] Varennes. La mort de la royauté (21 juin 1791) — Mona Ozouf（2005）｜專書｜書目

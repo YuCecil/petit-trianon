@@ -97,13 +97,32 @@ function mountCharts(root) {
 }
 
 /* ---------- Markdown ---------- */
-function renderMd(body) {
-  let t = body.replace(/\{\{chart:([\w\-]+)\}\}/g, (_, id) => {
+/* 註釋（CLAUDE.md 8.4）：內文「（[[s-…]] 頁碼）」轉成上標註號，原文收進 notes，文末集中列出 */
+function footnotes(t, notes) {
+  if (!notes) return t;
+  return t.replace(/（([^（）\n]*\[\[s-[^（）\n]*)）/g, (_, inner) => {
+    notes.push(inner);
+    const n = notes.length;
+    return `<sup class="fn"><button type="button" class="fn-b" data-n="${n}" aria-expanded="false" aria-label="註釋 ${n}">${n}</button></sup>`;
+  });
+}
+function notesBlock(notes) {
+  if (!notes.length) return "";
+  const li = notes.map((x, i) => `<li id="fn-${i + 1}">${marked.parseInline(x.replace(/\[\[([a-z0-9\-]+)(?:\|([^\]]*))?\]\]/g, (_, id, label) => refLink(id, label)))}</li>`).join("");
+  return `<details class="notes"><summary>註釋（${notes.length} 則）</summary><ol>${li}</ol></details>`;
+}
+function photoFig(f, cap, credit) {
+  return `<figure class="photo"><img src="assets/photo/${esc(f)}" alt="${esc(cap)}" loading="lazy" decoding="async"><figcaption>${esc(cap)}${credit ? `<small>${esc(credit)}</small>` : ""}</figcaption></figure>`;
+}
+function renderMd(body, notes) {
+  let t = footnotes(body, notes);
+  t = t.replace(/\{\{chart:([\w\-]+)\}\}/g, (_, id) => {
     const s = W.stats.find(x => x.id === id);
     return s ? "\n\n" + chartBlock(s, true).replace(/\n\s*/g, " ") + "\n\n" : "";
   });
   t = t.replace(/\{\{img:([\w\-.]+)\|([^}]*)\}\}/g, (_, f, cap) =>
     `\n\n<figure class="inline-fig"><img src="assets/img/${esc(f)}" alt="${esc(cap)}" loading="lazy" decoding="async"><figcaption>${esc(cap)}</figcaption></figure>\n\n`);
+  t = t.replace(/\{\{photo:([\w\-.]+)\|([^|}]*)(?:\|([^}]*))?\}\}/g, (_, f, cap, cr) => "\n\n" + photoFig(f, cap, cr) + "\n\n");
   t = t.replace(/\[\[([a-z0-9\-]+)(?:\|([^\]]*))?\]\]/g, (_, id, label) => refLink(id, label));
   return marked.parse(t);
 }
@@ -290,6 +309,7 @@ function page(p) {
   if (relS.length && p.type !== "topic") aside += `<div class="box"><h2>相關資料</h2>${relS.map(id => `<a href="#/p/${id}">${esc(shortName(byId[id]))}</a>`).join("")}</div>`;
 
   let body = p.body, lede = "", myth = "";
+  const notes = p.type === "topic" || p.type === "entity" ? [] : null;
   if (p.type === "topic") {
     const m = body.match(/^## 一句話說明\s*\n+([\s\S]*?)(?=\n## )/m);
     if (m) { lede = m[1].trim(); body = body.replace(m[0], ""); }
@@ -297,7 +317,7 @@ function page(p) {
     if (mm) {
       body = body.replace(mm[0], "");
       if (p.myth) myth = `<section class="myth" aria-label="迷思與史料"><h2>迷思與史料</h2><dl>
-        <dt>流傳的說法</dt><dd>${esc(p.myth)}</dd><dt>史料怎麼說</dt><dd>${renderMd(mm[1].trim())}</dd></dl>
+        <dt>流傳的說法</dt><dd>${esc(p.myth)}</dd><dt>史料怎麼說</dt><dd>${renderMd(mm[1].trim(), notes)}</dd></dl>
         ${p.verdict ? `<p class="judge"><span class="seal">${sealText(p.verdict)}</span><a href="#/myths">其他迷思</a></p>` : ""}</section>`;
     }
   }
@@ -310,7 +330,7 @@ function page(p) {
     ${p.image ? figure(p.image, p.imageAlt || p.title, "lead-art") : ""}
     ${lede ? `<div class="lede">${renderMd(lede)}</div>` : ""}
     ${myth}
-    <article class="md">${renderMd(body)}</article>
+    <article class="md">${renderMd(body, notes)}${notes ? notesBlock(notes) : ""}</article>
     ${aside ? `<aside class="page-info" aria-label="這一頁的相關資訊">${aside}</aside>` : ""}
   </div></div>`;
   mountCharts(app);
@@ -390,6 +410,19 @@ fetch("data/wiki.json").then(r => r.json()).then(d => {
   document.addEventListener("click", e => {
     const l = e.target.closest('a[href^="#/#"]');
     if (l && l.getAttribute("href") === location.hash) { e.preventDefault(); document.getElementById(l.getAttribute("href").slice(3))?.scrollIntoView(); }
+  });
+  /* 點上標註號：在原地展開／收起那一條出處 */
+  app.addEventListener("click", e => {
+    const b = e.target.closest(".fn-b");
+    if (!b) return;
+    const sup = b.parentElement, open = sup.nextElementSibling?.classList.contains("fn-pop");
+    document.querySelectorAll(".fn-pop").forEach(x => { x.previousElementSibling?.querySelector(".fn-b")?.setAttribute("aria-expanded", "false"); x.remove(); });
+    if (open) return;
+    const li = document.getElementById("fn-" + b.dataset.n);
+    if (!li) return;
+    const pop = document.createElement("span");
+    pop.className = "fn-pop"; pop.innerHTML = li.innerHTML;
+    sup.after(pop); b.setAttribute("aria-expanded", "true");
   });
   document.querySelector(".skip").onclick = e => { e.preventDefault(); app.setAttribute("tabindex", "-1"); app.focus(); };
   route();
