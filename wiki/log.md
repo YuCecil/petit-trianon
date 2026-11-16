@@ -151,7 +151,7 @@
 
 ## [2026-11-17] ingest | 夜間擴寫第三批：書架、姊姊、奧爾良公爵與四則問答
 - 新增故事：t-library（半真半假）、t-carolina（查無實據）、t-orleans（半真半假）
-- 新增問答：q-did-she-compose、q-cold-chemise、q-mercy-spies、q-no-fathers、q-where-did-the-jewels-go
+- 新增問答：q-did-she-compose、q-cold-chemise、q-mercy-spies、q-no-fathers、q-where-did-the-jewels-go、q-hope-diamond（另加資料卡 s-1889-bapst-joyaux、s-2009-farges-french-blue、s-2018-cohn-sidedoor-curse）
 - 新增資料卡：s-1863-lacroix-bibliotheque-reine、s-1862-lacour-livres-boudoir、s-1864-proces-livres-boudoir、s-2019-schechter-secret-library、s-1878-helfert-karolina、s-1881-arneth-briefe-kinder、s-1907-bearne-carolina、s-1857-roisselet-revolution、s-1880-wallon-tribunal、s-1889-arneth-mercy-secrete、s-1804-bailly-memoires、s-1875-archives-parlementaires-t8、s-2016-garcia-prieto-etiquette-reine、s-2026-sevres-bol-sein-fiche
 - 更新：t-hameau（乳房碗：塞弗爾官方稱為傳說）、t-chemise、t-coppola、t-vermond、t-children、t-perfume、t-theatre（延伸閱讀連到新問答）、overview（57 篇）、timeline（+3）
 - 發現：Haiku 回報「聖于魯日被奧爾良收買」是王后說的，核對原文是維多利亞夫人說的，已照原文寫；梅西自己寫明在太子妃身邊「掌握了」一名女僕和兩名侍從；「沒有人當父親嗎」在會議紀錄與巴伊回憶錄都找不到，巴伊稱同類故事為「無稽之談」。
