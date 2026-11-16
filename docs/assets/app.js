@@ -53,9 +53,6 @@ function cleanup() {
   live.charts.forEach(c => c.destroy()); live.charts = [];
   if (live.map) { live.map.remove(); live.map = null; }
   if (live.graph) { live.graph.destroy(); live.graph = null; }
-  if (live.s3d) { live.s3d(); live.s3d = null; }
-  if (live.ta) { live.ta(); live.ta = null; }
-  if (live.fw) { live.fw(); live.fw = null; }
   if (live.ftoc) { removeEventListener("scroll", live.ftoc.upd); live.ftoc.el.remove(); live.ftoc = null; }
 }
 function setNav(key) {
@@ -126,9 +123,6 @@ function renderMd(body, notes) {
   });
   t = t.replace(/\{\{img:([\w\-.]+)\|([^}]*)\}\}/g, (_, f, cap) =>
     `\n\n<figure class="inline-fig"><img src="assets/img/${esc(f)}" alt="${esc(cap)}" loading="lazy" decoding="async"><figcaption>${esc(cap)}</figcaption></figure>\n\n`);
-  t = t.replace(/\{\{play:(deficit|temple)\}\}/g, (_, id) => `\n\n<figure class="play" data-play="${id}"><p class="small">互動載入中…</p></figure>\n\n`);
-  t = t.replace(/\{\{anim:(temple|farewell)\}\}/g, (_, id) => "\n\n" + (id === "farewell" ? farewellFig() : animFig()) + "\n\n");
-  t = t.replace(/\{\{3d:(trianon)\}\}/g, () => "\n\n" + scene3d() + "\n\n");
   t = t.replace(/\{\{photo:([\w\-.]+)\|([^|}]*)(?:\|([^}]*))?\}\}/g, (_, f, cap, cr) => "\n\n" + photoFig(f, cap, cr) + "\n\n");
   t = t.replace(/\[\[([a-z0-9\-]+)(?:\|([^\]]*))?\]\]/g, (_, id, label) => refLink(id, label));
   return marked.parse(t);
@@ -345,9 +339,6 @@ function page(p) {
     ${aside ? `<aside class="page-info" aria-label="這一頁的相關資訊">${aside}</aside>` : ""}
   </div></div>`;
   mountCharts(app);
-  mountScene3d(app);
-  mountPlays(app);
-  mountAnims(app);
   /* 長文的段落導覽：故事裡有 3 個以上小標時，在「故事是這樣的」上方列出 */
   const hs = [...app.querySelectorAll("article.md h3")];
   if (p.type === "topic" && hs.length >= 3) {
@@ -361,85 +352,6 @@ function page(p) {
     floatToc(hs);
   }
   requestAnimationFrame(() => scrollTo(0, 0));
-}
-
-/* 3D 立體地圖（rules/site.md）：先只放海報與「開始互動」按鈕，按了才載入 three.js 與場景 */
-const S3D_V = 5;
-function scene3d() {
-  return `<figure class="s3d" data-scene="trianon"><div class="s3d-stage"><div class="s3d-poster"><div class="s3d-plate"><p class="s3d-t">跟著王后<br>走一圈小特里亞儂</p><p>從 1774 年她拿到這座宮殿，到 1901 年的鬼故事，七站。</p><button type="button" class="s3d-go">開始導覽</button></div></div></div>
-    <div class="s3d-tools" hidden><button type="button" class="s3d-zoom-in" aria-label="放大">＋</button><button type="button" class="s3d-zoom-out" aria-label="縮小">−</button><button type="button" class="s3d-reset">重設視角</button></div>
-    <div class="s3d-info" hidden></div>
-    <figcaption>按「下一站」跟著走，也可以自己拖曳旋轉、雙指或滾輪縮放，雙指拖曳（電腦按住 Shift）平移。建築輪廓是今天的樣子，取自 OpenStreetMap（© OpenStreetMap contributors，ODbL）；高度是示意，不是實測。王后時代以後，有些建築拆掉或改建過。</figcaption></figure>`;
-}
-/* 故事裡的小互動（先猜再揭曉、時間軸），程式在 play.js */
-function mountPlays(root) {
-  const figs = root.querySelectorAll(".play");
-  if (!figs.length) return;
-  const ref = (id, page) => refLink(id) + (page ? " " + esc(page) : "");
-  import(`./play.js?v=${S3D_V}`).then(m => figs.forEach(f => m.mount(f, { ref })))
-    .catch(() => figs.forEach(f => f.innerHTML = `<p class="small">互動載入失敗，請重新整理。</p>`));
-}
-/* 聖殿塔動畫：先放海報，按了才載入；這台裝置不支援 3D 就退回平面版（play.js） */
-function animFig() {
-  return `<figure class="ta"><div class="ta-stage"><div class="s3d-poster ta-poster"><div class="s3d-plate"><p class="s3d-t">一家五口，<br>一個一個被帶走</p><p>1792 年 8 月到 1795 年 12 月，聖殿塔裡發生的事，十二幕動畫。</p><button type="button" class="s3d-go">播放動畫</button></div></div></div>
-    <div class="ta-nav"><button type="button" class="pl-btn ta-prev">← 上一幕</button><button type="button" class="ta-again">重播</button><span class="ta-step"></span><button type="button" class="pl-btn ta-next">下一幕 →</button></div>
-    <div class="ta-card" aria-live="polite"></div>
-    <figcaption>塔的外形、樓層和房間，照國王的僕人克萊里 1798 年的描述重建，尺寸與方位是示意；人物是瓷偶，不是肖像。巴黎的地點用真實座標，塞納河取自 OpenStreetMap（© OpenStreetMap contributors，ODbL），是今天的河道；馬車路線是示意。動畫停下來時，可以拖曳轉動畫面。</figcaption></figure>`;
-}
-/* 最後一晚：一段約一分半的動畫，可以拖進度條（程式在 farewell3d.js） */
-function farewellFig() {
-  return `<figure class="ta fw"><div class="ta-stage"><div class="s3d-poster ta-poster"><div class="s3d-plate"><p class="s3d-t">最後一晚</p><p>1793 年 1 月 20 日，國王和家人告別。照克萊里的日記重建，約一分半。</p><button type="button" class="s3d-go">播放動畫</button></div></div></div>
-    <div class="fw-ctl"><button type="button" class="pl-btn fw-play">播放</button><button type="button" class="ta-again fw-restart">從頭</button><input type="range" class="fw-bar" min="0" step="0.1" value="0" aria-label="播放進度"><span class="fw-time"></span></div>
-    <div class="ta-card"></div>
-    <figcaption>誰先進門、誰坐哪裡、誰挽著哪隻手、說了什麼，照國王的僕人克萊里 1798 年的日記；房間格局照他的描述，尺寸、家具和衣服顏色是示意。人物不畫臉，不是肖像。</figcaption></figure>`;
-}
-function mountAnims(root) {
-  root.querySelectorAll(".ta.fw").forEach(fig => {
-    fig.querySelector(".s3d-go").onclick = async e => {
-      e.target.disabled = true; e.target.textContent = "載入中…";
-      try {
-        const mod = await import(`./farewell3d.js?v=${S3D_V}`);
-        fig.classList.add("live");
-        live.fw = await mod.mount(fig, { ref: id => refLink(id) });
-      } catch (err) {
-        console.error("告別動畫載入失敗：", err);
-        fig.classList.remove("live"); e.target.disabled = false; e.target.textContent = "播放動畫";
-        fig.querySelector(".s3d-poster").insertAdjacentHTML("beforeend", `<p class="small">載入失敗，這台裝置可能不支援 3D。</p>`);
-      }
-    };
-  });
-  root.querySelectorAll(".ta:not(.fw)").forEach(fig => {
-    fig.querySelector(".s3d-go").onclick = async e => {
-      e.target.disabled = true; e.target.textContent = "載入中…";
-      fig.classList.add("live");
-      try {
-        const mod = await import(`./temple3d.js?v=${S3D_V}`);
-        live.ta = await mod.mount(fig, { ref: id => refLink(id) });
-      } catch (err) {
-        console.error("聖殿塔動畫載入失敗，改用平面版：", err);
-        fig.classList.remove("live");
-        const m = await import(`./play.js?v=${S3D_V}`);
-        const f2 = document.createElement("figure"); f2.className = "play"; f2.dataset.play = "temple";
-        fig.replaceWith(f2); m.mount(f2, { ref: (id, page) => refLink(id) + (page ? " " + esc(page) : "") });
-      }
-    };
-  });
-}
-function mountScene3d(root) {
-  root.querySelectorAll(".s3d").forEach(fig => {
-    fig.querySelector(".s3d-go").onclick = async e => {
-      e.target.disabled = true; e.target.textContent = "載入中…";
-      try {
-        const mod = await import(`./trianon3d.js?v=${S3D_V}`);
-        fig.querySelector(".s3d-tools").hidden = false;
-        fig.classList.add("live");
-        live.s3d = await mod.mount(fig, { v: S3D_V, title: id => byId[id]?.title, ref: id => refLink(id) });
-      } catch (err) {
-        e.target.disabled = false; e.target.textContent = "開始導覽";
-        fig.querySelector(".s3d-poster").insertAdjacentHTML("beforeend", `<p class="small">載入失敗（${esc(err.message)}），這台裝置可能不支援 3D。</p>`);
-      }
-    };
-  });
 }
 
 /* 故事結尾「接著讀」：先挑這篇提到的其他故事，不夠再補同分類的，最多 3 篇 */
@@ -465,8 +377,7 @@ function floatToc(hs) {
   const inline = app.querySelector("nav.toc");
   const upd = () => {
     const art = app.querySelector("article.md");
-    const show = (inline ? inline.getBoundingClientRect().bottom < 0 : scrollY > 400) && (!art || art.getBoundingClientRect().bottom > innerHeight * 0.6)
-      && ![...app.querySelectorAll(".s3d, .play, .ta")].some(f => { const r = f.getBoundingClientRect(); return r.top < innerHeight && r.bottom > 0; });
+    const show = (inline ? inline.getBoundingClientRect().bottom < 0 : scrollY > 400) && (!art || art.getBoundingClientRect().bottom > innerHeight * 0.6);
     wrap.classList.toggle("on", show);
     if (!show) close();
     let cur = hs[0];

@@ -120,3 +120,9 @@
 - 做法：有關節的人偶、卡通分階上色＋墨線、燭光陰影、紙張紋理；不畫臉；房間尺寸、家具、衣服顏色是示意
 - app.js：S3D_V 5、style.css／app.js ?v=26；手機檢查 0 錯誤
 - 舊的十二幕聖殿塔動畫仍保留，等使用者決定
+
+## [2026-11-16] site | 拿掉所有動畫與互動，回到加動畫之前
+- 使用者決定三個動畫都先不要：小特里亞儂 3D 導覽、赤字夫人先猜再揭曉、聖殿塔動畫（十二幕與最後一晚）
+- 故事頁 t-hameau、t-deficit、t-temple，app.js、style.css、rules/site.md 還原到 5f657d5；保留 wiki.json 每次向伺服器確認更新的修正
+- 移除：farewell3d.js、temple3d.js、trianon3d.js、trianon3d.json、play.js、tools/trianon3d.py、data/trianon3d-spots.json（git 歷史可找回，最後一版在 76edc25）
+- style.css／app.js ?v=27；手機檢查 0 錯誤
