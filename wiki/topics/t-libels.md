@@ -5,6 +5,8 @@ title: 「奧地利女人」：一個王后是怎麼被寫壞的
 category: 迷思
 period: [1770, 1794]
 summary: 從受人歡迎的新娘，到報紙上的「奧地利母狼」，只用了二十年。
+image: t-libels.jpg
+imageAlt: 粉彩畫風插畫：巴黎街角的咖啡館外，木桌上堆著薄薄的小冊子，一位穿工作服的男子拿著報紙向圍觀的人朗讀。
 sources: [s-1993-barker-cake, s-1989-colwill-citoyenne, s-1992-price-vies-privees, s-1874-arneth-mercy-correspondance, s-1835-vigee-le-brun-souvenirs, s-2002-campion-vincent-marie-antoinette]
 updated: 2026-11-16
 ---

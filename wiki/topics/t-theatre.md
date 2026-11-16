@@ -5,6 +5,8 @@ title: 王后的劇場：格魯克、豎琴與小特里亞儂的舞台
 category: 宮廷
 period: [1774, 1785]
 summary: 她把維也納的老師請到巴黎，在自己的小劇場裡演牧羊女。
+image: t-theatre.jpg
+imageAlt: 粉彩畫風插畫：藍金色的小劇場，粉紅大幕拉開，舞台上有田園布景、一把豎琴和一張小木凳。
 sources: [s-1823-campan-memoires, s-1874-arneth-mercy-correspondance, s-1835-vigee-le-brun-souvenirs, s-2025-masson-theatre-reine]
 updated: 2026-11-16
 ---

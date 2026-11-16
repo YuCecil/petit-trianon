@@ -5,6 +5,8 @@ title: 杜樂麗宮的日子：一座沒準備好的宮殿
 category: 革命
 period: [1789, 1791]
 summary: 從凡爾賽被帶回巴黎後，王室在杜樂麗宮過了二十個月半囚禁的生活。
+image: t-tuileries.jpg
+imageAlt: 粉彩畫風插畫：大宮殿前的花園，綠色木格籬笆圍出一小塊花圃，裡面有小鏟子和小木桶，幾名戴三角帽的藍衣衛兵守在旁邊。
 sources: [s-1883-tourzel-memoires, s-1823-campan-memoires, s-1868-feuillet-elisabeth-correspondance]
 updated: 2026-11-16
 ---

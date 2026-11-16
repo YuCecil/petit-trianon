@@ -7,6 +7,8 @@ period: [1790, 1793]
 summary: 革命最有名的兩位演說家，先後成了王后的秘密顧問。
 myth: 米拉波親吻王后的手，說「這一吻救了君主制」。
 verdict: 半真半假
+image: t-secret.jpg
+imageAlt: 粉彩畫風插畫：清晨的宮殿花園，一位穿深色外套的男子背影走上碎石小徑，遠處樹籬圍成的圓形空地上站著一位女士。
 sources: [s-1851-mirabeau-lamarck, s-1823-campan-memoires, s-1822-weber-memoires-v2, s-1866-arneth-marie-antoinette, s-1883-tourzel-memoires, s-1877-klinckowstrom-fersen]
 updated: 2026-11-16
 ---

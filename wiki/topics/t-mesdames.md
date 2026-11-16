@@ -5,6 +5,8 @@ title: 姑姑們：凡爾賽最難纏的老公主
 category: 人物
 period: [1750, 1791]
 summary: 新嫁娘的第一批朋友，後來成了她最早的對手。
+image: t-mesdames.jpg
+imageAlt: 粉彩畫風插畫：宮中起居室，粉紅扶手椅上擱著繡到一半的刺繡繃，小圓桌上有銀咖啡壺、兩只小杯和攤開的書，牆邊垂著拉鈴繩，窗外是花園。
 sources: [s-1823-campan-memoires, s-1874-arneth-mercy-correspondance, s-1883-tourzel-memoires, s-1835-vigee-le-brun-souvenirs, s-1868-feuillet-elisabeth-correspondance]
 updated: 2026-11-16
 ---

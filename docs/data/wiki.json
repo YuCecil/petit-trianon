@@ -2336,6 +2336,8 @@
     1794
    ],
    "summary": "從受人歡迎的新娘，到報紙上的「奧地利母狼」，只用了二十年。",
+   "image": "t-libels.jpg",
+   "imageAlt": "粉彩畫風插畫：巴黎街角的咖啡館外，木桌上堆著薄薄的小冊子，一位穿工作服的男子拿著報紙向圍觀的人朗讀。",
    "sources": [
     "s-1993-barker-cake",
     "s-1989-colwill-citoyenne",
@@ -2452,6 +2454,8 @@
     1791
    ],
    "summary": "新嫁娘的第一批朋友，後來成了她最早的對手。",
+   "image": "t-mesdames.jpg",
+   "imageAlt": "粉彩畫風插畫：宮中起居室，粉紅扶手椅上擱著繡到一半的刺繡繃，小圓桌上有銀咖啡壺、兩只小杯和攤開的書，牆邊垂著拉鈴繩，窗外是花園。",
    "sources": [
     "s-1823-campan-memoires",
     "s-1874-arneth-mercy-correspondance",
@@ -2670,6 +2674,8 @@
    "summary": "革命最有名的兩位演說家，先後成了王后的秘密顧問。",
    "myth": "米拉波親吻王后的手，說「這一吻救了君主制」。",
    "verdict": "半真半假",
+   "image": "t-secret.jpg",
+   "imageAlt": "粉彩畫風插畫：清晨的宮殿花園，一位穿深色外套的男子背影走上碎石小徑，遠處樹籬圍成的圓形空地上站著一位女士。",
    "sources": [
     "s-1851-mirabeau-lamarck",
     "s-1823-campan-memoires",
@@ -2767,6 +2773,8 @@
     1785
    ],
    "summary": "她把維也納的老師請到巴黎，在自己的小劇場裡演牧羊女。",
+   "image": "t-theatre.jpg",
+   "imageAlt": "粉彩畫風插畫：藍金色的小劇場，粉紅大幕拉開，舞台上有田園布景、一把豎琴和一張小木凳。",
    "sources": [
     "s-1823-campan-memoires",
     "s-1874-arneth-mercy-correspondance",
@@ -2833,6 +2841,8 @@
     1791
    ],
    "summary": "從凡爾賽被帶回巴黎後，王室在杜樂麗宮過了二十個月半囚禁的生活。",
+   "image": "t-tuileries.jpg",
+   "imageAlt": "粉彩畫風插畫：大宮殿前的花園，綠色木格籬笆圍出一小塊花圃，裡面有小鏟子和小木桶，幾名戴三角帽的藍衣衛兵守在旁邊。",
    "sources": [
     "s-1883-tourzel-memoires",
     "s-1823-campan-memoires",
@@ -4980,6 +4990,11 @@
    "date": "2026-11-16",
    "kind": "ingest",
    "title": "第四批、第五批與短篇擴寫"
+  },
+  {
+   "date": "2026-11-16",
+   "kind": "ingest",
+   "title": "收尾：插圖、真實圖片、三篇擴寫"
   }
  ],
  "timeline": [

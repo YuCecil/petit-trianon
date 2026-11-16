@@ -37,3 +37,9 @@
 - 修正：康龐第 1 冊 OCR 頁眉「298」實為 p. 228，t-hameau、t-chemise、t-theatre 頁碼已改；t-chemise 原本把兩段不同記載併成一句，已拆開
 - 發現：「靠吊襪帶認出王后」出自 1825 年馬尼安神父的聲明，官方紀錄不是這樣認的；「這一吻救了君主制」只見於韋伯的二手傳聞，康龐筆下真正吻王后手的是巴納夫
 - 缺插圖：t-libels、t-secret、t-tuileries、t-theatre、t-mesdames（t-libels 提示詞已寫好）
+
+## [2026-11-16] ingest | 收尾：插圖、真實圖片、三篇擴寫
+- 插圖：t-libels、t-secret、t-tuileries、t-theatre、t-mesdames（Gemini，主 session 寫提示詞並逐張檢查）
+- 真實圖片 +8：米拉波、巴納夫、格魯克、王后劇場入口、杜樂麗宮（1802）、聯盟節（19 世紀版畫）、阿德萊德夫人、維克多瓦夫人
+- 擴寫：t-white-hair（1793 年審判中米什尼的證詞「才開始變灰」、克萊里 1796 年信、朗巴勒遺物清單、Navarini 2010）、t-louis（打獵、「愛喝酒」謠言的來源、塔裡讀的書、Olalde 2014 DNA 研究）、t-louis17（西蒙的多種說法、英國間諜報告）
+- 新資料卡：s-2010-navarini-henry-iii-hair、s-2014-olalde-louis-xvi-blood（開放取用）
