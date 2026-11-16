@@ -70,6 +70,8 @@ updated: 2026-11-16
 
 ## 延伸閱讀
 
+- [[q-mozart-proposal]]：六歲的莫札特在維也納宮裡向小公主求婚？
+
 - [[s-2017-niedziela-joseph-ii-paris]]
 - [[s-1866-arneth-marie-antoinette]]
 - [[s-1823-campan-memoires]]

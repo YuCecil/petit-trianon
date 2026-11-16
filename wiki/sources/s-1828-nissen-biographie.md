@@ -11,7 +11,7 @@ url: https://archive.org/details/bub_gb_BRRbAAAAQAAJ
 access: 公開
 depth: 部分
 period: [1756, 1791]
-topics: [t-mozart]
+topics: [t-joseph]
 entities: []
 reliability: 中
 added: 2026-11-17
