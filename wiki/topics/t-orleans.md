@@ -7,6 +7,8 @@ period: [1774, 1793]
 summary: 國王的堂兄、全法國最有錢的親王，投票處死國王，十個月後自己也上了斷頭台。
 myth: 奧爾良公爵恨王后，是因為 1778 年韋桑島海戰後，王后嘲笑他臨陣退縮。
 verdict: 半真半假
+image: t-orleans.jpg
+imageAlt: 粉彩畫風插畫：黎明時分的宮殿花園草坡上，一群穿華服的貴族背影望向遠方的日出與水池，一位穿藍外套的男子站在一旁。
 sources: [s-1874-arneth-mercy-correspondance, s-1823-campan-memoires, s-1857-roisselet-revolution, s-1880-wallon-tribunal]
 updated: 2026-11-17
 ---
