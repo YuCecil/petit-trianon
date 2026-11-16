@@ -77,7 +77,7 @@ updated: 2026-11-15
 - [[s-1866-arneth-marie-antoinette]]
 - [[s-1874-arneth-mercy-correspondance]]
 - [[s-2006-stamberg-npr-fraser]]
-- 相關故事：[[t-handover]]、[[t-dubarry]]、[[t-louis]]
+- 相關故事：[[t-handover]]、[[t-dubarry]]、[[t-louis]]、[[t-joseph]]
 
 ## 還不知道的事
 

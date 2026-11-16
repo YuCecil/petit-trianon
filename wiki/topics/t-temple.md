@@ -73,7 +73,7 @@ updated: 2026-11-16
 - [[s-1798-clery-journal]]
 - [[s-1852-marie-therese-temple]]
 - [[s-1883-tourzel-memoires]]
-- 相關故事：[[t-louis]]、[[t-lamballe]]、[[t-august10]]
+- 相關故事：[[t-louis]]、[[t-lamballe]]、[[t-august10]]、[[t-clery]]
 
 ## 還不知道的事
 
