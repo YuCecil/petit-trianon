@@ -395,3 +395,32 @@ code{font-size:.9em;background:var(--sheet);border:1px solid var(--line);padding
 .s3d-nav{display:flex;justify-content:space-between;gap:10px;margin-top:10px}
 .s3d-nav{margin:0 0 12px}
 @media (max-width:720px){.s3d-stage{height:54vh;min-height:300px}.s3d-tools{margin-top:8px}.s3d-info{margin-top:8px}}
+/* 聖殿塔動畫（temple3d.js） */
+.ta{margin:32px 0}
+.ta-stage{position:relative;height:min(68vh,600px);min-height:340px;background:var(--sheet);border:1px solid var(--line);overflow:hidden}
+.ta-stage canvas{display:block;width:100%;height:100%}
+.ta-poster{background:var(--rev-glaze)}
+.ta-nav,.ta-card{display:none}
+.ta.live .ta-nav{display:flex;align-items:center;gap:10px;margin-top:12px}
+.ta.live .ta-card{display:block;margin-top:10px;min-height:120px}
+.ta-step{margin-left:auto;font:500 14px/1 var(--sans);color:var(--muted)}
+.ta-again{font:500 14px/1 var(--sans);color:var(--ink);background:none;border:1px solid var(--line);border-radius:999px;padding:0 14px;min-height:40px;cursor:pointer}
+.ta-text{font-size:17px;line-height:1.8;margin:0 0 6px}
+.ta figcaption{font-size:14px;color:var(--muted);margin-top:10px;line-height:1.65}
+@media (min-width:1180px){.ta figcaption{position:static;width:auto}}
+.ta-labels{position:absolute;inset:0;pointer-events:none}
+.ta-labels>div{position:absolute;left:0;top:0;white-space:nowrap}
+.ta-who{font:600 13px/1 var(--sans);color:var(--ink);background:rgba(255,255,255,.92);border:1px solid var(--line);border-radius:999px;padding:4px 9px 4px 6px}
+.ta-who i{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:5px;vertical-align:0}
+.ta-who.dead{opacity:.6;text-decoration:line-through}
+.ta-place{font:700 15px/1.3 var(--serif-tc);color:var(--ink);background:rgba(255,255,255,.94);border:1px solid var(--ink);padding:5px 10px;text-align:center}
+.ta-place small{display:block;font:400 12px/1.3 var(--sans);color:var(--muted)}
+.ta-place em{display:block;font:600 12.5px/1.5 var(--sans);font-style:normal;color:var(--mode-ink)}
+.ta-floor{font:500 12.5px/1 var(--sans);color:var(--ink);background:rgba(255,255,255,.88);border-left:3px solid var(--gilt);padding:4px 8px;transform-origin:left}
+.ta-car{font:600 13px/1 var(--sans);color:var(--sheet);background:var(--ink);border-radius:999px;padding:5px 10px}
+.ta-date{position:absolute;left:14px;top:12px;font:700 clamp(17px,2.4vw,22px)/1.3 var(--serif-tc);color:var(--ink);background:rgba(255,255,255,.9);border-left:3px solid var(--gilt);padding:6px 12px;max-width:calc(100% - 28px)}
+.ta-empty{position:absolute;left:50%;bottom:22px;transform:translateX(-50%);font:700 19px/1.3 var(--serif-tc);color:#fff;opacity:0;transition:opacity 1.2s}
+.ta-empty.on{opacity:1}
+@media (max-width:720px){.ta{margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw)}.ta-stage{border-left:0;border-right:0;height:58vh}.ta-nav,.ta-card,.ta figcaption{margin-left:clamp(16px,4vw,48px)!important;margin-right:clamp(16px,4vw,48px)!important}.ta-again{padding:0 10px}}
+.ta-nav .pl-btn,.ta-again,.ta-step{white-space:nowrap}
+@media (max-width:720px){.ta-nav{gap:6px!important}.ta-nav .pl-btn{padding:10px 13px;font-size:14px}.ta-floor{font-size:11.5px}}
