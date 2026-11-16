@@ -48,3 +48,9 @@
 - 新增 tools/mobile_check.mjs（Playwright 模擬三種手機＋可選 Lighthouse）；CLAUDE.md 第 9、12 節改寫
 - site：註碼按鈕點擊範圍放大到 24px 以上、地圖圓點點擊範圍 28px；手機檢查 0 錯誤 0 提醒
 - 新增故事：t-conciergerie、t-madame-royale、t-figaro；擴寫 t-necklace、t-varennes、t-coppola、t-consummation、t-fersen、t-pouf
+
+## [2026-11-16] ingest | 加速批次（分身平行寫作）
+- 新增故事：t-joseph、t-clery、t-june20、t-lafayette、t-vermond（後兩篇在額度用完時中斷，主 session 抽查引文後補連結上線）
+- 擴寫：t-handover、t-deficit、t-children（公開生產一節；修正陣痛時間為半夜十二點半）
+- 修正：t-deficit 一處手鐲流言的頁碼與日期不符，改用 1776 年秋女皇來信
+- site：首頁盤子「判定」小字 11.5px→12px；手機檢查 3 種手機 × 56 頁，0 錯誤 0 提醒

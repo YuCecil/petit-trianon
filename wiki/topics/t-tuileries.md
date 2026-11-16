@@ -78,7 +78,7 @@ updated: 2026-11-16
 - [[s-1883-tourzel-memoires]]
 - [[s-1823-campan-memoires]]
 - [[s-1868-feuillet-elisabeth-correspondance]]
-- 相關故事：[[t-october-days]]、[[t-secret]]、[[t-varennes]]、[[t-august10]]
+- 相關故事：[[t-october-days]]、[[t-secret]]、[[t-varennes]]、[[t-august10]]、[[t-june20]]
 
 ## 還不知道的事
 

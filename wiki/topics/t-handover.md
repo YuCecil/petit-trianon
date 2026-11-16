@@ -69,7 +69,7 @@ updated: 2026-11-16
 - [[s-2022-hassler-strasbourg]]
 - [[s-1823-campan-memoires]]
 - [[s-1874-arneth-mercy-correspondance]]
-- 相關故事：[[t-coronation]]
+- 相關故事：[[t-coronation]]、[[t-vermond]]
 
 ## 還不知道的事
 

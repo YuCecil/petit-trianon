@@ -3,11 +3,12 @@
 網站：https://yucecil.github.io/petit-trianon/
 
 已完成
-故事 36 篇，每篇都有插圖，篇幅都在 8 段以上（材料最少的小狗那篇除外）。資料卡 62 張。
-台大資料庫讀到全文的論文：White 1989、Colwill 1989、Barker 1993、Kaiser 2006、Price 1992。
+故事 47 篇，資料卡 64 張。每次改版或新增故事都跑手機檢查（node tools/mobile_check.mjs），目前 0 錯誤 0 提醒。
 
-下一步（可做可不做）
-可以再找的新題目：古監獄的最後兩個半月、法國王后的權力、《費加洛的婚禮》、王后女兒的後半生、王后與費爾森的通信研究。
+下一步
+新故事 11 篇還沒有插圖：古監獄、瑪麗－泰蕾茲、費加洛、約瑟夫二世、克萊里、拉法葉、韋爾蒙、六月二十日闖宮（另 3 篇是擴寫，不需要）。也還沒有真實圖片。
+大使梅西、圖澤爾夫人、勒布倫的流亡：材料還沒挖（額度用完時中斷）。
+瑪麗－泰蕾茲、約瑟夫二世、克萊里、韋爾蒙這幾篇沒有學術研究，只靠回憶錄和書信，之後找到研究再補。
 
 讀不到的資料（台大沒有訂閱）
-Cairn 上的 Hassler 2022、Nature 上的 Jehaes 2001、French Historical Studies 上的 Kaiser 2003、Skellett 2008（一夜白頭）。
+Cairn 上的 Hassler 2022、Nature 上的 Jehaes 2001、French Historical Studies 上的 Kaiser 2003、Skellett 2008。
