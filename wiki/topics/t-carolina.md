@@ -7,6 +7,8 @@ period: [1752, 1814]
 summary: 最要好的姊姊卡羅琳娜，十五歲被母親下令和妹妹分開，後來成了那不勒斯王后。
 myth: 卡羅琳娜得知妹妹被處決後，在書房掛上妹妹的畫像，下面寫著「我要復仇到進墳墓」。
 verdict: 查無實據
+image: t-carolina.jpg
+imageAlt: 粉彩畫風插畫：宮殿花園的樹籬小徑上，兩個穿粉紅與黃色洋裝的小女孩手牽手走遠，遠處一位深藍長裙的家庭教師走來，背景是海灣和冒煙的火山。
 sources: [s-1907-bearne-carolina, s-1878-helfert-karolina, s-1881-arneth-briefe-kinder, s-1874-arneth-mercy-correspondance, s-1835-vigee-le-brun-souvenirs]
 updated: 2026-11-17
 ---
