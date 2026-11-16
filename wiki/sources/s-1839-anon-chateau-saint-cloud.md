@@ -11,7 +11,7 @@ url: https://archive.org/details/chateaudesaintcl00pari
 access: 公開
 depth: 部分
 period: [1658, 1839]
-topics: [t-saint-cloud, t-deficit]
+topics: [t-deficit]
 entities: []
 reliability: 中
 added: 2026-11-17

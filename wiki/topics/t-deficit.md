@@ -9,7 +9,7 @@ myth: 王后揮霍無度，一個人花光了法國的國庫，人稱「赤字�
 verdict: 半真半假
 image: t-deficit.jpg
 imageAlt: 粉彩畫風插畫：書桌上攤開一本大帳簿和一小堆金幣，窗邊架子上放著插滿羽毛的高聳假髮。
-sources: [s-1993-barker-cake, s-1989-white-solution, s-1989-colwill-citoyenne, s-1995-sargent-macroeconomic, s-1874-arneth-mercy-correspondance, s-1823-campan-memoires, s-1781-necker-compte-rendu, s-2006-stamberg-npr-fraser, s-2002-campion-vincent-marie-antoinette]
+sources: [s-1839-anon-chateau-saint-cloud, s-1993-barker-cake, s-1989-white-solution, s-1989-colwill-citoyenne, s-1995-sargent-macroeconomic, s-1874-arneth-mercy-correspondance, s-1823-campan-memoires, s-1781-necker-compte-rendu, s-2006-stamberg-npr-fraser, s-2002-campion-vincent-marie-antoinette]
 updated: 2026-11-15
 ---
 
@@ -55,7 +55,7 @@ updated: 2026-11-15
 
 ### 聖克盧：「奉王后之名」
 
-1780 年代中期，王室買下了巴黎西郊的聖克盧宮。康龐夫人說，這主意是王后想出來的：有一天她和波利尼亞克公爵夫人坐敞篷馬車去那裡散步，回來就跟國王提，國王正好想離開凡爾賽住個十年，也就答應了（[[s-1823-campan-memoires]] 第 1 冊 pp. 272–273）。原本談的是用舒瓦西宮、拉米埃特宮和一片森林去換，王后以為這樣還能省下兩座宮殿的總督和僕役；可是談判時，負責的大臣讓了步，最後改用「好幾百萬」現金付款（[[s-1823-campan-memoires]] 第 1 冊 p. 273）。
+1780 年代中期，王室買下了巴黎西郊的聖克盧宮；一本 1839 年的聖克盧導覽說，王后向奧爾良公爵買下它的日子是 1785 年 2 月 15 日，之後交給她的建築師米克（Mique）整修（[[s-1839-anon-chateau-saint-cloud]] 約 pp. 2–3）。康龐夫人說，這主意是王后想出來的：有一天她和波利尼亞克公爵夫人坐敞篷馬車去那裡散步，回來就跟國王提，國王正好想離開凡爾賽住個十年，也就答應了（[[s-1823-campan-memoires]] 第 1 冊 pp. 272–273）。原本談的是用舒瓦西宮、拉米埃特宮和一片森林去換，王后以為這樣還能省下兩座宮殿的總督和僕役；可是談判時，負責的大臣讓了步，最後改用「好幾百萬」現金付款（[[s-1823-campan-memoires]] 第 1 冊 p. 273）。
 
 真正惹禍的是後面的事。王后請國王把聖克盧直接給她，說這樣只要一個看門人，不必再養一位總督；國王同意了。於是宮門口的衛兵和僕役都換上了王后的制服，門邊張貼的規定開頭印著「奉王后之名」。康龐夫人說，在一座人們以為只會看到國王制服的宮殿門口看到這些，不只老百姓，連上流社會都非常反感，覺得這違反了法國的慣例（[[s-1823-campan-memoires]] 第 1 冊 pp. 273–274）。
 
@@ -101,3 +101,4 @@ updated: 2026-11-15
 - 「赤字夫人」（Madame Déficit）這個綽號最早出現在哪一份小冊子、哪一年，還沒查到。
 - 王后的衣物、珠寶、小特里亞儂一年實際花多少、占王室或國家支出多少，需要讀王室帳目或研究專書。網路上流傳的數字（例如「衣服一年 12 萬里弗爾」）沒有可靠出處，本站不採用。
 - 內克報告中王室合併那一項的金額，掃描辨識不清，待核對完整版。
+- 聖克盧到底花了多少錢：網路上常見「六百萬里弗爾」，本站沒有在原典裡找到；康龐夫人只說「好幾百萬」現金（[[s-1823-campan-memoires]] 第 1 冊 p. 273）。購買日期也有 1784 年 10 月 24 日的說法，本站還沒核實。
