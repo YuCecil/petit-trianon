@@ -55,6 +55,7 @@ function cleanup() {
   if (live.graph) { live.graph.destroy(); live.graph = null; }
   if (live.s3d) { live.s3d(); live.s3d = null; }
   if (live.ta) { live.ta(); live.ta = null; }
+  if (live.fw) { live.fw(); live.fw = null; }
   if (live.ftoc) { removeEventListener("scroll", live.ftoc.upd); live.ftoc.el.remove(); live.ftoc = null; }
 }
 function setNav(key) {
@@ -126,7 +127,7 @@ function renderMd(body, notes) {
   t = t.replace(/\{\{img:([\w\-.]+)\|([^}]*)\}\}/g, (_, f, cap) =>
     `\n\n<figure class="inline-fig"><img src="assets/img/${esc(f)}" alt="${esc(cap)}" loading="lazy" decoding="async"><figcaption>${esc(cap)}</figcaption></figure>\n\n`);
   t = t.replace(/\{\{play:(deficit|temple)\}\}/g, (_, id) => `\n\n<figure class="play" data-play="${id}"><p class="small">互動載入中…</p></figure>\n\n`);
-  t = t.replace(/\{\{anim:(temple)\}\}/g, () => "\n\n" + animFig() + "\n\n");
+  t = t.replace(/\{\{anim:(temple|farewell)\}\}/g, (_, id) => "\n\n" + (id === "farewell" ? farewellFig() : animFig()) + "\n\n");
   t = t.replace(/\{\{3d:(trianon)\}\}/g, () => "\n\n" + scene3d() + "\n\n");
   t = t.replace(/\{\{photo:([\w\-.]+)\|([^|}]*)(?:\|([^}]*))?\}\}/g, (_, f, cap, cr) => "\n\n" + photoFig(f, cap, cr) + "\n\n");
   t = t.replace(/\[\[([a-z0-9\-]+)(?:\|([^\]]*))?\]\]/g, (_, id, label) => refLink(id, label));
@@ -363,7 +364,7 @@ function page(p) {
 }
 
 /* 3D 立體地圖（rules/site.md）：先只放海報與「開始互動」按鈕，按了才載入 three.js 與場景 */
-const S3D_V = 4;
+const S3D_V = 5;
 function scene3d() {
   return `<figure class="s3d" data-scene="trianon"><div class="s3d-stage"><div class="s3d-poster"><div class="s3d-plate"><p class="s3d-t">跟著王后<br>走一圈小特里亞儂</p><p>從 1774 年她拿到這座宮殿，到 1901 年的鬼故事，七站。</p><button type="button" class="s3d-go">開始導覽</button></div></div></div>
     <div class="s3d-tools" hidden><button type="button" class="s3d-zoom-in" aria-label="放大">＋</button><button type="button" class="s3d-zoom-out" aria-label="縮小">−</button><button type="button" class="s3d-reset">重設視角</button></div>
@@ -385,8 +386,29 @@ function animFig() {
     <div class="ta-card" aria-live="polite"></div>
     <figcaption>塔的外形、樓層和房間，照國王的僕人克萊里 1798 年的描述重建，尺寸與方位是示意；人物是瓷偶，不是肖像。巴黎的地點用真實座標，塞納河取自 OpenStreetMap（© OpenStreetMap contributors，ODbL），是今天的河道；馬車路線是示意。動畫停下來時，可以拖曳轉動畫面。</figcaption></figure>`;
 }
+/* 最後一晚：一段約一分半的動畫，可以拖進度條（程式在 farewell3d.js） */
+function farewellFig() {
+  return `<figure class="ta fw"><div class="ta-stage"><div class="s3d-poster ta-poster"><div class="s3d-plate"><p class="s3d-t">最後一晚</p><p>1793 年 1 月 20 日，國王和家人告別。照克萊里的日記重建，約一分半。</p><button type="button" class="s3d-go">播放動畫</button></div></div></div>
+    <div class="fw-ctl"><button type="button" class="pl-btn fw-play">播放</button><button type="button" class="ta-again fw-restart">從頭</button><input type="range" class="fw-bar" min="0" step="0.1" value="0" aria-label="播放進度"><span class="fw-time"></span></div>
+    <div class="ta-card"></div>
+    <figcaption>誰先進門、誰坐哪裡、誰挽著哪隻手、說了什麼，照國王的僕人克萊里 1798 年的日記；房間格局照他的描述，尺寸、家具和衣服顏色是示意。人物不畫臉，不是肖像。</figcaption></figure>`;
+}
 function mountAnims(root) {
-  root.querySelectorAll(".ta").forEach(fig => {
+  root.querySelectorAll(".ta.fw").forEach(fig => {
+    fig.querySelector(".s3d-go").onclick = async e => {
+      e.target.disabled = true; e.target.textContent = "載入中…";
+      try {
+        const mod = await import(`./farewell3d.js?v=${S3D_V}`);
+        fig.classList.add("live");
+        live.fw = await mod.mount(fig, { ref: id => refLink(id) });
+      } catch (err) {
+        console.error("告別動畫載入失敗：", err);
+        fig.classList.remove("live"); e.target.disabled = false; e.target.textContent = "播放動畫";
+        fig.querySelector(".s3d-poster").insertAdjacentHTML("beforeend", `<p class="small">載入失敗，這台裝置可能不支援 3D。</p>`);
+      }
+    };
+  });
+  root.querySelectorAll(".ta:not(.fw)").forEach(fig => {
     fig.querySelector(".s3d-go").onclick = async e => {
       e.target.disabled = true; e.target.textContent = "載入中…";
       fig.classList.add("live");

@@ -424,3 +424,19 @@ code{font-size:.9em;background:var(--sheet);border:1px solid var(--line);padding
 @media (max-width:720px){.ta{margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw)}.ta-stage{border-left:0;border-right:0;height:58vh}.ta-nav,.ta-card,.ta figcaption{margin-left:clamp(16px,4vw,48px)!important;margin-right:clamp(16px,4vw,48px)!important}.ta-again{padding:0 10px}}
 .ta-nav .pl-btn,.ta-again,.ta-step{white-space:nowrap}
 @media (max-width:720px){.ta-nav{gap:6px!important}.ta-nav .pl-btn{padding:10px 13px;font-size:14px}.ta-floor{font-size:11.5px}}
+/* 最後一晚動畫（farewell3d.js） */
+.fw .ta-stage{height:min(72vh,620px);background:#1E2433}
+.fw-ctl{display:none}
+.fw.live .fw-ctl{display:flex;align-items:center;gap:10px;margin-top:12px}
+.fw-bar{flex:1;min-width:60px;accent-color:#9C7A2E;height:40px}
+.fw-time{font:500 13px/1 var(--sans);color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap}
+.fw.live .ta-card{min-height:0}
+.fw-paper{position:absolute;inset:0;pointer-events:none;mix-blend-mode:multiply;opacity:.55;background-size:220px 220px;box-shadow:inset 0 0 90px rgba(20,16,12,.55)}
+.fw-fade{position:absolute;inset:0;pointer-events:none;background:#14161D;opacity:0}
+.fw-cardtitle{position:absolute;left:50%;top:44%;transform:translate(-50%,-50%);text-align:center;color:#F4EEE0;opacity:0;transition:opacity .6s;pointer-events:none;width:min(90%,560px)}
+.fw-cardtitle.on{opacity:1}
+.fw-cardtitle b{display:block;font:700 clamp(22px,3.6vw,34px)/1.35 var(--serif-tc);letter-spacing:.04em}
+.fw-cardtitle span{display:block;margin-top:8px;font:400 clamp(14px,1.8vw,17px)/1.6 var(--serif-tc);opacity:.88}
+.fw-sub{position:absolute;left:50%;bottom:18px;transform:translateX(-50%);width:min(92%,720px);text-align:center;font:500 clamp(15px,1.9vw,18px)/1.6 var(--serif-tc);color:#FFF9EC;text-shadow:0 0 6px rgba(0,0,0,.9),0 1px 2px rgba(0,0,0,.9);opacity:0;transition:opacity .4s;pointer-events:none}
+.fw-sub.on{opacity:1}
+@media (max-width:720px){.fw-ctl{margin-left:clamp(16px,4vw,48px)!important;margin-right:clamp(16px,4vw,48px)!important}.fw .ta-stage{height:62vh}}
