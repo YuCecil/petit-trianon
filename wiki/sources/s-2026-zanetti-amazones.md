@@ -11,7 +11,7 @@ url: 無
 access: 公開
 depth: 部分
 period: [1500, 1900]
-topics: [t-riding]
+topics: [t-corset]
 entities: []
 reliability: 中
 added: 2026-11-17
