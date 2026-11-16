@@ -28,3 +28,12 @@
 - 網站：報導者式註釋（上標、原地展開、文末收合）、長文段落導覽、閱讀進度線、真實圖片 27 張（data/photos.json）、插圖 +8
 - rule：CLAUDE.md 故事 8–14 段、註釋（8.4）、真實圖片（8.5）、使用者不自己下載論文
 - 發現：吉祥物的 Mops 在梅西 1770 年 8 月的報告裡真的出現過；朗巴勒的頭被舉到聖殿塔窗前有克萊里的目擊紀錄
+
+## [2026-11-16] ingest | 第四批、第五批與短篇擴寫
+- 新增故事：t-august10、t-children、t-elisabeth、t-coronation、t-reburial、t-louis17（第四批）；t-libels、t-secret、t-tuileries、t-theatre、t-mesdames（第五批）
+- 擴寫：t-reburial（1815 年官方挖掘紀錄，重寫）、t-bertin、t-chemise、t-hameau、t-mops、t-polignac、t-children
+- 新資料卡：s-2006-kaiser-nursery、s-1992-price-vies-privees（台大 JSTOR 全文）、s-2024-kesterton-artificial-flowers、s-2024-nordin-hameau、s-2025-masson-theatre-reine（開放取用）、s-1907-lenotre-last-days-marie-antoinette、s-1851-mirabeau-lamarck、s-1822-weber-memoires-v2
+- 更新：timeline +15、places +4、photos +3；插圖 t-coronation、t-reburial
+- 修正：康龐第 1 冊 OCR 頁眉「298」實為 p. 228，t-hameau、t-chemise、t-theatre 頁碼已改；t-chemise 原本把兩段不同記載併成一句，已拆開
+- 發現：「靠吊襪帶認出王后」出自 1825 年馬尼安神父的聲明，官方紀錄不是這樣認的；「這一吻救了君主制」只見於韋伯的二手傳聞，康龐筆下真正吻王后手的是巴納夫
+- 缺插圖：t-libels、t-secret、t-tuileries、t-theatre、t-mesdames（t-libels 提示詞已寫好）

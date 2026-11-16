@@ -73,7 +73,7 @@ updated: 2026-11-16
 - [[s-1798-clery-journal]]
 - [[s-1852-marie-therese-temple]]
 - [[s-1824-lafont-daussonne-memoires]]
-- 相關故事：[[t-trial]]、[[t-temple]]、[[t-august10]]、[[t-children]]
+- 相關故事：[[t-trial]]、[[t-temple]]、[[t-august10]]、[[t-children]]、[[t-mesdames]]
 
 ## 還不知道的事
 

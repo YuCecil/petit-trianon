@@ -2,7 +2,7 @@
 
 > 由 `tools/build.py` 自動產生於 2026-11-16，不要手改。
 
-資料卡 60 張（全文 12）｜主題 35｜實體 3｜問答 0
+資料卡 60 張（全文 13）｜主題 36｜實體 3｜問答 0
 
 ## 主題頁
 
@@ -26,6 +26,7 @@
 - [[t-libels]] 「奧地利女人」：一個王后是怎麼被寫壞的 — 從受人歡迎的新娘，到報紙上的「奧地利母狼」，只用了二十年。
 - [[t-louis]] 鎖匠國王：被低估的路易十六 — 會讀彌爾頓、會畫地圖、會打鑰匙的國王，卻被記成只會吃和打獵的人。
 - [[t-louis17]] 路易十七之謎：一顆心臟，兩百年後的 DNA — 王后的兒子死在塔裡了嗎？幾十個人說自己就是他。
+- [[t-mesdames]] 姑姑們：凡爾賽最難纏的老公主 — 新嫁娘的第一批朋友，後來成了她最早的對手。
 - [[t-mops]] 王后的小狗：一隻從維也納來的巴哥犬？ — 本站吉祥物的由來：一封 1770 年的密報裡，藏著一隻叫 Mops 的狗。
 - [[t-necklace]] 鑽石項鍊事件：被騙的人輸掉了名聲 — 一條她沒買、沒戴過的項鍊，卻讓全法國相信她是共犯。
 - [[t-october-days]] 麵包師一家：1789 年 10 月，巴黎走到凡爾賽 — 兩天之內，王室一家永遠離開了凡爾賽。
@@ -82,7 +83,7 @@
 - [[s-1913-moberly-jourdain-adventure]] An Adventure（第二版，附 Appendix 與地圖） — Charlotte Anne Elizabeth Moberly；Eleanor Frances Jourdain（以筆名 Elizabeth Morison、Frances Lamont 發表）（1913）｜回憶錄｜部分
 - [[s-1989-colwill-citoyenne]] Just Another "Citoyenne?" Marie-Antoinette on Trial, 1790-1793 — Elizabeth Colwill（1989）｜期刊論文｜全文
 - [[s-1989-white-solution]] Was There a Solution to the Ancien Régime's Financial Dilemma? — Eugene Nelson White（1989）｜期刊論文｜全文
-- [[s-1992-price-vies-privees]] Vies privées et scandaleuses: Marie-Antoinette and the Public Eye — Leah Price（1992）｜期刊論文｜部分
+- [[s-1992-price-vies-privees]] Vies privées et scandaleuses: Marie-Antoinette and the Public Eye — Leah Price（1992）｜期刊論文｜全文
 - [[s-1993-barker-cake]] Let Them Eat Cake': The Mythical Marie Antoinette and the French Revolution — Nancy N. Barker（1993）｜期刊論文｜全文
 - [[s-1995-sargent-macroeconomic]] Macroeconomic Features of the French Revolution — Thomas J. Sargent; François R. Velde（1995）｜期刊論文｜部分
 - [[s-1998-jehaes-naundorff]] Mitochondrial DNA analysis on remains of a putative son of Louis XVI, King of France and Marie-Antoinette — Els Jehaes 等（Leuven 大學人類遺傳學中心）（1998）｜期刊論文｜摘要
