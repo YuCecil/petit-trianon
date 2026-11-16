@@ -67,6 +67,7 @@ updated: 2026-11-16
 
 ## 延伸閱讀
 
+- [[q-mercy-spies]]：大使梅西的「眼線」是誰？
 - [[s-1874-arneth-mercy-correspondance]]
 - [[s-1823-campan-memoires]]
 - [[s-2025-seth-antoine]]
