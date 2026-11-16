@@ -1,15 +1,43 @@
 {
  "built": "2026-11-16",
  "counts": {
-  "sources": 77,
-  "fulltext": 17,
-  "topics": 44,
+  "sources": 90,
+  "fulltext": 22,
+  "topics": 46,
   "entities": 5,
   "questions": 0,
-  "events": 105,
+  "events": 107,
   "places": 18
  },
  "pages": [
+  {
+   "id": "s-1777-bachaumont-memoires-secrets-v5",
+   "type": "source",
+   "title": "《祕密回憶錄》（Mémoires secrets）1777 年版第 5 冊（1770 年條目）",
+   "author": "Louis Petit de Bachaumont（題名頁署名；實際為多人續寫的逐日巴黎見聞）",
+   "year": 1777,
+   "kind": "報刊",
+   "lang": "fr",
+   "venue": "1777 年版第 5 冊，Internet Archive 識別碼 bim_eighteenth-century_mmoires-secrets-pour-se_1777_5（本站讀的是 OCR 文字檔）",
+   "url": "https://archive.org/details/bim_eighteenth-century_mmoires-secrets-pour-se_1777_5",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1770,
+    1770
+   ],
+   "topics": [
+    "t-handover"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n一本逐日記巴黎宮廷與街頭消息的私人日誌，1770 年 5 月 30 日那晚路易十五廣場煙火的事故，它是同時代最早、最詳細的記錄之一，也是太子 6 月 1 日捐款信的出處。\n\n## 三個重點\n\n1. 日誌在 5 月 21 日就寫出煙火的負責人（盧吉耶里，Ruggieri）和他跟對手托雷（Torré）的競爭，5 月 31 日條寫事故經過：火箭落進預備的堡壘引爆大束煙火，起火後一段時間沒人救火；人群因為一條沒填平的溝、只有一個出口、警衛不足而互相踩踏，最後由守夜隊增援才恢復秩序（5 月 31 日條）。\n2. 日誌寫死者被放進瑪德蓮墓園，清點數字是「133」（OCR 讀法），傷者人數未記（5 月 31 日條）。\n3. 王太子 6 月 1 日把每月的零用金（menus plaisirs，2000 埃居）全數寄給巴黎警察總長，附信，「請救助最不幸的人」（6 月 1 日條）；太子妃、Mesdames 與親王們跟進（6 月 1 日、4 日條）。\n\n## 用了什麼史料\n\n日誌不具名，記的是傳聞與觀察，沒有交代消息來源；一般認為作者在巴黎有宮廷與文壇人脈。本站只讀了 1770 年 4 月 13 日至 6 月 4 日的條目（OCR 版，印刷頁碼不可靠，寫作時以條目日期定位）。整冊與其他年份未讀。\n\n## 跟其他資料的關係\n\n- 死亡人數：與 Goncourt（1879，見 [[s-1879-goncourt-marie-antoinette]]）引用的 Gazette de France（1770 年 6 月 4 日，未讀到原文）寫的 132 人相差一人。兩者都是事後的統計，數字要並陳。\n- 捐款：本日誌寫的是「每月」零用金的全數。故事頁 t-handover 寫「一整年的收入」並引 Campan 第 1 冊 p. 55，但本次在 `raw/letters/s-1823-campan-memoires-v1.txt` 的文字中找不到那段，需對 Campan 原書核對後再並陳。\n- 煙火負責人與事故時間的描述，與 Goncourt 寫的「5 月 30 日施放」一致；但日誌自己有一條寫 31 日施放（5 月 21 日條），內部不一致。\n\n## 值得記住的一句話\n\n<!-- 原文（OCR，拼法待對掃描本）＋中譯，附條目日期 -->\n「je ne peux disposer que de cela, je vous l'envoye: secourez les plus malheureux.」（1770 年 6 月 1 日條，太子信）／中譯：「我只能支配這筆錢，我把它寄給您：請救助最不幸的人。」（本站譯）\n\n## 還不確定的地方\n\n- 死亡人數 133（OCR）與 Gazette 的 132 不同，需對掃描本或原報核對。\n- 日期：5 月 21 日條說煙火定在 31 日，5 月 30 日條說「今天」放，5 月 31 日條說「昨天」放；多數說法以 30 日晚為準。\n- 人名的 OCR 拼寫（\"Raze\"、\"Sartines\"）與太子信的原文拼法，需對掃描本。\n- 這份日誌沒有寫 1770 年 5 月 16 日婚禮當天的儀式，只能以 Goncourt 與其他原典補。\n- 煙火裝置是否真的噴火、實際效果如何，日誌只寫預定與事故當下的火勢，沒有其他目擊者細節。\n",
+   "links": [
+    "s-1879-goncourt-marie-antoinette",
+    "t-handover"
+   ]
+  },
   {
    "id": "s-1781-necker-compte-rendu",
    "type": "source",
@@ -62,6 +90,33 @@
    "body": "## 一句話\n\nRousseau 在《懺悔錄》卷六自述為了買酒配麵包，才回想起一位「大公主」的「pis-aller」（權宜之計）：「Qu'ils mangent de la brioche」。這是此句最早的文字出處，但人物無名、事件也是作者單方面的回憶。\n\n## 三個重點\n\n1. 原句在法文本 p. 274（Ebooks libres 版；頁碼以該 PDF 的印刷頁碼為準）：「Enfin je me rappelai le pis-aller d'une grande princesse à qui l'on disait que les paysans n'avaient pas de pain, et qui répondit : « Qu'ils mangent de la brioche. » J'achetai de la brioche.」（Campion-Vincent 註 47 引用的 Pléiade 1959 版為 p. 269，頁碼不同）。\n2. 語境是私人的：Rousseau 當時是家庭教師，偷喝主人家的酒，需要麵包卻不敢買，於是買了布里歐。文中的「brioche」是從「pâtissiers」（糕點店）買的，不是一般麵包店的麵包（p. 274）。這本身就說明 brioche 在當時是糕點，不是主食。\n3. 作者沒有指名，寫作時間早於瑪麗．安東尼嫁到法國：Campion-Vincent 指出卷一至六寫於 1765 年（PDF p. 12；註 49），而她 1770 年才嫁給路易十六。\n\n## 用了什麼史料\n\n- 作者本人的自傳回憶，寫在 1765 年前後，1782 年出版（卷一至六）。\n- 英譯（Gutenberg #3906，Book VI）：「Then let them eat pastry!」，把 brioche 譯成 pastry（糕點），而不是 cake。譯者未列於檔案中，本卡不推斷。\n\n## 跟其他資料的關係\n\n- Campion-Vincent 與 Shojaei Kawan（2002）把此段當作「無惡意、帶笑話性質的俗語用法」來引用，認為 Rousseau 的敘述沒有針對政治的意圖（PDF p. 12）。\n- 有些英語俗語辭典把這句話寫成 Rousseau 安到瑪麗．安東尼身上（Mieder 1992，作者認為錯誤），另一本（Titelman 1996）則寫 Rousseau 記得是「一位大人物（grand prince）」的話（Campion-Vincent 註 48）。\n\n## 值得記住的一句話\n\n> 「Qu'ils mangent de la brioche.」（p. 274）\n> 中譯：「那就讓他們吃布里歐麵包吧。」\n\n## 還不確定的地方\n\n- 寫作與出版年份資料不一致：Campion-Vincent 寫卷一至六寫於 1765 年；維基（二手）同時寫「1765 年寫、1782 年出版」與「1769 年完成」；另有二手網路說 1767 年。本卡只採用 Campion-Vincent 的說法，尚未對照 Rousseau 原稿。\n- 「大公主」是哪一位，Rousseau 沒有說，本卡不做判斷。\n- 本卡讀的是卷六中與此段相關的段落，未讀全卷。\n- 英譯本的譯者與版本未在 Gutenberg 檔案內說明，英譯引文只作對照。\n",
    "links": [
     "t-cake"
+   ]
+  },
+  {
+   "id": "s-1783-faujas-description",
+   "type": "source",
+   "title": "《蒙哥爾菲機器氣球實驗描述》（Description des expériences de la machine aérostatique de MM. de Montgolfier）",
+   "author": "Barthélemy Faujas de Saint-Fond",
+   "year": 1783,
+   "kind": "專書",
+   "lang": "fr",
+   "venue": "Paris: Cuchet，1783（第二卷 1784）",
+   "url": "https://archive.org/details/Descriptiondese00Fauj",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1783,
+    1784
+   ],
+   "topics": [
+    "t-balloon"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n科學院會員 Faujas de Saint-Fond 在 1783 年出版的熱氣球實驗記述。作者本人在凡爾賽宮庭院目睹 9 月 19 日的實驗，是現存最詳細的同時代現場紀錄之一；但他是蒙哥爾菲兄弟的支持者，文字有替他們辯護的成分。\n\n## 三個重點\n\n1. 9 月 19 日的實驗（頁 36–44）：國王與王室在場，氣球載了羊、公雞、鴨，充氣 11 分鐘，升空停留 8 分鐘，降落在瓦克雷松（Vaucresson）森林，離起點約 1700 托阿斯。\n2. 作者明確駁斥「公雞頭被摔斷」的報導，說公雞只有右翅皮擦傷，是羊在升空前約半小時踢的，有十多名證人（頁 43）。\n3. 作者也駁斥報紙說氣球充的是氫氣（「air inflammable」）的說法；實際只用燃燒的乾草與羊毛（頁 44）。書後的補編附有 11 月 21 日 Muette 實驗的 procès-verbal（簽署人包括 Duc de Polignac 等人）。\n\n## 用了什麼史料\n\n作者本人在場，引用了 Le Gentil 與 Jeaurat 兩位天文學家在天文台測得的高度（280 與 293 托阿斯，頁 44），並附上科學院委員簽署的文件（頁 36 附近註腳）。作者沒有提供報紙原文，也沒有列出證人的名字。\n\n## 跟其他資料的關係\n\n- 與 Degardin（s-2005-degardin-montgolfier）衝突：Degardin 說鴨子斷喙，Faujas 沒有提到鴨子受傷，只說公雞翅膀皮擦傷。\n- 與 Château 網頁（s-2026-versailles-chateau-first-balloon）：高度數字不同。Faujas 的天文台估計約 280–293 托阿斯（約 550–570 公尺，推論換算），網頁寫約 600 公尺；距離 1700 托阿斯（約 3.3 公里，推論換算）與網頁的 3.5 公里也有些差距。\n\n## 值得記住的一句話\n\n原文：「Il faut donc absolument rejetter le récit qui annonça que le coq s'étoit rompu la tête」（頁 43）\n中譯：「因此必須完全駁斥那則說公雞頭被摔斷的報導」（本站譯）\n\n## 還不確定的地方\n\n- 只讀了印刷頁約 36–44 的 Versailles 章節與補編的 Muette procès-verbal；全書其餘部分未讀。\n- OCR 檔的氣球尺寸（高度、直徑）辨識不清，不能採用。\n- 本書沒有寫國王或王后的個人反應（只說「leurs Majestés」在場並走近氣球，頁 40）。\n- 本書沒有提到氣球名字「Le Réveillon」、動物之後的去向，也沒有提到犯人試飛的說法。\n- 《Mémoires secrets》與《Journal de Paris》的同日報導尚未取得原文，無法確認作者說的「報紙」是哪幾份。\n",
+   "links": [
+    "t-balloon"
    ]
   },
   {
@@ -887,6 +942,35 @@
    ]
   },
   {
+   "id": "s-1900-nolhac-dauphine",
+   "type": "source",
+   "title": "《瑪麗．安東尼，太子妃》（Marie-Antoinette Dauphine）",
+   "author": "Pierre de Nolhac",
+   "year": 1900,
+   "kind": "傳記",
+   "lang": "fr",
+   "venue": "Paris: Calmann-Lévy（本站讀的是 Internet Archive 副本，標示 1900；題頁記初版 1898，本副本印次未核對）",
+   "url": "https://archive.org/details/marieantoinettedOOnolliuoft",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1755,
+    1770
+   ],
+   "topics": [
+    "t-handover"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n凡爾賽宮學者寫的太子妃早年傳記，把 1770 年的婚禮儀式、太子日誌「Rien」與 5 月 30 日煙火事故都寫得很完整，是目前本站讀到最完整的婚禮敘述。\n\n## 三個重點\n\n1. 婚禮（5 月 16 日）：禮拜堂中蘭斯大主教祝福十三枚金幣與婚戒，太子把戒指戴在太子妃手上；彌撒中兩位主教撐開銀色錦緞華蓋；彌撒後，國王第一個簽署婚姻登記簿（pp. 94–95）。\n2. 太子的私人日誌在婚後第二天（5 月 17 日，星期四）寫下「Rien」，因為他沒有去打獵（p. 101）。這是**太子**的日誌，不是國王的狩獵日記。\n3. 煙火事故：Nolhac 寫約十萬人在路易十五廣場，溝沒填好造成跌倒、馬車強行通行，最後「第二天要清出一百三十二具」（p. 116）。太子寫信給警察總長，寄出每月零用金，請「救助最不幸的人」（p. 117）。\n\n## 用了什麼史料\n\nNolhac 是傳記作者，會引用同時代的回憶錄、報紙與宮廷記錄；本次只讀婚禮與煙火相關的章節（約 pp. 91–117），注釋未逐條核對。OCR 頁眉有幾處漏讀，頁碼可能差 1。\n\n## 跟其他資料的關係\n\n- 死亡人數 132：與 Goncourt（1879，[[s-1879-goncourt-marie-antoinette]]）引 Gazette 的數字一致；Bachaumont（[[s-1777-bachaumont-memoires-secrets-v5]]）的 OCR 數字是 133，需對掃描本。\n- 太子的捐款：Nolhac 與 Bachaumont 都寫是「每月零用金」，與 t-handover 頁的「一整年收入」不同。\n- 「Rien」的日期：Goncourt 沒有寫；本條以 Nolhac 為準，是 5 月 17 日。\n\n## 值得記住的一句話\n\n<!-- 原文（OCR）＋中譯，附頁碼 -->\n「Le Dauphin regrette de ne point chasser et inscrit sur son journal intime sa note ordinaire : «Rien.»」（p. 101）／中譯：「太子因為不能打獵而遺憾，在他的私人日誌上寫下他一貫的記錄：『Rien』。」（本站譯）\n\n## 還不確定的地方\n\n- 副本印次與版本年份未核對（初版 1898，本副本標示 1900）。\n- OCR 頁碼推算，待對書本。\n- 腳註與引用來源未逐條核對，Nolhac 引的 Mercure、Gazette 等原文未讀到。\n- 婚禮晚宴的座位數與杜巴利夫人在 5 月 15 日晚宴的細節：本次沒有在 Nolhac 中核到。\n- 婚禮簽名的「墨漬」傳說：本次未見。\n",
+   "links": [
+    "s-1777-bachaumont-memoires-secrets-v5",
+    "s-1879-goncourt-marie-antoinette",
+    "t-handover"
+   ]
+  },
+  {
    "id": "s-1903-funck-brentano-collier",
    "type": "source",
    "title": "《項鍊案》",
@@ -1268,6 +1352,33 @@
    ]
   },
   {
+   "id": "s-1998-chazaud-cabanis-guillotine",
+   "type": "source",
+   "title": "「Cabanis devant la guillotine」（卡巴尼斯面對斷頭台）",
+   "author": "Jacques Chazaud",
+   "year": 1998,
+   "kind": "期刊論文",
+   "lang": "fr",
+   "venue": "Histoire des sciences médicales, t. XXXII, n° 1（1998），pp. 69–73",
+   "url": "https://numerabilis.u-paris.fr/ressources/pdf/sfhm/hsm/HSMx1998x032x001/HSMx1998x032x001x0069.pdf",
+   "access": "公開",
+   "depth": "全文",
+   "period": [
+    1792,
+    1796
+   ],
+   "topics": [
+    "t-execution"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n醫學史學者 Chazaud 研究 Cabanis 在 1795–96 年寫的一份斷頭台筆記：這份筆記在生理上替斷頭台辯護，在政治上卻強烈反對；Chazaud 轉述 Cabanis 的說法時寫到，半月形刀刃是「在路易的建議下」改成斜刃；放在上下文裡，這個「路易」指的應該是設計斷頭台的外科醫生安托萬．路易，不是國王。\n\n## 三個重點\n\n1. Cabanis 在共和曆 IV 年初寫的筆記，反駁 Soemmering 與 Sue 關於「斷頭後仍有痛覺」的說法；他說斜刃斷頭「快得像閃電」（pp. 69–70）。\n2. Chazaud 轉述（不是直接引用）Cabanis 的筆記：原本的半月形刀刃「在路易的建議下」改成斜刃（p. 70）。文中只寫「Louis」；這篇文章談的全是醫生之間的討論，同一篇裡 Antoine Louis 也一再出現，（推論）指的應是醫生安托萬．路易。\n3. 1792 年 4 月 17 日 Bicêtre 試驗，Pinel 主持，Sanson 操作，Antoine Louis、Guillotin 在場；Antoine Louis 在 3 月寫過意見，又在 4 月 12 日寫信給 Desgenettes 淡化自己的角色（p. 71）。\n\n## 用了什麼史料\n\n作者引用 Cabanis 的筆記（Œuvres complètes, 1823–25 年版，原文約 1795–96 年寫成）與 Soemmering、Sue 的文章，也引用 Le Moniteur（1792 年 3 月 22 日）刊登的 Antoine Louis 意見。作者沒有引用 Antoine Louis 報告的原文。\n\n## 跟其他資料的關係\n\n- 與 s-1862-sanson-sept-generations 一致：都寫 1792 年 4 月 17 日 Bicêtre 試驗，都有 Antoine Louis、Pinel、Cabanis 在場。\n- 與 Sanson 家族記述不同：Sanson 把斜刃的決定寫成國王本人的主意；Chazaud 轉述的 Cabanis 只寫「路易」，從上下文看是醫生安托萬．路易。\n\n## 值得記住的一句話\n\n「la hache en croissant ... a été remplacée, sur le conseil de Louis, par un couperet oblique」（p. 70）\n中譯：「半月形的斧刃……在路易的建議下，被換成斜刃。」（本站譯）\n\n## 還不確定的地方\n\n- 「sur le conseil de Louis」是 Chazaud 的轉述，不是 Cabanis 原文；Louis 指誰，作者沒有明說，本站依上下文推論是醫生 Antoine Louis。要確定得讀 Cabanis 原文（Œuvres complètes）。\n- 文中寫 Cabanis「présent le 17 mars」（p. 72），與 4 月 17 日的試驗日期衝突，待核。\n- Cabanis 原始筆記（1795–96）與 Moniteur 1792 年 3 月 22 日的刊登，本站都還沒有讀到原文。\n",
+   "links": [
+    "t-execution"
+   ]
+  },
+  {
    "id": "s-1998-jehaes-naundorff",
    "type": "source",
    "title": "Mitochondrial DNA analysis on remains of a putative son of Louis XVI, King of France and Marie-Antoinette",
@@ -1379,6 +1490,35 @@
    ]
   },
   {
+   "id": "s-2002-schwartz-etruscan-sevres",
+   "type": "source",
+   "title": "「Etruscan」風格的塞弗爾：瑪麗．安東尼乳品室（Rambouillet）的一只碗（The \"Etruscan\" Style at Sèvres: A Bowl from Marie-Antoinette's Dairy at Rambouillet）",
+   "author": "Selma Schwartz",
+   "year": 2002,
+   "kind": "期刊論文",
+   "lang": "en",
+   "venue": "The Metropolitan Museum of Art, Metropolitan Museum Journal vol. 37（2002）",
+   "url": "https://www.metmuseum.org/met-publications/the-etruscan-style-at-sevres-the-metropolitan-museum-journal-v-37-2002",
+   "access": "公開",
+   "depth": "書目",
+   "period": [
+    1787,
+    1787
+   ],
+   "topics": [
+    "t-coupe"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n大都會博物館學報 2002 年的一篇文章，以 Rambouillet 乳品室瓷器中的一只碗為例，討論這套瓷器的「伊特拉斯坎（Etruscan）」風格來源，據搜尋摘要，碗定年 1787 年，設計歸於 Jean-Jacques Lagrenée le Jeune。\n\n## 三個重點\n\n1. 文章主題是 Rambouillet 乳品室服務中的一只碗，研究的是它的「伊特拉斯坎」風格（書目摘要，英文；未讀到全文）。\n2. 搜尋摘要寫此碗定年 1787 年，設計歸於 Jean-Jacques Lagrenée le Jeune（書目摘要；未讀到頁碼）。\n3. 摘要提到這類碗通常連到希臘的 mastos 飲器（書目摘要的說法，未核對原文）。\n\n## 用了什麼史料\n\n未讀到全文，無法判斷作者用了哪些檔案與館藏紀錄。\n\n## 跟其他資料的關係\n\n- 與 [[s-2025-dati-culture-sevres-rambouillet]] 的說法（瓷器服務 1787 至 1788 年交付、器形借鑑古代陶器）大致相容，但兩者都只是摘要層級的確認。\n- 與 [[s-2016-maes-laiterie-rambouillet]] 的說法（乳品室由 Hubert Robert 藝術指導）並不衝突，但這兩份書目都沒有談到「乳房碗」的鑄模傳說。\n\n## 值得記住的一句話\n\n未取得原文引文，不填。\n\n## 還不確定的地方\n\n- 只從搜尋引擎的摘要與目錄資訊確認書名、作者與卷期，沒有讀到全文；頁碼未知。\n- 這篇文章是本主題目前最像「學術研究」的候選，但全文需要取得：大都會博物館的出版頁於 2026-11-16 查詢時回傳安全檢查頁（HTTP 429），無法自動下載；PDF 位於 resources.metmuseum.org，同樣被擋。需要主 session 以瀏覽器或使用者的網路開啟後，再補讀。\n- 「Etruscan 風格」與 mastos 之間的具體連結，要讀全文才能確認。\n",
+   "links": [
+    "s-2016-maes-laiterie-rambouillet",
+    "s-2025-dati-culture-sevres-rambouillet",
+    "t-coupe"
+   ]
+  },
+  {
    "id": "s-2003-tackett-king",
    "type": "source",
    "title": "When the King Took Flight",
@@ -1403,6 +1543,33 @@
    "body": "## 一句話\n\nTimothy Tackett（UC Irvine）2003 年由哈佛大學出版社出版的英文專書，討論 1791 年 6 月的出逃失敗及其後果；本站只取得書目與出版社、通俗書評資訊，尚未讀到全文或學術書評。\n\n## 三個重點\n\n1. 書目：Harvard University Press，2003 年；書目網站標示 ISBN 9780674010543（與 067401054X 同一書，來源為 AbeBooks 與 Publishers Weekly 的列表）；另有 2004 年平裝版，ISBN 9780674016422（uRead 等書店列表，未逐一核對）。\n2. 通俗書評：Kirkus（星評）指出全書最有說服力的是對逃亡後果的分析，多於逃亡經過本身（書評日期 2003-03-01，未讀全文）。\n3. 出版社簡介：書中以多個群體（王室、瓦雷納居民、巴黎激進派）的角度展開，主張逃亡為恐怖統治鋪路（轉引自出版社簡介，未核對原文）。\n\n## 用了什麼史料\n\n無法判斷（本次未讀到全文）。\n\n## 跟其他資料的關係\n\n- 本書屬於「逃亡後果」的研究，與本站 t-varennes 的「研究者怎麼看」段落相關。\n- 尚未與 Tourzel、Drouet 等原典逐項比對。\n\n## 值得記住的一句話\n\n未取得原文可引用的句子。\n\n## 還不確定的地方\n\n- 未讀全文，沒有可以標頁碼的內容。\n- 未找到學術書評（H-France、French Historical Studies 等）；需要時可在台大訂閱資料庫（JSTOR 等）查，需台大 VPN。\n- 書中對「停下來吃飯」「認出國王」等迷思的處理，本站尚不知道。\n",
    "links": [
     "t-varennes"
+   ]
+  },
+  {
+   "id": "s-2005-degardin-montgolfier",
+   "type": "source",
+   "title": "Les frères Montgolfier（蒙哥爾菲兄弟）",
+   "author": "Alain Degardin",
+   "year": 2005,
+   "kind": "網頁",
+   "lang": "fr",
+   "venue": "fondation LAMAP，小冊子 PDF（5 頁）；PDF 製作日期 2005 年 5 月（由檔案屬性推得，文章未註明年份）",
+   "url": "https://fondation-lamap.org/sites/default/files/upload/media/minisites/projet_europe/PDF/montHistfr.pdf",
+   "access": "公開",
+   "depth": "全文",
+   "period": [
+    1740,
+    1794
+   ],
+   "topics": [
+    "t-balloon"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n法文通俗小冊子，從蒙哥爾菲兄弟的家世、1783 年的熱氣球實驗，一直寫到 Charles 的氫氣球與 1794 年的 Fleurus 戰役；有 1783 年凡爾賽與 11 月 21 日飛行的概述，但沒有註腳，也不是同儕審查的研究。\n\n## 三個重點\n\n1. 凡爾賽實驗（PDF 第 2–3 頁）：9 月 19 日在凡爾賽宮庭院升空，載了公雞、羊、鴨，朝瓦克雷松（Vaucresson）森林飛去，8 分鐘後降落，飛行 3.5 公里。\n2. 文章說鴨子的喙在降落時斷了（PDF 第 3 頁）。這與 Faujas（s-1783-faujas-description）的記述不一致。\n3. 文章提到國王一度考慮用兩名死刑犯試飛，後來放棄，11 月 21 日改由 Pilâtre de Rozier 與 d'Arlandes 飛行（PDF 第 4 頁）。文中沒有註明來源。\n\n## 用了什麼史料\n\n沒有註腳。文章只寫「據一般敘述」的內容，無法判斷哪些事實有原始出處。\n\n## 跟其他資料的關係\n\n- 與 Faujas（s-1783-faujas-description）衝突：鴨子受傷（Degardin）對比公雞翅膀皮擦傷（Faujas）。Faujas 是在場的目擊者，應以 Faujas 為準。\n- 與 Château 網頁（s-2026-versailles-chateau-first-balloon）：距離都寫 3.5 公里、飛行 8 分鐘，互相一致。\n\n## 值得記住的一句話\n\n原文：「le roi étant revenu sur son idée d'utiliser deux condamnés à mort en raison des risques encourus」（PDF 第 4 頁）\n中譯：「國王因為風險太大，改變了用兩名死刑犯試飛的想法」（本站譯）\n\n## 還不確定的地方\n\n- 年份是 PDF 製作日期推得的（2005），文章本身沒有註明。\n- 作者 Alain Degardin 的學術身分與出版社未查到。\n- 「鴨子斷喙」與「死刑犯」兩段都沒有註腳，不能直接寫入故事頁，要另找來源確認。\n",
+   "links": [
+    "t-balloon"
    ]
   },
   {
@@ -1488,6 +1655,60 @@
    "body": "## 一句話\n\n傳記作者 Antonia Fraser 在電影上映前接受 NPR 訪談，認為「讓他們吃蛋糕」是後來的偏見，並說明瑪麗的婚姻與宮廷生活。\n\n## 三個重點\n\n1. Fraser 說「讓他們吃蛋糕」是「royal chestnut」（老掉牙的故事），之所以黏上王后，是因為它「證實了人們的偏見」（逐字稿，Fraser 的訪談段落）。\n2. 婚後七年半才圓房；Fraser 說路易十六在心理上「做不到」（逐字稿）。\n3. 宮廷更衣的儀式：不同階級的女官依序遞送衣物；Fraser 說王后的角色就是要「光鮮亮麗」（逐字稿）。\n\n## 用了什麼史料\n\n以 Fraser 的傳記作為訪談基礎，節目另引小說家 Sena Jeter Naslund 的小說《Abundance》。節目沒有引用檔案史料。\n\n## 跟其他資料的關係\n\n與 s-2012-backman-rogers-threshold 中引用的 Fraser 傳記一致；但這是採訪，不是學術分析。\n\n## 值得記住的一句話\n\n原文：「a royal chestnut」（Fraser，逐字稿）\n中譯：「老掉牙的故事」；她說這句話之所以流傳，是因為「證實了人們的偏見」（本站譯）\n\n## 還不確定的地方\n\n- 逐字稿沒有頁碼；原抓取來自 NHPR 轉載版本，NPR 原址本次抓取逾時，正式引用前請核對音檔或 NPR transcript。\n- 節目開場提到 17 世紀的一位法國王后可能說過類似的話，本站寫時要注意。\n- 「美國獨立戰爭造成法國赤字」是 Fraser 的觀點，不是原始史料。\n",
    "links": [
     "t-coppola"
+   ]
+  },
+  {
+   "id": "s-2007-kantor-antonieta",
+   "type": "source",
+   "title": "瑪麗．安東尼與天花疫苗（阿根廷醫學期刊社論）",
+   "author": "Isabel N. Kantor",
+   "year": 2007,
+   "kind": "期刊論文",
+   "lang": "其他",
+   "venue": "Medicina (Buenos Aires) 67(2), 206–208",
+   "url": "https://medicinabuenosaires.com/demo/revistas/vol67-07/2/Maria%20Antonieta%20y%20la%20vacunacion%20antivariolica.pdf",
+   "access": "公開",
+   "depth": "全文",
+   "period": [
+    1774,
+    1793
+   ],
+   "topics": [
+    "t-inoculation"
+   ],
+   "entities": [],
+   "reliability": "低",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n2007 年阿根廷醫學期刊的短篇社論，說王后「說服丈夫與兩位小叔接種」，但注釋只引展覽目錄、教科書與維基百科，沒有 1774 年的原典。\n\n## 三個重點\n\n1. 社論說王后「convenció a su esposo y a sus dos cuñados de inocularse」（p. 206），並說她因此受到批評。\n2. 社論用 1782 年王后寫給 Guéméné 王妃的信開頭，信中說女兒已接種（p. 206）。\n3. 注釋 1 是 2006–2007 年巴黎展覽目錄，注釋 2 是 Carpentier & Lebrun 的法國史教科書（1989），注釋 3 是法文維基百科（p. 208）。\n\n## 用了什麼史料\n\n二手資料，沒有 1774 年的原典。展覽目錄與教科書沒有檢查，維基百科不能當史料。\n\n## 跟其他資料的關係\n\n社論的「說服」說法與梅西、瑪麗亞．特蕾莎的 1774 年書信不一致（見 t-inoculation 原典頁碼筆記）。這份資料只能當成「流傳的說法在醫學界的版本」，不能當成史料。\n\n## 值得記住的一句話\n\n\"convenció a su esposo y a sus dos cuñados de inocularse\" （p. 206）\n中譯：說服了丈夫與兩位小叔接種。（本站譯）\n\n## 還不確定的地方\n\n- 社論沒有說明「說服」的依據，也沒有引用任何 1774 年的人。\n- 注釋 3 是維基百科，不能作為證據。\n- 這份資料的作用只是說明「王后說服國王」的流傳版本，不能用來判定事實。\n",
+   "links": [
+    "t-inoculation"
+   ]
+  },
+  {
+   "id": "s-2008-kaiser-renversement-alliances",
+   "type": "source",
+   "title": "「La fin du renversement des alliances」：法國、奧地利與 1792 年 4 月 20 日的宣戰",
+   "author": "Thomas E. Kaiser",
+   "year": 2008,
+   "kind": "期刊論文",
+   "lang": "fr",
+   "venue": "Annales historiques de la Révolution française n° 351（2008），pp. 77–98",
+   "url": "https://journals.openedition.org/ahrf/11360",
+   "access": "公開",
+   "depth": "全文",
+   "period": [
+    1789,
+    1792
+   ],
+   "topics": [
+    "t-war-plans"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\nKaiser 認為 1792 年的開戰不能只怪布里索派的宣傳，外交上的互相恐嚇也有責任；文中也明確指出，戰前王后確實向奧地利傳過軍事情報。\n\n## 三個重點\n\n1. 「奧地利委員會」是 1790 年就出現的流言：Kaiser 寫到 1790 年 5 月，「王后與神秘的『奧地利委員會』合作，為了奧地利推翻法國革命政權」的傳言已經流傳（見全文第 24 段）。他說這些傳言「細節多半是幻想，但並非全無一點真實」。\n2. 戰前的直接證據：註 70 指出，王后在 1792 年 3 月 26 日寫給梅西、3 月 30 日寫給費爾森的信都收在 Lever 的 *Correspondance*（2005）p. 780–782；作者的結論是：「到了開戰前夕，瑪麗．安東尼確實向奧地利人傳過軍事情報」（原文見下方「值得記住的一句話」）。\n3. 作者把責任分開看：布里索派把利奧波德二世當成「主要敵人」來攻擊，而外交上，奧地利的恫嚇也確實加深了法國的不安（第 2–5 段、第 18–20 段）。\n\n## 用了什麼史料\n\n- 作者使用的是 Mercy-Argenteau 通信（Arneth & Flammermont 1891 年版，註 24）與 Lever 2005 年版的王后書信（註 64、70）。\n- 註 70 提到的兩封信（1792 年 3 月 26 日給梅西、3 月 30 日給費爾森）作者只註出處，沒有引用全文；本站資料夾裡沒有 Lever 的檔案，無法核對內容。\n- 另引 Munro Price（2002）、Blanning（1986）、Belissa（2006）等近代研究。\n\n## 跟其他資料的關係\n\n- 與 Arneth 1866 的信件（CXLVII，約 1792 年 3 月 20 日，見 `raw/letters/s-1866-arneth-marie-antoinette-joseph-leopold.txt`）內容相呼應：信中描述法國「攻擊薩伏依與列日」的計畫，正是戰前的軍事情報。兩者日期不同，是否為同一封信尚未確認。\n- 與同作者 2003 年 *French Historical Studies* 的 \"From the Austrian Committee to the Foreign Plot\"（本站尚未讀到全文）互相引用，本文註 16 與註 19 都引用它。\n\n## 值得記住的一句話\n\n原文：« À la veille de la guerre, Marie-Antoinette transmit bel et bien des renseignements militaires aux Autrichiens. »（註 70 前的正文，第 26 段末）\n中譯：「就在開戰前夕，瑪麗．安東尼確實把軍事情報傳給了奧地利人。」（本站譯）\n\n## 還不確定的地方\n\n- OpenEdition 全文沒有印刷頁碼，只有段落與註號；本站以「全文第 N 段」與註號標出處。印刷頁碼應在 pp. 77–98 之間，待有 PDF 時補上。\n- 「情報」的具體內容（哪一項作戰計畫、哪一天寄出）作者沒有在正文寫明，要靠 Lever 原信核對。\n- 文中所說的「奧地利委員會」是布里索派與報刊的用語，作者說法是「流言」，不是確定的組織。\n",
+   "links": [
+    "t-war-plans"
    ]
   },
   {
@@ -1625,6 +1846,37 @@
    "body": "## 一句話\n\n作者從電影煽情劇（melodrama）與 camp的角度讀《凡爾賽拜金女》，認為服裝、色彩與配樂是理解瑪麗情感與處境的主要工具。\n\n## 三個重點\n\n1. 影片服裝由 Milena Canonero 設計，作者說剪裁「完全正確」，但配色與髮型是設計師的創作（p. 110，引 V Magazine 2006）。\n2. 最明顯的現代元素是 \"I Want Candy\" 蒙太奇中的一雙淺藍色 Converse（p. 110）。\n3. 脆爽的粉彩配色靈感來自 Ladurée 的杏仁馬卡龍；Coppola 稱之為「a 'cake and cookie' kind of thing」（p. 111）。\n\n## 用了什麼史料\n\n電影本身、服裝設計師的訪談（V Magazine 2006）、Pam Cook（Sight & Sound 2006）、Rosenberg（2009）、Sontag 的 camp 理論等。服裝細節引 Weber 2006 的歷史研究（註 8）。\n\n## 跟其他資料的關係\n\n與 s-2012-backman-rogers-threshold 同樣處理時代錯置，但框架是 melodrama、camp 與酷兒閱讀，不是通過儀禮。\n\n## 值得記住的一句話\n\n原文：Det påtagligaste moderna inslaget i mise-en-scène utgörs av förekomsten av ett par ljusblå Converse（p. 110）\n中譯：影片中最明顯的現代元素，是一雙淺藍色 Converse（本站譯）\n\n## 還不確定的地方\n\n- 出版年 2011 是依 PDF 製作日期推定，**待核對**；卷期號與同儕審查狀態未確認。\n- 原文為瑞典文，中譯為本站所譯。\n- 註 9 引的 Sony 製作說明網址已不可用，Coppola 的「cake and cookie」引語只能由作者轉述，無法核對原始出處。\n",
    "links": [
     "t-coppola"
+   ]
+  },
+  {
+   "id": "s-2011-martin-dairy-queens",
+   "type": "source",
+   "title": "Dairy Queens：從凱瑟琳．德．美第奇到瑪麗．安東尼的田園建築政治（Dairy Queens: The Politics of Pastoral Architecture from Catherine de' Medici to Marie-Antoinette）",
+   "author": "Meredith Martin",
+   "year": 2011,
+   "kind": "專書",
+   "lang": "en",
+   "venue": "Harvard University Press（2011）",
+   "url": "https://www.degruyterbrill.com/document/doi/10.4159/9780674059474/html?lang=en",
+   "access": "公開",
+   "depth": "書目",
+   "period": [
+    1550,
+    1789
+   ],
+   "topics": [
+    "t-coupe",
+    "t-hameau"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\nMeredith Martin 2011 年由哈佛大學出版社出版的專書，從凱瑟琳．德．美第奇到瑪麗．安東尼，追蹤法國「愉悅乳品室（pleasure dairy）」的政治意義，書中也討論 Hameau 與 Rambouillet 乳品室。\n\n## 三個重點\n\n1. 作者主張，從凱瑟琳．德．美第奇（Fontainebleau 的乳品室）到瑪麗．安東尼，幾位王后借乳品室這種田園建築來為女性統治辯護（書目摘要與書評摘要，未讀全文）。\n2. 書中把 Hameau 放回歷史脈絡，而不是當作輕浮的消遣（書評摘要）。\n3. 一篇部落格書評提到 Rambouillet 乳品室與 Trianon 的乳品室風格明顯不同，作者認為這是男性設計者刻意的安排（單一二手說法，未核對原書）。\n\n## 用了什麼史料\n\n未讀到全文，無法確認書中是否使用 Rambouillet 的檔案或 Sèvres 館藏紀錄。\n\n## 跟其他資料的關係\n\n- 與 [[s-2016-maes-laiterie-rambouillet]] 同屬 Rambouillet 乳品室研究；Maës 是建築與陳設研究，Martin 是政治與性別角度，兩者沒有直接衝突的已知說法。\n- 與 [[s-2002-schwartz-etruscan-sevres]] 同樣涉及 1787 年左右的瓷器與乳品室；兩者是否直接討論乳房碗，尚未確認。\n\n## 值得記住的一句話\n\n未取得原文引文，不填。\n\n## 還不確定的地方\n\n- 只讀到出版社與書評的簡介；未讀到章節、頁碼或原文，因此不能引用書中論點。\n- 書評摘要與部落格的 Rambouillet 說法都是二手資料，需要讀原書確認。\n- 出版年採 2011 年（書評所寫）；某書商頁寫 2015 年，推測是後來的版本，未核對。\n- 搜尋未找到 Martin 的開放取用章節；Project MUSE 的書評頁於查詢時回傳驗證頁，De Gruyter 頁回傳 405，都無法讀取。需要台大資料庫或書本本身。\n",
+   "links": [
+    "s-2002-schwartz-etruscan-sevres",
+    "s-2016-maes-laiterie-rambouillet",
+    "t-coupe",
+    "t-hameau"
    ]
   },
   {
@@ -1851,6 +2103,33 @@
    ]
   },
   {
+   "id": "s-2020-theobald-soaring",
+   "type": "source",
+   "title": "〈飛升的想像：凡爾賽第一次孟格菲氣球表演的文字與圖像〉（Soaring Imaginations: The First Montgolfier Ballooning Spectacle at Versailles in Word and Image）",
+   "author": "Catherine J. Lewis Theobald",
+   "year": 2020,
+   "kind": "期刊論文",
+   "lang": "en",
+   "venue": "Lumen, vol. 39（2020），pp. 23–53（加拿大十八世紀研究學會期刊，Érudit 平台）",
+   "url": "https://www.erudit.org/fr/revues/lumen/2020-v39-lumen05289/1069403ar/",
+   "access": "公開",
+   "depth": "全文",
+   "period": [
+    1783,
+    1785
+   ],
+   "topics": [
+    "t-balloon"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n從三幅當時流傳的版畫和圖說，看 1783 年 9 月 19 日凡爾賽的氣球表演怎麼被包裝成王室的科學宣傳；作者發現圖說一再強調國王在場，版畫裡卻看不到國王。\n\n## 三個重點\n\n1. 當天有上千人擠進凡爾賽宮的庭院，國王一家和科學院院士在場；氣球是藍底金飾，印著國王的姓名縮寫，載著一隻羊、一隻鴨、一隻公雞，飛了八分鐘；版畫標題說觀眾「超過十三萬人」（引言、〈Publicizing Wonder〉一節）。\n2. 三隻動物都活了下來，「儘管當時有報導說不是這樣」；版畫圖說寫氣球在 1700 托阿斯外的瓦克雷松森林降落，羊、公雞、鴨「沒有受到任何不適」（〈Publicizing Wonder〉一節，註 47、55）。\n3. 王室在升空前親自到現場看準備工作，但升空時是和科學院院士一起在宮裡的王室套房觀看，國王用望遠鏡追著氣球；作者推測可能是擔心安全（〈What Goes Up Must Come Down〉一節，註 68–70）。\n\n## 用了什麼史料\n\nFaujas de Saint-Fond《Description des expériences de la machine aérostatique》（1783–84）、當時的版畫與圖說、富蘭克林的書信、Ségur 伯爵回憶錄；二手研究有 Gillispie（1983）、Thébaud-Sorger、Keen、Kim、Faure《Les Frères Montgolfier》。\n\n## 跟其他資料的關係\n\n- 與 s-1783-faujas-description 一致：八分鐘、瓦克雷松、動物平安、群眾從早上就塞滿往凡爾賽的路。作者大段引用 Faujas。\n- 補充 Faujas：Faujas 只說王室走進圍欄看準備工作，沒說升空時他們在哪；本文依蒙哥爾菲的信與 Faure 的研究，說他們回到套房裡看。\n- 版畫上的「十三萬名觀眾」是當時版畫的說法，Faujas 書中沒有人數。\n\n## 值得記住的一句話\n\n「the king followed the balloon's progress with a telescope」（〈What Goes Up Must Come Down〉一節）\n中譯：「國王用望遠鏡追著氣球飛行。」（本站譯）\n\n## 還不確定的地方\n\n- 本站是在 Érudit 網頁版讀的全文（沒有存原檔，網站有機器人驗證，無法用程式下載），所以出處用章節名稱與註號，沒有印刷頁碼。\n- 「國王用望遠鏡」的出處是 Faure《Les Frères Montgolfier et la conquête de l'air》p. 86（註 70），「王室在套房觀看」出處是 Joseph de Montgolfier 1784 年的演講（註 69）；本站沒讀到這兩份原文。\n- 作者說王室留在室內「可能是擔心安全」，是她自己的推測。\n",
+   "links": [
+    "t-balloon"
+   ]
+  },
+  {
    "id": "s-2021-archives-nationales-xray",
    "type": "source",
    "title": "Marie-Antoinette's Correspondence under X-Ray（法國國家檔案館說明頁）",
@@ -1908,6 +2187,35 @@
    ]
   },
   {
+   "id": "s-2022-doe-bagatelle",
+   "type": "source",
+   "title": "巴黎歌劇評論《城堡節》與 1774 年王室接種：王后的宣傳角色",
+   "author": "Julia Doe",
+   "year": 2022,
+   "kind": "期刊論文",
+   "lang": "en",
+   "venue": "Cambridge Opera Journal 34 (2022), 135–156",
+   "url": "https://doi.org/10.1017/S0954586722000210",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1766,
+    1777
+   ],
+   "topics": [
+    "t-inoculation"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n2022 年的英文歌劇史論文，認為路易十六 1774 年接種天花疫苗時，王后瑪麗．安東尼是最積極的推動者，並且用宮廷演出《城堡節》宣傳接種。\n\n## 三個重點\n\n1. 作者說：「最積極主張路易十六接種的人，似乎是他的妻子瑪麗．安東尼」（p. 151），並列出王后支持演出的紀錄：1775 年凡爾賽，1777 年小特里亞儂（p. 151）。\n2. 反對接種的人把責任推給王后，因為「只有她能給出如此魯莽的建議」（康龐夫人，p. 152，註 84）。\n3. 註 84 還提到，瑪麗亞．特蕾莎很擔心王后被認為影響了丈夫的決定，引 1774 年 7 月 1 日的信（Arneth 版第 2 冊 p. 190）。\n\n## 用了什麼史料\n\n以二手研究為主，也引用原典：康龐夫人回憶錄（1823）、Papillon de la Ferté 的日記（王室總管）、Arneth 版瑪麗亞．特蕾莎與梅西的書信。作者沒有說明 1774 年的接種日期。\n\n## 跟其他資料的關係\n\n作者的「王后最積極」是解讀，原典（梅西 1774 年 6 月 16 日的信，見 [[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 175）寫的是王后「沒有給任何建議」。這跟作者的說法不一致，所以故事頁要兩邊並陳。作者把康龐夫人的說法當成「當時的指責」，這與康龐夫人的文字一致（[[s-1823-campan-memoires]] 第 1 冊 p. 92）。\n\n## 值得記住的一句話\n\n\"The most vehement advocate for Louis XVI’s inoculation seems to have been his wife, Marie Antoinette.\" （p. 151）\n中譯：路易十六接種最積極的主張者，似乎是他的妻子瑪麗．安東尼。（本站譯）\n\n## 還不確定的地方\n\n- 只讀了引言、1774 年段落與註釋 84、85，沒有讀完全文，depth 填「部分」。\n- 「seems to have」是作者的解讀；文中沒有具體引用哪封信，需要對照 Arneth 版第 2 冊 p. 175–190 核對。\n- 作者沒有寫接種的具體日期，只說「六月」之後的幾個月。\n",
+   "links": [
+    "s-1823-campan-memoires",
+    "s-1874-arneth-mercy-correspondance",
+    "t-inoculation"
+   ]
+  },
+  {
    "id": "s-2022-hassler-strasbourg",
    "type": "source",
    "title": "« Lien de deux États, ornement de deux Cours » : Marie-Antoinette à Strasbourg en mai 1770",
@@ -1934,6 +2242,34 @@
    "links": [
     "t-handover",
     "t-mops"
+   ]
+  },
+  {
+   "id": "s-2024-berche-variole",
+   "type": "source",
+   "title": "天花的生與死：從古代到猴痘（醫學史講稿）",
+   "author": "Patrick Berche",
+   "year": 2024,
+   "kind": "期刊論文",
+   "lang": "fr",
+   "venue": "Histoire des sciences médicales, tome VI (2024), p. 485 起",
+   "url": "https://numerabilis.u-paris.fr/ressources/pdf/sfhm/hsm/HSMx2024x006x001/HSMx2024x006x001x0485.pdf",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1718,
+    1800
+   ],
+   "topics": [
+    "t-inoculation"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n2024 年法國醫學史期刊的天花史講稿，用路易十五的病程當臨床例子，並簡述 1774 年路易十六在六月決定接種。\n\n## 三個重點\n\n1. 作者用路易十五的病程說明天花的臨床過程：1774 年 4 月 26 日發病，5 月 10 日死亡（p. 485）。\n2. 作者說 1762 年 Robert Sutton 簡化了接種法（p. 496），並說路易十六「在六月決定接種，採用 Sutton 的方法，與兩位弟弟及阿圖瓦伯爵夫人一起接種」（p. 497）。\n3. 作者估計 18 世紀末法國接種人數約 60,000–70,000，主要是富裕階層（p. 497）。\n\n## 用了什麼史料\n\n以醫學史文獻與 Jenner、Montagu、Sutton 等人的歷史為主。作者沒有引用 1774 年的原典，也沒有提到王后或醫師的名字。\n\n## 跟其他資料的關係\n\n作者寫的接種方法是「Sutton 的方法」，康龐夫人（[[s-1823-campan-memoires]] 第 1 冊 p. 92）寫的是「Jauberthou 醫生」操作。兩者不一定衝突（一個是方法，一個是操作的醫生），故事頁要說明。作者沒有提到王后，所以不能用來判斷王后的角色。\n\n## 值得記住的一句話\n\n\"le jeune roi Louis XVI décide en juin de se faire inoculer par le procédé de Sutton\" （p. 497）\n中譯：年輕的國王路易十六在六月決定採用 Sutton 的方法接種。（本站譯）\n\n## 還不確定的地方\n\n- 只讀了開頭（p. 485）與接種段落（p. 496–497），沒有讀完全文，depth 填「部分」。\n- 「60,000–70,000」沒有寫估算依據。\n- 頁碼是依文本中的頁尾推定，需要核對原刊。\n",
+   "links": [
+    "s-1823-campan-memoires",
+    "t-inoculation"
    ]
   },
   {
@@ -2189,6 +2525,33 @@
    ]
   },
   {
+   "id": "s-2026-versailles-chateau-first-balloon",
+   "type": "source",
+   "title": "First hot air balloon flight（凡爾賽宮官網「關鍵年表」）",
+   "author": "Château de Versailles",
+   "year": 2026,
+   "kind": "網頁",
+   "lang": "en",
+   "venue": "Château de Versailles 官方網站，key dates 條目（頁面未註明發表日期；2026-11-16 擷取）",
+   "url": "https://en.chateauversailles.fr/discover/history/key-dates/first-hot-air-balloon-flight",
+   "access": "公開",
+   "depth": "摘要",
+   "period": [
+    1783,
+    1783
+   ],
+   "topics": [
+    "t-balloon"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n凡爾賽宮官網對 1783 年 9 月 19 日熱氣球實驗的簡短介紹；這是機構的官方頁面，但只有摘要，且是用工具轉述，不是逐字讀到的原文。\n\n## 三個重點\n\n1. 日期與地點：1783 年 9 月 19 日，凡爾賽宮前庭（forecourt）。國王與王室在場，庭院擠滿旁觀者。\n2. 動物：一隻羊、一隻鴨、一隻公雞，裝在柳條籃裡。網頁說它們平安，路易十六讓它們在凡爾賽的動物園（Menagerie）有一席之地（轉述，未核對原文）。\n3. 氣球名稱「Le Réveillon」，取自 Étienne Montgolfier 的朋友 Jean-Baptiste Réveillon；飛行約 8 分鐘，升到約 600 公尺，因布料撕裂而下降，移動 3.5 公里，降落在瓦克雷松森林（Wood of Vaucresson）的 Maréchal 十字路口。\n\n## 用了什麼史料\n\n未註明。網頁沒有註腳。\n\n## 跟其他資料的關係\n\n- 與 Faujas（s-1783-faujas-description）：飛行時間 8 分鐘與降落在瓦克雷松一致；但網頁說的 600 公尺，與 Faujas 的天文台估計（280–293 托阿斯，約 550–570 公尺）不完全相同；網頁說的布料撕裂，Faujas 說有兩處各 7 呎的撕裂，大致相符。\n- 網頁沒有提到犯人試飛，只說 11 月 21 日 Pilâtre de Rozier 在 La Muette 前在 Dauphin 面前升空。\n\n## 值得記住的一句話\n\n（網頁未逐字讀到，暫不引用。）\n\n## 還不確定的地方\n\n- 只讀了工具轉述的摘要，沒有取得頁面的逐字原文；動物後來的去向（Menagerie）與「Le Réveillon」的名稱，需要用原典（Faujas、Journal de Paris）核對。\n- 網頁沒有說明 600 公尺與 3.5 公里的資料來源。\n- 網頁沒有註明發表日期，年份依擷取日（2026）標示。\n",
+   "links": [
+    "t-balloon"
+   ]
+  },
+  {
    "id": "s-2026-versailles-coppola-exhibition",
    "type": "source",
    "title": "«Marie-Antoinette» by Sofia Coppola（凡爾賽宮展覽頁）",
@@ -2244,6 +2607,36 @@
     "t-october-days",
     "t-temple",
     "t-white-hair"
+   ]
+  },
+  {
+   "id": "t-balloon",
+   "type": "topic",
+   "title": "一隻羊、一隻鴨、一隻公雞：凡爾賽的熱氣球",
+   "category": "宮廷",
+   "period": [
+    1783,
+    1783
+   ],
+   "summary": "人類第一次飛上天之前，先上去的是三隻動物，地點就在國王的庭院。",
+   "myth": "第一批搭氣球的動物摔傷了，公雞落地時摔斷了頭。",
+   "verdict": "半真半假",
+   "sources": [
+    "s-1783-faujas-description",
+    "s-2020-theobald-soaring",
+    "s-2026-versailles-chateau-first-balloon",
+    "s-2005-degardin-montgolfier"
+   ],
+   "updated": "2026-11-16",
+   "body": "## 一句話說明\n\n1783 年 9 月 19 日，造紙商孟格菲（Montgolfier）兄弟在凡爾賽宮的庭院，當著國王一家和成千上萬的觀眾，放上了一個載著一隻羊、一隻鴨、一隻公雞的熱氣球；三隻動物飛了八分鐘，平安落地。兩個月後，人類第一次搭上了氣球。\n\n## 迷思與史料\n\n氣球降落沒幾天，巴黎的報紙就傳說公雞「摔斷了頭」。在場的博物學家福雅．德．聖豐（Faujas de Saint-Fond）當年就出書反駁：他和同伴趕到降落地點時，籠子和動物都好好的，「必須完全駁斥那則說公雞摔斷頭的報導」。公雞右翅上方的確有一塊皮擦破了，但那是起飛前至少半小時被羊踢的，有十幾個人看到（本站譯）（[[s-1783-faujas-description]] pp. 43–44）。他還抱怨：「報紙這樣沒有證據就亂登，真令人遺憾。」（本站譯）（[[s-1783-faujas-description]] pp. 43–44）\n\n研究這次表演的學者西奧博爾德（Theobald）也說，三隻動物都活了下來，「儘管當時有相反的報導」（本站譯）（[[s-2020-theobald-soaring]]〈Publicizing Wonder〉一節）。當時印給大眾看的版畫圖說也寫，羊、公雞和鴨「沒有受到任何不適」（[[s-2020-theobald-soaring]]〈Publicizing Wonder〉一節）。\n\n所以判定「半真半假」：公雞真的受了點傷，但不是在天上摔的，是在地上被羊踢的，頭也沒斷。要注意的是，福雅是孟格菲兄弟最熱心的推廣者，替他們募款宣傳（[[s-2020-theobald-soaring]]〈Publicizing Wonder〉一節），他當然希望讀者相信飛行很安全。今天還有一本法國的通俗小冊子說是鴨子摔斷了嘴，但沒有註明出處（[[s-2005-degardin-montgolfier]] PDF 第 3 頁）。\n\n## 故事是這樣的\n\n### 五天趕出一個新氣球\n\n約瑟夫和艾蒂安．孟格菲是法國南部阿爾代什（Ardèche）的造紙商（[[s-2020-theobald-soaring]] 引言）。他們從 1782 年開始實驗，用燒濕稻草和羊毛產生的熱氣讓布袋飛起來；在家鄉阿諾奈（Annonay）的一次表演引起科學院注意，請他們到巴黎再做一次（[[s-2026-versailles-chateau-first-balloon]] 第 2–3 段；[[s-1783-faujas-description]] p. 41）。9 月 12 日早上，科學院的委員們到巴黎聖安東尼區一家壁紙工廠看試驗，這家工廠的老闆勒韋永（Réveillon）是孟格菲的朋友。氣球吹起來了，也帶著四、五百磅重的東西離開了地面，但前一晚開始的風雨下了一整個早上，把氣球淋壞了，要修好幾天（[[s-1783-faujas-description]] pp. 35–36）。在場簽名作證的委員裡，有化學家拉瓦節（Lavoisier）（[[s-1783-faujas-description]] p. 36）。\n\n可是國王的日子已經定了：9 月 19 日，凡爾賽。舊氣球「完全不能用了」，14 日星期天，孟格菲和朋友們決定從頭做一個全新的，這次全部用結實的棉布。他們日夜趕工，18 日星期四晚上，新氣球做好、上了漆、裝飾完畢，當晚就在科學院委員面前試飛成功。上一個用帆布裱紙做的氣球花了將近一個月，這一個只用了五天（[[s-1783-faujas-description]] pp. 36–37）。\n\n新氣球是天藍色的，上面用金色畫著國王的姓名縮寫（[[s-2026-versailles-chateau-first-balloon]] 第 3 段；[[s-2020-theobald-soaring]] 引言）。當時的版畫圖說說它高 57 呎、直徑 41 呎（[[s-2020-theobald-soaring]]〈What Goes Up Must Come Down〉一節），（推論）57 呎大約十八公尺，有五、六層樓高。\n\n### 國王的庭院\n\n19 日，氣球被搬到凡爾賽宮的大庭院，架在一座八角形的木台上。台子四周圍著布，中間開了一個直徑十五呎以上的大洞，氣球軟趴趴地蓋在洞口上，看起來就像一堆亂堆的彩色布料。台子下面放著一個四呎高的鐵爐，旁邊堆著乾草和剁碎的羊毛，還有一個柳條籠子，裡面是一隻羊、一隻公雞和一隻鴨。衛兵在台子外面圍了兩圈（[[s-1783-faujas-description]] pp. 37–39）。凡爾賽宮的官方介紹說，用動物是「為了謹慎起見」：沒有人知道高空會不會要人命（[[s-2026-versailles-chateau-first-balloon]] 第 4 段）。\n\n福雅寫道，早上十點，巴黎到凡爾賽的路上已經擠滿馬車；到了中午，大道、庭院、窗戶，連屋頂上都站滿了人（[[s-1783-faujas-description]] pp. 39–40）。後來流傳全歐洲的版畫，標題說觀眾「超過十三萬人」（[[s-2020-theobald-soaring]]〈Publicizing Wonder〉一節）。就在這時候，國王、王后和王室成員走進圍欄，一直走到氣球底下，仔細聽人解說準備工作（[[s-1783-faujas-description]] p. 40）。\n\n### 八分鐘\n\n一點差四分，一聲禮炮，開始燒火。氣球幾乎立刻鼓了起來，攤開一層層的褶子，很快就跟旁邊的桅杆一樣高。第二聲禮炮表示準備好了；第三聲，繩子砍斷，氣球帶著籠子升上天空（[[s-1783-faujas-description]] pp. 40–41）。充氣只花了十一分鐘（[[s-1783-faujas-description]] p. 41）。\n\n起飛時出了意外：一陣風打在氣球上，底下的人拚命拉住，結果頂上被扯出兩道七呎長的裂口。來不及修了，他們只好加大火，氣球照樣飛了出去（[[s-1783-faujas-description]] pp. 41–42）。熱氣從裂口漏掉，氣球在空中停了一會兒，不上不下，觀眾看得很開心；然後慢慢往瓦克雷松（Vaucresson）的森林降下去，前後在空中八分鐘，落在 1700 托阿斯（約 3.3 公里）以外（[[s-1783-faujas-description]] pp. 41–42）。巴黎天文台的兩位天文學家分別估算，它最高大約飛到 280 和 293 托阿斯，大約五百多公尺（[[s-1783-faujas-description]] p. 44）。\n\n國王當時在哪裡看？西奧博爾德根據孟格菲的信和其他研究指出，王室升空前親自到現場看準備，但起飛的那一刻，他們已經和科學院院士回到宮裡的王室套房，國王拿著望遠鏡追著氣球看（[[s-2020-theobald-soaring]]〈What Goes Up Must Come Down〉一節）。她推測可能是擔心安全；有意思的是，當時的版畫裡完全看不到國王，畫面的主角是爬上雕像和屋頂的觀眾（[[s-2020-theobald-soaring]]〈What Goes Up Must Come Down〉一節）。\n\n### 森林裡的籠子\n\n福雅和幾個朋友立刻趕去找。一位叫皮拉特爾．德．羅齊耶（Pilâtre de Rozier）的年輕科學家跑在他們前面幾步。他們在瓦克雷松森林一個叫「元帥路口」的地方找到氣球，攤在草地上，只有一邊壓在一棵小橡樹上，連樹枝都沒壓彎。吊籠子的繩子很長，碰到樹枝斷了，但籠子和動物「一點都沒受到驚擾」（[[s-1783-faujas-description]] pp. 42–43）。\n\n福雅看著氣球慢慢落地時想到：它下降得這麼平穩，如果上面載的是人，「也不會有任何危險」（[[s-1783-faujas-description]] p. 42）。凡爾賽宮的官方介紹說，三隻動物被稱為「空中英雄」，後來被送進凡爾賽的動物園養著（[[s-2026-versailles-chateau-first-balloon]] 第 5 段）。\n\n### 兩個月後，輪到人\n\n1783 年 11 月 21 日，在巴黎西邊的穆埃特城堡（château de la Muette），皮拉特爾．德．羅齊耶和達爾朗德侯爵（marquis d'Arlandes）搭上了孟格菲的氣球。第一次升空時氣球被風吹得歪向一邊，扯破了，兩個小時內修好；一點五十四分再次出發，飛到大約兩百多呎高時，兩人脫下帽子向觀眾致意。他們飛過塞納河、從軍校和傷兵院之間經過，「全巴黎都看得到」，最後在城外平安降落（[[s-1783-faujas-description]] 補編）。這是人類第一次自由飛行。凡爾賽宮的介紹說，那天在場觀看的是小王太子（[[s-2026-versailles-chateau-first-balloon]] 第 6 段）。\n\n福雅的書剛印好就碰上這件事，他趕緊加了一份補編。補編第一句說，這次「永遠值得紀念」的實驗，要歸功於王室子女的家庭教師波利尼亞克公爵夫人的熱心（本站譯）（[[s-1783-faujas-description]] 補編）。她正是王后最親的朋友（[[t-polignac]]）。\n\n### 氣球熱\n\n接下來的兩年，全歐洲都瘋了。富蘭克林當時住在法國，9 月 16 日寫信說：「現在這裡所有的話題，都是氣球。」（本站譯）蘇格蘭的報紙在 1784 年寫：「全世界都為氣球發狂。」（本站譯）（[[s-2020-theobald-soaring]]〈The Engines of Ballooning〉一節）氣球被印成版畫、畫上鼻煙盒、做成家具和針插，也出現在男女的時裝上（[[s-2020-theobald-soaring]]〈Publicizing Wonder〉一節）。1784 年 7 月 4 日，蒂布爾夫人（Élisabeth Tible）成為第一位搭上孟格菲氣球的女性（[[s-2020-theobald-soaring]]〈What Goes Up Must Come Down〉一節）。\n\n## 研究者怎麼看\n\n- **王室的科學宣傳。** 西奧博爾德認為，凡爾賽的表演和官方報導，是把國王塑造成科學保護者的宣傳：圖說一再強調「在國王陛下面前」、氣球上印著國王的縮寫。但版畫畫面裡國王缺席、群眾爬滿了凡爾賽的屋頂和雕像，她讀成一種無意間的預兆：平民仰頭看的不是國王，而是兩個造紙商的發明（[[s-2020-theobald-soaring]]〈What Goes Up Must Come Down〉一節）。（推論）這是文學和圖像研究的解讀，不是當時人的說法。\n- **飛多高、飛多遠，數字不一。** 福雅記錄的天文台估算是 280 和 293 托阿斯（[[s-1783-faujas-description]] p. 44），他在同一章另一處說它只飛到 240 托阿斯（[[s-1783-faujas-description]] p. 41）；凡爾賽宮的官網寫 600 公尺（[[s-2026-versailles-chateau-first-balloon]] 第 5 段）。距離是 1700 托阿斯，約 3.3 公里（推論換算），官網和通俗書寫 3.5 公里（[[s-2005-degardin-montgolfier]] PDF 第 2–3 頁）。\n- **國王想讓死刑犯先飛？** 有一本法國的通俗小冊子說，國王原本考慮讓兩名死刑犯當第一批乘客，後來放棄（[[s-2005-degardin-montgolfier]] PDF 第 4 頁）。這本書沒有註腳，本站在福雅的書和其他資料裡都沒讀到這件事，暫時不採信。\n\n## 延伸閱讀\n\n- [[t-polignac]]：促成第一次載人飛行的波利尼亞克公爵夫人。\n- [[t-louis]]：喜歡地理、機械與科學的路易十六。\n- [[t-children]]：在穆埃特看人類第一次飛行的小王太子。\n\n## 還不知道的事\n\n- 王后當天的反應、說了什麼，本站讀到的資料都沒寫。\n- 「國王用望遠鏡看」與「王室在套房觀看」的原始出處（約瑟夫．孟格菲 1784 年的演講、Faure 的研究），本站還沒讀到原文。\n- 三隻動物後來的命運：只有凡爾賽宮官網說送進動物園，本站還沒找到當時的紀錄。\n- 氣球名叫「勒韋永號」（Le Réveillon）的說法只見於凡爾賽宮官網；福雅的書只把勒韋永當成工廠老闆。\n- 吉利斯皮（Gillispie）1983 年的研究專書《孟格菲兄弟與航空的發明》，本站還沒讀到。\n",
+   "links": [
+    "s-1783-faujas-description",
+    "s-2005-degardin-montgolfier",
+    "s-2020-theobald-soaring",
+    "s-2026-versailles-chateau-first-balloon",
+    "t-children",
+    "t-louis",
+    "t-polignac"
    ]
   },
   {
@@ -2705,6 +3098,7 @@
    "image": "t-execution.jpg",
    "imageAlt": "粉彩畫風插畫：1793 年 1 月霧氣籠罩的巴黎廣場，遠處一輛深色馬車在成排士兵與鼓手之間緩緩前進。",
    "sources": [
+    "s-1998-chazaud-cabanis-guillotine",
     "s-1798-clery-journal",
     "s-1815-edgeworth-memoirs",
     "s-1852-marie-therese-temple",
@@ -2712,13 +3106,14 @@
     "s-1795-poncelin-proces-louis-xvi"
    ],
    "updated": "2026-11-16",
-   "body": "## 一句話說明\n\n1793 年 1 月 21 日上午，路易十六在巴黎的革命廣場被處決。這一天有四位證人留下了紀錄：國王的僕人克萊里、陪他走到最後的神父埃奇沃斯、他的女兒瑪麗－泰蕾茲，以及劊子手桑松的家族。他們對很多細節說法不同，但都記得他很平靜。\n\n## 迷思與史料\n\n常聽說斷頭台那片斜斜的刀刃，是喜歡機械的路易十六親手改良的。這個故事最早只見於 1862 年出版的《桑松家族回憶錄》：書裡說，1792 年 3 月初，劊子手桑松和設計斷頭台的醫生安托萬．路易在杜樂麗宮見到國王，國王看了設計圖，把半月形的刀刃改畫成一條斜線，還說「我可能錯了，試驗的時候兩種都試試看」（本站譯）（[[s-1862-sanson-sept-generations]] 第 3 冊 pp. 400–402）。書裡說這是家族流傳的說法，沒有引用任何當時的檔案（[[s-1862-sanson-sept-generations]] 第 3 冊）。\n\n這本書在國王死後將近七十年才出版，是劊子手後代整理的家族故事。本站在其他史料裡沒有找到國王參與改良刀刃的紀錄，所以判定是「查無實據」。（推論）一個愛打鎖的國王親手設計了砍自己頭的機器，這個故事太巧了，很適合流傳。\n\n## 故事是這樣的\n\n### 判決\n\n1793 年 1 月，國民公會審判國王。據 1795 年出版的審判彙編的編註，721 位投票的議員中，有 366 票主張死刑（[[s-1795-poncelin-proces-louis-xvi]] 第 1 冊）。克萊里說，國王後來看到投票名單，對他說，自己的堂兄奧爾良公爵也投了死刑票，「我很難過」（[[s-1798-clery-journal]] 約 p. 108）。\n\n替國王辯護的老律師馬勒澤布（Malesherbes）來到聖殿塔報信。克萊里說，他一進門就跪在國王腳邊痛哭：「全完了，國王被判死刑了。」國王反過來扶他起來、擁抱他、安慰他（[[s-1798-clery-journal]] 約 pp. 106–107）。瑪麗－泰蕾茲則記得國王說：「我寧可死，也不要有人為我發動暴動。國王是不會死在法國的！」（本站譯）（[[s-1852-marie-therese-temple]] pp. 63–64）（推論）這句話的意思是，國王一死，王位立刻由繼承人接續，王權本身不會死。\n\n1 月 20 日，政府派人到聖殿塔正式宣讀判決。克萊里說，國王聽到「陰謀」這個罪名時，嘴角露出一絲憤怒的笑；聽到「處以死刑」時，他環顧四周，那個眼神讓克萊里覺得，死亡對一個無辜的人並不可怕（[[s-1798-clery-journal]] 約 pp. 110–111）。國王提出幾項請求：延後三天、讓他自己選的神父來、讓家人自由離開。國民公會拒絕延期，但准許愛爾蘭籍神父埃奇沃斯（Edgeworth de Firmont）進塔（[[s-1798-clery-journal]] 約 pp. 110–111；[[s-1815-edgeworth-memoirs]] pp. 68–69）。\n\n{{photo:t-execution-edgeworth-alix.jpg|阿利克斯（Alix）1794 年所畫的素描像，主角是陪伴路易十六上斷頭台的埃奇沃斯神父（Henry Essex Edgeworth）；現藏巴黎卡納瓦萊博物館。|Wikimedia Commons，CC0}}\n\n### 最後的晚上\n\n那幾天，國王一直在讀英國史裡查理一世被處死的那一冊；克萊里說，國王在塔裡一共讀了大約兩百五十本書（[[s-1798-clery-journal]] 約 p. 109）。抽屜裡有三卷金幣，共三千里弗爾，每一卷上都寫了字，說這些錢不是他的，要還給馬勒澤布（[[s-1798-clery-journal]] 約 p. 109）。判決宣讀後，他照常吃晚飯，看守們很驚訝，以為他打算自殺（[[s-1852-marie-therese-temple]] p. 64）。\n\n那天晚上，他和家人告別了將近兩個小時，答應第二天早上再見一面（詳見 [[t-temple]]）。神父埃奇沃斯勸他不要再見王后，說「這會讓她崩潰」，國王嘆了口氣同意了：讓她再多抱一點希望吧（[[s-1815-edgeworth-memoirs]] 約 p. 72）。夜裡十一點，國王去睡了。埃奇沃斯躺在隔壁的小房間，聽見國王平靜地交代第二天的事（[[s-1815-edgeworth-memoirs]] 約 pp. 69–70）。\n\n同一天，在巴黎的另一頭，劊子手桑松家正準備慶祝結婚紀念日。家族回憶錄說，一個陌生的年輕人找上門，說願意代替國王去死，桑松的妻子當場昏倒；那頓晚飯整桌撤下，她一整夜跪著祈禱（[[s-1862-sanson-sept-generations]] 第 3 冊 pp. 468–469）。\n\n### 1 月 21 日早上\n\n清晨五點，國王起床，照常穿好衣服（[[s-1815-edgeworth-memoirs]] 約 p. 70）。六點，埃奇沃斯在臨時布置的祭壇前為他做彌撒，國王跪在地上，沒有跪墊。領完聖體，國王說：「我的上帝，我多麼幸福，還保有我的信仰。」（本站譯）（[[s-1815-edgeworth-memoirs]] 約 p. 70；[[s-1798-clery-journal]] 約 p. 111）\n\n全城從清晨開始武裝，鼓聲不斷（[[s-1798-clery-journal]] 約 p. 113）。國王想讓克萊里替他剪頭髮，看守開會討論了半小時，還是拒絕了（[[s-1798-clery-journal]] 約 pp. 111–112）。九點左右，國民衛隊司令桑泰爾帶人進塔。國王問：「你們來接我了？」說「給我一分鐘」，回房去拿遺囑（[[s-1798-clery-journal]] 約 p. 112）。下樓時，他對看守說：「前天我脾氣不好，請別放在心上。」然後說：「我們走吧。」（本站譯）（[[s-1798-clery-journal]] 約 p. 113）\n\n### 兩個小時的路\n\n埃奇沃斯說，馬車走了將近兩個小時。車前放了十五到二十面鼓，為的是蓋過任何支持國王的聲音；街上只有武裝的市民，門口和窗邊一個人也沒有（[[s-1815-edgeworth-memoirs]] 約 p. 80）。他後來才知道，前一晚有人計畫在路上劫車救國王，預計有四五百人，結果因為街道一早就被封鎖，只有二十五人到了集合點（[[s-1815-edgeworth-memoirs]] 約 pp. 78–79）。\n\n劊子手桑松那天早上八點出門，九點前到了革命廣場。家族回憶錄引他自己的話說，他和兩個弟弟的厚大衣底下藏著劍、短刀和四把手槍，怕有人來搶人（[[s-1862-sanson-sept-generations]] 第 3 冊 pp. 471–472）。他說，國王下車時「比在凡爾賽和杜樂麗宮時更平靜、更威嚴」（本站譯）（[[s-1862-sanson-sept-generations]] 第 3 冊 p. 473）。\n\n### 斷頭台上\n\n國王下車前對護送的士兵說：「我把這位好人託付給你們，我死後不要讓人侮辱他。」（本站譯）他指的是神父（[[s-1815-edgeworth-memoirs]] 約 pp. 80–81）。要綁他的手時，他起初拒絕；埃奇沃斯說，最後國王接受了，說：「不管你們要怎樣，我都會把這杯苦酒喝到底。」（本站譯）（[[s-1815-edgeworth-memoirs]] 約 p. 84）桑松家的版本是國王自己脫下外套，說「別碰我」，神父先伸出手示範；瑪麗－泰蕾茲則聽說是用手帕綁的（[[s-1862-sanson-sept-generations]] 第 3 冊 pp. 474–476；[[s-1852-marie-therese-temple]] p. 66）。\n\n埃奇沃斯說，國王走上刑台，腳步堅定，走到面向人群最多的一邊，大聲說：「我無罪而死。我原諒那些害死我的人。我祈求上帝，你們即將流下的血，永遠不要落在法國身上。」（本站譯）（[[s-1815-edgeworth-memoirs]] 約 p. 85）他還沒說完，鼓聲就響了起來。埃奇沃斯說是一個騎馬的軍官揮劍下令擊鼓，瑪麗－泰蕾茲和桑松家說是桑泰爾下令（[[s-1815-edgeworth-memoirs]] 約 p. 86；[[s-1852-marie-therese-temple]] pp. 65–66；[[s-1862-sanson-sept-generations]] 第 3 冊 p. 477）。\n\n瑪麗－泰蕾茲記下，父親死於上午十點十分，享年三十九歲又五個月三天（[[s-1852-marie-therese-temple]] p. 66）。埃奇沃斯說，一個大約十八歲的衛兵抓起國王的頭，繞著刑台走了一圈；一開始全場沒人出聲，接著有人喊「共和國萬歲」，不到十分鐘，整個廣場都在喊（[[s-1815-edgeworth-memoirs]] 約 pp. 86–87）。桑松家的說法則是，大多數人轉過身去，臉上帶著恐懼（[[s-1862-sanson-sept-generations]] 第 3 冊 pp. 478–479）。\n\n{{photo:t-execution-rijksmuseum-1793.jpg|1793 至 1798 年間的版畫（後來的版畫，不是即刻印製），畫路易十六在革命廣場（今協和廣場）被處決的情景；現藏阿姆斯特丹國立博物館。|Wikimedia Commons，CC0}}\n\n### 「聖路易之子，升天吧」\n\n最有名的一句話，是神父在刀落下前對國王說的「聖路易之子，升天吧」。瑪麗－泰蕾茲和桑松家的回憶錄都把這句話記在神父名下（[[s-1852-marie-therese-temple]] p. 66；[[s-1862-sanson-sept-generations]] 第 3 冊 pp. 477–478）。但埃奇沃斯自己的回憶錄裡沒有寫這句話；書的編者註說，有人問過他，他說自己既不能否認、也不能肯定，有可能說過，但事後不記得了（[[s-1815-edgeworth-memoirs]] 約 pp. 87–88 編者註）。\n\n## 研究者怎麼看\n\n- 四位證人都是事後才寫下回憶：克萊里 1798 年、埃奇沃斯的回憶 1815 年、瑪麗－泰蕾茲的回憶 1852 年才完整出版、桑松家族回憶錄 1862 年。他們對馬勒澤布哪天報信、誰下令擊鼓、怎麼綁手，說法都不一樣（[[s-1798-clery-journal]]；[[s-1815-edgeworth-memoirs]]；[[s-1852-marie-therese-temple]]；[[s-1862-sanson-sept-generations]]）。\n- 桑松家族回憶錄是後代整理的家族故事，細節生動，但可信度要打折扣（[[s-1862-sanson-sept-generations]]）。\n- 死刑的票數本站只讀到 1795 年彙編的編註，還沒用國民公會的正式紀錄核對（[[s-1795-poncelin-proces-louis-xvi]]）。\n\n## 延伸閱讀\n\n- [[s-1798-clery-journal]]\n- [[s-1815-edgeworth-memoirs]]\n- [[s-1852-marie-therese-temple]]\n- [[s-1862-sanson-sept-generations]]\n- [[s-1795-poncelin-proces-louis-xvi]]\n- 相關故事：[[t-louis]]、[[t-temple]]、[[t-trial]]、[[t-reburial]]\n\n## 還不知道的事\n\n- 國民公會正式的投票紀錄（死刑、緩刑的票數）。\n- 「國王臨死前還問拉佩魯茲有沒有消息」這個傳說，在這些證人的書裡都找不到（見 [[t-louis]]）。\n- 國王的遺囑全文，本站還沒讀到可靠的版本。\n",
+   "body": "## 一句話說明\n\n1793 年 1 月 21 日上午，路易十六在巴黎的革命廣場被處決。這一天有四位證人留下了紀錄：國王的僕人克萊里、陪他走到最後的神父埃奇沃斯、他的女兒瑪麗－泰蕾茲，以及劊子手桑松的家族。他們對很多細節說法不同，但都記得他很平靜。\n\n## 迷思與史料\n\n常聽說斷頭台那片斜斜的刀刃，是喜歡機械的路易十六親手改良的。國王親手改刀刃的版本，本站只在 1862 年出版的《桑松家族回憶錄》裡讀到：書裡說，1792 年 3 月初，劊子手桑松和設計斷頭台的醫生安托萬．路易在杜樂麗宮見到國王，國王看了設計圖，把半月形的刀刃改畫成一條斜線，還說「我可能錯了，試驗的時候兩種都試試看」（本站譯）（[[s-1862-sanson-sept-generations]] 第 3 冊 pp. 400–402）。書裡說這是家族流傳的說法，沒有引用任何當時的檔案（[[s-1862-sanson-sept-generations]] 第 3 冊）。\n\n這本書在國王死後將近七十年才出版，是劊子手後代整理的家族故事。本站在其他史料裡沒有找到國王參與改良刀刃的紀錄，所以判定是「查無實據」。（推論）一個愛打鎖的國王親手設計了砍自己頭的機器，這個故事太巧了，很適合流傳。\n\n比這本書早得多的，是醫生卡巴尼斯（Cabanis）在 1795–96 年寫的一份斷頭台筆記。醫學史學者沙佐（Chazaud）1998 年轉述這份筆記時說，原本半月形的刀刃，是「在路易的建議下」換成斜刃的（[[s-1998-chazaud-cabanis-guillotine]] p. 70）。這裡的「路易」沒有寫全名；整篇談的都是醫生之間的討論，（推論）指的應該是寫斷頭台報告的外科醫生安托萬．路易，不是國王。1792 年 4 月 17 日，醫生們在比塞特爾醫院（Bicêtre）用屍體試驗這台機器，劊子手桑松操作，安托萬．路易和斷頭台得名的吉約坦醫生（Guillotin）都在場（[[s-1998-chazaud-cabanis-guillotine]] p. 71）。\n\n## 故事是這樣的\n\n### 判決\n\n1793 年 1 月，國民公會審判國王。據 1795 年出版的審判彙編的編註，721 位投票的議員中，有 366 票主張死刑（[[s-1795-poncelin-proces-louis-xvi]] 第 1 冊）。克萊里說，國王後來看到投票名單，對他說，自己的堂兄奧爾良公爵也投了死刑票，「我很難過」（[[s-1798-clery-journal]] 約 p. 108）。\n\n替國王辯護的老律師馬勒澤布（Malesherbes）來到聖殿塔報信。克萊里說，他一進門就跪在國王腳邊痛哭：「全完了，國王被判死刑了。」國王反過來扶他起來、擁抱他、安慰他（[[s-1798-clery-journal]] 約 pp. 106–107）。瑪麗－泰蕾茲則記得國王說：「我寧可死，也不要有人為我發動暴動。國王是不會死在法國的！」（本站譯）（[[s-1852-marie-therese-temple]] pp. 63–64）（推論）這句話的意思是，國王一死，王位立刻由繼承人接續，王權本身不會死。\n\n1 月 20 日，政府派人到聖殿塔正式宣讀判決。克萊里說，國王聽到「陰謀」這個罪名時，嘴角露出一絲憤怒的笑；聽到「處以死刑」時，他環顧四周，那個眼神讓克萊里覺得，死亡對一個無辜的人並不可怕（[[s-1798-clery-journal]] 約 pp. 110–111）。國王提出幾項請求：延後三天、讓他自己選的神父來、讓家人自由離開。國民公會拒絕延期，但准許愛爾蘭籍神父埃奇沃斯（Edgeworth de Firmont）進塔（[[s-1798-clery-journal]] 約 pp. 110–111；[[s-1815-edgeworth-memoirs]] pp. 68–69）。\n\n{{photo:t-execution-edgeworth-alix.jpg|阿利克斯（Alix）1794 年所畫的素描像，主角是陪伴路易十六上斷頭台的埃奇沃斯神父（Henry Essex Edgeworth）；現藏巴黎卡納瓦萊博物館。|Wikimedia Commons，CC0}}\n\n### 最後的晚上\n\n那幾天，國王一直在讀英國史裡查理一世被處死的那一冊；克萊里說，國王在塔裡一共讀了大約兩百五十本書（[[s-1798-clery-journal]] 約 p. 109）。抽屜裡有三卷金幣，共三千里弗爾，每一卷上都寫了字，說這些錢不是他的，要還給馬勒澤布（[[s-1798-clery-journal]] 約 p. 109）。判決宣讀後，他照常吃晚飯，看守們很驚訝，以為他打算自殺（[[s-1852-marie-therese-temple]] p. 64）。\n\n那天晚上，他和家人告別了將近兩個小時，答應第二天早上再見一面（詳見 [[t-temple]]）。神父埃奇沃斯勸他不要再見王后，說「這會讓她崩潰」，國王嘆了口氣同意了：讓她再多抱一點希望吧（[[s-1815-edgeworth-memoirs]] 約 p. 72）。夜裡十一點，國王去睡了。埃奇沃斯躺在隔壁的小房間，聽見國王平靜地交代第二天的事（[[s-1815-edgeworth-memoirs]] 約 pp. 69–70）。\n\n同一天，在巴黎的另一頭，劊子手桑松家正準備慶祝結婚紀念日。家族回憶錄說，一個陌生的年輕人找上門，說願意代替國王去死，桑松的妻子當場昏倒；那頓晚飯整桌撤下，她一整夜跪著祈禱（[[s-1862-sanson-sept-generations]] 第 3 冊 pp. 468–469）。\n\n### 1 月 21 日早上\n\n清晨五點，國王起床，照常穿好衣服（[[s-1815-edgeworth-memoirs]] 約 p. 70）。六點，埃奇沃斯在臨時布置的祭壇前為他做彌撒，國王跪在地上，沒有跪墊。領完聖體，國王說：「我的上帝，我多麼幸福，還保有我的信仰。」（本站譯）（[[s-1815-edgeworth-memoirs]] 約 p. 70；[[s-1798-clery-journal]] 約 p. 111）\n\n全城從清晨開始武裝，鼓聲不斷（[[s-1798-clery-journal]] 約 p. 113）。國王想讓克萊里替他剪頭髮，看守開會討論了半小時，還是拒絕了（[[s-1798-clery-journal]] 約 pp. 111–112）。九點左右，國民衛隊司令桑泰爾帶人進塔。國王問：「你們來接我了？」說「給我一分鐘」，回房去拿遺囑（[[s-1798-clery-journal]] 約 p. 112）。下樓時，他對看守說：「前天我脾氣不好，請別放在心上。」然後說：「我們走吧。」（本站譯）（[[s-1798-clery-journal]] 約 p. 113）\n\n### 兩個小時的路\n\n埃奇沃斯說，馬車走了將近兩個小時。車前放了十五到二十面鼓，為的是蓋過任何支持國王的聲音；街上只有武裝的市民，門口和窗邊一個人也沒有（[[s-1815-edgeworth-memoirs]] 約 p. 80）。他後來才知道，前一晚有人計畫在路上劫車救國王，預計有四五百人，結果因為街道一早就被封鎖，只有二十五人到了集合點（[[s-1815-edgeworth-memoirs]] 約 pp. 78–79）。\n\n劊子手桑松那天早上八點出門，九點前到了革命廣場。家族回憶錄引他自己的話說，他和兩個弟弟的厚大衣底下藏著劍、短刀和四把手槍，怕有人來搶人（[[s-1862-sanson-sept-generations]] 第 3 冊 pp. 471–472）。他說，國王下車時「比在凡爾賽和杜樂麗宮時更平靜、更威嚴」（本站譯）（[[s-1862-sanson-sept-generations]] 第 3 冊 p. 473）。\n\n### 斷頭台上\n\n國王下車前對護送的士兵說：「我把這位好人託付給你們，我死後不要讓人侮辱他。」（本站譯）他指的是神父（[[s-1815-edgeworth-memoirs]] 約 pp. 80–81）。要綁他的手時，他起初拒絕；埃奇沃斯說，最後國王接受了，說：「不管你們要怎樣，我都會把這杯苦酒喝到底。」（本站譯）（[[s-1815-edgeworth-memoirs]] 約 p. 84）桑松家的版本是國王自己脫下外套，說「別碰我」，神父先伸出手示範；瑪麗－泰蕾茲則聽說是用手帕綁的（[[s-1862-sanson-sept-generations]] 第 3 冊 pp. 474–476；[[s-1852-marie-therese-temple]] p. 66）。\n\n埃奇沃斯說，國王走上刑台，腳步堅定，走到面向人群最多的一邊，大聲說：「我無罪而死。我原諒那些害死我的人。我祈求上帝，你們即將流下的血，永遠不要落在法國身上。」（本站譯）（[[s-1815-edgeworth-memoirs]] 約 p. 85）他還沒說完，鼓聲就響了起來。埃奇沃斯說是一個騎馬的軍官揮劍下令擊鼓，瑪麗－泰蕾茲和桑松家說是桑泰爾下令（[[s-1815-edgeworth-memoirs]] 約 p. 86；[[s-1852-marie-therese-temple]] pp. 65–66；[[s-1862-sanson-sept-generations]] 第 3 冊 p. 477）。\n\n瑪麗－泰蕾茲記下，父親死於上午十點十分，享年三十九歲又五個月三天（[[s-1852-marie-therese-temple]] p. 66）。埃奇沃斯說，一個大約十八歲的衛兵抓起國王的頭，繞著刑台走了一圈；一開始全場沒人出聲，接著有人喊「共和國萬歲」，不到十分鐘，整個廣場都在喊（[[s-1815-edgeworth-memoirs]] 約 pp. 86–87）。桑松家的說法則是，大多數人轉過身去，臉上帶著恐懼（[[s-1862-sanson-sept-generations]] 第 3 冊 pp. 478–479）。\n\n{{photo:t-execution-rijksmuseum-1793.jpg|1793 至 1798 年間的版畫（後來的版畫，不是即刻印製），畫路易十六在革命廣場（今協和廣場）被處決的情景；現藏阿姆斯特丹國立博物館。|Wikimedia Commons，CC0}}\n\n### 「聖路易之子，升天吧」\n\n最有名的一句話，是神父在刀落下前對國王說的「聖路易之子，升天吧」。瑪麗－泰蕾茲和桑松家的回憶錄都把這句話記在神父名下（[[s-1852-marie-therese-temple]] p. 66；[[s-1862-sanson-sept-generations]] 第 3 冊 pp. 477–478）。但埃奇沃斯自己的回憶錄裡沒有寫這句話；書的編者註說，有人問過他，他說自己既不能否認、也不能肯定，有可能說過，但事後不記得了（[[s-1815-edgeworth-memoirs]] 約 pp. 87–88 編者註）。\n\n## 研究者怎麼看\n\n- 四位證人都是事後才寫下回憶：克萊里 1798 年、埃奇沃斯的回憶 1815 年、瑪麗－泰蕾茲的回憶 1852 年才完整出版、桑松家族回憶錄 1862 年。他們對馬勒澤布哪天報信、誰下令擊鼓、怎麼綁手，說法都不一樣（[[s-1798-clery-journal]]；[[s-1815-edgeworth-memoirs]]；[[s-1852-marie-therese-temple]]；[[s-1862-sanson-sept-generations]]）。\n- 桑松家族回憶錄是後代整理的家族故事，細節生動，但可信度要打折扣（[[s-1862-sanson-sept-generations]]）。\n- 死刑的票數本站只讀到 1795 年彙編的編註，還沒用國民公會的正式紀錄核對（[[s-1795-poncelin-proces-louis-xvi]]）。\n\n## 延伸閱讀\n\n- [[s-1798-clery-journal]]\n- [[s-1815-edgeworth-memoirs]]\n- [[s-1852-marie-therese-temple]]\n- [[s-1862-sanson-sept-generations]]\n- [[s-1795-poncelin-proces-louis-xvi]]\n- 相關故事：[[t-louis]]、[[t-temple]]、[[t-trial]]、[[t-reburial]]\n\n## 還不知道的事\n\n- 國民公會正式的投票紀錄（死刑、緩刑的票數）。\n- 「國王臨死前還問拉佩魯茲有沒有消息」這個傳說，在這些證人的書裡都找不到（見 [[t-louis]]）。\n- 國王的遺囑全文，本站還沒讀到可靠的版本。\n",
    "links": [
     "s-1795-poncelin-proces-louis-xvi",
     "s-1798-clery-journal",
     "s-1815-edgeworth-memoirs",
     "s-1852-marie-therese-temple",
     "s-1862-sanson-sept-generations",
+    "s-1998-chazaud-cabanis-guillotine",
     "t-louis",
     "t-reburial",
     "t-temple",
@@ -2880,6 +3275,39 @@
     "t-dubarry",
     "t-mops",
     "t-vermond"
+   ]
+  },
+  {
+   "id": "t-inoculation",
+   "type": "topic",
+   "title": "新王種痘：是王后說服他的嗎？",
+   "category": "生平",
+   "period": [
+    1774,
+    1775
+   ],
+   "summary": "祖父死於天花一個月後，年輕的國王決定拿自己冒險。",
+   "myth": "是瑪麗．安東尼說服路易十六接種人痘的。",
+   "verdict": "查無實據",
+   "sources": [
+    "s-1874-arneth-mercy-correspondance",
+    "s-1823-campan-memoires",
+    "s-2024-berche-variole",
+    "s-2022-doe-bagatelle",
+    "s-2007-kantor-antonieta"
+   ],
+   "updated": "2026-11-16",
+   "body": "## 一句話說明\n\n1774 年 6 月，路易十五死於天花才一個多月，二十歲的路易十六就和兩個弟弟、一個弟媳一起接種「人痘」。巴黎人說是王后出的主意；但當時大使梅西和女皇瑪麗亞．特蕾莎的信都說，王后幾乎到最後一刻才知道。\n\n## 迷思與史料\n\n「是王后勸國王接種的」這個說法，在 1774 年夏天就傳開了。女皇瑪麗亞．特蕾莎 6 月 30 日寫信給大使梅西，說到處、甚至在維也納，大家都把國王接種的決定算在她女兒頭上，「這對我女兒很不公平」，因為女兒「幾乎直到動手那一刻都不知道」，一開始討論的只是替國王的弟弟們接種（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 188）。第二天她寫信給女兒：「感謝上帝，這個決定你一點也沒參與，雖然大部分的信都說是你。」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 190）\n\n梅西人在現場。國王做決定那一週，他向女皇報告：「我非常小心地讓大家都知道，王后在這件事上沒有給過任何建議，這麼重大的決定完全出自國王本人。」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 175）7 月中旬他又寫：說王后勸國王接種，「是冤枉她的」，如今宮裡和巴黎講道理的人都已經相信了（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 195）。\n\n王后的貼身女官康龐夫人在將近五十年後的回憶錄裡，解釋了謠言從哪裡來：當時法國還不普遍接受接種，巴黎很多人被國王的決定嚇壞了，大聲批評的人就把錯都推給王后，說「只有她敢出這麼大膽的主意」，因為北方的宮廷早就在接種了（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 92）。\n\n所以本站判定「查無實據」：1774 年留下的直接證據，都說王后沒有參與決定。不過要記得，梅西是王后的保護者，他自己說「非常小心地讓大家都知道」，（推論）萬一國王接種出了事，王后就不必背這個責任；他的話有替王后擋箭的成分。也有研究者認為王后是接種最積極的支持者（見「研究者怎麼看」）。\n\n## 故事是這樣的\n\n### 祖父的死\n\n1774 年 4 月底，六十四歲的路易十五發病，幾天後出疹，5 月 10 日死於天花（[[s-2024-berche-variole]] p. 485）。病是會傳染的：他的女兒們，也就是新王的三個姑姑，後來也都得了天花（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 184）。國王過世當天，梅西就向維也納報告，王室要搬到舒瓦西宮去，避開天花（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 pp. 129–130）。\n\n（推論）路易十六和他的弟弟們都還沒出過天花，隨時可能步上祖父的後塵；而他還沒有孩子，兩個弟弟就是王位的下一順位。三兄弟同時生病，整個王朝就懸在半空中。\n\n當時預防天花的辦法叫「人痘接種」（inoculation）：從輕症病人的膿包取一點病毒，種進健康人皮膚上的小傷口，讓他得一場比較輕的天花，好了之後就終身免疫。這和二十多年後金納發明的「牛痘」不一樣，人痘是真的會讓人生病的。1762 年英國的薩頓（Sutton）簡化了這套方法，但法國人一直半信半疑（[[s-2024-berche-variole]] pp. 496–497）。\n\n### 馬爾利的六月\n\n6 月，年輕的國王決定接種，用的是薩頓的方法，和兩個弟弟普羅旺斯伯爵、阿圖瓦伯爵，以及阿圖瓦伯爵夫人一起（[[s-2024-berche-variole]] p. 497）。宮廷搬到凡爾賽附近的馬爾利（Marly）。梅西本來答應女皇每天往返巴黎和馬爾利，一趟來回十二法里；後來身體吃不消，乾脆在離宮廷兩法里的鄉間住下，每天早上過去（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 pp. 175, 183）。\n\n王后寫信給母親，講得像病歷：「我們到這裡已經一週了；國王、我的弟弟們和阿圖瓦伯爵夫人在星期六接種。」國王發了三天高燒，出疹後燒就退了；鼻子上的痘「很顯眼」，手腕和胸口也有幾顆，已經開始變白。醫生在他身上劃了四個小切口，傷口化膿得很好，醫生說這代表接種完全成功（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 182）。\n\n6 月 20 日星期天早上，梅西到馬爾利。王后正在梳頭，讓他在旁邊待著，一邊讀母親的信，一邊把國王和親王們的病情一五一十告訴他（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 183）。梅西寫道，出疹完全沒有改變國王的作息：星期天照樣公開望彌撒、在花園散步；大家白天散步，晚上打撞球、玩牌，「開心到讓人忘了天花這回事」。國務會議本來照常開，是王后應醫生的要求，硬要國王暫停處理公事（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 pp. 183–184）。三位姑姑那天晚上也到了，她們的天花剛好，臉上「還紅紅的」（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 184）。\n\n### 維也納的媽媽\n\n消息傳到維也納，女皇又擔心又不高興。她向梅西抱怨，自己竟然是從《科隆報》上才知道這件大事，連醫生的名字都是報上看來的（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 188）。她本人其實是接種的擁護者。她寫信給女兒說：「我有多支持接種，它替我保住了三個兒子、六個孫子；可是在最熱的時候，三兄弟一起做，我就有多擔心。」她說這個決定「替國王的人格增光」，卻也讓人為這麼寶貴的性命捏一把冷汗（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 190）。\n\n至於誰動的手，史料說法不一。康龐夫人說，國王和弟弟們是由若貝圖醫生（Jauberthou）接種，「幸好完全成功」（[[s-1823-campan-memoires]] 第 1 冊 p. 92）；女皇的信裡提到的醫生則是理查（Richard），他是路易十五的顧問醫生，新王即位後留任（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 188 及註）。（推論）兩人可能分工，一個主持、一個動手，但本站沒有讀到能確認的紀錄。\n\n### 一場清晨散步引來的詩\n\n國王康復以後，馬爾利的日子變得很輕鬆，大家常騎馬、坐敞篷馬車出遊。康龐夫人說，王后從來沒看過日出，徵得國王同意，凌晨三點帶著一大群人登上馬爾利花園的高處看黎明；國王不愛湊熱鬧，先去睡了（[[s-1823-campan-memoires]] 第 1 冊 pp. 92–93）。王后怕惹閒話，特地叫侍女全都跟著，結果還是沒用：幾天後，巴黎流傳一首惡毒的詩，叫〈日出〉，把這趟散步寫得不堪入目。康龐夫人說，這是新朝頭幾年最惡毒的一篇誹謗（[[s-1823-campan-memoires]] 第 1 冊 p. 93）。從接種到看日出，（推論）新王后才當了一個多月，巴黎就已經習慣把事情往她身上推（[[t-libels]]）。\n\n### 接種變成了舞台劇\n\n國王接種成功，在宮裡成了一件值得慶祝的事。研究歌劇史的學者杜（Julia Doe）指出，1775 年冬天，王后的弟弟馬克西米利安大公來訪，王后興沖沖地籌劃舞會和表演；2 月 15 日，凡爾賽的海克力斯廳上演了一齣讚美接種的小歌劇《城堡節》（*La fête du château*）。1777 年，王后又在小特里亞儂她自己的劇場演出這齣戲，同一年還親自到巴黎的義大利喜劇院去看（[[s-2022-doe-bagatelle]] p. 151）。這齣戲原本是 1766 年一位侯爵夫人替孫女接種時，請劇作家法瓦爾（Favart）寫的（[[s-2022-doe-bagatelle]] pp. 135–137）。\n\n## 研究者怎麼看\n\n- **王后有沒有推動接種？** 杜認為，路易十六接種「最積極的主張者，似乎是他的妻子」，理由是哈布斯堡家族的宮廷曾被天花重創，女皇一家都支持接種；她也引了王后後來支持演出接種歌劇的紀錄（本站譯）（[[s-2022-doe-bagatelle]] p. 151）。但她用的是「似乎」，也在註釋裡承認，女皇特別在信裡說女兒沒有參與決定（[[s-2022-doe-bagatelle]] p. 152 註 84）。本站讀到的 1774 年書信，都不支持「王后說服國王」（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 pp. 175, 188, 190, 195）。\n- **「王后說服」這個版本至今還在流傳。** 例如一篇 2007 年的阿根廷醫學期刊社論寫，王后「說服了丈夫和兩個小叔接種」，但它的註釋只有展覽目錄、教科書和維基百科，沒有引任何 1774 年的史料（[[s-2007-kantor-antonieta]] p. 206）。\n- **路易十五之死是轉捩點。** 醫學史學者貝爾什（Berche）認為，法國原本對接種很保留，國王死於天花改變了王室的態度（[[s-2024-berche-variole]] p. 497）。\n\n## 延伸閱讀\n\n- [[t-coronation]]：路易十五死後，新王登基與蘭斯加冕。\n- [[t-mesdames]]：照顧路易十五而染上天花的三位姑姑。\n- [[t-libels]]：從〈日出〉開始，一路寫壞王后的誹謗小冊子。\n- [[t-theatre]]：王后在小特里亞儂的劇場。\n\n## 還不知道的事\n\n- 接種的確切日期：王后的信說是「星期六」，信的日期在 OCR 裡看不清楚；（推論）若她寫信那週是 6 月下旬，接種日應是 6 月 18 日，還要對照原書掃描本（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 182）。\n- 動手的醫生是若貝圖還是理查，或兩人分工。\n- 杜說王后是「最積極的主張者」，本站還沒讀到她依據的具體書信；也還沒讀到 1782 年王后讓女兒接種的原信。\n- 〈日出〉這首詩的原文，本站還沒找到。\n",
+   "links": [
+    "s-1823-campan-memoires",
+    "s-1874-arneth-mercy-correspondance",
+    "s-2007-kantor-antonieta",
+    "s-2022-doe-bagatelle",
+    "s-2024-berche-variole",
+    "t-coronation",
+    "t-libels",
+    "t-mesdames",
+    "t-theatre"
    ]
   },
   {
@@ -3939,12 +4367,24 @@
  ],
  "edges": [
   [
+   "s-1777-bachaumont-memoires-secrets-v5",
+   "s-1879-goncourt-marie-antoinette"
+  ],
+  [
+   "s-1777-bachaumont-memoires-secrets-v5",
+   "t-handover"
+  ],
+  [
    "s-1781-necker-compte-rendu",
    "t-deficit"
   ],
   [
    "s-1782-rousseau-confessions",
    "t-cake"
+  ],
+  [
+   "s-1783-faujas-description",
+   "t-balloon"
   ],
   [
    "s-1785-beaumarchais-figaro-preface",
@@ -4195,6 +4635,18 @@
    "t-elisabeth"
   ],
   [
+   "s-1900-nolhac-dauphine",
+   "s-1777-bachaumont-memoires-secrets-v5"
+  ],
+  [
+   "s-1900-nolhac-dauphine",
+   "s-1879-goncourt-marie-antoinette"
+  ],
+  [
+   "s-1900-nolhac-dauphine",
+   "t-handover"
+  ],
+  [
    "s-1903-funck-brentano-collier",
    "s-1823-campan-memoires"
   ],
@@ -4331,6 +4783,10 @@
    "t-deficit"
   ],
   [
+   "s-1998-chazaud-cabanis-guillotine",
+   "t-execution"
+  ],
+  [
    "s-1998-jehaes-naundorff",
    "s-2001-jehaes-louis17"
   ],
@@ -4359,8 +4815,20 @@
    "t-cake"
   ],
   [
+   "s-2002-schwartz-etruscan-sevres",
+   "s-2016-maes-laiterie-rambouillet"
+  ],
+  [
+   "s-2002-schwartz-etruscan-sevres",
+   "s-2025-dati-culture-sevres-rambouillet"
+  ],
+  [
    "s-2003-tackett-king",
    "t-varennes"
+  ],
+  [
+   "s-2005-degardin-montgolfier",
+   "t-balloon"
   ],
   [
    "s-2005-ozouf-varennes",
@@ -4381,6 +4849,10 @@
   [
    "s-2006-stamberg-npr-fraser",
    "t-coppola"
+  ],
+  [
+   "s-2007-kantor-antonieta",
+   "t-inoculation"
   ],
   [
    "s-2008-skellett-sudden-whitening",
@@ -4409,6 +4881,18 @@
   [
    "s-2011-andersson-queen-fashion",
    "t-coppola"
+  ],
+  [
+   "s-2011-martin-dairy-queens",
+   "s-2002-schwartz-etruscan-sevres"
+  ],
+  [
+   "s-2011-martin-dairy-queens",
+   "s-2016-maes-laiterie-rambouillet"
+  ],
+  [
+   "s-2011-martin-dairy-queens",
+   "t-hameau"
   ],
   [
    "s-2012-backman-rogers-threshold",
@@ -4467,6 +4951,10 @@
    "t-joseph"
   ],
   [
+   "s-2020-theobald-soaring",
+   "t-balloon"
+  ],
+  [
    "s-2021-archives-nationales-xray",
    "s-2021-michelin-xrf"
   ],
@@ -4487,12 +4975,32 @@
    "t-fersen"
   ],
   [
+   "s-2022-doe-bagatelle",
+   "s-1823-campan-memoires"
+  ],
+  [
+   "s-2022-doe-bagatelle",
+   "s-1874-arneth-mercy-correspondance"
+  ],
+  [
+   "s-2022-doe-bagatelle",
+   "t-inoculation"
+  ],
+  [
    "s-2022-hassler-strasbourg",
    "t-handover"
   ],
   [
    "s-2022-hassler-strasbourg",
    "t-mops"
+  ],
+  [
+   "s-2024-berche-variole",
+   "s-1823-campan-memoires"
+  ],
+  [
+   "s-2024-berche-variole",
+   "t-inoculation"
   ],
   [
    "s-2024-kesterton-artificial-flowers",
@@ -4563,6 +5071,10 @@
    "t-clery"
   ],
   [
+   "s-2026-versailles-chateau-first-balloon",
+   "t-balloon"
+  ],
+  [
    "s-2026-versailles-coppola-exhibition",
    "t-coppola"
   ],
@@ -4601,6 +5113,34 @@
   [
    "t-august10",
    "t-white-hair"
+  ],
+  [
+   "t-balloon",
+   "s-1783-faujas-description"
+  ],
+  [
+   "t-balloon",
+   "s-2005-degardin-montgolfier"
+  ],
+  [
+   "t-balloon",
+   "s-2020-theobald-soaring"
+  ],
+  [
+   "t-balloon",
+   "s-2026-versailles-chateau-first-balloon"
+  ],
+  [
+   "t-balloon",
+   "t-children"
+  ],
+  [
+   "t-balloon",
+   "t-louis"
+  ],
+  [
+   "t-balloon",
+   "t-polignac"
   ],
   [
    "t-bertin",
@@ -5196,6 +5736,10 @@
   ],
   [
    "t-execution",
+   "s-1998-chazaud-cabanis-guillotine"
+  ],
+  [
+   "t-execution",
    "t-louis"
   ],
   [
@@ -5361,6 +5905,42 @@
   [
    "t-handover",
    "t-vermond"
+  ],
+  [
+   "t-inoculation",
+   "s-1823-campan-memoires"
+  ],
+  [
+   "t-inoculation",
+   "s-1874-arneth-mercy-correspondance"
+  ],
+  [
+   "t-inoculation",
+   "s-2007-kantor-antonieta"
+  ],
+  [
+   "t-inoculation",
+   "s-2022-doe-bagatelle"
+  ],
+  [
+   "t-inoculation",
+   "s-2024-berche-variole"
+  ],
+  [
+   "t-inoculation",
+   "t-coronation"
+  ],
+  [
+   "t-inoculation",
+   "t-libels"
+  ],
+  [
+   "t-inoculation",
+   "t-mesdames"
+  ],
+  [
+   "t-inoculation",
+   "t-theatre"
   ],
   [
    "t-joseph",
@@ -6773,6 +7353,11 @@
    "date": "2026-11-16",
    "kind": "site",
    "title": "聖殿塔「最後一晚」three.js 動畫"
+  },
+  {
+   "date": "2026-11-16",
+   "kind": "site",
+   "title": "拿掉所有動畫與互動，回到加動畫之前"
   }
  ],
  "timeline": [
@@ -7615,6 +8200,22 @@
    "category": "人物",
    "topic": "t-fersen",
    "source": "s-2021-michelin-xrf"
+  },
+  {
+   "date": "1774-05-10",
+   "title": "路易十五死於天花",
+   "desc": "四月底發病，幾天後出疹，五月十日過世。",
+   "category": "生平",
+   "topic": "t-inoculation",
+   "source": "s-2024-berche-variole"
+  },
+  {
+   "date": "1774-06",
+   "title": "新王與弟弟們在馬爾利接種人痘",
+   "desc": "國王、普羅旺斯伯爵、阿圖瓦伯爵與伯爵夫人一起接種；國王發燒三天後出疹痊癒。",
+   "category": "生平",
+   "topic": "t-inoculation",
+   "source": "s-1874-arneth-mercy-correspondance"
   }
  ],
  "stats": [],

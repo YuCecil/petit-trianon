@@ -2,11 +2,12 @@
 
 > 由 `tools/build.py` 自動產生於 2026-11-16，不要手改。
 
-資料卡 77 張（全文 17）｜主題 44｜實體 5｜問答 0
+資料卡 90 張（全文 22）｜主題 46｜實體 5｜問答 0
 
 ## 主題頁
 
 - [[t-august10]] 1792 年 8 月 10 日：王室離開杜樂麗宮的那一天 — 一夜警鐘之後，國王說「這裡已經沒有事可做了」，王權就此結束。
+- [[t-balloon]] 一隻羊、一隻鴨、一隻公雞：凡爾賽的熱氣球 — 人類第一次飛上天之前，先上去的是三隻動物，地點就在國王的庭院。
 - [[t-bertin]] 羅絲．貝爾坦：「我和王后陛下最近的工作」 — 一個平民女帽商走進了王后的內室，惹惱了整個宮廷的貴婦。
 - [[t-cake]] 讓他們吃蛋糕：一句她沒說過的話 — 革命時罵她的小冊子成千上萬，卻沒有一本提過這句話。
 - [[t-chemise]] 穿內衣見人？一幅肖像引起的醜聞 — 一件白紗裙被罵成內衣，後來卻變成全歐洲的流行。
@@ -25,6 +26,7 @@
 - [[t-ghost]] 小特里亞儂的鬼魂：兩位牛津女學者的「奇遇」 — 1901 年夏天的一個下午，兩位英國學者說她們走進了 1789 年。
 - [[t-hameau]] 王后的農莊：她真的擠過牛奶嗎？ — 小特里亞儂旁邊有座真正運作的農場，但「王后扮農婦」找不到證據。
 - [[t-handover]] 萊茵河上的亭子：十四歲的新娘換了一身衣服 — 在國界上脫下奧地利的一切，穿上法國的衣服，撲進陌生人的懷裡。
+- [[t-inoculation]] 新王種痘：是王后說服他的嗎？ — 祖父死於天花一個月後，年輕的國王決定拿自己冒險。
 - [[t-joseph]] 法爾肯施泰因伯爵：哥哥來凡爾賽挑毛病 — 皇帝化名來訪，住旅館、罵禮儀，臨走留下一封長長的訓誡信。
 - [[t-june20]] 1792 年 6 月 20 日：戴上紅帽的國王 — 兩萬人闖進杜樂麗宮，國王在窗邊站了好幾個小時。
 - [[t-lafayette]] 拉法葉：王后最不想欠人情的人 — 美洲戰爭的英雄，後來成了看守王室的人；王后說寧可死也不要他救。
@@ -61,8 +63,10 @@
 
 ## 資料卡
 
+- [[s-1777-bachaumont-memoires-secrets-v5]] 《祕密回憶錄》（Mémoires secrets）1777 年版第 5 冊（1770 年條目） — Louis Petit de Bachaumont（題名頁署名；實際為多人續寫的逐日巴黎見聞）（1777）｜報刊｜部分
 - [[s-1781-necker-compte-rendu]] Compte rendu au Roi（國王財政報告） — Jacques Necker（1781）｜檔案｜部分
 - [[s-1782-rousseau-confessions]] Les Confessions（卷六，「大公主」段落） — Jean-Jacques Rousseau（1782）｜回憶錄｜部分
+- [[s-1783-faujas-description]] 《蒙哥爾菲機器氣球實驗描述》（Description des expériences de la machine aérostatique de MM. de Montgolfier） — Barthélemy Faujas de Saint-Fond（1783）｜專書｜部分
 - [[s-1785-beaumarchais-figaro-preface]] La Folle Journée, ou Le Mariage de Figaro（1785 年 Ruault 版，含作者序言與審查核准文件） — Pierre-Augustin Caron de Beaumarchais（博馬舍，1732–1799）（1785）｜專書｜部分
 - [[s-1789-la-motte-justification]] Memoirs of the Countess de Valois de La Motte（拉莫特夫人回憶錄，英譯本） — Jeanne de Saint-Rémy de Valois, comtesse de La Motte（1789）｜回憶錄｜部分
 - [[s-1793-tribunal-proces-criminel-testament]] Procès criminel de Marie-Antoinette de Lorraine（Denné 版） — 革命法庭（書記紀錄，無署名）（1793）｜檔案｜部分
@@ -91,6 +95,7 @@
 - [[s-1887-ap-varennes-reward]] Décret accordant des récompenses à l'occasion de l'arrestation du roi（1791 年 8 月 18 日，Archives parlementaires，第 29 卷） — Archives parlementaires（集體紀錄）（1887）｜檔案｜部分
 - [[s-1887-drouet-barre]] Admission de M. Drouet à la barre, lors de la séance du 24 juin 1791（Archives parlementaires，第 27 卷） — Jean-Baptiste Drouet（陳述人）；Archives parlementaires（1887 年版）（1887）｜檔案｜部分
 - [[s-1899-elisabeth-life-letters-en]] The Life and Letters of Madame Elisabeth de France, Sister of Louis XVI（英譯本，附〈聖殿日記〉選段） — 不詳（英譯者未具名；底本為法文傳記與書信集，註腳提到「Vie de Madame Élisabeth」）（1899）｜傳記｜部分
+- [[s-1900-nolhac-dauphine]] 《瑪麗．安東尼，太子妃》（Marie-Antoinette Dauphine） — Pierre de Nolhac（1900）｜傳記｜部分
 - [[s-1903-funck-brentano-collier]] 《項鍊案》 — Frantz Funck-Brentano（1903）｜專書｜部分
 - [[s-1907-lenotre-last-days-marie-antoinette]] The Last Days of Marie Antoinette — G. Lenôtre（1907）｜傳記｜部分
 - [[s-1913-moberly-jourdain-adventure]] An Adventure（第二版，附 Appendix 與地圖） — Charlotte Anne Elizabeth Moberly；Eleanor Frances Jourdain（以筆名 Elizabeth Morison、Frances Lamont 發表）（1913）｜回憶錄｜部分
@@ -104,19 +109,25 @@
 - [[s-1993-barker-cake]] Let Them Eat Cake': The Mythical Marie Antoinette and the French Revolution — Nancy N. Barker（1993）｜期刊論文｜全文
 - [[s-1994-neuhaus-mercy-ndb]] Mercy-Argenteau, Florimund Claudius Graf von（Neue Deutsche Biographie 17） — Helmut Neuhaus（1994）｜專書論文｜摘要
 - [[s-1995-sargent-macroeconomic]] Macroeconomic Features of the French Revolution — Thomas J. Sargent; François R. Velde（1995）｜期刊論文｜部分
+- [[s-1998-chazaud-cabanis-guillotine]] 「Cabanis devant la guillotine」（卡巴尼斯面對斷頭台） — Jacques Chazaud（1998）｜期刊論文｜全文
 - [[s-1998-jehaes-naundorff]] Mitochondrial DNA analysis on remains of a putative son of Louis XVI, King of France and Marie-Antoinette — Els Jehaes 等（Leuven 大學人類遺傳學中心）（1998）｜期刊論文｜摘要
 - [[s-2001-jehaes-louis17]] Mitochondrial DNA analysis of the putative heart of Louis XVII, son of Louis XVI and Marie-Antoinette — Els Jehaes, Heidi Pfeiffer, Kaan Toprak, Ronny Decorte, Bernd Brinkmann, Jean-Jacques Cassiman（2001）｜期刊論文｜摘要
 - [[s-2001-jehaes-pitfalls]] Pitfalls in the analysis of mitochondrial DNA from ancient specimens and the consequences for forensic DNA analysis: the historical case of the putative heart of Louis XVII — Els Jehaes 等（2001）｜期刊論文｜摘要
 - [[s-2002-campion-vincent-marie-antoinette]] Marie-Antoinette et son célèbre dire：deux scénographies et deux siècles de désordres, trois niveaux de communication et trois modes accusatoires — Véronique Campion-Vincent; Christine Shojaei Kawan（2002）｜期刊論文｜部分
+- [[s-2002-schwartz-etruscan-sevres]] 「Etruscan」風格的塞弗爾：瑪麗．安東尼乳品室（Rambouillet）的一只碗（The "Etruscan" Style at Sèvres: A Bowl from Marie-Antoinette's Dairy at Rambouillet） — Selma Schwartz（2002）｜期刊論文｜書目
 - [[s-2003-tackett-king]] When the King Took Flight — Timothy Tackett（2003）｜專書｜書目
+- [[s-2005-degardin-montgolfier]] Les frères Montgolfier（蒙哥爾菲兄弟） — Alain Degardin（2005）｜網頁｜全文
 - [[s-2005-ozouf-varennes]] Varennes. La mort de la royauté (21 juin 1791) — Mona Ozouf（2005）｜專書｜書目
 - [[s-2006-kaiser-nursery]] Scandal in the Royal Nursery: Marie-Antoinette and the "Gouvernantes des Enfants de France — Thomas E. Kaiser（2006）｜期刊論文｜全文
 - [[s-2006-stamberg-npr-fraser]] The Misunderstood Marie Antoinette? — Susan Stamberg（2006）｜報刊｜全文
+- [[s-2007-kantor-antonieta]] 瑪麗．安東尼與天花疫苗（阿根廷醫學期刊社論） — Isabel N. Kantor（2007）｜期刊論文｜全文
+- [[s-2008-kaiser-renversement-alliances]] 「La fin du renversement des alliances」：法國、奧地利與 1792 年 4 月 20 日的宣戰 — Thomas E. Kaiser（2008）｜期刊論文｜全文
 - [[s-2008-skellett-sudden-whitening]] Sudden whitening of the hair: an historical fiction? — Anne-Marie Skellett, George W. M. Millington, Nick J. Levell（2008）｜期刊論文｜書目
 - [[s-2009-navarini-marie-antoinette]] Marie Antoinette Syndrome — Alexander A. Navarini, Stephan Nobbe（2009）｜期刊論文｜摘要
 - [[s-2010-navarini-henry-iii-hair]] Why Henry III of Navarre's Hair Probably did not Turn White Overnight — Alexander A. Navarini（2010）｜期刊論文｜全文
 - [[s-2010-varadi-verbum-memoires]] 十八世紀法國的回憶錄與回憶錄作者：論僕人出身的克萊里與康龐夫人的回憶錄 — Márta Váradi（瓦拉迪）（2010）｜期刊論文｜部分
 - [[s-2011-andersson-queen-fashion]] Marie Antoinette: Queen of Fashion – Queen of Decadence — Therése Andersson（2011）｜期刊論文｜全文
+- [[s-2011-martin-dairy-queens]] Dairy Queens：從凱瑟琳．德．美第奇到瑪麗．安東尼的田園建築政治（Dairy Queens: The Politics of Pastoral Architecture from Catherine de' Medici to Marie-Antoinette） — Meredith Martin（2011）｜專書｜書目
 - [[s-2012-backman-rogers-threshold]] The Historical Threshold: Crisis, Ritual and Liminality in Sofia Coppola's Marie-Antoinette (2006) — Anna Backman Rogers（2012）｜期刊論文｜全文
 - [[s-2013-chatenet-becquet-review]] 書評：Hélène Becquet，《瑪麗－泰蕾茲．德．法蘭西：聖殿塔的孤兒》（Perrin, 2012） — Aurélie Chatenet-Calyste（2013）｜期刊論文｜全文
 - [[s-2013-nahm-canities-subita]] Canities Subita: A Reappraisal of Evidence Based on 196 Case Reports Published in the Medical Literature — Michael Nahm, Alexander A. Navarini, Emily Williams Kelly（2013）｜期刊論文｜全文
@@ -125,9 +136,12 @@
 - [[s-2016-maes-laiterie-rambouillet]] La laiterie de Marie-Antoinette à Rambouillet. Un temple pastoral pour le plaisir de la reine — Antoine Maës（2016）｜專書｜書目
 - [[s-2016-versailles-queens-hamlet]] 凡爾賽宮官網「Queen's Hamlet」頁面與長文（英文） — 凡爾賽宮（Château de Versailles）（2016）｜網頁｜全文
 - [[s-2017-niedziela-joseph-ii-paris]] 皇帝約瑟夫二世在巴黎與凡爾賽（1777） — Rafał Niedziela（2017）｜期刊論文｜部分
+- [[s-2020-theobald-soaring]] 〈飛升的想像：凡爾賽第一次孟格菲氣球表演的文字與圖像〉（Soaring Imaginations: The First Montgolfier Ballooning Spectacle at Versailles in Word and Image） — Catherine J. Lewis Theobald（2020）｜期刊論文｜全文
 - [[s-2021-archives-nationales-xray]] Marie-Antoinette's Correspondence under X-Ray（法國國家檔案館說明頁） — Archives nationales（2021）｜網頁｜摘要
 - [[s-2021-michelin-xrf]] 2D macro-XRF to reveal redacted sections of French queen Marie-Antoinette secret correspondence with Swedish count Axel von Fersen — Anne Michelin, Fabien Pottier, Christine Andraud（2021）｜期刊論文｜部分
+- [[s-2022-doe-bagatelle]] 巴黎歌劇評論《城堡節》與 1774 年王室接種：王后的宣傳角色 — Julia Doe（2022）｜期刊論文｜部分
 - [[s-2022-hassler-strasbourg]] « Lien de deux États, ornement de deux Cours » : Marie-Antoinette à Strasbourg en mai 1770 — Éric Hassler（2022）｜期刊論文｜摘要
+- [[s-2024-berche-variole]] 天花的生與死：從古代到猴痘（醫學史講稿） — Patrick Berche（2024）｜期刊論文｜部分
 - [[s-2024-kesterton-artificial-flowers]] Artificial Flowers in the Credit Records of an Eighteenth-Century French Fashion Merchant — Zara Kesterton（2024）｜期刊論文｜部分
 - [[s-2024-nordin-hameau]] Le Hameau – drottningens låtsasby（王后的假村莊） — Jonas Nordin（2024）｜期刊論文｜全文
 - [[s-2024-pearce-creole]] Creole Creations: Unraveling Caribbean origins, makers and wearers of the robe à la creole c.1780-1815 — Emma Pearce（2024）｜期刊論文｜部分
@@ -137,4 +151,5 @@
 - [[s-2026-harvard-gazette-coppola]] Why Sofia Coppola gave Marie Antoinette sneakers — Harvard Gazette（2026）｜報刊｜全文
 - [[s-2026-mensch-reine-morte]] 「王后死了，瑪麗－泰蕾茲萬歲？」：1795–1825 年間如何重新思考法國的王后 — Matthieu Mensch（2026）｜期刊論文｜部分
 - [[s-2026-varadi-temoins-thesis]] Témoins historiques et intimes de la Cour：Campan 與 Cléry 的回憶錄敘事與親密性（博士論文） — Márta Váradi（瓦拉迪）（2026）｜學位論文｜部分
+- [[s-2026-versailles-chateau-first-balloon]] First hot air balloon flight（凡爾賽宮官網「關鍵年表」） — Château de Versailles（2026）｜網頁｜摘要
 - [[s-2026-versailles-coppola-exhibition]] «Marie-Antoinette» by Sofia Coppola（凡爾賽宮展覽頁） — Château de Versailles（2026）｜網頁｜摘要

@@ -9,7 +9,7 @@ myth: 斷頭台的斜刃，是路易十六親手改良的。
 verdict: 查無實據
 image: t-execution.jpg
 imageAlt: 粉彩畫風插畫：1793 年 1 月霧氣籠罩的巴黎廣場，遠處一輛深色馬車在成排士兵與鼓手之間緩緩前進。
-sources: [s-1798-clery-journal, s-1815-edgeworth-memoirs, s-1852-marie-therese-temple, s-1862-sanson-sept-generations, s-1795-poncelin-proces-louis-xvi]
+sources: [s-1998-chazaud-cabanis-guillotine, s-1798-clery-journal, s-1815-edgeworth-memoirs, s-1852-marie-therese-temple, s-1862-sanson-sept-generations, s-1795-poncelin-proces-louis-xvi]
 updated: 2026-11-16
 ---
 
@@ -19,9 +19,11 @@ updated: 2026-11-16
 
 ## 迷思與史料
 
-常聽說斷頭台那片斜斜的刀刃，是喜歡機械的路易十六親手改良的。這個故事最早只見於 1862 年出版的《桑松家族回憶錄》：書裡說，1792 年 3 月初，劊子手桑松和設計斷頭台的醫生安托萬．路易在杜樂麗宮見到國王，國王看了設計圖，把半月形的刀刃改畫成一條斜線，還說「我可能錯了，試驗的時候兩種都試試看」（本站譯）（[[s-1862-sanson-sept-generations]] 第 3 冊 pp. 400–402）。書裡說這是家族流傳的說法，沒有引用任何當時的檔案（[[s-1862-sanson-sept-generations]] 第 3 冊）。
+常聽說斷頭台那片斜斜的刀刃，是喜歡機械的路易十六親手改良的。國王親手改刀刃的版本，本站只在 1862 年出版的《桑松家族回憶錄》裡讀到：書裡說，1792 年 3 月初，劊子手桑松和設計斷頭台的醫生安托萬．路易在杜樂麗宮見到國王，國王看了設計圖，把半月形的刀刃改畫成一條斜線，還說「我可能錯了，試驗的時候兩種都試試看」（本站譯）（[[s-1862-sanson-sept-generations]] 第 3 冊 pp. 400–402）。書裡說這是家族流傳的說法，沒有引用任何當時的檔案（[[s-1862-sanson-sept-generations]] 第 3 冊）。
 
 這本書在國王死後將近七十年才出版，是劊子手後代整理的家族故事。本站在其他史料裡沒有找到國王參與改良刀刃的紀錄，所以判定是「查無實據」。（推論）一個愛打鎖的國王親手設計了砍自己頭的機器，這個故事太巧了，很適合流傳。
+
+比這本書早得多的，是醫生卡巴尼斯（Cabanis）在 1795–96 年寫的一份斷頭台筆記。醫學史學者沙佐（Chazaud）1998 年轉述這份筆記時說，原本半月形的刀刃，是「在路易的建議下」換成斜刃的（[[s-1998-chazaud-cabanis-guillotine]] p. 70）。這裡的「路易」沒有寫全名；整篇談的都是醫生之間的討論，（推論）指的應該是寫斷頭台報告的外科醫生安托萬．路易，不是國王。1792 年 4 月 17 日，醫生們在比塞特爾醫院（Bicêtre）用屍體試驗這台機器，劊子手桑松操作，安托萬．路易和斷頭台得名的吉約坦醫生（Guillotin）都在場（[[s-1998-chazaud-cabanis-guillotine]] p. 71）。
 
 ## 故事是這樣的
 

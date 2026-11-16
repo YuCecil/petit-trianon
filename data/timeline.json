@@ -838,5 +838,37 @@
   "category": "人物",
   "topic": "t-fersen",
   "source": "s-2021-michelin-xrf"
+ },
+ {
+  "date": "1774-05-10",
+  "title": "路易十五死於天花",
+  "desc": "四月底發病，幾天後出疹，五月十日過世。",
+  "category": "生平",
+  "topic": "t-inoculation",
+  "source": "s-2024-berche-variole"
+ },
+ {
+  "date": "1774-06",
+  "title": "新王與弟弟們在馬爾利接種人痘",
+  "desc": "國王、普羅旺斯伯爵、阿圖瓦伯爵與伯爵夫人一起接種；國王發燒三天後出疹痊癒。",
+  "category": "生平",
+  "topic": "t-inoculation",
+  "source": "s-1874-arneth-mercy-correspondance"
+ },
+ {
+  "date": "1783-09-19",
+  "title": "熱氣球在凡爾賽宮庭院升空",
+  "desc": "孟格菲的氣球載著一隻羊、一隻鴨、一隻公雞，在國王一家面前飛了八分鐘，降落在瓦克雷松森林。",
+  "category": "宮廷",
+  "topic": "t-balloon",
+  "source": "s-1783-faujas-description"
+ },
+ {
+  "date": "1783-11-21",
+  "title": "人類第一次搭氣球自由飛行",
+  "desc": "皮拉特爾．德．羅齊耶與達爾朗德侯爵從穆埃特城堡升空，飛越巴黎。",
+  "category": "宮廷",
+  "topic": "t-balloon",
+  "source": "s-1783-faujas-description"
  }
 ]
