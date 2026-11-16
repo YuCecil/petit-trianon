@@ -11,7 +11,7 @@ url: https://archive.org/details/waxingmythicalli0000berr
 access: 公開
 depth: 書目
 period: [1770, 1795]
-topics: [t-tussaud]
+topics: [t-lamballe]
 entities: []
 reliability: 中
 added: 2026-11-16

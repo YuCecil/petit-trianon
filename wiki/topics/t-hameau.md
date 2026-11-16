@@ -97,3 +97,4 @@ updated: 2026-11-16
 - 諾丁提到的瑞士農夫比薩爾，以及「他在王后坐牢時還送乳製品給她」的說法，本站還沒找到原始檔案。
 - 凡爾賽宮學者海茨曼（Annick Heitzmann）2006 年的〈特里亞儂：農莊的農場〉（*Versalia* 第 9 期）待讀。
 - 王后在小特里亞儂穿的衣服，見 [[t-chemise]]。
+- 朗布依埃乳品室和乳房碗的學術研究：大都會博物館 2002 年的專文（[[s-2002-schwartz-etruscan-sevres]]）、馬丁（Meredith Martin）2011 年的專書《Dairy Queens》（[[s-2011-martin-dairy-queens]]），本站都還沒讀到全文。

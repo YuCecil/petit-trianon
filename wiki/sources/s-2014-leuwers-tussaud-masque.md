@@ -11,7 +11,7 @@ url: https://shs.cairn.info/article/AHRF_375_0187
 access: 公開
 depth: 書目
 period: [1794, 2014]
-topics: [t-tussaud]
+topics: [t-lamballe]
 entities: []
 reliability: 高
 added: 2026-11-16

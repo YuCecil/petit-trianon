@@ -2,7 +2,7 @@
 
 > 由 `tools/build.py` 自動產生於 2026-11-16，不要手改。
 
-資料卡 97 張（全文 25）｜主題 47｜實體 5｜問答 0
+資料卡 102 張（全文 25）｜主題 48｜實體 5｜問答 0
 
 ## 主題頁
 
@@ -21,6 +21,7 @@
 - [[t-dubarry]] 「今天凡爾賽人真多」：太子妃與杜巴利夫人的冷戰 — 為了一句話，維也納、凡爾賽和大使館鬥了將近兩年。
 - [[t-elisabeth]] 伊莉莎白夫人：「別讓他們知道我不是王后」 — 國王的妹妹，可以走卻留下，陪哥哥一家走到最後。
 - [[t-execution]] 國王的最後一天：「我無罪而死」 — 從聽到判決，到斷頭台上被鼓聲蓋過的最後一句話。
+- [[t-federation]] 聯盟節：雨中的三十萬聲「我發誓」 — 攻占巴士底一週年，全國代表擠進戰神廣場，王后舉起兒子給大家看。
 - [[t-fersen]] 費爾森：塗黑的信裡寫了什麼 — 兩百多年後，X 光讀出了被塗黑的字，但答案還是兩種讀法。
 - [[t-figaro]] 費加洛的婚禮：國王禁不掉的一齣戲 — 國王說「永遠不會上演」，巴黎卻排隊去看了七十二場。
 - [[t-ghost]] 小特里亞儂的鬼魂：兩位牛津女學者的「奇遇」 — 1901 年夏天的一個下午，兩位英國學者說她們走進了 1789 年。
@@ -92,6 +93,7 @@
 - [[s-1867-arneth-maria-theresia-joseph]] Maria Theresia und Joseph II. Ihre Correspondenz sammt Briefen Joseph's an seinen Bruder Leopold, Zweiter Band (1773–1778) — Alfred Ritter von Arneth（編）（1867）｜書信｜部分
 - [[s-1868-feuillet-elisabeth-correspondance]] Correspondance de Madame Élisabeth de France, sœur de Louis XVI（伊莉莎白夫人書信集，據原件手稿校印） — Feuillet de Conches（編者，1798–1887）（1868）｜書信｜部分
 - [[s-1874-arneth-mercy-correspondance]] Marie-Antoinette. Correspondance secrète entre Marie-Thérèse et le comte de Mercy-Argenteau（三卷，1874） — 瑪麗亞．特蕾莎、瑪麗．安東尼、梅西－阿爾讓托（書信作者）；編者 Alfred von Arneth（導論與註）、Auguste Geffroy（評註）（1874）｜書信｜部分
+- [[s-1877-davillier-vente-mobilier]] 大革命期間凡爾賽城堡家具的拍賣（Davillier 1877，documents inédits） — Baron Charles Davillier（1877）｜專書｜部分
 - [[s-1877-klinckowstrom-fersen]] Le comte de Fersen et la cour de France. Extraits des papiers du grand maréchal de Suède, comte Jean Axel de Fersen（第一卷） — R. M. de Klinckowström（編）（1877）｜書信｜部分
 - [[s-1879-goncourt-marie-antoinette]] 《瑪麗．安東尼史》 — Edmond de Goncourt, Jules de Goncourt（1879）｜專書｜部分
 - [[s-1881-vizetelly-diamond-necklace]] The Story of the Diamond Necklace — Henry Vizetelly（1881）｜專書｜部分
@@ -142,8 +144,10 @@
 - [[s-2015-parson-dark-countess]] Molecular genetic analysis on the remains of the Dark Countess: Revisiting the French Royal family — Walther Parson, Cordula Berger, Timo Sänger, Sabine Lutz-Bonengel（2015）｜期刊論文｜全文
 - [[s-2016-maes-laiterie-rambouillet]] La laiterie de Marie-Antoinette à Rambouillet. Un temple pastoral pour le plaisir de la reine — Antoine Maës（2016）｜專書｜書目
 - [[s-2016-versailles-queens-hamlet]] 凡爾賽宮官網「Queen's Hamlet」頁面與長文（英文） — 凡爾賽宮（Château de Versailles）（2016）｜網頁｜全文
+- [[s-2017-caron-garde-meuble]] 《Le Garde-Meuble et la Cour》研究計畫摘要（Caron，2017） — Mathieu Caron（2017）｜學位論文｜摘要
 - [[s-2017-niedziela-joseph-ii-paris]] 皇帝約瑟夫二世在巴黎與凡爾賽（1777） — Rafał Niedziela（2017）｜期刊論文｜部分
 - [[s-2017-ruimi-curtius-cabinet]] Spectacles de cire. Le cabinet de Curtius（2017） — Jennifer Ruimi（2017）｜期刊論文｜書目
+- [[s-2017-triquenaux-messaline]] 《Messaline française, louve de Barbarie et Ganymède femelle》：波利尼亞克夫人的諷刺小冊子與仇恨的傳染 — Maxime Triquenaux（2017）｜期刊論文｜部分
 - [[s-2020-theobald-soaring]] 〈飛升的想像：凡爾賽第一次孟格菲氣球表演的文字與圖像〉（Soaring Imaginations: The First Montgolfier Ballooning Spectacle at Versailles in Word and Image） — Catherine J. Lewis Theobald（2020）｜期刊論文｜全文
 - [[s-2021-archives-nationales-xray]] Marie-Antoinette's Correspondence under X-Ray（法國國家檔案館說明頁） — Archives nationales（2021）｜網頁｜摘要
 - [[s-2021-michelin-xrf]] 2D macro-XRF to reveal redacted sections of French queen Marie-Antoinette secret correspondence with Swedish count Axel von Fersen — Anne Michelin, Fabien Pottier, Christine Andraud（2021）｜期刊論文｜部分
@@ -159,5 +163,7 @@
 - [[s-2026-harvard-gazette-coppola]] Why Sofia Coppola gave Marie Antoinette sneakers — Harvard Gazette（2026）｜報刊｜全文
 - [[s-2026-mensch-reine-morte]] 「王后死了，瑪麗－泰蕾茲萬歲？」：1795–1825 年間如何重新思考法國的王后 — Matthieu Mensch（2026）｜期刊論文｜部分
 - [[s-2026-varadi-temoins-thesis]] Témoins historiques et intimes de la Cour：Campan 與 Cléry 的回憶錄敘事與親密性（博士論文） — Márta Váradi（瓦拉迪）（2026）｜學位論文｜部分
+- [[s-2026-versailles-after-revolution]] 凡爾賽城堡官網「大革命後的凡爾賽 1793–1799」 — Château de Versailles（2026）｜網頁｜摘要
 - [[s-2026-versailles-chateau-first-balloon]] First hot air balloon flight（凡爾賽宮官網「關鍵年表」） — Château de Versailles（2026）｜網頁｜摘要
 - [[s-2026-versailles-coppola-exhibition]] «Marie-Antoinette» by Sofia Coppola（凡爾賽宮展覽頁） — Château de Versailles（2026）｜網頁｜摘要
+- [[s-2026-wallace-riesener]] Wallace Collection「Riesener：家具」專題頁 — The Wallace Collection（2026）｜網頁｜摘要

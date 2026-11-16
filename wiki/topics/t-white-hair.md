@@ -9,8 +9,8 @@ myth: 王后在上斷頭台前一夜，頭髮全白了。
 verdict: 半真半假
 image: t-white-hair.jpg
 imageAlt: 粉彩畫風插畫：梳妝台上有白色睡帽和梳子，小絲絨盒裡是一枚嵌著白髮的金戒指，鏡中映出模糊的背影。
-sources: [s-1823-campan-memoires, s-1883-tourzel-memoires, s-1865-prevost-proces-recueil, s-1835-vigee-le-brun-souvenirs, s-1907-lenotre-last-days-marie-antoinette, s-2010-navarini-henry-iii-hair, s-2009-navarini-marie-antoinette, s-2013-nahm-canities-subita, s-2008-skellett-sudden-whitening]
-updated: 2026-11-15
+sources: [s-1838-tussaud-memoirs, s-1823-campan-memoires, s-1883-tourzel-memoires, s-1865-prevost-proces-recueil, s-1835-vigee-le-brun-souvenirs, s-1907-lenotre-last-days-marie-antoinette, s-2010-navarini-henry-iii-hair, s-2009-navarini-marie-antoinette, s-2013-nahm-canities-subita, s-2008-skellett-sudden-whitening]
+updated: 2026-11-16
 ---
 
 ## 一句話說明
@@ -50,6 +50,8 @@ updated: 2026-11-15
 最有意思的一份證詞，來自王后自己的審判。市政官員米什尼（Michonis）曾私下帶人進古監獄探望王后，他出庭作證時，被庭長追問帶過哪些人進去，他解釋：那年夏天在一場晚宴上，有人說「卡佩寡婦變了很多，聽說頭髮全白了」，他回答說，其實她的頭髮「才開始變灰」，身體還好；一位在座的客人想看看她，他就帶他去了（本站譯）（[[s-1865-prevost-proces-recueil]] pp. 99–100）。
 
 （推論）這段話很珍貴，因為它是 1793 年當時留下的紀錄：外面已經在傳「全白了」，見過她的人卻說「才開始變灰」。
+
+傳言的確傳得很廣。蠟像師杜莎夫人晚年的回憶錄說，她聽說王后的頭髮變白了、人瘦得幾乎認不出來，忍不住到朋友家窗口，想看看押往刑場的王后，是不是真的變了那麼多；可是囚車一出現，她就昏了過去，「什麼也沒看到」（本站譯）（[[s-1838-tussaud-memoirs]] pp. 361–362）。
 
 另外兩份證詞說得比較重。國王的僕人克萊里 1796 年寫信給畫家維傑．勒布倫，回答她為一幅畫提出的問題，描述 1793 年 1 月 20 日國王與家人訣別那晚每個人的穿著：王后的頭髮「幾乎全白了」，女兒的是漂亮的淺金色，伊莉莎白夫人的金髮顏色深一些（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 2 冊附錄）。1824 年的一份記述說，一位虔誠的女子在古監獄半夜見到王后，看見她的白髮、凹陷的臉頰和失去血色的臉，非常難過（[[s-1907-lenotre-last-days-marie-antoinette]] p. 207）。
 

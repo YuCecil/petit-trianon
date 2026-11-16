@@ -11,7 +11,7 @@ url: https://archive.org/details/b29336739
 access: 公開
 depth: 部分
 period: [1770, 1795]
-topics: [t-tussaud]
+topics: [t-lamballe, t-elisabeth, t-white-hair]
 entities: []
 reliability: 低
 added: 2026-11-16

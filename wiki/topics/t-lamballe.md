@@ -9,7 +9,7 @@ myth: 朗巴勒親王妃被殺後，暴民把她的頭插在長矛上，舉到�
 verdict: 確有其事
 image: t-lamballe.jpg
 imageAlt: 粉彩畫風插畫：午後陽光灑進小客廳，窗邊小桌上有一束白玫瑰和打開的首飾盒，一位穿白裙的女士背影站在窗前。
-sources: [s-1874-arneth-mercy-correspondance, s-1823-campan-memoires, s-1883-tourzel-memoires, s-1798-clery-journal, s-1852-marie-therese-temple, s-1835-vigee-le-brun-souvenirs]
+sources: [s-1838-tussaud-memoirs, s-1874-arneth-mercy-correspondance, s-1823-campan-memoires, s-1883-tourzel-memoires, s-1798-clery-journal, s-1852-marie-therese-temple, s-1835-vigee-le-brun-souvenirs]
 updated: 2026-11-16
 ---
 
@@ -61,6 +61,8 @@ updated: 2026-11-16
 
 隔天，在聖殿塔裡，國王的僕人克萊里看到了窗外那根長矛（[[s-1798-clery-journal]] pp. 18–19）。他嚇得臉色發白，跑去找國王，王后看出他神色不對，問他怎麼不去吃飯，他只說身體不舒服。這時市政官員進來，說外面謠傳王室已經不在塔裡，群眾要國王到窗前露面；外面的叫喊越來越大，克萊里聽得清清楚楚，那些是罵王后的話（[[s-1798-clery-journal]] p. 19）。瑪麗－泰蕾茲說，國王事後還替那個說出真相的年輕軍官說話：不是他的錯，是自己問了他（[[s-1852-marie-therese-temple]]）。
 
+蠟像師杜莎夫人（Madame Tussaud）晚年口述的回憶錄裡，還有一個更駭人的說法：朗巴勒的頭被殺手們直接送到她那裡，他們站在旁邊，逼她替這顆頭翻模，做成蠟像面具（[[s-1838-tussaud-memoirs]] p. 272）。這本回憶錄 1838 年在倫敦出版，離事發已經四十多年，由別人整理成書，書中許多細節沒有其他證據可以對照；（推論）這件事本站只能當成「杜莎夫人自己的說法」。
+
 ## 研究者怎麼看
 
 - 本站讀到的四位證人（康龐、圖澤爾、克萊里、瑪麗－泰蕾茲）都是王室身邊的人。圖澤爾夫人和朗巴勒一起坐牢，克萊里和瑪麗－泰蕾茲在聖殿塔裡，都是第一手經歷，但也都是王室一方的回憶（[[s-1883-tourzel-memoires]]；[[s-1798-clery-journal]]；[[s-1852-marie-therese-temple]]）。
@@ -83,3 +85,4 @@ updated: 2026-11-16
 - 她 1791 年是從哪裡回來的？常見說法是英國，但本站讀到的原典沒有寫；維傑．勒布倫說她 1793 年人在杜林，顯然記錯了。
 - 她在監獄「法庭」上被問了什麼、怎麼死的，需要讀 19 世紀 Lescure 的傳記或審訊紀錄。
 - 她的新閨蜜，見 [[t-polignac]]。
+- 杜莎夫人回憶錄的可信度：研究杜莎的著作有伯里奇（Berridge）2006 年的傳記《Waxing Mythical》（[[s-2006-berridge-waxing-mythical]]），以及兩篇法文研究，談她的羅伯斯庇爾面具（[[s-2014-leuwers-tussaud-masque]]）和庫爾提烏斯的蠟像館（[[s-2017-ruimi-curtius-cabinet]]）；本站都還沒讀到全文。

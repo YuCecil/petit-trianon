@@ -9,7 +9,7 @@ myth: 伊莉莎白夫人一心向上帝，拒絕了所有的婚事。
 verdict: 半真半假
 image: t-elisabeth.jpg
 imageAlt: 粉彩畫風插畫：小莊園裡有菜園、果樹和鴿舍，一位穿樸素淺色長裙的年輕女士提著籃子走向一群雞。
-sources: [s-1868-feuillet-elisabeth-correspondance, s-1899-elisabeth-life-letters-en, s-1883-tourzel-memoires, s-1798-clery-journal, s-1852-marie-therese-temple, s-1824-lafont-daussonne-memoires]
+sources: [s-1838-tussaud-memoirs, s-1868-feuillet-elisabeth-correspondance, s-1899-elisabeth-life-letters-en, s-1883-tourzel-memoires, s-1798-clery-journal, s-1852-marie-therese-temple, s-1824-lafont-daussonne-memoires]
 updated: 2026-11-16
 ---
 
@@ -26,6 +26,8 @@ updated: 2026-11-16
 ### 蒙特勒伊的小農莊
 
 1778 年，國王替十四歲的妹妹成立了自己的家（[[s-1899-elisabeth-life-letters-en]] p. 8）。後來國王在凡爾賽附近的蒙特勒伊（Montreuil）替她買下一座莊園，她把它變成一座兼做慈善的農場和植物園，自己當「佃農兼經理」（本站譯）（[[s-1868-feuillet-elisabeth-correspondance]] 編者序）。植物學老師常帶她到附近的森林採集植物；她跟數學老師學習時，自己做了一張精巧的對數表，連天文學家拉朗德都稱讚（[[s-1868-feuillet-elisabeth-correspondance]] 編者序）。王后開玩笑地把蒙特勒伊叫做「我的小特里亞儂」（[[s-1868-feuillet-elisabeth-correspondance]]）。她也曾想過像姑姑路易絲一樣，進加爾默羅會當修女（[[s-1868-feuillet-elisabeth-correspondance]] 編者序）。
+
+蠟像師杜莎夫人 1838 年出版的回憶錄說，她年輕時在叔叔庫爾提烏斯（Curtius）的蠟像工作室幫忙，伊莉莎白夫人常來參觀，想學做蠟像，於是由她來教；公主很喜歡她，還請庫爾提烏斯讓她住進凡爾賽宮作伴（[[s-1838-tussaud-memoirs]] p. 21）。這是杜莎夫人在事後四十多年的自述，本站還沒找到宮廷紀錄或研究可以證實（推論）。
 
 ### 「從此再沒有離開」
 

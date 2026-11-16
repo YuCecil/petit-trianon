@@ -1,9 +1,9 @@
 {
  "built": "2026-11-16",
  "counts": {
-  "sources": 97,
+  "sources": 102,
   "fulltext": 25,
-  "topics": 47,
+  "topics": 48,
   "entities": 5,
   "questions": 0,
   "events": 112,
@@ -532,14 +532,18 @@
     1795
    ],
    "topics": [
-    "t-tussaud"
+    "t-lamballe",
+    "t-elisabeth",
+    "t-white-hair"
    ],
    "entities": [],
    "reliability": "低",
    "added": "2026-11-16",
    "body": "## 一句話\n\n杜莎自己寫的回憶錄，是「杜莎說自己在凡爾賽教伊莉莎白做蠟像」和「她在革命中替馬拉、羅伯斯庇爾等人取翻模」的最早出處；但書中寫到王后的部分，只說她在王后被押去刑場時昏倒，沒有說她替王后取過死後翻模。\n\n## 三個重點\n\n1. 出版背景：1838 年倫敦出版，編者 Francis Hervé 在前言說書的目的是「記錄見證者的回憶」並提供法國大革命的簡史（前言，全文未引）。書中以第一人稱寫成，是否杜莎本人口述、Hervé 寫成，序言沒有說清楚（raw/notes 待核）。\n2. 跟子題有關的段落：伊莉莎白與凡爾賽（p. 21）；1789 年 7 月 12 日 Curtius 館的半身像遊行（p. 85–86）；馬拉、柯黛、羅伯斯庇爾、蘭巴勒公主、卡里耶的翻模（p. 254–424，部分待核）；王后處決（p. 361–362）。\n3. 關於王后：書中說杜莎聽說王后頭髮白了，於是到朋友家去看王后被押往刑場，「她看到馬車出現就昏倒，什麼也沒看到」（p. 362）。書中沒有提到王后的翻模或面具，也沒有提到瑪德蓮墓地與王后。\n\n## 用了什麼史料\n\n作者的回憶，沒有引用檔案或書信。書中提到蠟像館的老闆是 John Christopher Curtius（p. 5），通行名稱是 Philippe Curtius，本站要註明書中寫法不同。\n\n## 跟其他資料的關係\n\n- 與 `s-1823-campan-memoires`（康龐夫人，王后身邊的女官）的關係：兩本回憶錄都寫王后最後的時候，但杜莎沒有目睹處決，康龐的敘述是從內部寫的，兩者各有立場，不要混用。\n- 本書是目前能查到的最早、有全文的杜莎回憶錄。「王后死後翻模」這個說法，在本書找不到，之後的傳記（如 Berridge 2006）是否有來源，還要查。\n\n## 值得記住的一句話\n\n<!-- 原文（40 字以內）＋中譯，附頁碼 -->\n「Madame Tussaud fainted, and saw no more.」／中譯：杜莎昏倒了，什麼也沒看到（p. 362，本站譯）\n\n## 還不確定的地方\n\n- 只讀了與子題有關的段落（蠟像館、伊莉莎白、1789 年 7 月、馬拉等人的翻模、王后處決）；其餘章節（革命前的宮廷生活、獄中生活）沒有讀。\n- 頁碼由 OCR 的頁首標記推定；p. 199、p. 424 附近的段落頁碼待對照掃描本。\n- 伊莉莎白的教學年份書中沒有寫。\n- 書中 Curtius 的名字（John Christopher）與通行的 Philippe Curtius 不同，需要查證。\n- 書中是否由杜莎本人口述，待核。\n",
    "links": [
-    "t-tussaud"
+    "t-elisabeth",
+    "t-lamballe",
+    "t-white-hair"
    ]
   },
   {
@@ -791,6 +795,33 @@
     "t-consummation",
     "t-deficit",
     "t-hameau"
+   ]
+  },
+  {
+   "id": "s-1877-davillier-vente-mobilier",
+   "type": "source",
+   "title": "大革命期間凡爾賽城堡家具的拍賣（Davillier 1877，documents inédits）",
+   "author": "Baron Charles Davillier",
+   "year": 1877,
+   "kind": "專書",
+   "lang": "fr",
+   "venue": "Paris, Auguste Aubry",
+   "url": "https://archive.org/details/laventedumobilieOOdavi",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1793,
+    1794
+   ],
+   "topics": [
+    "t-sale"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n1877 年男爵 Davillier 根據凡爾賽拍賣的 procès-verbal（拍賣紀錄）寫成的專書，是目前找到唯一直接引用拍賣紀錄、有日期、號碼數與成交價的研究。\n\n## 三個重點\n\n1. 拍賣從 1793 年 8 月 25 日拍到 1794 年 8 月 11 日，共約一年（p. 16–17）。拍賣紀錄 35 本、17,182 個號碼（p. 17）。\n2. 付款用指券，作者估計實際損失約三分之二（p. 15–16）。有徽章與百合花的東西，多半要買家除去標記才能買（p. 18）。\n3. 買家包括 Riesener 本人（lot 205、2,340、2,503，p. 19）。作者沒有提到英國買家，只說有人用外國匯票買（p. 16）。\n\n## 用了什麼史料\n\n- 凡爾賽省檔案的拍賣紀錄（procès-verbal），作者說未曾出版（p. 17 註）。\n- 巴黎報紙的廣告（Affiches、Petites-Affiches，共和二年）（p. 21 註 2、p. 26）。\n- 引用 Thiers 的《Histoire de la Révolution》（p. 16 註 2）。\n- 作者的 Riesener 研究（Cabinet du duc d'Aumont，1870）（p. 19 註）。\n\n## 跟其他資料的關係\n\n- 凡爾賽官網（s-2026-versailles-after-revolution）說拍賣在「幾天」之內完成，與本書的一年不一致。本站以本書為準，並在故事頁註明。\n- Wallace Collection（s-2026-wallace-riesener）說 Riesener 買回了許多王室訂單，本書的 lot 205、2,340、2,503 可以作為例子。\n\n## 值得記住的一句話\n\n「pendant un an moins quatorze jours, les innombrables merveilles que contenait le Château de Versailles furent vendues au plus offrant et dernier enchérisseur」\n（中譯：在將近一年零十四天裡，凡爾賽城堡所藏無數的珍品都被賣給出價最高的人。）（p. 16，本站譯）\n\n## 還不確定的地方\n\n- depth 為「部分」：只讀了拍賣的前半部與清單摘錄（p. 15–27），後半的 Marly 等其他宮殿與完整目錄未讀。\n- 原書是 OCR 掃描，頁碼與拼寫以 OCR 為準，Langlier 的頁碼未能確認。\n- 1877 年的著作，作者的估算（損失三分之二）是作者的推算，不是拍賣紀錄的數字。\n- 原檔 raw/books/s-1877-davillier-vente-mobilier.txt（OCR 純文字）。\n",
+   "links": [
+    "t-sale"
    ]
   },
   {
@@ -1587,7 +1618,7 @@
     1787
    ],
    "topics": [
-    "t-coupe"
+    "t-hameau"
    ],
    "entities": [],
    "reliability": "高",
@@ -1596,7 +1627,7 @@
    "links": [
     "s-2016-maes-laiterie-rambouillet",
     "s-2025-dati-culture-sevres-rambouillet",
-    "t-coupe"
+    "t-hameau"
    ]
   },
   {
@@ -1697,14 +1728,14 @@
     1795
    ],
    "topics": [
-    "t-tussaud"
+    "t-lamballe"
    ],
    "entities": [],
    "reliability": "中",
    "added": "2026-11-16",
    "body": "## 一句話\n\n英文的杜莎傳記，書名「Waxing Mythical」正是在談她的傳說與神話化；本次沒有讀到內文，它是研究者怎麼看杜莎自我敘述的候選資料。\n\n## 三個重點\n\n1. 書目：Kate Berridge，*Waxing Mythical: The Life and Legend of Madame Tussaud*，London: John Murray, 2006。OpenAlex 另有 2007 年的紀錄，版本待核。\n2. 讀取狀況：Internet Archive 的 waxingmythicalli0000berr 是借閱版，全文下載回應 401，無法讀取。\n3. 可能的用途：書名直接處理「傳說」，應該會討論杜莎回憶錄的可靠性與王后翻模的說法，但這是推測，要讀過才能確定。\n\n## 用了什麼史料\n\n（未讀到內文，無法列出。）\n\n## 跟其他資料的關係\n\n- 與 `s-1838-tussaud-memoirs`：如果讀到，可以比對 Berridge 怎麼看杜莎 1838 年的自述，尤其是凡爾賽與王后的部分。\n\n## 值得記住的一句話\n\n未讀到原文，不填。\n\n## 還不確定的地方\n\n- 全文需要借閱（Internet Archive 借閱或圖書館）。本次沒有取得。\n- 2006 與 2007 年版本是否內容相同，未核對。\n",
    "links": [
-    "t-tussaud"
+    "t-lamballe"
    ]
   },
   {
@@ -1973,7 +2004,6 @@
     1789
    ],
    "topics": [
-    "t-coupe",
     "t-hameau"
    ],
    "entities": [],
@@ -1983,7 +2013,6 @@
    "links": [
     "s-2002-schwartz-etruscan-sevres",
     "s-2016-maes-laiterie-rambouillet",
-    "t-coupe",
     "t-hameau"
    ]
   },
@@ -2113,14 +2142,14 @@
     2014
    ],
    "topics": [
-    "t-tussaud"
+    "t-lamballe"
    ],
    "entities": [],
    "reliability": "高",
    "added": "2026-11-16",
    "body": "## 一句話\n\n這篇法國大革命史期刊的論文，討論杜莎做的羅伯斯庇爾翻模與現代「重建面容」的做法，與本站子題（杜莎的翻模說法）直接相關；但本次沒有讀到全文，內容尚未確認。\n\n## 三個重點\n\n1. 書目來源：OpenAlex 與 HAL 的紀錄都列出此篇（HAL 的記錄 halshs-03798154 只有書目，沒有檔案）。OpenAlex 標為開放取用，網址指向 Cairn。\n2. 讀取狀況：curl 取得的 Cairn 頁面是 DataDome 的防爬蟲驗證（captcha），HTTP 403，本次沒有讀到任何內文。\n3. 可能的用途：標題指出它討論「杜莎與羅伯斯庇爾的面容重建」，應與「研究者怎麼看杜莎的翻模」有關，但是否涉及王后翻模，本次無法確認。\n\n## 用了什麼史料\n\n（未讀到全文，無法列出。）\n\n## 跟其他資料的關係\n\n- 與 `s-1838-tussaud-memoirs`：杜莎自己寫的羅伯斯庇爾翻模（p. 254）是這篇討論的對象之一（依標題判斷，待確認）。\n\n## 值得記住的一句話\n\n未讀到原文，不填。\n\n## 還不確定的地方\n\n- 全文沒有讀到。需要由主 session 請使用者用瀏覽器（Cairn 或台大資料庫）開啟，或由 Claude in Chrome 讀取；本 agent 不使用瀏覽器工具。\n- 這是目前最相關的學術研究，優先處理。\n",
    "links": [
-    "t-tussaud"
+    "t-lamballe"
    ]
   },
   {
@@ -2233,6 +2262,33 @@
    ]
   },
   {
+   "id": "s-2017-caron-garde-meuble",
+   "type": "source",
+   "title": "《Le Garde-Meuble et la Cour》研究計畫摘要（Caron，2017）",
+   "author": "Mathieu Caron",
+   "year": 2017,
+   "kind": "學位論文",
+   "lang": "fr",
+   "venue": "Centre de recherche du château de Versailles，2017 年獎助研究計畫摘要（論文撰寫中）",
+   "url": "https://www.chateauversailles-recherche.fr/IMG/pdf/mathieu_caron.pdf",
+   "access": "公開",
+   "depth": "摘要",
+   "period": [
+    1800,
+    1870
+   ],
+   "topics": [
+    "t-sale"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\nCaron 的博士研究計畫摘要說明，19 世紀官方宮殿的家具管理處（Garde-Meuble）會向巴黎古董商與公開拍賣購買舊制度的家具，是 1793 年拍賣之後「回收」的前史。\n\n## 三個重點\n\n1. 研究範圍是 1800–1870 年，主題是舊制度家具在拿破崙到第二帝國的宮殿裡的角色（résumé 第 1 段）。\n2. Garde-Meuble 買入舊家具的管道包括巴黎古董商與公開拍賣（同上）。\n3. 1867 年凡爾賽為瑪麗．安東尼的回顧展重新布置了小特里亞儂（同上）。\n\n## 用了什麼史料\n\n摘要沒有列出具體史料，研究的史料應為 Garde-Meuble 的檔案與購買紀錄（摘要內提到「documenter les achats」）。\n\n## 跟其他資料的關係\n\n- 與 Davillier（1877）、Wallace（2026）一起看：革命後的家具流散，到 19 世紀中葉已經開始由國家機構回收、展示。\n- 摘要沒有涉及 1793–1794 年的拍賣，不能用來支持拍賣的數字。\n\n## 值得記住的一句話\n\n「L'intérêt croissant pour le mobilier historique, consacré par les achats du Garde-Meuble et son remploi dans les intérieurs modernes」\n（中譯：對歷史家具日益增長的興趣，由 Garde-Meuble 的購買與在當代室內的再利用所確立。）（résumé 第 1 段，本站譯）\n\n## 還不確定的地方\n\n- 只讀了研究計畫摘要與作者簡介，沒有讀到論文本身，也沒有讀到作者的文章。\n- 摘要沒有頁碼，依段落標示。\n- 原檔 raw/papers/s-2017-caron-garde-meuble.pdf。\n",
+   "links": [
+    "t-sale"
+   ]
+  },
+  {
    "id": "s-2017-niedziela-joseph-ii-paris",
    "type": "source",
    "title": "皇帝約瑟夫二世在巴黎與凡爾賽（1777）",
@@ -2281,14 +2337,41 @@
     1795
    ],
    "topics": [
-    "t-tussaud"
+    "t-lamballe"
    ],
    "entities": [],
    "reliability": "高",
    "added": "2026-11-16",
    "body": "## 一句話\n\n這篇十八世紀研究論文討論 Curtius 的蠟像館（cabinet de Curtius），是理解杜莎叔父的展覽、以及 1789 年群眾借走蠟像事件背景的候選資料；本次沒有讀到全文。\n\n## 三個重點\n\n1. 書目來源：OpenAlex 列出此篇，標為開放取用，網址指向 Cairn（DHS_049_0319）。\n2. 讀取狀況：curl 取得的 Cairn 頁面是 DataDome 的防爬蟲驗證（captcha），HTTP 403，沒有讀到內文。\n3. 可能的用途：標題指向「Curtius 的蠟像館」，應可用來核對杜莎回憶錄裡的 Curtius 館、1789 年 7 月的半身像遊行（`s-1838-tussaud-memoirs` p. 85–86）。\n\n## 用了什麼史料\n\n（未讀到全文，無法列出。）\n\n## 跟其他資料的關係\n\n- 與 `s-1838-tussaud-memoirs`：如果讀到，可以用來核對杜莎書中寫的 Curtius 館規模、展品與 1789 年事件。\n\n## 值得記住的一句話\n\n未讀到原文，不填。\n\n## 還不確定的地方\n\n- 全文沒有讀到。同樣被 Cairn 的防爬蟲擋住，需要使用者或主 session 用瀏覽器開啟。\n",
    "links": [
-    "t-tussaud"
+    "t-lamballe"
+   ]
+  },
+  {
+   "id": "s-2017-triquenaux-messaline",
+   "type": "source",
+   "title": "《Messaline française, louve de Barbarie et Ganymède femelle》：波利尼亞克夫人的諷刺小冊子與仇恨的傳染",
+   "author": "Maxime Triquenaux",
+   "year": 2017,
+   "kind": "期刊論文",
+   "lang": "fr",
+   "venue": "Orages, no 16（2017）",
+   "url": "https://orages.eu/wp-content/uploads/2021/03/Messaline-francaise-louve-de-Barbarie-et-Ganymede-femelle.-La-contagion-de-la-haine-dans-les-pamphlets-contre-la-duchesse-de-Polignac.pdf",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1774,
+    1793
+   ],
+   "topics": [
+    "t-provence"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n這篇研究談的是 1789 年以後針對波利尼亞克夫人的色情諷刺小冊子，順帶引用 Chantal Thomas 的看法：最早一批「王朝考量」的小冊子可能出自凡爾賽宮廷，甚至可能來自普羅旺斯伯爵的身邊。作者用的是「可能」，不是證實。\n\n## 三個重點\n\n1. 作者引 Chantal Thomas 的說法，認為早期一批以王朝繼承為主題的小冊子「potentiellement」（可能）出自「comte de Provence」的身邊人士，因為普羅旺斯伯爵在 1774 年到 1781 年間是王位繼承人，最有動機懷疑哥哥的子女是否合法（注 6，p. 34）。\n2. 這是一個注釋裡的引述，不是本文的論證主軸。作者本人沒有進一步檢驗這個說法。\n3. 作者注明原始說法來自 Thomas《La reine scélérate》（Seuil，Points 版 2008 年，p. 64 以下），但本站還沒讀到 Thomas 的原書，所以這個判斷目前只能當「研究者提出的可能性」。\n\n## 用了什麼史料\n\n- 作者自己的分析：1789 年以後針對波利尼亞克夫人的色情小冊子，把她寫成「louve」（母狼）與「Ganymède femelle」（母的甘尼墨得斯）。\n- 注 6 引用 Thomas：早期小冊子引用 1774 年一份已失傳的「Avis important de la branche espagnole」之類的王朝論述。\n- 作者也引 Elizabeth Colwill（1989，History Workshop）與 Robert Darnton（法譯本 2014 年）談宮廷中的誹謗網絡（注 4、6）。\n\n## 跟其他資料的關係\n\n- 跟 `s-1874-arneth-mercy-correspondance` 的關係：Mercy 的信寫的是宮廷內部的摩擦（普羅旺斯伯爵與王后的冷淡），沒有提到小冊子與子女合法性；兩者不互相證實。\n- 跟 `s-1993-barker-cake` 等通論：本文主題是波利尼亞克夫人，對普羅旺斯伯爵只是注釋。\n\n## 值得記住的一句話\n\n<!-- 原文（40 字以內）＋中譯，附頁碼 -->\n原文：「potentiellement dans l'entourage du comte de provence, héritier de la couronne…」（p. 34 注 6）\n中譯（本站譯）：「可能來自普羅旺斯伯爵的身邊，他是王位繼承人，因此最有興趣懷疑其兄長子女的合法性。」\n\n## 還不確定的地方\n\n- 本站只讀到引言與注釋，約 p. 33–34 與注 6；本文其餘部分（主要討論波利尼亞克夫人的小冊子）未逐段讀完，所以 depth 標「部分」。\n- 「potentiellement」是作者的保留語氣；Thomas 原書 p. 64 以下的完整論證還沒核對。\n- 頁碼依 PDF 頁眉（Page33 起）推定，與期刊印刷頁碼一致的部分需再核對。\n- 沒有找到任何同時代原典（Mercy、Campan 等）說普羅旺斯伯爵寫或資助誹謗小冊子；這點見 `raw/notes/t-provence-原典頁碼.md`。\n",
+   "links": [
+    "t-provence"
    ]
   },
   {
@@ -2714,6 +2797,33 @@
    ]
   },
   {
+   "id": "s-2026-versailles-after-revolution",
+   "type": "source",
+   "title": "凡爾賽城堡官網「大革命後的凡爾賽 1793–1799」",
+   "author": "Château de Versailles",
+   "year": 2026,
+   "kind": "網頁",
+   "lang": "en",
+   "venue": "凡爾賽宮官網歷史頁（擷取於 2026-11-16）",
+   "url": "https://en.chateauversailles.fr/discover/history/key-dates/versailles-after-french-revolution",
+   "access": "公開",
+   "depth": "摘要",
+   "period": [
+    1789,
+    1799
+   ],
+   "topics": [
+    "t-sale"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n凡爾賽宮官方對大革命拍賣的簡述：宮殿在 1793 年夏末「幾天之內」被清空，超過 17,000 批次消失，唯一沒有被賣掉的是 Œben 與 Riesener 做的國王書桌。\n\n## 三個重點\n\n1. 1789 年王室離開時，宮殿保留了所有家具（頁面「The revolutionary sales」一節）。\n2. 1793 年 1 月 10 日法令要求清點待售家具；拍賣地點是 Princess of Lamballe 的舊公寓（同上）。\n3. 買家：「Dealers, former purveyors to the Crown and cabinetmakers」爭相買回王室舊物（同上）。\n\n## 用了什麼史料\n\n頁面沒有列出來源。它是博物館對外的歷史簡介，不是研究論文。\n\n## 跟其他資料的關係\n\n- 與 Davillier（1877，s-1877-davillier-vente-mobilier）衝突：本頁說拍賣在「幾天」之內，Davillier 的 procès-verbal 說從 1793 年 8 月 25 日拍到 1794 年 8 月 11 日。件數 17,000 多批次與 Davillier 的 17,182 個號碼一致。\n- 本頁沒有提到特里亞儂的拍賣，也沒有提到之後的買回或 remeublement。\n\n## 值得記住的一句話\n\n「Over the course of a few days towards the end of the summer of 1793, the Palace was completely cleared, as more than 17,000 lots disappeared.」\n（中譯：1793 年夏末的幾天裡，宮殿被徹底清空，超過 17,000 個批次消失。）（「The revolutionary sales」一節，本站譯）\n\n## 還不確定的地方\n\n- 「a few days」與 Davillier 的一年不一致，本站以 Davillier 的紀錄為準，並在故事頁註明這個差異。\n- 頁面沒有出處，無法追查 17,000 這個數字的來源。\n- 只讀了英文版，法文版可能不同。\n- 原檔 raw/papers/s-2026-versailles-after-revolution.html。\n",
+   "links": [
+    "t-sale"
+   ]
+  },
+  {
    "id": "s-2026-versailles-chateau-first-balloon",
    "type": "source",
    "title": "First hot air balloon flight（凡爾賽宮官網「關鍵年表」）",
@@ -2765,6 +2875,33 @@
    "body": "## 一句話\n\n凡爾賽宮官方網頁確認：電影大部分在凡爾賽宮拍攝；2026 年 9 月起在小特里亞儂舉辦影片 20 週年展覽，由導演參與設計。\n\n## 三個重點\n\n1. 頁面說電影「filmed largely at the Palace of Versailles」（段落 3）。\n2. 展覽時間為 2026-09-22 至 2027-01-24，地點 Petit Trianon；部分片段在拍攝的房間中放映（段落 1、5）。\n3. 展出內容包括 Milena Canonero 的原創服裝、道具、分鏡與註記劇本（段落 5）。\n\n## 用了什麼史料\n\n機構官方網頁，內容是展覽介紹與導演、館長的引語，不含拍攝日程或許可細節。\n\n## 跟其他資料的關係\n\n可以作為 s-2012-backman-rogers-threshold 與 s-2026-harvard-gazette-coppola 中「凡爾賽實景拍攝」說法的官方佐證。\n\n## 值得記住的一句話\n\n原文：「filmed largely at the Palace of Versailles」（段落 3）\n中譯：「大部分在凡爾賽宮拍攝」（本站譯）\n\n## 還不確定的地方\n\n- 頁面是宣傳性質，沒有拍攝日期、場景清單或拍攝費用。\n- 「Hall of Mirrors 舞會」、拍攝時段、費用等細節只見於二手報導，本卡不採用。\n- 抓取時部分引語被截斷，正式引用前請重新核對原頁。\n",
    "links": [
     "t-coppola"
+   ]
+  },
+  {
+   "id": "s-2026-wallace-riesener",
+   "type": "source",
+   "title": "Wallace Collection「Riesener：家具」專題頁",
+   "author": "The Wallace Collection",
+   "year": 2026,
+   "kind": "網頁",
+   "lang": "en",
+   "venue": "The Wallace Collection, Explore in depth: Riesener（擷取於 2026-11-16）",
+   "url": "https://www.wallacecollection.org/explore/explore-in-depth/riesener/the-furniture/",
+   "access": "公開",
+   "depth": "摘要",
+   "period": [
+    1769,
+    1800
+   ],
+   "topics": [
+    "t-sale"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n倫敦 Wallace Collection 的 Riesener 專題頁說，革命讓 Riesener 的事業幾乎結束，但他買回了許多在凡爾賽革命拍賣中賣掉的王室訂單。\n\n## 三個重點\n\n1. 大革命幾乎結束了 Riesener 的事業，他的風格也轉向別的方向（前言段）。\n2. 他相信自己的家具會重新流行，於是買回許多王室訂單（同上）。\n3. 他的許多王室作品後來被改動，以適應新世紀的品味（同上）。\n\n## 用了什麼史料\n\n博物館的策展文字，沒有列出出處。\n\n## 跟其他資料的關係\n\n- 與 Davillier（1877，s-1877-davillier-vente-mobilier，p. 19）一致：Riesener 在拍賣中以自己的名義買下家具（lot 205、2,340、2,503）。\n- 本頁沒有數字，不能用來估算買回的件數。\n\n## 值得記住的一句話\n\n「he appears to have believed that his furniture would come back into fashion and bought back many of his royal commissions from the Revolutionary Versailles sales.」\n（中譯：他似乎相信自己的家具會再度流行，因此買回了許多在革命時期凡爾賽拍賣中賣掉的王室訂單。）（前言段，本站譯）\n\n## 還不確定的地方\n\n- 「many」沒有數字，件數未知。\n- 「he appears to have believed」是博物館的推測，不是他的直接說法。\n- 只讀了一個子頁（The furniture），Riesener 專題的其他子頁未讀。\n- 原檔 raw/papers/s-2026-wallace-riesener.html。\n",
+   "links": [
+    "t-sale"
    ]
   },
   {
@@ -3247,6 +3384,7 @@
    "image": "t-elisabeth.jpg",
    "imageAlt": "粉彩畫風插畫：小莊園裡有菜園、果樹和鴿舍，一位穿樸素淺色長裙的年輕女士提著籃子走向一群雞。",
    "sources": [
+    "s-1838-tussaud-memoirs",
     "s-1868-feuillet-elisabeth-correspondance",
     "s-1899-elisabeth-life-letters-en",
     "s-1883-tourzel-memoires",
@@ -3255,10 +3393,11 @@
     "s-1824-lafont-daussonne-memoires"
    ],
    "updated": "2026-11-16",
-   "body": "## 一句話說明\n\n伊莉莎白夫人（Madame Élisabeth）是路易十六最小的妹妹。她沒有出嫁，也沒有像其他王族那樣流亡，從凡爾賽、瓦雷納、杜樂麗宮一路陪著哥哥一家進了聖殿塔。王后的最後一封信是寫給她的（見 [[t-trial]]），她自己則在 1794 年 5 月被送上斷頭台。\n\n## 迷思與史料\n\n常聽說她虔誠到拒絕所有婚事。原典說的比較複雜：她確實有過三樁婚事的提議，葡萄牙王儲、薩丁尼亞的奧斯塔公爵、還有王后的哥哥約瑟夫二世，但三次都是因為政治考量才作罷；1868 年出版的書信集編者說，她對此「看起來並不遺憾」（本站譯）（[[s-1868-feuillet-elisabeth-correspondance]] 編者序；[[s-1899-elisabeth-life-letters-en]] pp. 8–9）。英譯傳記說，第一樁婚事提出時她「一點也不想要」，談判中斷時她覺得鬆了一口氣（[[s-1899-elisabeth-life-letters-en]] p. 8）。所以判定是「半真半假」：她不想嫁是真的，但婚事告吹主要是政治，不是她拒絕的。\n\n## 故事是這樣的\n\n### 蒙特勒伊的小農莊\n\n1778 年，國王替十四歲的妹妹成立了自己的家（[[s-1899-elisabeth-life-letters-en]] p. 8）。後來國王在凡爾賽附近的蒙特勒伊（Montreuil）替她買下一座莊園，她把它變成一座兼做慈善的農場和植物園，自己當「佃農兼經理」（本站譯）（[[s-1868-feuillet-elisabeth-correspondance]] 編者序）。植物學老師常帶她到附近的森林採集植物；她跟數學老師學習時，自己做了一張精巧的對數表，連天文學家拉朗德都稱讚（[[s-1868-feuillet-elisabeth-correspondance]] 編者序）。王后開玩笑地把蒙特勒伊叫做「我的小特里亞儂」（[[s-1868-feuillet-elisabeth-correspondance]]）。她也曾想過像姑姑路易絲一樣，進加爾默羅會當修女（[[s-1868-feuillet-elisabeth-correspondance]] 編者序）。\n\n### 「從此再沒有離開」\n\n1789 年 10 月 5 日，她在蒙特勒伊聽說巴黎的群眾正往凡爾賽去，立刻趕回去和哥哥會合，編者說，她「從此再沒有離開」（本站譯）（[[s-1868-feuillet-elisabeth-correspondance]] 編者序；另見 [[t-october-days]]）。那一夜有一群市場婦女闖進她的房間，她後來請哥哥替她換一間，說自己對那個房間有一種克服不了的反感（[[s-1883-tourzel-memoires]] 第 1 冊）。\n\n編者說，她多次被勸到國外去，像她的姑姑們那樣，但她選擇留下（[[s-1868-feuillet-elisabeth-correspondance]] 編者序）。1791 年，她坐在逃往瓦雷納的馬車前座（[[s-1883-tourzel-memoires]] 第 1 冊；另見 [[t-varennes]]）。三年後受審時，被問為什麼跟著走，她回答：「一切都要求我跟著哥哥。」（本站譯）（[[s-1899-elisabeth-life-letters-en]] p. 97）\n\n### 1792 年 6 月 20 日：「別讓他們知道」\n\n1792 年 6 月 20 日，群眾衝進杜樂麗宮。伊莉莎白夫人站在窗邊的凹處，擋在哥哥身邊。有人大喊：「奧地利女人在哪？她的頭！她的頭！」他們把她當成了王后。圖澤爾夫人說，她平靜地對身邊的人說：「別糾正他們。如果他們把我當成王后，就有時間去救她了。」一個人把長矛抵到她的喉嚨，她溫和地說：「你不會想傷害我的，把武器拿開。」（本站譯）（[[s-1883-tourzel-memoires]] 第 2 冊）\n\n8 月 10 日杜樂麗宮陷落的那一夜，她後來在法庭上說：「你們說的那一夜，我在哥哥房裡，我沒有離開他。」（本站譯）（[[s-1899-elisabeth-life-letters-en]] pp. 97–98；另見 [[t-august10]]）\n\n### 聖殿塔\n\n在聖殿塔，她替哥哥朗讀，和王后一起縫補全家人的衣服，沒有剪刀就用牙齒咬斷線。書信集的編者說，國王看了嘆道：「多大的對比啊！」她回答：「哥哥，能和您共患難，我還有什麼好遺憾的呢？」（本站譯）（[[s-1868-feuillet-elisabeth-correspondance]] 編者序）國王的僕人克萊里說，他好多次看到她跪在床邊熱切地祈禱（[[s-1798-clery-journal]]）。克萊里要替她們傳遞消息時，她給了他一條手帕當暗號：「只要我哥哥身體好，你就留著；如果他病了，就把它送來給我。」（本站譯）（[[s-1798-clery-journal]]）\n\n姪女瑪麗－泰蕾茲記得，姑姑教她算術；大齋期間，姑姑不吃早餐，中午只喝一杯牛奶咖啡，晚上只吃麵包，把食物留給姪女（[[s-1852-marie-therese-temple]]）。她手臂上有一個需要長期換藥的傷口，看守很久都不給她藥，直到一個看不下去的市政官員派人去拿藥膏（[[s-1852-marie-therese-temple]]）。\n\n國王被處死、王后被移到古監獄、王太子被帶走之後，塔裡只剩她和姪女（[[s-1852-marie-therese-temple]]；另見 [[t-temple]]）。\n\n### 1794 年 5 月 9 日\n\n1794 年 5 月 9 日晚上，門閂被拉開，有人叫伊莉莎白夫人下樓。據書信集的編者說，她擁抱姪女，說「要有勇氣，要堅定」，離開時又說：「想著上帝，我的孩子！」（本站譯）（[[s-1868-feuillet-elisabeth-correspondance]] 編者序；[[s-1852-marie-therese-temple]]）第二天，瑪麗－泰蕾茲問看守姑姑去哪裡了，看守說她「出去透透氣」（[[s-1852-marie-therese-temple]]）。\n\n她被帶到古監獄，隔天一早就受審。辯護律師肖沃－拉加德（Chauveau-Lagarde）在法庭上說，一位在法國宮廷堪稱完美典範的公主，不可能是法國人的敵人；庭長當場大怒，罵他敗壞公共道德（[[s-1899-elisabeth-life-letters-en]] pp. 101–102）。和她同一天被判死刑的，還有二十四個人，包括國王的辯護律師馬勒澤布的女兒（[[s-1868-feuillet-elisabeth-correspondance]] 編者序；[[s-1899-elisabeth-life-letters-en]] pp. 103–104）。\n\n### 最後一個\n\n英譯傳記說，在等候的牢房裡，她安慰一位不能接受兒子要一起死的母親，那位母親最後抱著兒子說：「好，我們一起去。」行刑前，女囚們一個一個走過來，請求親吻她，她說：「很樂意，全心全意。」（本站譯）（[[s-1899-elisabeth-life-letters-en]] pp. 104–106）\n\n她最後一個上斷頭台。英譯傳記說，她的披肩在被綁上木板時鬆開了，她說：「看在你母親的份上，先生，替我遮好。」（本站譯）這是她最後一句話（[[s-1899-elisabeth-life-letters-en]] p. 106）。書信集的法文版寫的則是「以上帝之名，先生，替我遮住！」（[[s-1868-feuillet-elisabeth-correspondance]] 編者序）。她的遺體被丟進墓地的坑裡；1816 年人們去找，只找到遺體，頭始終沒有找到（[[s-1899-elisabeth-life-letters-en]] pp. 106–107）。\n\n## 研究者怎麼看\n\n- 這篇的資料大多來自 19 世紀為她立傳、編書信的人，他們把她寫成近乎聖人，要記得這個立場（[[s-1868-feuillet-elisabeth-correspondance]]；[[s-1899-elisabeth-life-letters-en]]）。書信集的編者一方面說她選擇留下，一方面也說她「在心裡是個坦率的流亡者」（[[s-1868-feuillet-elisabeth-correspondance]] 編者序）。\n- 行刑的順序說法不同：英譯傳記和書信集都說她是最後一個；1824 年的一本回憶錄卻說她第一個衝上斷頭台，被拉回座位，看著三十多人死去才輪到她（[[s-1899-elisabeth-life-letters-en]]；[[s-1824-lafont-daussonne-memoires]] p. 393）。\n- 6 月 20 日那句話，圖澤爾夫人的法文版本和英譯傳記的版本字句不同（[[s-1883-tourzel-memoires]]；[[s-1899-elisabeth-life-letters-en]] p. 81 註）。\n\n## 延伸閱讀\n\n- [[s-1868-feuillet-elisabeth-correspondance]]\n- [[s-1899-elisabeth-life-letters-en]]\n- [[s-1883-tourzel-memoires]]\n- [[s-1798-clery-journal]]\n- [[s-1852-marie-therese-temple]]\n- [[s-1824-lafont-daussonne-memoires]]\n- 相關故事：[[t-trial]]、[[t-temple]]、[[t-august10]]、[[t-children]]、[[t-mesdames]]\n\n## 還不知道的事\n\n- 她寫給朋友的上百封信，本站只讀了序言和少數幾封。\n- 王后那封沒有送到的最後一封信，她是否知道它的存在？\n",
+   "body": "## 一句話說明\n\n伊莉莎白夫人（Madame Élisabeth）是路易十六最小的妹妹。她沒有出嫁，也沒有像其他王族那樣流亡，從凡爾賽、瓦雷納、杜樂麗宮一路陪著哥哥一家進了聖殿塔。王后的最後一封信是寫給她的（見 [[t-trial]]），她自己則在 1794 年 5 月被送上斷頭台。\n\n## 迷思與史料\n\n常聽說她虔誠到拒絕所有婚事。原典說的比較複雜：她確實有過三樁婚事的提議，葡萄牙王儲、薩丁尼亞的奧斯塔公爵、還有王后的哥哥約瑟夫二世，但三次都是因為政治考量才作罷；1868 年出版的書信集編者說，她對此「看起來並不遺憾」（本站譯）（[[s-1868-feuillet-elisabeth-correspondance]] 編者序；[[s-1899-elisabeth-life-letters-en]] pp. 8–9）。英譯傳記說，第一樁婚事提出時她「一點也不想要」，談判中斷時她覺得鬆了一口氣（[[s-1899-elisabeth-life-letters-en]] p. 8）。所以判定是「半真半假」：她不想嫁是真的，但婚事告吹主要是政治，不是她拒絕的。\n\n## 故事是這樣的\n\n### 蒙特勒伊的小農莊\n\n1778 年，國王替十四歲的妹妹成立了自己的家（[[s-1899-elisabeth-life-letters-en]] p. 8）。後來國王在凡爾賽附近的蒙特勒伊（Montreuil）替她買下一座莊園，她把它變成一座兼做慈善的農場和植物園，自己當「佃農兼經理」（本站譯）（[[s-1868-feuillet-elisabeth-correspondance]] 編者序）。植物學老師常帶她到附近的森林採集植物；她跟數學老師學習時，自己做了一張精巧的對數表，連天文學家拉朗德都稱讚（[[s-1868-feuillet-elisabeth-correspondance]] 編者序）。王后開玩笑地把蒙特勒伊叫做「我的小特里亞儂」（[[s-1868-feuillet-elisabeth-correspondance]]）。她也曾想過像姑姑路易絲一樣，進加爾默羅會當修女（[[s-1868-feuillet-elisabeth-correspondance]] 編者序）。\n\n蠟像師杜莎夫人 1838 年出版的回憶錄說，她年輕時在叔叔庫爾提烏斯（Curtius）的蠟像工作室幫忙，伊莉莎白夫人常來參觀，想學做蠟像，於是由她來教；公主很喜歡她，還請庫爾提烏斯讓她住進凡爾賽宮作伴（[[s-1838-tussaud-memoirs]] p. 21）。這是杜莎夫人在事後四十多年的自述，本站還沒找到宮廷紀錄或研究可以證實（推論）。\n\n### 「從此再沒有離開」\n\n1789 年 10 月 5 日，她在蒙特勒伊聽說巴黎的群眾正往凡爾賽去，立刻趕回去和哥哥會合，編者說，她「從此再沒有離開」（本站譯）（[[s-1868-feuillet-elisabeth-correspondance]] 編者序；另見 [[t-october-days]]）。那一夜有一群市場婦女闖進她的房間，她後來請哥哥替她換一間，說自己對那個房間有一種克服不了的反感（[[s-1883-tourzel-memoires]] 第 1 冊）。\n\n編者說，她多次被勸到國外去，像她的姑姑們那樣，但她選擇留下（[[s-1868-feuillet-elisabeth-correspondance]] 編者序）。1791 年，她坐在逃往瓦雷納的馬車前座（[[s-1883-tourzel-memoires]] 第 1 冊；另見 [[t-varennes]]）。三年後受審時，被問為什麼跟著走，她回答：「一切都要求我跟著哥哥。」（本站譯）（[[s-1899-elisabeth-life-letters-en]] p. 97）\n\n### 1792 年 6 月 20 日：「別讓他們知道」\n\n1792 年 6 月 20 日，群眾衝進杜樂麗宮。伊莉莎白夫人站在窗邊的凹處，擋在哥哥身邊。有人大喊：「奧地利女人在哪？她的頭！她的頭！」他們把她當成了王后。圖澤爾夫人說，她平靜地對身邊的人說：「別糾正他們。如果他們把我當成王后，就有時間去救她了。」一個人把長矛抵到她的喉嚨，她溫和地說：「你不會想傷害我的，把武器拿開。」（本站譯）（[[s-1883-tourzel-memoires]] 第 2 冊）\n\n8 月 10 日杜樂麗宮陷落的那一夜，她後來在法庭上說：「你們說的那一夜，我在哥哥房裡，我沒有離開他。」（本站譯）（[[s-1899-elisabeth-life-letters-en]] pp. 97–98；另見 [[t-august10]]）\n\n### 聖殿塔\n\n在聖殿塔，她替哥哥朗讀，和王后一起縫補全家人的衣服，沒有剪刀就用牙齒咬斷線。書信集的編者說，國王看了嘆道：「多大的對比啊！」她回答：「哥哥，能和您共患難，我還有什麼好遺憾的呢？」（本站譯）（[[s-1868-feuillet-elisabeth-correspondance]] 編者序）國王的僕人克萊里說，他好多次看到她跪在床邊熱切地祈禱（[[s-1798-clery-journal]]）。克萊里要替她們傳遞消息時，她給了他一條手帕當暗號：「只要我哥哥身體好，你就留著；如果他病了，就把它送來給我。」（本站譯）（[[s-1798-clery-journal]]）\n\n姪女瑪麗－泰蕾茲記得，姑姑教她算術；大齋期間，姑姑不吃早餐，中午只喝一杯牛奶咖啡，晚上只吃麵包，把食物留給姪女（[[s-1852-marie-therese-temple]]）。她手臂上有一個需要長期換藥的傷口，看守很久都不給她藥，直到一個看不下去的市政官員派人去拿藥膏（[[s-1852-marie-therese-temple]]）。\n\n國王被處死、王后被移到古監獄、王太子被帶走之後，塔裡只剩她和姪女（[[s-1852-marie-therese-temple]]；另見 [[t-temple]]）。\n\n### 1794 年 5 月 9 日\n\n1794 年 5 月 9 日晚上，門閂被拉開，有人叫伊莉莎白夫人下樓。據書信集的編者說，她擁抱姪女，說「要有勇氣，要堅定」，離開時又說：「想著上帝，我的孩子！」（本站譯）（[[s-1868-feuillet-elisabeth-correspondance]] 編者序；[[s-1852-marie-therese-temple]]）第二天，瑪麗－泰蕾茲問看守姑姑去哪裡了，看守說她「出去透透氣」（[[s-1852-marie-therese-temple]]）。\n\n她被帶到古監獄，隔天一早就受審。辯護律師肖沃－拉加德（Chauveau-Lagarde）在法庭上說，一位在法國宮廷堪稱完美典範的公主，不可能是法國人的敵人；庭長當場大怒，罵他敗壞公共道德（[[s-1899-elisabeth-life-letters-en]] pp. 101–102）。和她同一天被判死刑的，還有二十四個人，包括國王的辯護律師馬勒澤布的女兒（[[s-1868-feuillet-elisabeth-correspondance]] 編者序；[[s-1899-elisabeth-life-letters-en]] pp. 103–104）。\n\n### 最後一個\n\n英譯傳記說，在等候的牢房裡，她安慰一位不能接受兒子要一起死的母親，那位母親最後抱著兒子說：「好，我們一起去。」行刑前，女囚們一個一個走過來，請求親吻她，她說：「很樂意，全心全意。」（本站譯）（[[s-1899-elisabeth-life-letters-en]] pp. 104–106）\n\n她最後一個上斷頭台。英譯傳記說，她的披肩在被綁上木板時鬆開了，她說：「看在你母親的份上，先生，替我遮好。」（本站譯）這是她最後一句話（[[s-1899-elisabeth-life-letters-en]] p. 106）。書信集的法文版寫的則是「以上帝之名，先生，替我遮住！」（[[s-1868-feuillet-elisabeth-correspondance]] 編者序）。她的遺體被丟進墓地的坑裡；1816 年人們去找，只找到遺體，頭始終沒有找到（[[s-1899-elisabeth-life-letters-en]] pp. 106–107）。\n\n## 研究者怎麼看\n\n- 這篇的資料大多來自 19 世紀為她立傳、編書信的人，他們把她寫成近乎聖人，要記得這個立場（[[s-1868-feuillet-elisabeth-correspondance]]；[[s-1899-elisabeth-life-letters-en]]）。書信集的編者一方面說她選擇留下，一方面也說她「在心裡是個坦率的流亡者」（[[s-1868-feuillet-elisabeth-correspondance]] 編者序）。\n- 行刑的順序說法不同：英譯傳記和書信集都說她是最後一個；1824 年的一本回憶錄卻說她第一個衝上斷頭台，被拉回座位，看著三十多人死去才輪到她（[[s-1899-elisabeth-life-letters-en]]；[[s-1824-lafont-daussonne-memoires]] p. 393）。\n- 6 月 20 日那句話，圖澤爾夫人的法文版本和英譯傳記的版本字句不同（[[s-1883-tourzel-memoires]]；[[s-1899-elisabeth-life-letters-en]] p. 81 註）。\n\n## 延伸閱讀\n\n- [[s-1868-feuillet-elisabeth-correspondance]]\n- [[s-1899-elisabeth-life-letters-en]]\n- [[s-1883-tourzel-memoires]]\n- [[s-1798-clery-journal]]\n- [[s-1852-marie-therese-temple]]\n- [[s-1824-lafont-daussonne-memoires]]\n- 相關故事：[[t-trial]]、[[t-temple]]、[[t-august10]]、[[t-children]]、[[t-mesdames]]\n\n## 還不知道的事\n\n- 她寫給朋友的上百封信，本站只讀了序言和少數幾封。\n- 王后那封沒有送到的最後一封信，她是否知道它的存在？\n",
    "links": [
     "s-1798-clery-journal",
     "s-1824-lafont-daussonne-memoires",
+    "s-1838-tussaud-memoirs",
     "s-1852-marie-therese-temple",
     "s-1868-feuillet-elisabeth-correspondance",
     "s-1883-tourzel-memoires",
@@ -3307,6 +3446,39 @@
     "t-reburial",
     "t-temple",
     "t-trial"
+   ]
+  },
+  {
+   "id": "t-federation",
+   "type": "topic",
+   "title": "聯盟節：雨中的三十萬聲「我發誓」",
+   "category": "革命",
+   "period": [
+    1790,
+    1790
+   ],
+   "summary": "攻占巴士底一週年，全國代表擠進戰神廣場，王后舉起兒子給大家看。",
+   "sources": [
+    "s-1883-tourzel-memoires",
+    "s-1823-campan-memoires",
+    "s-1868-feuillet-elisabeth-correspondance",
+    "s-2012-ritz-pluie",
+    "s-1790-detail-general-confederation",
+    "s-1790-details-fete-14-juillet"
+   ],
+   "updated": "2026-11-16",
+   "body": "## 一句話說明\n\n1790 年 7 月 14 日，攻占巴士底一週年，全法國各地的國民兵代表在巴黎戰神廣場一起宣誓效忠「國家、法律和國王」。那天下了一整天的雨，國王宣了誓，王后好幾次把五歲的王太子舉起來給群眾看。康龐夫人說，那是人民還愛著國王的時候。\n\n## 故事是這樣的\n\n### 一座為一天蓋的露天劇場\n\n「聯盟」（fédération）是 1789 年後各地自發的運動：鄉鎮的國民兵互相結盟，發誓守護革命。到了 1790 年，議會決定在巴黎辦一場全國的聯盟大會，日期就訂在巴士底陷落一週年。王室子女的家庭教師圖澤爾夫人在回憶錄裡說，所有工程都趕得飛快，典禮前幾天就完成了：戰神廣場四周堆起三十排階梯座位，中央是「祖國祭壇」，四面刻滿圖像和標語；軍校前面搭了一座有頂棚的看台，國王的寶座只比議長的椅子高幾吋，頭上飄著白色的王旗；王后和王室的座位在國王和議員們後面的一座高台上（[[s-1883-tourzel-memoires]] 第 1 冊第 5 章）。\n\n國王原本希望家人陪在身邊。伊莉莎白夫人 7 月 10 日寫信給朋友說，議會前一天決議，典禮上國王要單獨和議會在一起，議長坐他右邊，其他家人「我想會在軍校的窗口」；國王的願望根本沒人理，她說這件事她自己無所謂，只替王后難過，「這對王后是狠狠甩過來的一記耳光」（本站譯）（[[s-1868-feuillet-elisabeth-correspondance]] pp. 169–170）。典禮前印好的程序表，也寫國王會單獨坐馬車前往（[[s-1790-details-fete-14-juillet]]）。不過，從當天的記述看來，王室最後還是到場了（見下文）。\n\n典禮前一天，國王在杜樂麗宮的大樓梯下檢閱各省來的代表，一隊一隊問他們從哪裡來，和每個人說話。圖澤爾夫人說，王后把孩子們帶出來介紹給他們，代表們高興得大喊「國王、王后、王太子和王室萬歲！」國王帶著家人沒帶衛兵就在花園裡散步，身邊圍滿了人（[[s-1883-tourzel-memoires]] 第 1 冊第 5 章）。\n\n### 雨\n\n很多人怕沒位子，前一晚就睡在戰神廣場。圖澤爾夫人說，雨傾盆而下，卻沒有減少大家的熱情，所有位子都坐滿了，後面還站著一大片人，河對岸帕西和夏約的山坡上也全是觀眾，「各種顏色的雨傘」看起來很奇特；她說，要是有太陽，這會是最壯觀的景象（[[s-1883-tourzel-memoires]] 第 1 冊第 5 章）。\n\n遊行隊伍早上六點出發，穿過巴黎市中心，從塞納河邊的王后大道走一座臨時搭的浮橋過河。八十三個省的代表照字母順序前進，各自舉著旗子；中間是正規軍、海軍和兩位法國元帥。「雨一直沒停」，大家渾身溼透，卻沒有人抱怨；隊伍到中午才走到路易十五廣場（[[s-1883-tourzel-memoires]] 第 1 冊第 5 章）。程序表原本排的是十一點開始、中午準時宣誓、兩點野餐（[[s-1790-details-fete-14-juillet]]），全都延後了。\n\n### 「我發誓」\n\n國王最後一個到，帶著王室家人，排場盛大（[[s-1883-tourzel-memoires]] 第 1 冊第 5 章）。當年的一份小冊子說，他在三、四點之間抵達，坐上寶座（[[s-1790-detail-general-confederation]]）。奧坦主教（évêque d'Autun）先祝福各軍的旗幟，接著做彌撒，到四點才開始（[[s-1883-tourzel-memoires]] 第 1 冊第 5 章）。（推論）這位主教就是後來的外交家塔列朗。\n\n彌撒舉揚聖體時，國王任命的聯盟總指揮拉法葉登上祭壇，第一個宣誓；全場的軍刀一起拔出、手一起舉起。接著他走去請國王宣誓。這時雨下得正大，很多觀眾撐開傘，擋住了視線，群眾大喊：「放下！放下雨傘！」（À bas les parapluies!）圖澤爾夫人說，拉法葉一開始只聽到「打倒」兩個字，以為是在喊他，愣了一下，本來就蒼白的臉更白了；回過神來，他繼續走到國王面前。國王念了誓詞，議長跟著念，「三十萬人的聲音」跟著重複（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊第 5 章）。另一份當年的小冊子也說，三十萬人同時喊出「我發誓」（[[s-1790-detail-general-confederation]]）。\n\n就在這時候，圖澤爾夫人看到：「王后好幾次把王太子抱在懷裡舉起來，給人民和軍隊看」，群眾爆出一陣陣對國王和王室的歡呼（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊第 5 章）。那份小冊子還說，小王子也舉起手向天宣誓，他的母親、叔叔、姑姑們跟著重複（[[s-1790-detail-general-confederation]]）。\n\n### 「他們愛國王，就像愛憲法」\n\n典禮結束後，國王在一路「國王和王室萬歲！」的喊聲中回到杜樂麗宮（[[s-1883-tourzel-memoires]] 第 1 冊第 5 章）。王后的貼身女官康龐夫人回憶說：「四十萬人的大集會，裡面也許不到兩百個人不相信，國王在這套新秩序裡找到了他的幸福和榮耀！」她說，外省來的代表對國王的愛還很深，「他們愛國王就像愛憲法，愛憲法就像愛國王」，在他們心裡，已經分不開了（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 pp. 118–119）。\n\n圖澤爾夫人則替國王可惜。她說，有幾位明白人覺得國王應該把握這一天：騎上馬，在戰神廣場當眾表示，憲法還沒寫完，現在就要他發誓效忠，有實際的困難。但國王身邊的顧問沒有這個膽量，大概勸他打消了念頭；她說，後來的事讓人後悔沒抓住這個機會（[[s-1883-tourzel-memoires]] 第 1 冊第 5 章）。（推論）這是王黨事後的看法，寫在國王死後，帶著明顯的立場。\n\n### 雨的意義\n\n文學研究者里茨（Ritz）比較了當時各派怎麼寫這場雨。官方的記述想把雨抹掉：有一份報導在改寫時，刪掉了「路燈幾乎都被雨澆熄」那一句（[[s-2012-ritz-pluie]] HAL 版 p. 5）。保王派拿雨來嘲笑革命，諷刺作家里瓦羅爾（Rivarol）寫了一首歌，說「人民氣壞了，說老天爺是貴族」（本站譯）（[[s-2012-ritz-pluie]] HAL 版 pp. 6–7）。革命派的報紙則拿雨來數落國王：一個打獵時再大的雨都淋得下去的國王，卻「因為下雨，不肯走到國民代表中間」（本站譯）（[[s-2012-ritz-pluie]] HAL 版 p. 8）。\n\n《巴黎日報》第二天刊了一封信，寫得最像真的：「你知道我是怎麼從這場盛典出來的嗎？又冷又餓，累得快倒下」；一把傘常常三、四個人共用，「結果誰也沒遮到」，大家乾脆笑自己（本站譯）（[[s-2012-ritz-pluie]] HAL 版 pp. 9–10）。同一份報紙的氣象紀錄說，7 月 14 日到傍晚五、六點才放晴（[[s-2012-ritz-pluie]] HAL 版 pp. 14–15）。\n\n### 之後\n\n典禮後，宮廷回到巴黎西邊的聖克盧宮。康龐夫人說，一個叫羅通多（Rotondo）的人混進了內花園，想要刺殺王后；那天剛好下雨，王后沒有出門。拉法葉事先得到消息，下令全宮戒備（[[s-1823-campan-memoires]] 第 2 冊 p. 120）。一年後，同樣在戰神廣場，國民兵對要求廢除國王的群眾開槍；（推論）那時，「國王和憲法分不開」的心情已經不在了（[[t-varennes]]）。\n\n## 研究者怎麼看\n\n- **王室有沒有在場：** 事前的程序表和伊莉莎白夫人的信，都說國王會單獨出席（[[s-1790-details-fete-14-juillet]]；[[s-1868-feuillet-elisabeth-correspondance]] p. 169）；事後的圖澤爾夫人和當年的小冊子都說王室在場，王后抱著王太子（[[s-1883-tourzel-memoires]] 第 1 冊第 5 章；[[s-1790-detail-general-confederation]]）。（推論）圖澤爾夫人是王太子的家庭教師，當天應該就在旁邊，她的記述比較可信；議會的決議和最後的安排可能不同。\n- **人數：** 程序表預估「三十五萬以上」，小冊子和圖澤爾夫人都說「三十萬人」宣誓，康龐夫人寫「四十萬」，《巴黎日報》說觀眾「超過十萬」（[[s-1790-details-fete-14-juillet]]；[[s-1790-detail-general-confederation]]；[[s-1883-tourzel-memoires]] 第 1 冊第 5 章；[[s-1823-campan-memoires]] 第 2 冊 p. 118；[[s-2012-ritz-pluie]] HAL 版 p. 10）。這些都是估計，沒有人真的數過。\n- **雨怎麼被寫：** 里茨認為，雨成了各派爭奪的符號：官方說「暴風雨之後總是好天氣」，保王派說連老天都反對，私人的信則寫成大家一起狼狽、一起笑（[[s-2012-ritz-pluie]]）。\n\n## 延伸閱讀\n\n- [[t-october-days]]：九個月前，王室被群眾從凡爾賽帶到巴黎。\n- [[t-tuileries]]：聯盟節前後，王室在杜樂麗宮的日子。\n- [[t-lafayette]]：那天站在最中間的拉法葉。\n- [[t-varennes]]：一年後，王室試著逃走。\n\n## 還不知道的事\n\n- 《巴黎革命報》《巴黎日報》等當天報紙的原文，本站還沒直接讀到（Gallica 擋住了自動下載）。\n- 法國史家奧祖夫（Mona Ozouf）研究革命節慶的專書，本站還沒讀到。\n- 王后當天自己怎麼想，本站沒有找到她的信。\n- 兩份 1790 年小冊子的 OCR 頁碼不可靠，引用時沒有標頁碼，還要對照掃描本。\n",
+   "links": [
+    "s-1790-detail-general-confederation",
+    "s-1790-details-fete-14-juillet",
+    "s-1823-campan-memoires",
+    "s-1868-feuillet-elisabeth-correspondance",
+    "s-1883-tourzel-memoires",
+    "s-2012-ritz-pluie",
+    "t-lafayette",
+    "t-october-days",
+    "t-tuileries",
+    "t-varennes"
    ]
   },
   {
@@ -3418,12 +3590,14 @@
     "s-2016-maes-laiterie-rambouillet"
    ],
    "updated": "2026-11-16",
-   "body": "## 一句話說明\n\n農莊和乳品室都是真的，但它是真正在運作的農場，王后在那裡散步、招待朋友；「她穿圍裙擠牛奶」這個畫面，目前找不到當時的證據。\n\n## 迷思與史料\n\n凡爾賽宮的官方介紹寫得很直接：「和瑪麗．安東尼根深柢固的大眾形象相反，王后和她的隨從並沒有在這片田園風光裡『扮演農夫』。」王后其實是把農莊當作散步、舉辦小型聚會的地方（本站譯）（[[s-2016-versailles-queens-hamlet]]）。\n\n最接近的當時證詞來自貼身女官康龐夫人。她說，在小特里亞儂，王后最喜歡的是「走遍農莊裡所有的工坊、看人擠牛奶、在湖裡釣魚」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 228）。是「看」人擠牛奶，不是自己擠。農莊本身也不是布景：官網說它同時是正常運作的農場，這是王后堅持的（[[s-2016-versailles-queens-hamlet]]）。瑞典隆德大學的歷史學者諾丁（Jonas Nordin）2024 年也寫道：普遍認為王后拿農莊當角色扮演遊戲的布景，這種看法「沒有根據」（本站譯）（[[s-2024-nordin-hameau]] 約 p. 29）。所以判定是「半真半假」：農場、牛奶都是真的，王后親手擠奶找不到證據。\n\n## 故事是這樣的\n\n### 國王的第一份禮物\n\n小特里亞儂是凡爾賽宮花園裡的一座小宮殿，原本是路易十五蓋的，他就是在這裡染上天花去世的（[[s-1823-campan-memoires]] 第 1 冊 p. 110 及原註）。1774 年新王即位後，駐法大使梅西向維也納報告：王后沒有透過任何中間人，自己直接向國王開口要這座別墅，國王當場答應（[[s-1874-arneth-mercy-correspondance]] 第 2 冊）。母親瑪麗亞．特蕾莎回信說，聽說那是「最宜人的住所」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊）。梅西卻已經在擔心，提醒王后別讓國王這份「迷人的第一份禮物」變成大筆花費的藉口（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 205 前後）。\n\n{{photo:t-hameau-petit-trianon.jpg|今日的小特里亞儂（Petit Trianon），位於凡爾賽宮園區，攝於 2022 年。|Wikimedia Commons，CC BY-SA 4.0}}\n\n那年夏天，王后就忙著把這裡的花園改成英式庭園，國王也下令把圍牆往外擴（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 209，1774 年 7 月 31 日信）。據康龐夫人說，王后只改花園，房子不准加蓋，傢俱也不換：到 1789 年都還是路易十五時代的舊東西，王后睡的床又舊又褪色，據說還是杜巴利夫人用過的（[[s-1823-campan-memoires]] 第 1 冊 p. 110）。宮廷裡謠傳她把這裡改名為「小維也納」，康龐夫人說那是謠言（[[s-1823-campan-memoires]] 第 1 冊 pp. 110–111）。\n\n### 躲開宮廷的地方\n\n在凡爾賽，王后連起床都有一群人圍觀；在小特里亞儂，她一個人去，只帶一名跟班，接待她的是看門人夫婦，看門人的妻子兼當貼身侍女（[[s-1823-campan-memoires]] 第 1 冊 p. 111）。夏天，她和女伴們的「盛裝」只有白色平紋細布長裙、薄紗披肩和草帽，這身打扮後來還引出一場肖像醜聞（[[s-1823-campan-memoires]] 第 1 冊 p. 228；另見 [[t-chemise]]）。\n\n她也在這裡演戲。王后排演盧梭的小歌劇《鄉村占卜師》（*Le Devin du village*），規定劇團裡除了國王的弟弟阿圖瓦伯爵，不收任何年輕男子；觀眾只有國王和王室，前排讓給王后的侍女和她們的姊妹女兒，大約四十人。演牧羊人的阿德瑪伯爵年紀大、聲音發抖，王后笑得很開心，還說這樣的「情人」應該沒人能挑剔吧。國王非常喜歡看這些戲（[[s-1823-campan-memoires]] 第 1 冊 pp. 228–229）。\n\n### 燒了一座森林？\n\n1777 年，王后的哥哥約瑟夫二世來訪期間，王后在小特里亞儂辦了一場「新式」的夜宴：不是把燈點得滿園通明，而是把陶燈藏在漆成綠色的木板後面，從下面照亮每一叢灌木和花；愛神殿後面的溝裡，燒著幾百捆柴火，讓殿成了花園裡最亮的地方（[[s-1823-campan-memoires]] 第 1 冊 p. 184）。\n\n場地小，大部分宮廷的人沒被邀請，沒受邀的人很不高興，花費也被傳得愈來愈離譜，康龐夫人說，聽起來好像為了那溝裡的火，砍光了一整座森林。王后要人去查到底燒了多少柴，答案是：一千五百捆，足夠燒到凌晨四點（[[s-1823-campan-memoires]] 第 1 冊 pp. 184–185）。\n\n不過梅西的帳算得比較細。他早在 1776 年就報告：國王把小特里亞儂送給王后時，大家本來很高興，現在卻開始擔心她在那裡的花費；王后下令把原本的花園「翻過來」改成英式庭園，「至少要花十五萬里弗爾」；她還蓋了一座劇場，辦了一場戲加晚宴，非常花錢（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 495；另見 [[t-theatre]]）。\n\n### 關起門來的代價\n\n但「關起門來」也惹了麻煩。1780 年，梅西報告：王后常常整天待在小特里亞儂，有時一住就是一個星期；只有宮廷內部的人能進去，女官們白天才能過來吃飯，宮裡因此怨聲四起（[[s-1874-arneth-mercy-correspondance]] 第 3 冊，1780 年 5 月、9 月信）。梅西還說，這個退居小特里亞儂的主意，是王后的閨蜜波利尼亞克夫人出的（[[s-1874-arneth-mercy-correspondance]] 第 3 冊，1780 年 9 月 16 日信）。梅西一向站在王后這邊，連他都覺得不妥。\n\n### 模範村莊與乳品室\n\n1783 年夏天，王后請建築師米克（Richard Mique）把花園往北擴建，蓋一整座模範村莊，1786 年完工。它有農舍、磨坊，也有馬廄、牛舍、羊欄和雞舍。拿破崙時代整修時，最破舊的建築被拆掉了，其中就包括穀倉和真正在用的乳品室（[[s-2016-versailles-queens-hamlet]]）。\n\n諾丁數過，農莊有十來棟建築：水磨坊、雞舍、鳥舍、鴿舍、兩座乳品室、守衛小屋、船屋、穀倉，還有一座叫「馬爾博羅塔」的瞭望塔，全部圍著一座養了鯉魚和梭子魚的人工湖；屋子外表是諾曼第式的木架和茅草頂，裡面卻是雅緻的沙龍。他說，這些是「沒有實際功能的布景建築」，用來吃飯、打撞球、玩牌、跳舞和演戲（本站譯）（[[s-2024-nordin-hameau]] 約 p. 28）。\n\n真正的農場在幾步之外。諾丁說，1785 年起，一位瑞士農夫瓦利．比薩爾（Valy Bussard）帶著妻小、幾名長工和季節工住在那裡，養牛、豬、山羊和兔子，種菜、種葡萄、收乾草；王后常帶孩子們去看動物，當作實際的品德教育（[[s-2024-nordin-hameau]] 約 p. 30）。他也說，受盧梭教育思想的影響，王后替長女找的玩伴是宮中僕人的女兒，兩個女孩穿一樣的衣服，一起照顧幾隻羊和一小塊菜園（[[s-2024-nordin-hameau]] 約 p. 28；另見 [[t-children]]）。\n\n{{photo:t-hameau-ferme.jpg|今日的王后農莊（Hameau de la Reine）農舍，位於凡爾賽宮園區，攝於 2010 年。|Wikimedia Commons，CC BY-SA 3.0}}\n\n另一座常被搞混的乳品室在朗布依埃（Rambouillet）。法國文化部的資料說，它是路易十六為王后蓋的；1787 到 1788 年間，塞弗爾瓷器廠送來 65 件瓷器，在畫家于貝爾．羅貝爾（Hubert Robert）指導下設計，器形參考古代陶器。其中最有名的是「乳房碗」（bol sein），塞弗爾到今天還在生產（[[s-2025-dati-culture-sevres-rambouillet]]）。\n\n{{photo:t-hameau-rambouillet.jpg|朗布依埃（Rambouillet）的王后乳品室，由建築師理查．米克（Richard Mique）設計，今日的照片。|Wikimedia Commons，CC BY-SA 3.0}}\n\n### 鑲滿鑽石的房間\n\n1789 年 5 月，三級會議在凡爾賽開幕，從各省來的議員幾乎都想參觀小特里亞儂。康龐夫人說，這座別墅簡樸得出乎他們意料，有些人堅持要看每一個小房間，說一定有人把豪華的房間藏起來了；他們還指名要看一間據說四壁鑲滿鑽石、柱子上嵌著藍寶石和紅寶石的房間。王后把這件事講給國王聽，國王想了想，說他們找的大概是路易十五時代替楓丹白露劇院做的一套假鑽石舞台布景（[[s-1823-campan-memoires]] 第 2 冊 p. 40；[[s-2024-nordin-hameau]] 約 p. 27）。\n\n諾丁說，同樣簡樸的生活，放在別的時代、別的國家，可能會被當成王室的好榜樣；但在 1789 年的法國，大家已經認定小特里亞儂是一個貪婪與罪惡的巢穴（[[s-2024-nordin-hameau]] 約 p. 27）。\n\n## 研究者怎麼看\n\n- 凡爾賽宮的研究立場是：農莊是功能完整的農場，王后在那裡休息、社交，並沒有扮農夫（[[s-2016-versailles-queens-hamlet]]）。\n- 研究朗布依埃乳品室的專書，把它稱為「一座為王后的愉悅而建的田園神殿」（本站譯）（[[s-2016-maes-laiterie-rambouillet]]）。本站只讀到這本書的書目與簡介。\n- 諾丁認為，批評者把這座假村莊看成品味低俗；更深的問題是，王室的權威建立在儀式上的高高在上，當王后自己扮起樸素的鄉居生活，人們就會問：那王室憑什麼統治別人？在貧富差距巨大的年代，這看起來更像是對窮人的嘲弄（[[s-2024-nordin-hameau]] 約 p. 30）。\n- （推論）「乳房碗是照王后的胸部做的」流傳很廣，但本站讀到的官方資料只說器形參考古代陶器，沒有提到王后。\n\n## 延伸閱讀\n\n- [[s-2024-nordin-hameau]]\n- [[s-2016-versailles-queens-hamlet]]\n- [[s-2025-dati-culture-sevres-rambouillet]]\n- [[s-1823-campan-memoires]]\n- [[s-1874-arneth-mercy-correspondance]]\n- [[s-2016-maes-laiterie-rambouillet]]\n- 名詞：[[e-campan]]\n- 名詞：[[e-petit-trianon]]\n- 相關故事：[[t-polignac]]、[[t-chemise]]、[[t-ghost]]、[[t-theatre]]\n\n## 還不知道的事\n\n- 「王后扮農婦」的形象最早從哪裡來：是當時的誹謗小冊子、19 世紀的小說，還是電影？還沒查到。\n- 美術史家 Meredith Martin《乳品室的王后們》（*Dairy Queens*, 2011）討論了貴族女性的乳品室風潮，本站還沒讀到。\n- 諾丁提到的瑞士農夫比薩爾，以及「他在王后坐牢時還送乳製品給她」的說法，本站還沒找到原始檔案。\n- 凡爾賽宮學者海茨曼（Annick Heitzmann）2006 年的〈特里亞儂：農莊的農場〉（*Versalia* 第 9 期）待讀。\n- 王后在小特里亞儂穿的衣服，見 [[t-chemise]]。\n",
+   "body": "## 一句話說明\n\n農莊和乳品室都是真的，但它是真正在運作的農場，王后在那裡散步、招待朋友；「她穿圍裙擠牛奶」這個畫面，目前找不到當時的證據。\n\n## 迷思與史料\n\n凡爾賽宮的官方介紹寫得很直接：「和瑪麗．安東尼根深柢固的大眾形象相反，王后和她的隨從並沒有在這片田園風光裡『扮演農夫』。」王后其實是把農莊當作散步、舉辦小型聚會的地方（本站譯）（[[s-2016-versailles-queens-hamlet]]）。\n\n最接近的當時證詞來自貼身女官康龐夫人。她說，在小特里亞儂，王后最喜歡的是「走遍農莊裡所有的工坊、看人擠牛奶、在湖裡釣魚」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 228）。是「看」人擠牛奶，不是自己擠。農莊本身也不是布景：官網說它同時是正常運作的農場，這是王后堅持的（[[s-2016-versailles-queens-hamlet]]）。瑞典隆德大學的歷史學者諾丁（Jonas Nordin）2024 年也寫道：普遍認為王后拿農莊當角色扮演遊戲的布景，這種看法「沒有根據」（本站譯）（[[s-2024-nordin-hameau]] 約 p. 29）。所以判定是「半真半假」：農場、牛奶都是真的，王后親手擠奶找不到證據。\n\n## 故事是這樣的\n\n### 國王的第一份禮物\n\n小特里亞儂是凡爾賽宮花園裡的一座小宮殿，原本是路易十五蓋的，他就是在這裡染上天花去世的（[[s-1823-campan-memoires]] 第 1 冊 p. 110 及原註）。1774 年新王即位後，駐法大使梅西向維也納報告：王后沒有透過任何中間人，自己直接向國王開口要這座別墅，國王當場答應（[[s-1874-arneth-mercy-correspondance]] 第 2 冊）。母親瑪麗亞．特蕾莎回信說，聽說那是「最宜人的住所」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊）。梅西卻已經在擔心，提醒王后別讓國王這份「迷人的第一份禮物」變成大筆花費的藉口（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 205 前後）。\n\n{{photo:t-hameau-petit-trianon.jpg|今日的小特里亞儂（Petit Trianon），位於凡爾賽宮園區，攝於 2022 年。|Wikimedia Commons，CC BY-SA 4.0}}\n\n那年夏天，王后就忙著把這裡的花園改成英式庭園，國王也下令把圍牆往外擴（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 209，1774 年 7 月 31 日信）。據康龐夫人說，王后只改花園，房子不准加蓋，傢俱也不換：到 1789 年都還是路易十五時代的舊東西，王后睡的床又舊又褪色，據說還是杜巴利夫人用過的（[[s-1823-campan-memoires]] 第 1 冊 p. 110）。宮廷裡謠傳她把這裡改名為「小維也納」，康龐夫人說那是謠言（[[s-1823-campan-memoires]] 第 1 冊 pp. 110–111）。\n\n### 躲開宮廷的地方\n\n在凡爾賽，王后連起床都有一群人圍觀；在小特里亞儂，她一個人去，只帶一名跟班，接待她的是看門人夫婦，看門人的妻子兼當貼身侍女（[[s-1823-campan-memoires]] 第 1 冊 p. 111）。夏天，她和女伴們的「盛裝」只有白色平紋細布長裙、薄紗披肩和草帽，這身打扮後來還引出一場肖像醜聞（[[s-1823-campan-memoires]] 第 1 冊 p. 228；另見 [[t-chemise]]）。\n\n她也在這裡演戲。王后排演盧梭的小歌劇《鄉村占卜師》（*Le Devin du village*），規定劇團裡除了國王的弟弟阿圖瓦伯爵，不收任何年輕男子；觀眾只有國王和王室，前排讓給王后的侍女和她們的姊妹女兒，大約四十人。演牧羊人的阿德瑪伯爵年紀大、聲音發抖，王后笑得很開心，還說這樣的「情人」應該沒人能挑剔吧。國王非常喜歡看這些戲（[[s-1823-campan-memoires]] 第 1 冊 pp. 228–229）。\n\n### 燒了一座森林？\n\n1777 年，王后的哥哥約瑟夫二世來訪期間，王后在小特里亞儂辦了一場「新式」的夜宴：不是把燈點得滿園通明，而是把陶燈藏在漆成綠色的木板後面，從下面照亮每一叢灌木和花；愛神殿後面的溝裡，燒著幾百捆柴火，讓殿成了花園裡最亮的地方（[[s-1823-campan-memoires]] 第 1 冊 p. 184）。\n\n場地小，大部分宮廷的人沒被邀請，沒受邀的人很不高興，花費也被傳得愈來愈離譜，康龐夫人說，聽起來好像為了那溝裡的火，砍光了一整座森林。王后要人去查到底燒了多少柴，答案是：一千五百捆，足夠燒到凌晨四點（[[s-1823-campan-memoires]] 第 1 冊 pp. 184–185）。\n\n不過梅西的帳算得比較細。他早在 1776 年就報告：國王把小特里亞儂送給王后時，大家本來很高興，現在卻開始擔心她在那裡的花費；王后下令把原本的花園「翻過來」改成英式庭園，「至少要花十五萬里弗爾」；她還蓋了一座劇場，辦了一場戲加晚宴，非常花錢（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 495；另見 [[t-theatre]]）。\n\n### 關起門來的代價\n\n但「關起門來」也惹了麻煩。1780 年，梅西報告：王后常常整天待在小特里亞儂，有時一住就是一個星期；只有宮廷內部的人能進去，女官們白天才能過來吃飯，宮裡因此怨聲四起（[[s-1874-arneth-mercy-correspondance]] 第 3 冊，1780 年 5 月、9 月信）。梅西還說，這個退居小特里亞儂的主意，是王后的閨蜜波利尼亞克夫人出的（[[s-1874-arneth-mercy-correspondance]] 第 3 冊，1780 年 9 月 16 日信）。梅西一向站在王后這邊，連他都覺得不妥。\n\n### 模範村莊與乳品室\n\n1783 年夏天，王后請建築師米克（Richard Mique）把花園往北擴建，蓋一整座模範村莊，1786 年完工。它有農舍、磨坊，也有馬廄、牛舍、羊欄和雞舍。拿破崙時代整修時，最破舊的建築被拆掉了，其中就包括穀倉和真正在用的乳品室（[[s-2016-versailles-queens-hamlet]]）。\n\n諾丁數過，農莊有十來棟建築：水磨坊、雞舍、鳥舍、鴿舍、兩座乳品室、守衛小屋、船屋、穀倉，還有一座叫「馬爾博羅塔」的瞭望塔，全部圍著一座養了鯉魚和梭子魚的人工湖；屋子外表是諾曼第式的木架和茅草頂，裡面卻是雅緻的沙龍。他說，這些是「沒有實際功能的布景建築」，用來吃飯、打撞球、玩牌、跳舞和演戲（本站譯）（[[s-2024-nordin-hameau]] 約 p. 28）。\n\n真正的農場在幾步之外。諾丁說，1785 年起，一位瑞士農夫瓦利．比薩爾（Valy Bussard）帶著妻小、幾名長工和季節工住在那裡，養牛、豬、山羊和兔子，種菜、種葡萄、收乾草；王后常帶孩子們去看動物，當作實際的品德教育（[[s-2024-nordin-hameau]] 約 p. 30）。他也說，受盧梭教育思想的影響，王后替長女找的玩伴是宮中僕人的女兒，兩個女孩穿一樣的衣服，一起照顧幾隻羊和一小塊菜園（[[s-2024-nordin-hameau]] 約 p. 28；另見 [[t-children]]）。\n\n{{photo:t-hameau-ferme.jpg|今日的王后農莊（Hameau de la Reine）農舍，位於凡爾賽宮園區，攝於 2010 年。|Wikimedia Commons，CC BY-SA 3.0}}\n\n另一座常被搞混的乳品室在朗布依埃（Rambouillet）。法國文化部的資料說，它是路易十六為王后蓋的；1787 到 1788 年間，塞弗爾瓷器廠送來 65 件瓷器，在畫家于貝爾．羅貝爾（Hubert Robert）指導下設計，器形參考古代陶器。其中最有名的是「乳房碗」（bol sein），塞弗爾到今天還在生產（[[s-2025-dati-culture-sevres-rambouillet]]）。\n\n{{photo:t-hameau-rambouillet.jpg|朗布依埃（Rambouillet）的王后乳品室，由建築師理查．米克（Richard Mique）設計，今日的照片。|Wikimedia Commons，CC BY-SA 3.0}}\n\n### 鑲滿鑽石的房間\n\n1789 年 5 月，三級會議在凡爾賽開幕，從各省來的議員幾乎都想參觀小特里亞儂。康龐夫人說，這座別墅簡樸得出乎他們意料，有些人堅持要看每一個小房間，說一定有人把豪華的房間藏起來了；他們還指名要看一間據說四壁鑲滿鑽石、柱子上嵌著藍寶石和紅寶石的房間。王后把這件事講給國王聽，國王想了想，說他們找的大概是路易十五時代替楓丹白露劇院做的一套假鑽石舞台布景（[[s-1823-campan-memoires]] 第 2 冊 p. 40；[[s-2024-nordin-hameau]] 約 p. 27）。\n\n諾丁說，同樣簡樸的生活，放在別的時代、別的國家，可能會被當成王室的好榜樣；但在 1789 年的法國，大家已經認定小特里亞儂是一個貪婪與罪惡的巢穴（[[s-2024-nordin-hameau]] 約 p. 27）。\n\n## 研究者怎麼看\n\n- 凡爾賽宮的研究立場是：農莊是功能完整的農場，王后在那裡休息、社交，並沒有扮農夫（[[s-2016-versailles-queens-hamlet]]）。\n- 研究朗布依埃乳品室的專書，把它稱為「一座為王后的愉悅而建的田園神殿」（本站譯）（[[s-2016-maes-laiterie-rambouillet]]）。本站只讀到這本書的書目與簡介。\n- 諾丁認為，批評者把這座假村莊看成品味低俗；更深的問題是，王室的權威建立在儀式上的高高在上，當王后自己扮起樸素的鄉居生活，人們就會問：那王室憑什麼統治別人？在貧富差距巨大的年代，這看起來更像是對窮人的嘲弄（[[s-2024-nordin-hameau]] 約 p. 30）。\n- （推論）「乳房碗是照王后的胸部做的」流傳很廣，但本站讀到的官方資料只說器形參考古代陶器，沒有提到王后。\n\n## 延伸閱讀\n\n- [[s-2024-nordin-hameau]]\n- [[s-2016-versailles-queens-hamlet]]\n- [[s-2025-dati-culture-sevres-rambouillet]]\n- [[s-1823-campan-memoires]]\n- [[s-1874-arneth-mercy-correspondance]]\n- [[s-2016-maes-laiterie-rambouillet]]\n- 名詞：[[e-campan]]\n- 名詞：[[e-petit-trianon]]\n- 相關故事：[[t-polignac]]、[[t-chemise]]、[[t-ghost]]、[[t-theatre]]\n\n## 還不知道的事\n\n- 「王后扮農婦」的形象最早從哪裡來：是當時的誹謗小冊子、19 世紀的小說，還是電影？還沒查到。\n- 美術史家 Meredith Martin《乳品室的王后們》（*Dairy Queens*, 2011）討論了貴族女性的乳品室風潮，本站還沒讀到。\n- 諾丁提到的瑞士農夫比薩爾，以及「他在王后坐牢時還送乳製品給她」的說法，本站還沒找到原始檔案。\n- 凡爾賽宮學者海茨曼（Annick Heitzmann）2006 年的〈特里亞儂：農莊的農場〉（*Versalia* 第 9 期）待讀。\n- 王后在小特里亞儂穿的衣服，見 [[t-chemise]]。\n- 朗布依埃乳品室和乳房碗的學術研究：大都會博物館 2002 年的專文（[[s-2002-schwartz-etruscan-sevres]]）、馬丁（Meredith Martin）2011 年的專書《Dairy Queens》（[[s-2011-martin-dairy-queens]]），本站都還沒讀到全文。\n",
    "links": [
     "e-campan",
     "e-petit-trianon",
     "s-1823-campan-memoires",
     "s-1874-arneth-mercy-correspondance",
+    "s-2002-schwartz-etruscan-sevres",
+    "s-2011-martin-dairy-queens",
     "s-2016-maes-laiterie-rambouillet",
     "s-2016-versailles-queens-hamlet",
     "s-2024-nordin-hameau",
@@ -3615,6 +3789,7 @@
    "image": "t-lamballe.jpg",
    "imageAlt": "粉彩畫風插畫：午後陽光灑進小客廳，窗邊小桌上有一束白玫瑰和打開的首飾盒，一位穿白裙的女士背影站在窗前。",
    "sources": [
+    "s-1838-tussaud-memoirs",
     "s-1874-arneth-mercy-correspondance",
     "s-1823-campan-memoires",
     "s-1883-tourzel-memoires",
@@ -3623,15 +3798,19 @@
     "s-1835-vigee-le-brun-souvenirs"
    ],
    "updated": "2026-11-16",
-   "body": "## 一句話說明\n\n朗巴勒親王妃是王后剛當上王后時最親密的朋友。她後來失寵、被冷落多年，革命爆發後卻回到王后身邊；1792 年 9 月，她在監獄裡被殺，頭被插在長矛上，送到囚禁王室的聖殿塔窗前。\n\n## 迷思與史料\n\n這件事不是後人加油添醋，而是有目擊者。國王的貼身僕人克萊里當時在聖殿塔服侍王室，1792 年 9 月 3 日午餐時，他正和看守夫婦一起吃飯，「一顆插在長矛上的頭出現在窗前」；看守的妻子尖叫一聲，外面的暴徒以為是王后的聲音，發出一陣狂笑。克萊里說，那是朗巴勒親王妃的頭，雖然滿是血，臉卻沒有被毀，「金色的捲髮還在長矛四周飄動」（本站譯）（[[s-1798-clery-journal]] pp. 18–19）。\n\n王后的女兒瑪麗－泰蕾茲當年十三歲，也在塔裡。她回憶，那天下午三點外面傳來可怕的叫喊，看守把門窗和窗簾都關上；國王問發生了什麼事，一個年輕軍官說：「好吧，既然您想知道，是朗巴勒夫人的頭，他們要拿來給你們看！」她說，母親當場嚇壞了，「這是她唯一一次失去鎮定」（本站譯）（[[s-1852-marie-therese-temple]]）。所以判定是「確有其事」。兩位證人都在塔內，一位看到了頭，一位聽到了那句話。\n\n## 故事是這樣的\n\n### 十八歲的寡婦\n\n朗巴勒親王妃出身義大利北部的皮埃蒙特，嫁進法國王族彭蒂耶夫公爵家。康龐夫人說，她十八歲就守寡，沒有孩子；公公把她當親生女兒一樣疼愛（[[s-1823-campan-memoires]] 第 1 冊約 pp. 192–193）。畫家維傑．勒布倫替她畫過像，說她「不算漂亮，但遠遠看起來很美」，五官小巧，皮膚極白，一頭金髮（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信）。\n\n{{photo:t-lamballe-callet-1776.jpg|卡萊（Callet）約 1776 年所畫的朗巴勒親王妃瑪麗－泰蕾絲－路易絲，現藏凡爾賽宮。|Wikimedia Commons，Public domain}}\n\n王后剛即位時很喜歡她。駐法大使梅西卻很緊張：她是皮埃蒙特人，梅西怕王后讓她太接近，會讓宮裡的「皮埃蒙特黨」得勢，要女皇提醒女兒對她的信任「要有界限」（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 176）。\n\n### 「我會讓我的密友幸福」\n\n1775 年夏天，王后寫信告訴梅西：她要請國王任命朗巴勒為「王后家總管」，這是路易十五的王后過世後就一直空著的職位。她還叮囑梅西別讓約瑟夫二世知道，並寫道：「我會讓我的密友幸福，而我自己會比她更高興。」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 363）\n\n這個職位惹出很多麻煩。總管的權力壓過了原本管王后宮務的女官長，女官長因此辭職（[[s-1823-campan-memoires]] 第 1 冊附錄 pp. 286–287）。梅西本來想趁機訂一套新規章，限制總管的權力，朗巴勒卻用「眼淚與溫柔」讓王后改變心意，堅持要保有前任的全部權力和待遇；新規章被撤回（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 pp. 386–387）。梅西算過，舊制總管年薪 15,000 里弗爾，另有 30,000 供宮中開桌；前任靠人脈把總額拉高到 150,000 里弗爾，朗巴勒要的就是這個數字（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 387）。她的弟弟也拿到四萬里弗爾的年金（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 pp. 495–496）。\n\n### 被冷落的那幾年\n\n好景不長。王后很快有了新的閨蜜波利尼亞克夫人。1778 年初梅西寫道，朗巴勒因為吵鬧、嫉妒和一些小小的不忠，失去了王后的信任，王后心地好，還替她遮掩（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 164）。1779 年，她去溫泉療養前，梅西說她「與其說是被期待，不如說是被容忍」；療養三個月回來，她完全失寵了（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 pp. 328、360）。\n\n她的客廳後來成了大賭局的場所，有一晚國王的堂兄沙特爾公爵輸了 8,000 路易金幣；王后偶爾去坐坐，國王則從來不去（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 pp. 367–368、410）。1780 年秋天她的兄弟過世，王后特地進城探望她，梅西說這是她「很久以來」唯一得到的好意（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 475）。康龐夫人的評語是：兩人的親密有時受到批評，但她們之間有一份「堅固而感人的友誼，一直到那個可怕的結局」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊約 pp. 193–194）。\n\n### 她回來了\n\n1791 年，王室逃亡失敗後，王后在一枚戒指裡嵌了自己變白的頭髮，要送給朗巴勒（見 [[t-white-hair]]）。康龐夫人說，那年秋天朗巴勒想回法國，王后反對，她還是回來了（[[s-1823-campan-memoires]] 第 2 冊 p. 151）。圖澤爾夫人的說法是：王后怕她長期不在而被革除總管職位，請她回來，她「一刻也沒有猶豫」（本站譯）（[[s-1883-tourzel-memoires]] 第 2 冊第 20 章）。她住在杜樂麗宮，和王后的房間只隔一個樓梯平台；兩人來往太頻繁，屢次被人檢舉，她只好少去（[[s-1883-tourzel-memoires]] 第 2 冊第 20 章）。\n\n1792 年 8 月 10 日，杜樂麗宮被攻陷，王室到國民議會避難，朗巴勒以王室親戚的身分跟在王后身旁（[[s-1883-tourzel-memoires]] 第 2 冊第 23 章）。之後她跟著王室進了聖殿塔，住在王后隔壁（[[s-1883-tourzel-memoires]] 第 2 冊第 23 章）。8 月 18 日深夜，市政府的人來把她和圖澤爾母女帶走。王后臨別交代圖澤爾夫人：「好好照顧朗巴勒夫人。」（本站譯）（[[s-1883-tourzel-memoires]] 第 2 冊第 23 章）\n\n### 拉福斯監獄\n\n她們被送進拉福斯（La Force）監獄。圖澤爾夫人說，朗巴勒在這裡反而不再發作神經的毛病，身體比很久以來都好；她「溫柔、善良、樂於助人」，跟圖澤爾的女兒寶琳很親（[[s-1883-tourzel-memoires]] 第 2 冊第 23 章）。有一次，一個市政官員送來一大包襯衫，嘲諷地叫她們替「戰友」縫，朗巴勒溫和地回答：「只要對同胞有用的事，我們永遠不會拒絕。」（本站譯）獄卒看出那是嘲弄，就把襯衫收走了（[[s-1883-tourzel-memoires]] 第 2 冊第 23 章）。\n\n9 月 2 日清晨，外面的人對著她的窗子作勢要開槍。上午十一點，武裝的人衝進牢房，要找「朗巴勒夫人」。她說自己身體虛弱，先要了一點麵包和酒（[[s-1883-tourzel-memoires]] 第 2 冊第 23 章）。她被帶到院子裡，等著監獄裡臨時設的「法庭」審問；圖澤爾夫人說，她們一路靠在一起，被分開前，「我們最後一次握了手」（本站譯）（[[s-1883-tourzel-memoires]] 第 2 冊第 23 章）。圖澤爾夫人自己被人設法救了出去，朗巴勒的結局，她是事後才知道的（[[s-1883-tourzel-memoires]] 第 2 冊第 23–24 章）。\n\n### 窗前\n\n隔天，在聖殿塔裡，國王的僕人克萊里看到了窗外那根長矛（[[s-1798-clery-journal]] pp. 18–19）。他嚇得臉色發白，跑去找國王，王后看出他神色不對，問他怎麼不去吃飯，他只說身體不舒服。這時市政官員進來，說外面謠傳王室已經不在塔裡，群眾要國王到窗前露面；外面的叫喊越來越大，克萊里聽得清清楚楚，那些是罵王后的話（[[s-1798-clery-journal]] p. 19）。瑪麗－泰蕾茲說，國王事後還替那個說出真相的年輕軍官說話：不是他的錯，是自己問了他（[[s-1852-marie-therese-temple]]）。\n\n## 研究者怎麼看\n\n- 本站讀到的四位證人（康龐、圖澤爾、克萊里、瑪麗－泰蕾茲）都是王室身邊的人。圖澤爾夫人和朗巴勒一起坐牢，克萊里和瑪麗－泰蕾茲在聖殿塔裡，都是第一手經歷，但也都是王室一方的回憶（[[s-1883-tourzel-memoires]]；[[s-1798-clery-journal]]；[[s-1852-marie-therese-temple]]）。\n- 梅西對朗巴勒的評價一向偏低，他的立場是保護王后的名聲和財務，對花錢、爭權的人特別嚴厲（[[s-1874-arneth-mercy-correspondance]]）。\n- 朗巴勒是 9 月 2 日還是 3 日被殺，各書說法不同：圖澤爾夫人寫她 2 日上午被帶走，克萊里看到頭是 3 日下午（[[s-1883-tourzel-memoires]]；[[s-1798-clery-journal]] pp. 18–19）。\n\n## 延伸閱讀\n\n- [[s-1798-clery-journal]]\n- [[s-1852-marie-therese-temple]]\n- [[s-1883-tourzel-memoires]]\n- [[s-1874-arneth-mercy-correspondance]]\n- [[s-1823-campan-memoires]]\n- [[s-1835-vigee-le-brun-souvenirs]]\n- 相關故事：[[t-august10]]\n- 人物：[[e-tourzel]]\n\n## 還不知道的事\n\n- 她 1791 年是從哪裡回來的？常見說法是英國，但本站讀到的原典沒有寫；維傑．勒布倫說她 1793 年人在杜林，顯然記錯了。\n- 她在監獄「法庭」上被問了什麼、怎麼死的，需要讀 19 世紀 Lescure 的傳記或審訊紀錄。\n- 她的新閨蜜，見 [[t-polignac]]。\n",
+   "body": "## 一句話說明\n\n朗巴勒親王妃是王后剛當上王后時最親密的朋友。她後來失寵、被冷落多年，革命爆發後卻回到王后身邊；1792 年 9 月，她在監獄裡被殺，頭被插在長矛上，送到囚禁王室的聖殿塔窗前。\n\n## 迷思與史料\n\n這件事不是後人加油添醋，而是有目擊者。國王的貼身僕人克萊里當時在聖殿塔服侍王室，1792 年 9 月 3 日午餐時，他正和看守夫婦一起吃飯，「一顆插在長矛上的頭出現在窗前」；看守的妻子尖叫一聲，外面的暴徒以為是王后的聲音，發出一陣狂笑。克萊里說，那是朗巴勒親王妃的頭，雖然滿是血，臉卻沒有被毀，「金色的捲髮還在長矛四周飄動」（本站譯）（[[s-1798-clery-journal]] pp. 18–19）。\n\n王后的女兒瑪麗－泰蕾茲當年十三歲，也在塔裡。她回憶，那天下午三點外面傳來可怕的叫喊，看守把門窗和窗簾都關上；國王問發生了什麼事，一個年輕軍官說：「好吧，既然您想知道，是朗巴勒夫人的頭，他們要拿來給你們看！」她說，母親當場嚇壞了，「這是她唯一一次失去鎮定」（本站譯）（[[s-1852-marie-therese-temple]]）。所以判定是「確有其事」。兩位證人都在塔內，一位看到了頭，一位聽到了那句話。\n\n## 故事是這樣的\n\n### 十八歲的寡婦\n\n朗巴勒親王妃出身義大利北部的皮埃蒙特，嫁進法國王族彭蒂耶夫公爵家。康龐夫人說，她十八歲就守寡，沒有孩子；公公把她當親生女兒一樣疼愛（[[s-1823-campan-memoires]] 第 1 冊約 pp. 192–193）。畫家維傑．勒布倫替她畫過像，說她「不算漂亮，但遠遠看起來很美」，五官小巧，皮膚極白，一頭金髮（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊第 5 封信）。\n\n{{photo:t-lamballe-callet-1776.jpg|卡萊（Callet）約 1776 年所畫的朗巴勒親王妃瑪麗－泰蕾絲－路易絲，現藏凡爾賽宮。|Wikimedia Commons，Public domain}}\n\n王后剛即位時很喜歡她。駐法大使梅西卻很緊張：她是皮埃蒙特人，梅西怕王后讓她太接近，會讓宮裡的「皮埃蒙特黨」得勢，要女皇提醒女兒對她的信任「要有界限」（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 176）。\n\n### 「我會讓我的密友幸福」\n\n1775 年夏天，王后寫信告訴梅西：她要請國王任命朗巴勒為「王后家總管」，這是路易十五的王后過世後就一直空著的職位。她還叮囑梅西別讓約瑟夫二世知道，並寫道：「我會讓我的密友幸福，而我自己會比她更高興。」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 363）\n\n這個職位惹出很多麻煩。總管的權力壓過了原本管王后宮務的女官長，女官長因此辭職（[[s-1823-campan-memoires]] 第 1 冊附錄 pp. 286–287）。梅西本來想趁機訂一套新規章，限制總管的權力，朗巴勒卻用「眼淚與溫柔」讓王后改變心意，堅持要保有前任的全部權力和待遇；新規章被撤回（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 pp. 386–387）。梅西算過，舊制總管年薪 15,000 里弗爾，另有 30,000 供宮中開桌；前任靠人脈把總額拉高到 150,000 里弗爾，朗巴勒要的就是這個數字（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 387）。她的弟弟也拿到四萬里弗爾的年金（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 pp. 495–496）。\n\n### 被冷落的那幾年\n\n好景不長。王后很快有了新的閨蜜波利尼亞克夫人。1778 年初梅西寫道，朗巴勒因為吵鬧、嫉妒和一些小小的不忠，失去了王后的信任，王后心地好，還替她遮掩（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 164）。1779 年，她去溫泉療養前，梅西說她「與其說是被期待，不如說是被容忍」；療養三個月回來，她完全失寵了（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 pp. 328、360）。\n\n她的客廳後來成了大賭局的場所，有一晚國王的堂兄沙特爾公爵輸了 8,000 路易金幣；王后偶爾去坐坐，國王則從來不去（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 pp. 367–368、410）。1780 年秋天她的兄弟過世，王后特地進城探望她，梅西說這是她「很久以來」唯一得到的好意（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 475）。康龐夫人的評語是：兩人的親密有時受到批評，但她們之間有一份「堅固而感人的友誼，一直到那個可怕的結局」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊約 pp. 193–194）。\n\n### 她回來了\n\n1791 年，王室逃亡失敗後，王后在一枚戒指裡嵌了自己變白的頭髮，要送給朗巴勒（見 [[t-white-hair]]）。康龐夫人說，那年秋天朗巴勒想回法國，王后反對，她還是回來了（[[s-1823-campan-memoires]] 第 2 冊 p. 151）。圖澤爾夫人的說法是：王后怕她長期不在而被革除總管職位，請她回來，她「一刻也沒有猶豫」（本站譯）（[[s-1883-tourzel-memoires]] 第 2 冊第 20 章）。她住在杜樂麗宮，和王后的房間只隔一個樓梯平台；兩人來往太頻繁，屢次被人檢舉，她只好少去（[[s-1883-tourzel-memoires]] 第 2 冊第 20 章）。\n\n1792 年 8 月 10 日，杜樂麗宮被攻陷，王室到國民議會避難，朗巴勒以王室親戚的身分跟在王后身旁（[[s-1883-tourzel-memoires]] 第 2 冊第 23 章）。之後她跟著王室進了聖殿塔，住在王后隔壁（[[s-1883-tourzel-memoires]] 第 2 冊第 23 章）。8 月 18 日深夜，市政府的人來把她和圖澤爾母女帶走。王后臨別交代圖澤爾夫人：「好好照顧朗巴勒夫人。」（本站譯）（[[s-1883-tourzel-memoires]] 第 2 冊第 23 章）\n\n### 拉福斯監獄\n\n她們被送進拉福斯（La Force）監獄。圖澤爾夫人說，朗巴勒在這裡反而不再發作神經的毛病，身體比很久以來都好；她「溫柔、善良、樂於助人」，跟圖澤爾的女兒寶琳很親（[[s-1883-tourzel-memoires]] 第 2 冊第 23 章）。有一次，一個市政官員送來一大包襯衫，嘲諷地叫她們替「戰友」縫，朗巴勒溫和地回答：「只要對同胞有用的事，我們永遠不會拒絕。」（本站譯）獄卒看出那是嘲弄，就把襯衫收走了（[[s-1883-tourzel-memoires]] 第 2 冊第 23 章）。\n\n9 月 2 日清晨，外面的人對著她的窗子作勢要開槍。上午十一點，武裝的人衝進牢房，要找「朗巴勒夫人」。她說自己身體虛弱，先要了一點麵包和酒（[[s-1883-tourzel-memoires]] 第 2 冊第 23 章）。她被帶到院子裡，等著監獄裡臨時設的「法庭」審問；圖澤爾夫人說，她們一路靠在一起，被分開前，「我們最後一次握了手」（本站譯）（[[s-1883-tourzel-memoires]] 第 2 冊第 23 章）。圖澤爾夫人自己被人設法救了出去，朗巴勒的結局，她是事後才知道的（[[s-1883-tourzel-memoires]] 第 2 冊第 23–24 章）。\n\n### 窗前\n\n隔天，在聖殿塔裡，國王的僕人克萊里看到了窗外那根長矛（[[s-1798-clery-journal]] pp. 18–19）。他嚇得臉色發白，跑去找國王，王后看出他神色不對，問他怎麼不去吃飯，他只說身體不舒服。這時市政官員進來，說外面謠傳王室已經不在塔裡，群眾要國王到窗前露面；外面的叫喊越來越大，克萊里聽得清清楚楚，那些是罵王后的話（[[s-1798-clery-journal]] p. 19）。瑪麗－泰蕾茲說，國王事後還替那個說出真相的年輕軍官說話：不是他的錯，是自己問了他（[[s-1852-marie-therese-temple]]）。\n\n蠟像師杜莎夫人（Madame Tussaud）晚年口述的回憶錄裡，還有一個更駭人的說法：朗巴勒的頭被殺手們直接送到她那裡，他們站在旁邊，逼她替這顆頭翻模，做成蠟像面具（[[s-1838-tussaud-memoirs]] p. 272）。這本回憶錄 1838 年在倫敦出版，離事發已經四十多年，由別人整理成書，書中許多細節沒有其他證據可以對照；（推論）這件事本站只能當成「杜莎夫人自己的說法」。\n\n## 研究者怎麼看\n\n- 本站讀到的四位證人（康龐、圖澤爾、克萊里、瑪麗－泰蕾茲）都是王室身邊的人。圖澤爾夫人和朗巴勒一起坐牢，克萊里和瑪麗－泰蕾茲在聖殿塔裡，都是第一手經歷，但也都是王室一方的回憶（[[s-1883-tourzel-memoires]]；[[s-1798-clery-journal]]；[[s-1852-marie-therese-temple]]）。\n- 梅西對朗巴勒的評價一向偏低，他的立場是保護王后的名聲和財務，對花錢、爭權的人特別嚴厲（[[s-1874-arneth-mercy-correspondance]]）。\n- 朗巴勒是 9 月 2 日還是 3 日被殺，各書說法不同：圖澤爾夫人寫她 2 日上午被帶走，克萊里看到頭是 3 日下午（[[s-1883-tourzel-memoires]]；[[s-1798-clery-journal]] pp. 18–19）。\n\n## 延伸閱讀\n\n- [[s-1798-clery-journal]]\n- [[s-1852-marie-therese-temple]]\n- [[s-1883-tourzel-memoires]]\n- [[s-1874-arneth-mercy-correspondance]]\n- [[s-1823-campan-memoires]]\n- [[s-1835-vigee-le-brun-souvenirs]]\n- 相關故事：[[t-august10]]\n- 人物：[[e-tourzel]]\n\n## 還不知道的事\n\n- 她 1791 年是從哪裡回來的？常見說法是英國，但本站讀到的原典沒有寫；維傑．勒布倫說她 1793 年人在杜林，顯然記錯了。\n- 她在監獄「法庭」上被問了什麼、怎麼死的，需要讀 19 世紀 Lescure 的傳記或審訊紀錄。\n- 她的新閨蜜，見 [[t-polignac]]。\n- 杜莎夫人回憶錄的可信度：研究杜莎的著作有伯里奇（Berridge）2006 年的傳記《Waxing Mythical》（[[s-2006-berridge-waxing-mythical]]），以及兩篇法文研究，談她的羅伯斯庇爾面具（[[s-2014-leuwers-tussaud-masque]]）和庫爾提烏斯的蠟像館（[[s-2017-ruimi-curtius-cabinet]]）；本站都還沒讀到全文。\n",
    "links": [
     "e-tourzel",
     "s-1798-clery-journal",
     "s-1823-campan-memoires",
     "s-1835-vigee-le-brun-souvenirs",
+    "s-1838-tussaud-memoirs",
     "s-1852-marie-therese-temple",
     "s-1874-arneth-mercy-correspondance",
     "s-1883-tourzel-memoires",
+    "s-2006-berridge-waxing-mythical",
+    "s-2014-leuwers-tussaud-masque",
+    "s-2017-ruimi-curtius-cabinet",
     "t-august10",
     "t-polignac",
     "t-white-hair"
@@ -4213,7 +4392,7 @@
     "s-1868-feuillet-elisabeth-correspondance"
    ],
    "updated": "2026-11-16",
-   "body": "## 一句話說明\n\n1789 年 10 月 6 日，王室被巴黎群眾從凡爾賽帶回首都，住進巴黎市中心的杜樂麗宮（Tuileries）。接下來的二十個月，他們不算犯人，卻也不再自由：衛兵換了人，出門要看群眾臉色，連去郊外度假都可能被擋下來。這段日子，是瓦雷納逃亡的前奏。\n\n## 故事是這樣的\n\n### 第一夜\n\n王太子的家庭教師圖澤爾夫人（Madame de Tourzel）記得，那天晚上杜樂麗宮「什麼都沒有準備」。七歲多的王太子沒有衛兵，睡在一間四面都是門、門還關不太上的房間；她找來僅有的幾件家具把門頂住，整夜坐在他床邊（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊；另見 [[t-october-days]]）。\n\n第二天起，院子和露台擠滿了想看國王的人。王室戴上了代表革命的三色帽徽，一次又一次走到面向院子的房間窗口露面（[[s-1883-tourzel-memoires]] 第 1 冊）。過了兩天，一群婦女來要求王后替她們把典當在公營當舖的東西贖回來；後來國王同意，由王后出錢贖回每件價值不超過一路易的典當品（[[s-1883-tourzel-memoires]] 第 1 冊）。\n\n王室在宮裡重新分配房間：國王把自己的套房讓一部分給王太子，王后住在面向露台的一樓，女兒瑪麗－泰蕾茲住在國王寢室樓上的夾層，國王的妹妹伊莉莎白夫人住在宮殿一端的花神樓（Pavillon de Flore）；國王的弟弟普羅旺斯伯爵夫婦住盧森堡宮，每晚過來吃晚飯（[[s-1883-tourzel-memoires]] 第 1 冊）。\n\n{{photo:t-tuileries-palais.jpg|吉貝勒（Gibele）1802 年從塞納河對岸畫的杜樂麗宮。這座宮殿 1871 年被燒毀，今天只剩花園。|Wikimedia Commons，CC0}}\n\n### 被管住的日常\n\n圖澤爾夫人記下王后一天的作息：早上獨自吃早餐，然後看孩子，國王過來探望；望完彌撒，她就關進自己的小房間。下午一點全家一起吃午飯，飯後陪國王打撞球，再做她的掛毯；晚上八點半，國王的弟弟夫婦來吃晚飯，十一點散（[[s-1883-tourzel-memoires]] 第 1 冊）。\n\n康龐夫人說，王后每週見宮廷兩次，其餘時間都和家人在一起；早上她盯著女兒做功課，下午做針線。她說王后讀不下書，因為事情太多、心太亂，「針線是唯一能讓她分心的事」（本站譯）；一直到 1791 年憲法通過，她才再去看戲（[[s-1823-campan-memoires]] 第 2 冊 pp. 92–93）。\n\n宮裡的衛兵換成了國民衛隊。王后和孩子只能在杜樂麗花園裡散步，花園裡用籬笆圍了一小塊地給王太子玩，旁邊站著一位營長和四名國民兵（[[s-1883-tourzel-memoires]] 第 1 冊）。王太子說他比較想要「我們原來的衛兵」，圖澤爾夫人勸他別當著國民衛隊的面說，他從此就不再提了（[[s-1883-tourzel-memoires]] 第 1 冊；另見 [[t-children]]）。\n\n### 1790 年 7 月 14 日：雨中的聯盟節\n\n攻占巴士底一週年，巴黎在戰神廣場（Champ de Mars）舉行盛大的聯盟節，全國各地的代表都來了。圖澤爾夫人說，那天一直下大雨，代表們全身濕透；國王宣誓時，後排的人撐開五顏六色的雨傘，擋住了別人的視線，群眾大喊「把傘放下！」，拉法葉侯爵還以為大家在罵他，臉都白了（[[s-1883-tourzel-memoires]] 第 1 冊）。她說，王后好幾次把王太子高高舉起來給人民和軍隊看，引來一片歡呼（[[s-1883-tourzel-memoires]] 第 1 冊）。\n\n不過，伊莉莎白夫人在四天前的信裡寫的是另一回事：議會決定國王「獨自」和議員坐在一起，王室其他人只能待在軍校的窗口；她說這對王后是「狠狠的一記耳光」（本站譯）（[[s-1868-feuillet-elisabeth-correspondance]] 1790 年 7 月 10 日信）。（推論）事前的安排和事後的回憶不一樣，可能是當天又改了，也可能是回憶有誤。\n\n{{photo:t-tuileries-federation.jpg|19 世紀的版畫，描繪 1790 年 7 月 14 日戰神廣場上的聯盟節；現藏巴黎卡納瓦雷博物館。|Wikimedia Commons，CC0}}\n\n康龐夫人說，那天在場的四十萬人裡，幾乎每個人都相信國王會在新秩序裡找到幸福（[[s-1823-campan-memoires]] 第 2 冊 pp. 118–119）。\n\n### 聖克盧的夏天\n\n1790 年 5 月底，王室搬到巴黎西郊的聖克盧（Saint-Cloud）避暑。圖澤爾夫人說，王后在那裡比較自由，朋友也比較容易來看她（[[s-1883-tourzel-memoires]] 第 1 冊）。康龐夫人記得，有一天下午四點，王后在窗邊做針線，窗下忽然聚了五十多個人，有婦女、老騎士和神職人員，壓低聲音說：「夫人，請振作！」王后走上陽台向他們致意（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 p. 122）。王后也是在這裡秘密接見了米拉波（見 [[t-secret]]）。\n\n康龐夫人也記下了恐懼。聯盟節後，一個叫羅通多（Rotondo）的人潛進聖克盧想殺王后，那天剛好下雨，王后沒出門（[[s-1823-campan-memoires]] 第 2 冊 p. 120）。宮裡有人擔心她被下毒，康龐夫人偷偷把王后用的糖換成自己從家裡帶來的。王后發現了，對她說：「放心，沒有人會用一粒毒藥對付我。布蘭維利耶那種下毒的人不屬於這個時代了；現在有誹謗，殺人比毒藥好用得多，他們會用它讓我死。」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 pp. 121–122；另見 [[t-libels]]）\n\n### 1791 年元旦的兩份禮物\n\n1791 年元旦，國民衛隊的樂隊來到王室窗下演奏，挑的是一齣喜歌劇裡的曲子：「可是我們的債主都已經還清了」，暗指國家的債務。同一天，當年攻打巴士底的士兵送給王太子一副用巴士底監獄的石頭做的骨牌，王后把它交給康龐夫人收著（[[s-1823-campan-memoires]] 第 2 冊 p. 128）。（推論）兩份「禮物」都帶著刺：一個提醒國王欠的錢，一個提醒舊制度的監獄已經倒了。\n\n1791 年 2 月，國王的姑姑們出發去羅馬，在半路被市政府攔下；巴黎群眾隨即衝到盧森堡宮，國王的弟弟只好搬進杜樂麗宮，和哥哥一起被看管（[[s-1868-feuillet-elisabeth-correspondance]] 編者註，pp. 246–247）。\n\n### 1791 年 4 月 18 日：出不了門的國王\n\n1791 年復活節前，國王想再去聖克盧過節。他不願意在由宣誓效忠憲法的神父主持的教堂裡過復活節，這件事在巴黎傳開了（[[s-1883-tourzel-memoires]] 第 1 冊；[[s-1868-feuillet-elisabeth-correspondance]] 編者註，p. 294）。4 月 18 日，國王和王后望完彌撒上了馬車，國民衛隊的擲彈兵卻衝到馬頭前，不讓車子走。國王探出車窗說：「我給了國家自由，自己卻不自由，這不是很奇怪嗎？」（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊）\n\n國王的首席侍從被群眾粗暴拉扯，王太子嚇得大哭：「快救他，快救他啊！」（本站譯）拉法葉提議用武力開路，國王冷冷地說：「這是您的事，您看該怎麼做，才能讓您的憲法被執行。」最後拉法葉來說，出去會有危險。國王說：「那我只好回去了。」他下了馬車，一個人走回自己的房間（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊）。伊莉莎白夫人三天後寫信說，國王在馬車裡坐了兩個小時（[[s-1868-feuillet-elisabeth-correspondance]] 1791 年 4 月 21 日信）。\n\n當天晚上，巴黎的省政府要求國王把身邊「反對憲法」的人遣走，國王只好讓兩位最親近的侍從離開（[[s-1883-tourzel-memoires]] 第 1 冊）。復活節當天，國王和王后被迫到宮殿旁的教區教堂，由宣誓的神父主持彌撒；伊莉莎白夫人推說身體不舒服，留在房裡（[[s-1883-tourzel-memoires]] 第 1 冊；另見 [[t-elisabeth]]）。\n\n書信集的編者認為，這一天是逃亡計畫的導火線（[[s-1868-feuillet-elisabeth-correspondance]] 編者註，p. 294）。兩個月後，王室在夜裡從杜樂麗宮出發，逃往瓦雷納（見 [[t-varennes]]）。\n\n## 研究者怎麼看\n\n- 這篇的細節主要來自兩位女性的回憶錄：圖澤爾夫人是王太子的家庭教師，就住在宮裡；康龐夫人是王后的貼身女官。兩人都是王室的忠實僕人，回憶錄都在事後多年寫成，立場同情王室（[[s-1883-tourzel-memoires]]；[[s-1823-campan-memoires]]）。\n- 伊莉莎白夫人的信是「當時寫的」，沒有後見之明，可以拿來對照回憶錄；例如聯盟節王室坐在哪裡，信和回憶錄說法就不一樣（[[s-1868-feuillet-elisabeth-correspondance]]）。\n- 1791 年 4 月 18 日的經過，康龐夫人說國王一點鐘上車、衛兵關上了宮門；圖澤爾夫人說是彌撒結束後上車、擲彈兵擋住馬頭。圖澤爾夫人當時就坐在馬車上（[[s-1823-campan-memoires]] 第 2 冊 p. 139；[[s-1883-tourzel-memoires]] 第 1 冊）。\n\n## 延伸閱讀\n\n- [[s-1883-tourzel-memoires]]\n- [[s-1823-campan-memoires]]\n- [[s-1868-feuillet-elisabeth-correspondance]]\n- 相關故事：[[t-october-days]]、[[t-secret]]、[[t-varennes]]、[[t-august10]]、[[t-june20]]\n- 人物：[[e-tourzel]]\n\n## 還不知道的事\n\n- 瓦雷納之後到 1792 年 8 月 10 日之間，王室在杜樂麗宮的生活（1792 年 6 月 20 日群眾闖宮，見 [[t-elisabeth]]）。\n- 康龐夫人提到 1790 年 6 月一個在聖克盧附近樹林與護衛會合的出走計畫，沒有寫年份，本站還沒找到其他資料核對。\n- 王室在杜樂麗宮的開銷與宮廷規模，需要讀研究專書。\n",
+   "body": "## 一句話說明\n\n1789 年 10 月 6 日，王室被巴黎群眾從凡爾賽帶回首都，住進巴黎市中心的杜樂麗宮（Tuileries）。接下來的二十個月，他們不算犯人，卻也不再自由：衛兵換了人，出門要看群眾臉色，連去郊外度假都可能被擋下來。這段日子，是瓦雷納逃亡的前奏。\n\n## 故事是這樣的\n\n### 第一夜\n\n王太子的家庭教師圖澤爾夫人（Madame de Tourzel）記得，那天晚上杜樂麗宮「什麼都沒有準備」。七歲多的王太子沒有衛兵，睡在一間四面都是門、門還關不太上的房間；她找來僅有的幾件家具把門頂住，整夜坐在他床邊（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊；另見 [[t-october-days]]）。\n\n第二天起，院子和露台擠滿了想看國王的人。王室戴上了代表革命的三色帽徽，一次又一次走到面向院子的房間窗口露面（[[s-1883-tourzel-memoires]] 第 1 冊）。過了兩天，一群婦女來要求王后替她們把典當在公營當舖的東西贖回來；後來國王同意，由王后出錢贖回每件價值不超過一路易的典當品（[[s-1883-tourzel-memoires]] 第 1 冊）。\n\n王室在宮裡重新分配房間：國王把自己的套房讓一部分給王太子，王后住在面向露台的一樓，女兒瑪麗－泰蕾茲住在國王寢室樓上的夾層，國王的妹妹伊莉莎白夫人住在宮殿一端的花神樓（Pavillon de Flore）；國王的弟弟普羅旺斯伯爵夫婦住盧森堡宮，每晚過來吃晚飯（[[s-1883-tourzel-memoires]] 第 1 冊）。\n\n{{photo:t-tuileries-palais.jpg|吉貝勒（Gibele）1802 年從塞納河對岸畫的杜樂麗宮。這座宮殿 1871 年被燒毀，今天只剩花園。|Wikimedia Commons，CC0}}\n\n### 被管住的日常\n\n圖澤爾夫人記下王后一天的作息：早上獨自吃早餐，然後看孩子，國王過來探望；望完彌撒，她就關進自己的小房間。下午一點全家一起吃午飯，飯後陪國王打撞球，再做她的掛毯；晚上八點半，國王的弟弟夫婦來吃晚飯，十一點散（[[s-1883-tourzel-memoires]] 第 1 冊）。\n\n康龐夫人說，王后每週見宮廷兩次，其餘時間都和家人在一起；早上她盯著女兒做功課，下午做針線。她說王后讀不下書，因為事情太多、心太亂，「針線是唯一能讓她分心的事」（本站譯）；一直到 1791 年憲法通過，她才再去看戲（[[s-1823-campan-memoires]] 第 2 冊 pp. 92–93）。\n\n宮裡的衛兵換成了國民衛隊。王后和孩子只能在杜樂麗花園裡散步，花園裡用籬笆圍了一小塊地給王太子玩，旁邊站著一位營長和四名國民兵（[[s-1883-tourzel-memoires]] 第 1 冊）。王太子說他比較想要「我們原來的衛兵」，圖澤爾夫人勸他別當著國民衛隊的面說，他從此就不再提了（[[s-1883-tourzel-memoires]] 第 1 冊；另見 [[t-children]]）。\n\n### 1790 年 7 月 14 日：雨中的聯盟節\n\n攻占巴士底一週年，巴黎在戰神廣場（Champ de Mars）舉行盛大的聯盟節，全國各地的代表都來了。圖澤爾夫人說，那天一直下大雨，代表們全身濕透；國王宣誓時，後排的人撐開五顏六色的雨傘，擋住了別人的視線，群眾大喊「把傘放下！」，拉法葉侯爵還以為大家在罵他，臉都白了（[[s-1883-tourzel-memoires]] 第 1 冊）。她說，王后好幾次把王太子高高舉起來給人民和軍隊看，引來一片歡呼（[[s-1883-tourzel-memoires]] 第 1 冊）。這一天的經過，見 [[t-federation]]。\n\n不過，伊莉莎白夫人在四天前的信裡寫的是另一回事：議會決定國王「獨自」和議員坐在一起，王室其他人只能待在軍校的窗口；她說這對王后是「狠狠的一記耳光」（本站譯）（[[s-1868-feuillet-elisabeth-correspondance]] 1790 年 7 月 10 日信）。（推論）事前的安排和事後的回憶不一樣，可能是當天又改了，也可能是回憶有誤。\n\n{{photo:t-tuileries-federation.jpg|19 世紀的版畫，描繪 1790 年 7 月 14 日戰神廣場上的聯盟節；現藏巴黎卡納瓦雷博物館。|Wikimedia Commons，CC0}}\n\n康龐夫人說，那天在場的四十萬人裡，幾乎每個人都相信國王會在新秩序裡找到幸福（[[s-1823-campan-memoires]] 第 2 冊 pp. 118–119）。\n\n### 聖克盧的夏天\n\n1790 年 5 月底，王室搬到巴黎西郊的聖克盧（Saint-Cloud）避暑。圖澤爾夫人說，王后在那裡比較自由，朋友也比較容易來看她（[[s-1883-tourzel-memoires]] 第 1 冊）。康龐夫人記得，有一天下午四點，王后在窗邊做針線，窗下忽然聚了五十多個人，有婦女、老騎士和神職人員，壓低聲音說：「夫人，請振作！」王后走上陽台向他們致意（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 p. 122）。王后也是在這裡秘密接見了米拉波（見 [[t-secret]]）。\n\n康龐夫人也記下了恐懼。聯盟節後，一個叫羅通多（Rotondo）的人潛進聖克盧想殺王后，那天剛好下雨，王后沒出門（[[s-1823-campan-memoires]] 第 2 冊 p. 120）。宮裡有人擔心她被下毒，康龐夫人偷偷把王后用的糖換成自己從家裡帶來的。王后發現了，對她說：「放心，沒有人會用一粒毒藥對付我。布蘭維利耶那種下毒的人不屬於這個時代了；現在有誹謗，殺人比毒藥好用得多，他們會用它讓我死。」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 pp. 121–122；另見 [[t-libels]]）\n\n### 1791 年元旦的兩份禮物\n\n1791 年元旦，國民衛隊的樂隊來到王室窗下演奏，挑的是一齣喜歌劇裡的曲子：「可是我們的債主都已經還清了」，暗指國家的債務。同一天，當年攻打巴士底的士兵送給王太子一副用巴士底監獄的石頭做的骨牌，王后把它交給康龐夫人收著（[[s-1823-campan-memoires]] 第 2 冊 p. 128）。（推論）兩份「禮物」都帶著刺：一個提醒國王欠的錢，一個提醒舊制度的監獄已經倒了。\n\n1791 年 2 月，國王的姑姑們出發去羅馬，在半路被市政府攔下；巴黎群眾隨即衝到盧森堡宮，國王的弟弟只好搬進杜樂麗宮，和哥哥一起被看管（[[s-1868-feuillet-elisabeth-correspondance]] 編者註，pp. 246–247）。\n\n### 1791 年 4 月 18 日：出不了門的國王\n\n1791 年復活節前，國王想再去聖克盧過節。他不願意在由宣誓效忠憲法的神父主持的教堂裡過復活節，這件事在巴黎傳開了（[[s-1883-tourzel-memoires]] 第 1 冊；[[s-1868-feuillet-elisabeth-correspondance]] 編者註，p. 294）。4 月 18 日，國王和王后望完彌撒上了馬車，國民衛隊的擲彈兵卻衝到馬頭前，不讓車子走。國王探出車窗說：「我給了國家自由，自己卻不自由，這不是很奇怪嗎？」（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊）\n\n國王的首席侍從被群眾粗暴拉扯，王太子嚇得大哭：「快救他，快救他啊！」（本站譯）拉法葉提議用武力開路，國王冷冷地說：「這是您的事，您看該怎麼做，才能讓您的憲法被執行。」最後拉法葉來說，出去會有危險。國王說：「那我只好回去了。」他下了馬車，一個人走回自己的房間（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊）。伊莉莎白夫人三天後寫信說，國王在馬車裡坐了兩個小時（[[s-1868-feuillet-elisabeth-correspondance]] 1791 年 4 月 21 日信）。\n\n當天晚上，巴黎的省政府要求國王把身邊「反對憲法」的人遣走，國王只好讓兩位最親近的侍從離開（[[s-1883-tourzel-memoires]] 第 1 冊）。復活節當天，國王和王后被迫到宮殿旁的教區教堂，由宣誓的神父主持彌撒；伊莉莎白夫人推說身體不舒服，留在房裡（[[s-1883-tourzel-memoires]] 第 1 冊；另見 [[t-elisabeth]]）。\n\n書信集的編者認為，這一天是逃亡計畫的導火線（[[s-1868-feuillet-elisabeth-correspondance]] 編者註，p. 294）。兩個月後，王室在夜裡從杜樂麗宮出發，逃往瓦雷納（見 [[t-varennes]]）。\n\n## 研究者怎麼看\n\n- 這篇的細節主要來自兩位女性的回憶錄：圖澤爾夫人是王太子的家庭教師，就住在宮裡；康龐夫人是王后的貼身女官。兩人都是王室的忠實僕人，回憶錄都在事後多年寫成，立場同情王室（[[s-1883-tourzel-memoires]]；[[s-1823-campan-memoires]]）。\n- 伊莉莎白夫人的信是「當時寫的」，沒有後見之明，可以拿來對照回憶錄；例如聯盟節王室坐在哪裡，信和回憶錄說法就不一樣（[[s-1868-feuillet-elisabeth-correspondance]]）。\n- 1791 年 4 月 18 日的經過，康龐夫人說國王一點鐘上車、衛兵關上了宮門；圖澤爾夫人說是彌撒結束後上車、擲彈兵擋住馬頭。圖澤爾夫人當時就坐在馬車上（[[s-1823-campan-memoires]] 第 2 冊 p. 139；[[s-1883-tourzel-memoires]] 第 1 冊）。\n\n## 延伸閱讀\n\n- [[s-1883-tourzel-memoires]]\n- [[s-1823-campan-memoires]]\n- [[s-1868-feuillet-elisabeth-correspondance]]\n- 相關故事：[[t-october-days]]、[[t-secret]]、[[t-varennes]]、[[t-august10]]、[[t-june20]]\n- 人物：[[e-tourzel]]\n\n## 還不知道的事\n\n- 瓦雷納之後到 1792 年 8 月 10 日之間，王室在杜樂麗宮的生活（1792 年 6 月 20 日群眾闖宮，見 [[t-elisabeth]]）。\n- 康龐夫人提到 1790 年 6 月一個在聖克盧附近樹林與護衛會合的出走計畫，沒有寫年份，本站還沒找到其他資料核對。\n- 王室在杜樂麗宮的開銷與宮廷規模，需要讀研究專書。\n",
    "links": [
     "e-tourzel",
     "s-1823-campan-memoires",
@@ -4222,6 +4401,7 @@
     "t-august10",
     "t-children",
     "t-elisabeth",
+    "t-federation",
     "t-june20",
     "t-libels",
     "t-october-days",
@@ -4391,6 +4571,7 @@
    "image": "t-white-hair.jpg",
    "imageAlt": "粉彩畫風插畫：梳妝台上有白色睡帽和梳子，小絲絨盒裡是一枚嵌著白髮的金戒指，鏡中映出模糊的背影。",
    "sources": [
+    "s-1838-tussaud-memoirs",
     "s-1823-campan-memoires",
     "s-1883-tourzel-memoires",
     "s-1865-prevost-proces-recueil",
@@ -4401,12 +4582,13 @@
     "s-2013-nahm-canities-subita",
     "s-2008-skellett-sudden-whitening"
    ],
-   "updated": "2026-11-15",
-   "body": "## 一句話說明\n\n王后在革命期間頭髮迅速變白，貼身女官留下了第一手描述；但「一夜」是當時人的說法，而且發生的時間點不是上斷頭台前夕，現代醫學也懷疑頭髮真的能在一夜之間變白。\n\n## 迷思與史料\n\n最直接的證詞來自王后的貼身女官康龐夫人（Madame Campan）。她的回憶錄在 1823 年、事件過後三十多年才出版，書裡說，瓦雷納逃亡失敗、王室被押回巴黎之後，她第一次再見到王后，王后摘下睡帽，讓她看悲傷對頭髮造成的結果：「只在一夜之間，就變得像七十歲老婦人那樣白。」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 pp. 150–151）也就是說，這件事發生在 1791 年夏天，不是兩年後上斷頭台的前一夜。\n\n「斷頭台前一夜」這個版本流傳更廣，連醫學期刊介紹這個症狀時，也照這個版本寫（[[s-2009-navarini-marie-antoinette]]）。所以判定是「半真半假」：她的頭髮在革命期間變白有可信的目擊證詞，但時間點被搬到了更戲劇化的那一夜，「一夜」本身也只是康龐夫人轉述的說法。\n\n## 故事是這樣的\n\n### 1791 年夏天：睡帽底下\n\n1791 年 6 月，王室一家逃往邊境，在瓦雷納被攔下押回巴黎（見 [[t-varennes]]）。之後，杜樂麗宮裡的監視變得令人難堪。康龐夫人回到王后身邊時，王后剛起床，康龐夫人說她的臉「並沒有太大改變」；說了幾句溫和的話之後，王后摘下睡帽，要她看看悲傷對頭髮造成了什麼：「只在一夜之間，就變得像七十歲老婦人那樣白。」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 p. 150）\n\n康龐夫人接著寫了一個常被忽略的細節：王后給她看一枚剛做好、要送給好友朗巴勒親王妃（princesse de Lamballe）的戒指，裡面嵌著一束她自己的白髮，刻著一句話：「被不幸染白」（blanchis par le malheur）（[[s-1823-campan-memoires]] 第 2 冊 p. 151）。在康龐夫人的敘述裡，白髮不只是外貌的變化，王后自己也把它當成紀念。同一頁還寫到，那年秋天朗巴勒親王妃想回法國陪王后，王后反對，她還是回來了，「也就是回來送死」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 p. 151）。一年後，她在九月屠殺中遇害。\n\n{{photo:t-white-hair-kucharski.jpg|庫查爾斯基（Kucharski）為王后所畫的晚年肖像，未完成。|Wikimedia Commons，Public domain}}\n\n### 1792 年：另一位證人看到的身體\n\n王室子女的家庭教師圖澤爾夫人，也留下了王后在壓力下的身體反應，只是她寫的不是頭髮。1792 年 6 月 20 日，群眾闖進杜樂麗宮，有個女人遞給王后一頂毛線帽，王后接了卻沒戴；圖澤爾夫人說，王后的神情一刻都沒有失去鎮定和尊嚴（[[s-1883-tourzel-memoires]] 第 2 冊）。同年 8 月，大臣勸國王離開王宮、到國民議會避難，王后一聽國王要照辦，胸口和臉頰一下子全都泛起紅斑（[[s-1883-tourzel-memoires]] 第 2 冊）。\n\n（推論）這兩位證人都在王后身邊，也都一向站在她那一邊；但她們描述的重點不同：一位記下了白髮，一位記下了臉上的紅斑。\n\n{{photo:t-white-hair-david.jpg|大衛 1793 年畫的王后坐囚車赴刑場素描，此為 1868 年 Dauban《1793 年的巴黎煽動》書中的刊印版。|Wikimedia Commons，Public domain}}\n\n### 1792 年 9 月：朗巴勒親王妃身上的戒指\n\n康龐夫人說的那枚戒指，後來真的出現在官方文件裡。1792 年 9 月 3 日，朗巴勒親王妃在監獄門口被殺，抬屍體的人把她衣服裡的東西交給區政府登記。勒諾特引用的這份清單裡有一枚金戒指，藍色寶石可以掀開，底下是一綹頭髮，上面刻著：「被悲傷染白」（[[s-1907-lenotre-last-days-marie-antoinette]] p. 55；另見 [[t-lamballe]]）。不過，這本英譯書把清單上的頭髮譯成「fair hair」（淡色的頭髮），法文原文到底寫什麼顏色，本站還沒查到。\n\n### 1793 年：「才開始變灰」\n\n最有意思的一份證詞，來自王后自己的審判。市政官員米什尼（Michonis）曾私下帶人進古監獄探望王后，他出庭作證時，被庭長追問帶過哪些人進去，他解釋：那年夏天在一場晚宴上，有人說「卡佩寡婦變了很多，聽說頭髮全白了」，他回答說，其實她的頭髮「才開始變灰」，身體還好；一位在座的客人想看看她，他就帶他去了（本站譯）（[[s-1865-prevost-proces-recueil]] pp. 99–100）。\n\n（推論）這段話很珍貴，因為它是 1793 年當時留下的紀錄：外面已經在傳「全白了」，見過她的人卻說「才開始變灰」。\n\n另外兩份證詞說得比較重。國王的僕人克萊里 1796 年寫信給畫家維傑．勒布倫，回答她為一幅畫提出的問題，描述 1793 年 1 月 20 日國王與家人訣別那晚每個人的穿著：王后的頭髮「幾乎全白了」，女兒的是漂亮的淺金色，伊莉莎白夫人的金髮顏色深一些（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 2 冊附錄）。1824 年的一份記述說，一位虔誠的女子在古監獄半夜見到王后，看見她的白髮、凹陷的臉頰和失去血色的臉，非常難過（[[s-1907-lenotre-last-days-marie-antoinette]] p. 207）。\n\n（推論）把這幾份證詞排在一起看，比較像是兩年之間慢慢變白，而不是一夜之間。\n\n### 醫學怎麼說：頭髮會在一夜之間變白嗎？\n\n後來的醫學界借用了她的名字。頭髮在極短時間內變白的現象，醫學上叫 canities subita（突發性白髮），俗稱「瑪麗．安東尼症候群」（[[s-2009-navarini-marie-antoinette]]）。\n\n2013 年，研究者納姆（Michael Nahm）等人把醫學文獻裡能找到的 196 篇報告全部整理出來，再依可靠程度分類：醫生親眼看著頭髮變色的，只有 44 篇；醫生看到時已經變白、無法確認過程的有 82 篇；另外 37 篇只是聽人轉述的軼事，33 篇資訊不足（[[s-2013-nahm-canities-subita]] 引言）。\n\n這些可靠個案裡，有些速度驚人。19 世紀法國生理學家布朗－塞加爾（Brown-Séquard）記錄了自己鬍子裡的一撮毛「看起來是一夜之間」全白了，並強調觀察無可置疑；一位 38 歲的女性在劇烈神經痛之後，髮色約五小時內幾乎全部改變，醫生排除了染髮的可能；還有一位 54 歲的男子，在軍事審訊中黑髮約半小時就變灰（[[s-2013-nahm-canities-subita]] 各類個案一節）。\n\n醫生最大的疑問是：頭髮是死的組織，已經長出來的頭髮，怎麼可能褪色？目前最常見的解釋是一種斑禿（自體免疫造成的掉髮）：它會優先讓有顏色的頭髮掉落，原本混在裡面的白髮留下來，看起來就像「突然全白」（[[s-2009-navarini-marie-antoinette]]）。但納姆等人指出，在 44 篇可靠個案裡，只有 6 篇同時有斑禿，所以斑禿解釋不了全部（[[s-2013-nahm-canities-subita]] 討論）。19 世紀也有醫生在變白的頭髮裡發現空氣泡，把頭髮泡進水或松節油裡，顏色就恢復了，顯示有些「變白」可能是光線折射造成的（[[s-2013-nahm-canities-subita]] 精神疾病個案一節）。\n\n### 不只她一個\n\n「一夜白頭」的故事，不只發生在瑪麗．安東尼身上。皮膚科醫師納瓦里尼 2010 年整理過歷史上的例子：古代的猶太經師、1535 年被斬首前的英國大臣湯瑪斯．摩爾，以及 1572 年聖巴托羅繆大屠殺那晚的法王亨利四世。他查到，亨利四世一夜白頭的說法最早見於 1777 年一本醫書，比事件晚了兩百年，之後又冒出好幾個不同的版本（[[s-2010-navarini-henry-iii-hair]]）。他認為，這類歷史記載不能全信，「一夜白頭」是小說和史書愛用的戲劇手法（[[s-2010-navarini-henry-iii-hair]]）。\n\n## 研究者怎麼看\n\n- 皮膚科醫師納瓦里尼（Alexander Navarini）等人認為，「一夜白頭」最可能是斑禿急性發作，讓有色頭髮選擇性脫落（[[s-2009-navarini-marie-antoinette]]）。\n- 納姆等人整理 196 篇報告後認為，現有證據不足以下定論，斑禿無法解釋大部分個案，這個現象值得用現代方法重新研究（[[s-2013-nahm-canities-subita]]）。\n- 斯凱利特（Skellett）等人 2008 年的論文標題就用問號，稱突然白髮是「歷史的虛構？」（本站譯）（[[s-2008-skellett-sudden-whitening]]）；本站還沒讀到全文。\n- 1793 年審判紀錄裡，米什尼的證詞說王后的頭髮「才開始變灰」，這是目前最接近當時的說法（[[s-1865-prevost-proces-recueil]] p. 100）。\n- （推論）歷史這一邊的關鍵證人只有康龐夫人，而且她的回憶錄是在事件過後三十多年才出版的。醫學上的「瑪麗．安東尼症候群」這個名字，其實是建立在一段回憶錄上。\n\n## 延伸閱讀\n\n- [[s-2010-navarini-henry-iii-hair]]\n- [[s-1823-campan-memoires]]\n- [[s-1883-tourzel-memoires]]\n- [[s-2009-navarini-marie-antoinette]]\n- [[s-2013-nahm-canities-subita]]\n- [[s-2008-skellett-sudden-whitening]]\n- 名詞：[[e-campan]]\n- 相關故事：[[t-lamballe]]、[[t-temple]]\n\n## 還不知道的事\n\n- 「斷頭台前一夜」的版本最早出現在哪裡，還沒查到。\n- 除了康龐夫人，有沒有其他目擊者記錄她 1791–1793 年間的髮色。維傑．勒布倫 1789 年就離開法國，沒有見過這時的王后。\n- Navarini 2009 與 Skellett 2008 只讀到摘要；Nahm 2013 已讀全文。\n- 朗巴勒親王妃的故事待寫（本站故事清單第 32 號）。\n",
+   "updated": "2026-11-16",
+   "body": "## 一句話說明\n\n王后在革命期間頭髮迅速變白，貼身女官留下了第一手描述；但「一夜」是當時人的說法，而且發生的時間點不是上斷頭台前夕，現代醫學也懷疑頭髮真的能在一夜之間變白。\n\n## 迷思與史料\n\n最直接的證詞來自王后的貼身女官康龐夫人（Madame Campan）。她的回憶錄在 1823 年、事件過後三十多年才出版，書裡說，瓦雷納逃亡失敗、王室被押回巴黎之後，她第一次再見到王后，王后摘下睡帽，讓她看悲傷對頭髮造成的結果：「只在一夜之間，就變得像七十歲老婦人那樣白。」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 pp. 150–151）也就是說，這件事發生在 1791 年夏天，不是兩年後上斷頭台的前一夜。\n\n「斷頭台前一夜」這個版本流傳更廣，連醫學期刊介紹這個症狀時，也照這個版本寫（[[s-2009-navarini-marie-antoinette]]）。所以判定是「半真半假」：她的頭髮在革命期間變白有可信的目擊證詞，但時間點被搬到了更戲劇化的那一夜，「一夜」本身也只是康龐夫人轉述的說法。\n\n## 故事是這樣的\n\n### 1791 年夏天：睡帽底下\n\n1791 年 6 月，王室一家逃往邊境，在瓦雷納被攔下押回巴黎（見 [[t-varennes]]）。之後，杜樂麗宮裡的監視變得令人難堪。康龐夫人回到王后身邊時，王后剛起床，康龐夫人說她的臉「並沒有太大改變」；說了幾句溫和的話之後，王后摘下睡帽，要她看看悲傷對頭髮造成了什麼：「只在一夜之間，就變得像七十歲老婦人那樣白。」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 p. 150）\n\n康龐夫人接著寫了一個常被忽略的細節：王后給她看一枚剛做好、要送給好友朗巴勒親王妃（princesse de Lamballe）的戒指，裡面嵌著一束她自己的白髮，刻著一句話：「被不幸染白」（blanchis par le malheur）（[[s-1823-campan-memoires]] 第 2 冊 p. 151）。在康龐夫人的敘述裡，白髮不只是外貌的變化，王后自己也把它當成紀念。同一頁還寫到，那年秋天朗巴勒親王妃想回法國陪王后，王后反對，她還是回來了，「也就是回來送死」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 p. 151）。一年後，她在九月屠殺中遇害。\n\n{{photo:t-white-hair-kucharski.jpg|庫查爾斯基（Kucharski）為王后所畫的晚年肖像，未完成。|Wikimedia Commons，Public domain}}\n\n### 1792 年：另一位證人看到的身體\n\n王室子女的家庭教師圖澤爾夫人，也留下了王后在壓力下的身體反應，只是她寫的不是頭髮。1792 年 6 月 20 日，群眾闖進杜樂麗宮，有個女人遞給王后一頂毛線帽，王后接了卻沒戴；圖澤爾夫人說，王后的神情一刻都沒有失去鎮定和尊嚴（[[s-1883-tourzel-memoires]] 第 2 冊）。同年 8 月，大臣勸國王離開王宮、到國民議會避難，王后一聽國王要照辦，胸口和臉頰一下子全都泛起紅斑（[[s-1883-tourzel-memoires]] 第 2 冊）。\n\n（推論）這兩位證人都在王后身邊，也都一向站在她那一邊；但她們描述的重點不同：一位記下了白髮，一位記下了臉上的紅斑。\n\n{{photo:t-white-hair-david.jpg|大衛 1793 年畫的王后坐囚車赴刑場素描，此為 1868 年 Dauban《1793 年的巴黎煽動》書中的刊印版。|Wikimedia Commons，Public domain}}\n\n### 1792 年 9 月：朗巴勒親王妃身上的戒指\n\n康龐夫人說的那枚戒指，後來真的出現在官方文件裡。1792 年 9 月 3 日，朗巴勒親王妃在監獄門口被殺，抬屍體的人把她衣服裡的東西交給區政府登記。勒諾特引用的這份清單裡有一枚金戒指，藍色寶石可以掀開，底下是一綹頭髮，上面刻著：「被悲傷染白」（[[s-1907-lenotre-last-days-marie-antoinette]] p. 55；另見 [[t-lamballe]]）。不過，這本英譯書把清單上的頭髮譯成「fair hair」（淡色的頭髮），法文原文到底寫什麼顏色，本站還沒查到。\n\n### 1793 年：「才開始變灰」\n\n最有意思的一份證詞，來自王后自己的審判。市政官員米什尼（Michonis）曾私下帶人進古監獄探望王后，他出庭作證時，被庭長追問帶過哪些人進去，他解釋：那年夏天在一場晚宴上，有人說「卡佩寡婦變了很多，聽說頭髮全白了」，他回答說，其實她的頭髮「才開始變灰」，身體還好；一位在座的客人想看看她，他就帶他去了（本站譯）（[[s-1865-prevost-proces-recueil]] pp. 99–100）。\n\n（推論）這段話很珍貴，因為它是 1793 年當時留下的紀錄：外面已經在傳「全白了」，見過她的人卻說「才開始變灰」。\n\n傳言的確傳得很廣。蠟像師杜莎夫人晚年的回憶錄說，她聽說王后的頭髮變白了、人瘦得幾乎認不出來，忍不住到朋友家窗口，想看看押往刑場的王后，是不是真的變了那麼多；可是囚車一出現，她就昏了過去，「什麼也沒看到」（本站譯）（[[s-1838-tussaud-memoirs]] pp. 361–362）。\n\n另外兩份證詞說得比較重。國王的僕人克萊里 1796 年寫信給畫家維傑．勒布倫，回答她為一幅畫提出的問題，描述 1793 年 1 月 20 日國王與家人訣別那晚每個人的穿著：王后的頭髮「幾乎全白了」，女兒的是漂亮的淺金色，伊莉莎白夫人的金髮顏色深一些（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 2 冊附錄）。1824 年的一份記述說，一位虔誠的女子在古監獄半夜見到王后，看見她的白髮、凹陷的臉頰和失去血色的臉，非常難過（[[s-1907-lenotre-last-days-marie-antoinette]] p. 207）。\n\n（推論）把這幾份證詞排在一起看，比較像是兩年之間慢慢變白，而不是一夜之間。\n\n### 醫學怎麼說：頭髮會在一夜之間變白嗎？\n\n後來的醫學界借用了她的名字。頭髮在極短時間內變白的現象，醫學上叫 canities subita（突發性白髮），俗稱「瑪麗．安東尼症候群」（[[s-2009-navarini-marie-antoinette]]）。\n\n2013 年，研究者納姆（Michael Nahm）等人把醫學文獻裡能找到的 196 篇報告全部整理出來，再依可靠程度分類：醫生親眼看著頭髮變色的，只有 44 篇；醫生看到時已經變白、無法確認過程的有 82 篇；另外 37 篇只是聽人轉述的軼事，33 篇資訊不足（[[s-2013-nahm-canities-subita]] 引言）。\n\n這些可靠個案裡，有些速度驚人。19 世紀法國生理學家布朗－塞加爾（Brown-Séquard）記錄了自己鬍子裡的一撮毛「看起來是一夜之間」全白了，並強調觀察無可置疑；一位 38 歲的女性在劇烈神經痛之後，髮色約五小時內幾乎全部改變，醫生排除了染髮的可能；還有一位 54 歲的男子，在軍事審訊中黑髮約半小時就變灰（[[s-2013-nahm-canities-subita]] 各類個案一節）。\n\n醫生最大的疑問是：頭髮是死的組織，已經長出來的頭髮，怎麼可能褪色？目前最常見的解釋是一種斑禿（自體免疫造成的掉髮）：它會優先讓有顏色的頭髮掉落，原本混在裡面的白髮留下來，看起來就像「突然全白」（[[s-2009-navarini-marie-antoinette]]）。但納姆等人指出，在 44 篇可靠個案裡，只有 6 篇同時有斑禿，所以斑禿解釋不了全部（[[s-2013-nahm-canities-subita]] 討論）。19 世紀也有醫生在變白的頭髮裡發現空氣泡，把頭髮泡進水或松節油裡，顏色就恢復了，顯示有些「變白」可能是光線折射造成的（[[s-2013-nahm-canities-subita]] 精神疾病個案一節）。\n\n### 不只她一個\n\n「一夜白頭」的故事，不只發生在瑪麗．安東尼身上。皮膚科醫師納瓦里尼 2010 年整理過歷史上的例子：古代的猶太經師、1535 年被斬首前的英國大臣湯瑪斯．摩爾，以及 1572 年聖巴托羅繆大屠殺那晚的法王亨利四世。他查到，亨利四世一夜白頭的說法最早見於 1777 年一本醫書，比事件晚了兩百年，之後又冒出好幾個不同的版本（[[s-2010-navarini-henry-iii-hair]]）。他認為，這類歷史記載不能全信，「一夜白頭」是小說和史書愛用的戲劇手法（[[s-2010-navarini-henry-iii-hair]]）。\n\n## 研究者怎麼看\n\n- 皮膚科醫師納瓦里尼（Alexander Navarini）等人認為，「一夜白頭」最可能是斑禿急性發作，讓有色頭髮選擇性脫落（[[s-2009-navarini-marie-antoinette]]）。\n- 納姆等人整理 196 篇報告後認為，現有證據不足以下定論，斑禿無法解釋大部分個案，這個現象值得用現代方法重新研究（[[s-2013-nahm-canities-subita]]）。\n- 斯凱利特（Skellett）等人 2008 年的論文標題就用問號，稱突然白髮是「歷史的虛構？」（本站譯）（[[s-2008-skellett-sudden-whitening]]）；本站還沒讀到全文。\n- 1793 年審判紀錄裡，米什尼的證詞說王后的頭髮「才開始變灰」，這是目前最接近當時的說法（[[s-1865-prevost-proces-recueil]] p. 100）。\n- （推論）歷史這一邊的關鍵證人只有康龐夫人，而且她的回憶錄是在事件過後三十多年才出版的。醫學上的「瑪麗．安東尼症候群」這個名字，其實是建立在一段回憶錄上。\n\n## 延伸閱讀\n\n- [[s-2010-navarini-henry-iii-hair]]\n- [[s-1823-campan-memoires]]\n- [[s-1883-tourzel-memoires]]\n- [[s-2009-navarini-marie-antoinette]]\n- [[s-2013-nahm-canities-subita]]\n- [[s-2008-skellett-sudden-whitening]]\n- 名詞：[[e-campan]]\n- 相關故事：[[t-lamballe]]、[[t-temple]]\n\n## 還不知道的事\n\n- 「斷頭台前一夜」的版本最早出現在哪裡，還沒查到。\n- 除了康龐夫人，有沒有其他目擊者記錄她 1791–1793 年間的髮色。維傑．勒布倫 1789 年就離開法國，沒有見過這時的王后。\n- Navarini 2009 與 Skellett 2008 只讀到摘要；Nahm 2013 已讀全文。\n- 朗巴勒親王妃的故事待寫（本站故事清單第 32 號）。\n",
    "links": [
     "e-campan",
     "s-1823-campan-memoires",
     "s-1835-vigee-le-brun-souvenirs",
+    "s-1838-tussaud-memoirs",
     "s-1865-prevost-proces-recueil",
     "s-1883-tourzel-memoires",
     "s-1907-lenotre-last-days-marie-antoinette",
@@ -4622,6 +4804,14 @@
    "t-necklace"
   ],
   [
+   "s-1790-detail-general-confederation",
+   "t-federation"
+  ],
+  [
+   "s-1790-details-fete-14-juillet",
+   "t-federation"
+  ],
+  [
    "s-1793-tribunal-proces-criminel-testament",
    "t-trial"
   ],
@@ -4696,6 +4886,18 @@
   [
    "s-1835-vigee-le-brun-souvenirs",
    "t-varennes"
+  ],
+  [
+   "s-1838-tussaud-memoirs",
+   "t-elisabeth"
+  ],
+  [
+   "s-1838-tussaud-memoirs",
+   "t-lamballe"
+  ],
+  [
+   "s-1838-tussaud-memoirs",
+   "t-white-hair"
   ],
   [
    "s-1841-karr-guepes",
@@ -5050,6 +5252,10 @@
    "s-2025-dati-culture-sevres-rambouillet"
   ],
   [
+   "s-2002-schwartz-etruscan-sevres",
+   "t-hameau"
+  ],
+  [
    "s-2003-tackett-king",
    "t-varennes"
   ],
@@ -5060,6 +5266,10 @@
   [
    "s-2005-ozouf-varennes",
    "t-varennes"
+  ],
+  [
+   "s-2006-berridge-waxing-mythical",
+   "t-lamballe"
   ],
   [
    "s-2006-kaiser-nursery",
@@ -5130,6 +5340,10 @@
    "t-coppola"
   ],
   [
+   "s-2012-ritz-pluie",
+   "t-federation"
+  ],
+  [
    "s-2013-chatenet-becquet-review",
    "s-2026-mensch-reine-morte"
   ],
@@ -5140,6 +5354,10 @@
   [
    "s-2013-nahm-canities-subita",
    "t-white-hair"
+  ],
+  [
+   "s-2014-leuwers-tussaud-masque",
+   "t-lamballe"
   ],
   [
    "s-2014-olalde-louis-xvi-blood",
@@ -5180,6 +5398,10 @@
   [
    "s-2017-niedziela-joseph-ii-paris",
    "t-joseph"
+  ],
+  [
+   "s-2017-ruimi-curtius-cabinet",
+   "t-lamballe"
   ],
   [
    "s-2020-theobald-soaring",
@@ -5903,6 +6125,10 @@
   ],
   [
    "t-elisabeth",
+   "s-1838-tussaud-memoirs"
+  ],
+  [
+   "t-elisabeth",
    "s-1852-marie-therese-temple"
   ],
   [
@@ -5986,6 +6212,46 @@
    "t-trial"
   ],
   [
+   "t-federation",
+   "s-1790-detail-general-confederation"
+  ],
+  [
+   "t-federation",
+   "s-1790-details-fete-14-juillet"
+  ],
+  [
+   "t-federation",
+   "s-1823-campan-memoires"
+  ],
+  [
+   "t-federation",
+   "s-1868-feuillet-elisabeth-correspondance"
+  ],
+  [
+   "t-federation",
+   "s-1883-tourzel-memoires"
+  ],
+  [
+   "t-federation",
+   "s-2012-ritz-pluie"
+  ],
+  [
+   "t-federation",
+   "t-lafayette"
+  ],
+  [
+   "t-federation",
+   "t-october-days"
+  ],
+  [
+   "t-federation",
+   "t-tuileries"
+  ],
+  [
+   "t-federation",
+   "t-varennes"
+  ],
+  [
    "t-fersen",
    "e-fersen"
   ],
@@ -6064,6 +6330,14 @@
   [
    "t-hameau",
    "s-1874-arneth-mercy-correspondance"
+  ],
+  [
+   "t-hameau",
+   "s-2002-schwartz-etruscan-sevres"
+  ],
+  [
+   "t-hameau",
+   "s-2011-martin-dairy-queens"
   ],
   [
    "t-hameau",
@@ -6303,6 +6577,10 @@
   ],
   [
    "t-lamballe",
+   "s-1838-tussaud-memoirs"
+  ],
+  [
+   "t-lamballe",
    "s-1852-marie-therese-temple"
   ],
   [
@@ -6312,6 +6590,18 @@
   [
    "t-lamballe",
    "s-1883-tourzel-memoires"
+  ],
+  [
+   "t-lamballe",
+   "s-2006-berridge-waxing-mythical"
+  ],
+  [
+   "t-lamballe",
+   "s-2014-leuwers-tussaud-masque"
+  ],
+  [
+   "t-lamballe",
+   "s-2017-ruimi-curtius-cabinet"
   ],
   [
    "t-lamballe",
@@ -6979,6 +7269,10 @@
   ],
   [
    "t-tuileries",
+   "t-federation"
+  ],
+  [
+   "t-tuileries",
    "t-june20"
   ],
   [
@@ -7196,6 +7490,10 @@
   [
    "t-white-hair",
    "s-1835-vigee-le-brun-souvenirs"
+  ],
+  [
+   "t-white-hair",
+   "s-1838-tussaud-memoirs"
   ],
   [
    "t-white-hair",
@@ -8061,7 +8359,7 @@
    "title": "雨中的聯盟節",
    "desc": "戰神廣場上，國王宣誓；圖澤爾夫人說王后高舉王太子給群眾看。",
    "category": "革命",
-   "topic": "t-tuileries",
+   "topic": "t-federation",
    "source": "s-1883-tourzel-memoires"
   },
   {

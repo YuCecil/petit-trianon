@@ -11,7 +11,7 @@ url: https://www.degruyterbrill.com/document/doi/10.4159/9780674059474/html?lang
 access: 公開
 depth: 書目
 period: [1550, 1789]
-topics: [t-coupe, t-hameau]
+topics: [t-hameau]
 entities: []
 reliability: 高
 added: 2026-11-16

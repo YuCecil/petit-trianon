@@ -11,7 +11,7 @@ url: https://www.metmuseum.org/met-publications/the-etruscan-style-at-sevres-the
 access: 公開
 depth: 書目
 period: [1787, 1787]
-topics: [t-coupe]
+topics: [t-hameau]
 entities: []
 reliability: 高
 added: 2026-11-16
