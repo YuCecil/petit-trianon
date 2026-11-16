@@ -81,7 +81,7 @@ updated: 2026-11-16
 - [[s-1874-arneth-mercy-correspondance]]
 - [[s-2025-masson-theatre-reine]]
 - [[s-1835-vigee-le-brun-souvenirs]]
-- 相關故事：[[t-hameau]]、[[t-necklace]]、[[t-vigee]]
+- 相關故事：[[t-hameau]]、[[t-necklace]]、[[t-vigee]]、[[t-figaro]]
 
 ## 還不知道的事
 

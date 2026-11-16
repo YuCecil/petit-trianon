@@ -76,7 +76,7 @@ updated: 2026-11-16
 - [[s-1866-arneth-marie-antoinette]]
 - [[s-1835-vigee-le-brun-souvenirs]]
 - [[s-1852-marie-therese-temple]]
-- 相關故事：[[t-consummation]]、[[t-vigee]]、[[t-temple]]、[[t-louis17]]
+- 相關故事：[[t-consummation]]、[[t-vigee]]、[[t-temple]]、[[t-louis17]]、[[t-madame-royale]]
 
 ## 還不知道的事
 

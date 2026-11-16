@@ -43,3 +43,8 @@
 - 真實圖片 +8：米拉波、巴納夫、格魯克、王后劇場入口、杜樂麗宮（1802）、聯盟節（19 世紀版畫）、阿德萊德夫人、維克多瓦夫人
 - 擴寫：t-white-hair（1793 年審判中米什尼的證詞「才開始變灰」、克萊里 1796 年信、朗巴勒遺物清單、Navarini 2010）、t-louis（打獵、「愛喝酒」謠言的來源、塔裡讀的書、Olalde 2014 DNA 研究）、t-louis17（西蒙的多種說法、英國間諜報告）
 - 新資料卡：s-2010-navarini-henry-iii-hair、s-2014-olalde-louis-xvi-blood（開放取用）
+
+## [2026-11-16] rule | 手機檢查列為標準流程
+- 新增 tools/mobile_check.mjs（Playwright 模擬三種手機＋可選 Lighthouse）；CLAUDE.md 第 9、12 節改寫
+- site：註碼按鈕點擊範圍放大到 24px 以上、地圖圓點點擊範圍 28px；手機檢查 0 錯誤 0 提醒
+- 新增故事：t-conciergerie、t-madame-royale、t-figaro；擴寫 t-necklace、t-varennes、t-coppola、t-consummation、t-fersen、t-pouf

@@ -7,7 +7,7 @@ period: [1770, 2026]
 summary: 粉紅色的馬卡龍和那雙 Converse，背後各自有一段真正的歷史。
 image: t-coppola.jpg
 imageAlt: 粉彩畫風插畫：鍍金邊瓷盤上堆滿粉彩色馬卡龍，旁邊的絲綢上放著一雙淺藍色帆布球鞋。
-sources: [s-1823-campan-memoires, s-2006-stamberg-npr-fraser, s-2012-backman-rogers-threshold, s-2011-andersson-queen-fashion, s-2026-harvard-gazette-coppola, s-2026-versailles-coppola-exhibition]
+sources: [s-1823-campan-memoires, s-1874-arneth-mercy-correspondance, s-1877-klinckowstrom-fersen, s-2006-stamberg-npr-fraser, s-2012-backman-rogers-threshold, s-2011-andersson-queen-fashion, s-2026-harvard-gazette-coppola, s-2026-versailles-coppola-exhibition]
 updated: 2026-11-15
 ---
 
@@ -40,6 +40,16 @@ updated: 2026-11-15
 {{photo:t-coppola-chambre.jpg|今日的凡爾賽宮王后寢宮（Chambre de la Reine），攝於 2013 年。|Wikimedia Commons，CC BY-SA 3.0}}
 
 **遲遲沒有圓房。** 婚後七年半才圓房是真的，弗雷澤認為路易十六不是不能生育，而是「心理上做不到」（[[s-2006-stamberg-npr-fraser]] 第 9–10 段；詳見 [[t-consummation]]）。
+
+### 史料裡的幾個場景
+
+**杜巴利夫人。** 康龐夫人說，老國王路易十五很喜歡新來的太子妃，宮裡有人把她的肖像畫進一朵盛開的玫瑰花心，國王還為這個點子給了賞。國王的情婦杜巴利夫人卻一直想澆熄他的熱情：她到處挑太子妃五官不端正、批評她說過的話，也不滿太子妃不給她應有的禮遇（[[s-1823-campan-memoires]] 第 1 冊 p. 54）。康龐夫人說，太子妃是促成奧法聯姻的首相舒瓦瑟爾帶進來的，而舒瓦瑟爾在 1770 年 11 月就被杜巴利那一派扳倒了；十四歲的太子妃身邊，能依靠的只有一位維蒙神父（[[s-1823-campan-memoires]] 第 1 冊 pp. 54–55）。兩人的僵局，詳見 [[t-dubarry]]。
+
+**歌劇院的化裝舞會。** 1773 年 2 月，太子妃寫信告訴母親：上星期四，她、王太子和國王的大弟夫婦一起到巴黎參加歌劇院的舞會，事先保密，全都戴著面具，可是不到半小時就被認出來了。隔壁皇家宮殿那邊也在辦舞會，兩位公爵跑來邀他們過去，她婉拒了，因為國王只准她去歌劇院；早上七點他們才回到凡爾賽，接著去望彌撒（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 411）。
+
+**年輕的費爾森。** 1774 年 5 月，瑞典駐巴黎大使寫信回國：十八歲的費爾森伯爵剛離開巴黎去倫敦，他是這幾年來到巴黎的瑞典人裡，在社交界最受歡迎的一個，王室待他非常好，「長得最好看，又有頭腦」（本站譯）（[[s-1877-klinckowstrom-fersen]] 導論）。那時路易十五才剛過世；兩人後來的故事，見 [[t-fersen]]。
+
+**最後的宴會。** 1789 年 10 月 1 日，國王的衛隊在凡爾賽宮的歌劇院宴請新調來的軍隊。康龐夫人說，有人勸王后出席，她認為在當時的情勢下，露面只會有害，國王和她都不該直接參與，就派康龐夫人去看，回來詳細報告（[[s-1823-campan-memoires]] 第 2 冊約 pp. 70–71）。幾天後，巴黎的群眾就來到了凡爾賽（見 [[t-october-days]]）。
 
 ### 電影沒有演的部分
 

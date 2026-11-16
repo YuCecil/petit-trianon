@@ -3,13 +3,11 @@
 網站：https://yucecil.github.io/petit-trianon/
 
 已完成
-故事 36 篇，資料卡 60 張。台大資料庫讀到全文的論文：White 1989、Colwill 1989、Barker 1993、Kaiser 2006、Price 1992。
+故事 36 篇，每篇都有插圖，篇幅都在 8 段以上（材料最少的小狗那篇除外）。資料卡 62 張。
+台大資料庫讀到全文的論文：White 1989、Colwill 1989、Barker 1993、Kaiser 2006、Price 1992。
 
-下一步
-新故事 5 篇缺插圖：誹謗小冊子、米拉波與巴納夫、杜樂麗宮、王后劇場、姑姑們（一次派一個 Gemini agent）。
-這 5 篇還沒有真實圖片。
-還在 8 段以下、可以再擴寫的：路易十六、路易十七、一夜白頭。
-可以再找的題目：王后的審判前後的古監獄、法國王后的權力、費加洛的婚禮、王后的女兒的後半生。
+下一步（可做可不做）
+可以再找的新題目：古監獄的最後兩個半月、法國王后的權力、《費加洛的婚禮》、王后女兒的後半生、王后與費爾森的通信研究。
 
 讀不到的資料（台大沒有訂閱）
-Cairn 上的 Hassler 2022、Nature 上的 Jehaes 2001、French Historical Studies 上的 Kaiser 2003（只讀到其他文章的引用）。
+Cairn 上的 Hassler 2022、Nature 上的 Jehaes 2001、French Historical Studies 上的 Kaiser 2003、Skellett 2008（一夜白頭）。

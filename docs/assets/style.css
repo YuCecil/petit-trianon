@@ -179,7 +179,7 @@ h3{font-size:21px}
 /* 地圖、圖表、爭論、關係網、資料庫 */
 #map-el{height:min(70vh,620px);border:1px solid var(--line);background:var(--sheet)}
 #map-el .leaflet-tile-pane{filter:grayscale(1) sepia(.15) contrast(.92)}
-.pin{width:16px;height:16px;border-radius:50%;background:var(--g);border:2px solid var(--sheet);box-shadow:0 0 0 1.5px var(--gilt)}
+.pin{width:16px;height:16px;margin:6px;border-radius:50%;background:var(--g);border:2px solid var(--sheet);box-shadow:0 0 0 1.5px var(--gilt)}
 .legend{display:flex;gap:18px;flex-wrap:wrap;font-size:14px;color:var(--muted);margin:14px 0}
 .legend .dot{display:inline-block;width:11px;height:11px;border-radius:50%;margin-right:6px;vertical-align:0}
 .chart{margin:0 0 44px;max-width:var(--measure)}
@@ -236,7 +236,7 @@ code{font-size:.9em;background:var(--sheet);border:1px solid var(--line);padding
 
 /* 註釋：上標註號、原地展開、文末收合（CLAUDE.md 8.4） */
 .fn{line-height:0}
-.fn-b{font:600 11.5px/1 var(--sans);color:var(--link);background:none;border:0;padding:0 2px;cursor:pointer;vertical-align:super}
+.fn-b{font:600 12px/1 var(--sans);color:var(--link);background:none;border:0;padding:6px 9px;margin:-6px -7px;cursor:pointer;vertical-align:super}
 .fn-b:hover,.fn-b[aria-expanded="true"]{color:var(--gilt-ink)}
 .fn-pop{display:block;margin:8px 0 10px;padding:10px 14px;background:var(--sheet);border:1px solid var(--line);font-size:14.5px;line-height:1.7;color:var(--muted)}
 .fn-pop .ref{font-size:1em}

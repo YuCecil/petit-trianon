@@ -280,6 +280,14 @@
   "source": "s-2024-pearce-creole"
  },
  {
+  "date": "1784-03-29",
+  "title": "《費加洛的婚禮》獲准演出",
+  "desc": "審查官簽字後，警察總監勒諾瓦批准印刷與演出。",
+  "category": "宮廷",
+  "topic": "t-figaro",
+  "source": "s-1785-beaumarchais-figaro-preface"
+ },
+ {
   "date": "1784-08-11",
   "title": "凡爾賽花園裡的玫瑰",
   "desc": "假扮王后的歐莉瓦在夜裡把玫瑰交給羅昂樞機主教。",
@@ -608,6 +616,22 @@
   "source": "s-1852-marie-therese-temple"
  },
  {
+  "date": "1793-08-02",
+  "title": "王后深夜移監古監獄",
+  "desc": "凌晨被帶出聖殿塔，關進古監獄的拱頂小牢房。",
+  "category": "革命",
+  "topic": "t-conciergerie",
+  "source": "s-1907-lenotre-last-days-marie-antoinette"
+ },
+ {
+  "date": "1793-09",
+  "title": "康乃馨事件",
+  "desc": "魯日維爾喬裝進牢房，在康乃馨裡藏紙條，事發後看守加倍嚴格。",
+  "category": "革命",
+  "topic": "t-conciergerie",
+  "source": "s-1793-tribunal-proces-marie-antoinette"
+ },
+ {
   "date": "1793-10",
   "title": "王后受審",
   "desc": "被問到亂倫指控時，她說：「我向在場所有的人呼籲。」",
@@ -653,6 +677,22 @@
   "desc": "姊姊記下的日期是 6 月 9 日，官方紀錄是 6 月 8 日。",
   "category": "身後",
   "topic": "t-louis17",
+  "source": "s-1852-marie-therese-temple"
+ },
+ {
+  "date": "1795-06-09",
+  "title": "路易十七死在聖殿塔",
+  "desc": "姊姊在回憶錄裡寫，弟弟死於骯髒與殘酷的對待。",
+  "category": "身後",
+  "topic": "t-madame-royale",
+  "source": "s-1852-marie-therese-temple"
+ },
+ {
+  "date": "1795-12-19",
+  "title": "瑪麗－泰蕾茲離開聖殿塔",
+  "desc": "十七歲生日的半夜離開，隨後在巴塞爾被交換給奧地利。",
+  "category": "身後",
+  "topic": "t-madame-royale",
   "source": "s-1852-marie-therese-temple"
  },
  {
@@ -702,6 +742,14 @@
   "category": "迷思",
   "topic": "t-cake",
   "source": "s-2002-campion-vincent-marie-antoinette"
+ },
+ {
+  "date": "1851-10-19",
+  "title": "瑪麗－泰蕾茲在弗羅斯多夫過世",
+  "desc": "王后唯一活下來的孩子，流亡中去世。",
+  "category": "身後",
+  "topic": "t-madame-royale",
+  "source": "s-1852-marie-therese-temple"
  },
  {
   "date": "1877",

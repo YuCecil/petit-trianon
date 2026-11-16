@@ -221,7 +221,7 @@ function drawMap() {
   }).addTo(m);
   W.places.forEach(p => {
     const t = byId[p.topic];
-    L.marker([p.lat, p.lng], { icon: L.divIcon({ className: "", html: `<div class="pin" data-cat="${catKey(t?.category)}"></div>`, iconSize: [14, 14], iconAnchor: [7, 7] }), title: p.name })
+    L.marker([p.lat, p.lng], { icon: L.divIcon({ className: "", html: `<div class="pin" data-cat="${catKey(t?.category)}"></div>`, iconSize: [28, 28], iconAnchor: [14, 14] }), title: p.name })
       .addTo(m).bindPopup(`<b>${esc(p.name)}</b><br>${esc(p.desc)}<br>${t ? "故事：" + pageLink(p.topic) + "<br>" : ""}<span class="small">出處：${refLink(p.source)}</span>`);
   });
   m.fitBounds(W.places.map(p => [p.lat, p.lng]), { padding: [24, 24], maxZoom: 13 });

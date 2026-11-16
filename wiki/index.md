@@ -2,7 +2,7 @@
 
 > 由 `tools/build.py` 自動產生於 2026-11-16，不要手改。
 
-資料卡 62 張（全文 14）｜主題 36｜實體 3｜問答 0
+資料卡 63 張（全文 14）｜主題 39｜實體 3｜問答 0
 
 ## 主題頁
 
@@ -11,6 +11,7 @@
 - [[t-cake]] 讓他們吃蛋糕：一句她沒說過的話 — 革命時罵她的小冊子成千上萬，卻沒有一本提過這句話。
 - [[t-chemise]] 穿內衣見人？一幅肖像引起的醜聞 — 一件白紗裙被罵成內衣，後來卻變成全歐洲的流行。
 - [[t-children]] 王后的四個孩子：只有一個活到長大 — 一個女兒、兩個王太子、一個沒滿週歲的小公主。
+- [[t-conciergerie]] 古監獄：最後的七十六天 — 從聖殿塔的深夜移監，到康乃馨裡的紙條，再到法庭的判決。
 - [[t-consummation]] 七年沒有圓房：哥哥從維也納來「開導」 — 母親、大使、哥哥輪番上陣，全歐洲都在等這對夫妻的好消息。
 - [[t-coppola]] 《凡爾賽拜金女》哪些是真的：從電影走進史料 — 粉紅色的馬卡龍和那雙 Converse，背後各自有一段真正的歷史。
 - [[t-coronation]] 「我們太年輕了」：新王登基與蘭斯的加冕 — 一對年輕的國王與王后，和一場讓她「活一百年也忘不了」的典禮。
@@ -19,6 +20,7 @@
 - [[t-elisabeth]] 伊莉莎白夫人：「別讓他們知道我不是王后」 — 國王的妹妹，可以走卻留下，陪哥哥一家走到最後。
 - [[t-execution]] 國王的最後一天：「我無罪而死」 — 從聽到判決，到斷頭台上被鼓聲蓋過的最後一句話。
 - [[t-fersen]] 費爾森：塗黑的信裡寫了什麼 — 兩百多年後，X 光讀出了被塗黑的字，但答案還是兩種讀法。
+- [[t-figaro]] 費加洛的婚禮：國王禁不掉的一齣戲 — 國王說「永遠不會上演」，巴黎卻排隊去看了七十二場。
 - [[t-ghost]] 小特里亞儂的鬼魂：兩位牛津女學者的「奇遇」 — 1901 年夏天的一個下午，兩位英國學者說她們走進了 1789 年。
 - [[t-hameau]] 王后的農莊：她真的擠過牛奶嗎？ — 小特里亞儂旁邊有座真正運作的農場，但「王后扮農婦」找不到證據。
 - [[t-handover]] 萊茵河上的亭子：十四歲的新娘換了一身衣服 — 在國界上脫下奧地利的一切，穿上法國的衣服，撲進陌生人的懷裡。
@@ -26,6 +28,7 @@
 - [[t-libels]] 「奧地利女人」：一個王后是怎麼被寫壞的 — 從受人歡迎的新娘，到報紙上的「奧地利母狼」，只用了二十年。
 - [[t-louis]] 鎖匠國王：被低估的路易十六 — 會讀彌爾頓、會畫地圖、會打鑰匙的國王，卻被記成只會吃和打獵的人。
 - [[t-louis17]] 路易十七之謎：一顆心臟，兩百年後的 DNA — 王后的兒子死在塔裡了嗎？幾十個人說自己就是他。
+- [[t-madame-royale]] 瑪麗－泰蕾茲：唯一活下來的孩子 — 全家只剩她走出聖殿塔，在十七歲生日那天被換到國外。
 - [[t-mesdames]] 姑姑們：凡爾賽最難纏的老公主 — 新嫁娘的第一批朋友，後來成了她最早的對手。
 - [[t-mops]] 王后的小狗：一隻從維也納來的巴哥犬？ — 本站吉祥物的由來：一封 1770 年的密報裡，藏著一隻叫 Mops 的狗。
 - [[t-necklace]] 鑽石項鍊事件：被騙的人輸掉了名聲 — 一條她沒買、沒戴過的項鍊，卻讓全法國相信她是共犯。
@@ -53,6 +56,7 @@
 
 - [[s-1781-necker-compte-rendu]] Compte rendu au Roi（國王財政報告） — Jacques Necker（1781）｜檔案｜部分
 - [[s-1782-rousseau-confessions]] Les Confessions（卷六，「大公主」段落） — Jean-Jacques Rousseau（1782）｜回憶錄｜部分
+- [[s-1785-beaumarchais-figaro-preface]] La Folle Journée, ou Le Mariage de Figaro（1785 年 Ruault 版，含作者序言與審查核准文件） — Pierre-Augustin Caron de Beaumarchais（博馬舍，1732–1799）（1785）｜專書｜部分
 - [[s-1789-la-motte-justification]] Memoirs of the Countess de Valois de La Motte（拉莫特夫人回憶錄，英譯本） — Jeanne de Saint-Rémy de Valois, comtesse de La Motte（1789）｜回憶錄｜部分
 - [[s-1793-tribunal-proces-criminel-testament]] Procès criminel de Marie-Antoinette de Lorraine（Denné 版） — 革命法庭（書記紀錄，無署名）（1793）｜檔案｜部分
 - [[s-1793-tribunal-proces-marie-antoinette]] Procès de Marie-Antoinette: dite de Lorraine d'Autriche, veuve de Louis Capet（通行版） — 革命法庭（書記紀錄，無署名）（1793）｜檔案｜部分
