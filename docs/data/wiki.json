@@ -1,7 +1,7 @@
 {
- "built": "2026-11-16",
+ "built": "2026-11-17",
  "counts": {
-  "sources": 109,
+  "sources": 115,
   "fulltext": 25,
   "topics": 50,
   "entities": 5,
@@ -392,6 +392,33 @@
    ]
   },
   {
+   "id": "s-1797-bouille-memoires",
+   "type": "source",
+   "title": "Mémoires sur la révolution française",
+   "author": "布耶（François-Claude-Amour, marquis de Bouillé）",
+   "year": 1797,
+   "kind": "回憶錄",
+   "lang": "fr",
+   "venue": "Londres, 1797（Google Books 掃描本）",
+   "url": "https://archive.org/details/mmoiressurlarvo00bouigoog",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1789,
+    1791
+   ],
+   "topics": [
+    "t-varennes"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n布耶侯爵（逃亡計畫的總指揮）1797 年在倫敦出版的回憶錄，詳述他如何安排沿途部隊，並把瓦雷納的失敗歸咎於騎兵沒有照命令行動；書中沒有提到髮型師 Léonard。\n\n## 三個重點\n\n1. 書目：倫敦，1797；作者流亡期間出版，目的是為自己辯護。\n2. 部隊安排：Pont-de-Sommevelle 與 Sainte-Ménehould 各放一支騎兵，對外說是護送軍餉（約 p. 56–57）；1791 年 6 月 20 日，他把密令交給 Goguelat，要他帶 50 名騎兵到 Pont-de-Sommevelle 待命（約 p. 62–63）。\n3. 失敗的原因：布耶指責 Damas 的龍騎兵拒絕出動、Varennes 的騎兵被居民爭取，他的命令沒有被執行（約 p. 69–70）。\n\n## 用了什麼史料\n\n作者本人的命令、信件與行程記錄；寫於事件後約六年。\n\n## 跟其他資料的關係\n\n- 與 Choiseul 的《Relation》（s-1822-choiseul-relation）不同：Choiseul 寫 Léonard 帶著王后的信來、撤騎兵是他自己決定的；布耶沒有提 Léonard，也沒有寫 Pont-de-Sommevelle 的撤離。\n- 布耶只在附件名單裡點名 Choiseul-Stainville，沒有寫撤離。\n\n## 值得記住的一句話\n\n本次未取得可核對的引文，本卡暫不引用原文。\n\n## 還不確定的地方\n\n- 只讀了 Varennes 與 Pont-de-Sommevelle 相關段落（約 pp. 56–70）。\n- 頁碼依 OCR 頁碼標記估計，未逐頁核對。\n- 布耶是否看過 Choiseul 的稿件，本次未查。\n",
+   "links": [
+    "t-varennes"
+   ]
+  },
+  {
    "id": "s-1797-laperouse-voyage",
    "type": "source",
    "title": "拉佩魯茲《環球航海記》第一卷（Voyage de La Pérouse autour du monde，1797 年版）",
@@ -446,6 +473,33 @@
    ]
   },
   {
+   "id": "s-1801-fargeon-art-parfumeur",
+   "type": "source",
+   "title": "L'Art du parfumeur, ou Traité complet de la préparation des parfums, cosmétiques, pommades, pastilles, odeurs, huiles antiques, essences, bains aromatiques et des gants de senteur",
+   "author": "Jean-Louis Fargeon（署名「D. J. F. ci-devant Parfumeur de la Cour」）",
+   "year": 1801,
+   "kind": "專書",
+   "lang": "fr",
+   "venue": "Paris: Delalain fils, an IX (1801)。Internet Archive 館藏（BIUSante_pharma_res050216）",
+   "url": "https://archive.org/details/BIUSante_pharma_res050216",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1774,
+    1801
+   ],
+   "topics": [
+    "t-perfume"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n香水師法爾容（Jean-Louis Fargeon）1801 年出版的技術書，收了香水、香脂、化妝品與香料的配方和說明。署名「前宮廷香水師」，全書沒有提到王后，但它是研究法爾容本人最直接的第一手材料。\n\n## 三個重點\n\n1. 標題頁署名「D. J. F.，前宮廷香水師」（Par D. J. F. ci-devant Parfumeur de la Cour），只用縮寫。全書用「reine」「Majesté」「Antoinette」「Versailles」做文字搜尋，沒有命中；王后、梳妝盒、逃亡都不在書裡（pdf p. 4 標題頁；全書檢索，只讀部分）。\n2. 第一章先列出「最受推崇」的香料：印度與阿拉伯的乳香、安息香，還有麝香（musc）、麝貓香（civette）、龍涎香（ambre）等動物香料，各有專門條目（麝香、麝貓香在印刷頁 p. 12；第一章起頁為 pdf p. 9＝印刷頁 p. 4）。但在具體配方的段落，他寫「為了符合今天的口味，要完全去掉麝香」（p. 119，見下方引文）。\n3. 花的條目很短：玫瑰（Roses）只有「大家都認得」一句；紫羅蘭（Violette）寫「這個花的香氣很受歡迎」（L'odeur de cette fleur plaît beaucoup），並說明蒸餾無法取香，要用精油（p. 18）。\n\n## 用了什麼史料\n\n- 作者自己的配方與工作經驗。這是技術書，不是回憶錄；它說的是「怎麼做」，不是「誰買了什麼」。\n- 書中用的紀年是共和曆「an IX」（1801）。作者 1774 年取得師傅資格（見 s-2013-briot-fargeon-fournisseur），1806 年去世。\n\n## 跟其他資料的關係\n\n- 與 `s-2013-briot-fargeon-fournisseur` 對照：Briot 把這本書的「強調異國香料」與 1806 年遺產庫存（以花水為主）放在一起比較，認為書中的麝香描寫有「象徵性」，而不是實際用量（Briot pp. 169–170）。\n- 與康龐夫人回憶錄（s-1823-campan-memoires，本站未另建卡）沒有直接文字連結：康龐沒有提到法爾容。\n\n## 值得記住的一句話\n\n原文：「pour se conformer en tout au goût d'aujourd'hui, il faut supprimer totalement le musc」\n中譯：「要完全符合今天的口味，就必須徹底去掉麝香。」（本站譯；配方「Des eaux d'Ange」，p. 119）\n\n## 還不確定的地方\n\n- 頁碼：印刷頁＝PDF 頁減 5（已核對三處：PDF 9＝p. 4 第一章起頁；PDF 82＝p. 77；PDF 124＝p. 119；PDF 360＝p. 355）。其餘頁碼是依此換算，沒有逐頁核對。\n- 只讀了部分：第一章（香料總論）、麝香、麝貓香、紫羅蘭與玫瑰條目、「Des eaux d'Ange」配方，以及用關鍵字搜尋的段落。全書約 470 頁 PDF，沒有通讀。\n- 這本書不能證明王后用什麼香水、有沒有把香水放進梳妝盒。它只能說明法爾容的寫作態度與配方習慣。\n",
+   "links": [
+    "t-perfume"
+   ]
+  },
+  {
    "id": "s-1815-edgeworth-memoirs",
    "type": "source",
    "title": "埃奇沃斯神父回憶錄：路易十六最後幾小時的敘述（Memoirs of the Abbé Edgeworth, containing his narrative of the last hours of Louis XVI）",
@@ -470,6 +524,33 @@
    "body": "## 一句話\n\n路易十六的隨行神父埃奇沃斯，記下 1793 年 1 月 20 日晚上到 21 日刑場的過程，是唯一和國王一起坐在馬車裡的證人；但書成於事件二十多年後，而且「聖路易之子，升天吧」的說法在書中只有編者的註解。\n\n## 三個重點\n\n1. 1 月 20 日晚上，市政府准許神父行禮，但規定儀式要在七點前結束，國王八點整必須出發（s-1815 約 pp. 68–69）。\n2. 馬車走了近兩小時，車前放了十五到二十面鼓，街上只有武裝市民（s-1815 約 p. 80）。\n3. 編者註：埃奇沃斯被問到「聖路易之子，升天吧」時，既不能否認也不能肯定，因為他事後不記得自己當時說了什麼（s-1815 約 pp. 87–88）。\n\n## 用了什麼史料\n\n埃奇沃斯自己的敘述，由 1815 年編者整理出版，附編者註解。作者沒有用日記或文件，只憑記憶寫作。書中的對話是他的回憶，不是當場記錄。\n\n## 跟其他資料的關係\n\n- 與 Cléry 日記（s-1798-clery-journal）大致一致：六點彌撒、八點出發、國王的平靜態度（Cléry 寫國王離開時說「Partons」）。\n- 與瑪麗－泰蕾茲（s-1852-marie-therese-temple）衝突：國王是否拒絕被綁、誰下令擊鼓、馬車時間。\n- 與桑松家族回憶錄（s-1862-sanson-sept-generations）衝突：綁手的先後次序、擊鼓的命令者。\n\n## 值得記住的一句話\n\n「I die innocent of all the crimes laid to my charge」（英文版 OCR，原文法文未核）。\n中譯：「我無罪地死去。」（本站譯）\n\n## 還不確定的地方\n\n- 英文版頁碼是 Google 掃描的 OCR，標「約」的可能差 ±1。\n- 法文原文（Dernières heures de Louis XVI）未下載，本站只用英文版。\n- 「聖路易之子」的說法，書中只有編者的註；埃奇沃斯本人沒有承認。\n",
    "links": [
     "t-execution"
+   ]
+  },
+  {
+   "id": "s-1822-choiseul-relation",
+   "type": "source",
+   "title": "Relation du départ de Louis XVI, le 20 juin 1791",
+   "author": "Choiseul（Claude Antoine Gabriel, duc de）",
+   "year": 1822,
+   "kind": "回憶錄",
+   "lang": "fr",
+   "venue": "Paris, Baudouin frères, 1822（1791 年 8 月於奧爾良監獄寫成）",
+   "url": "https://archive.org/details/p2rlationdudp47choi",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1791,
+    1791
+   ],
+   "topics": [
+    "t-varennes"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n舒瓦瑟爾公爵（duc de Choiseul）在 1791 年 8 月的囚中寫成的逃亡經過，1822 年出版；他是當時在 Pont-de-Sommevelle 待命騎兵的指揮官，書中大量寫到髮型師 Léonard，但撤騎兵的決定是他自己做的。\n\n## 三個重點\n\n1. 書目：Baudouin frères，1822；寫於 1791 年 8 月，作者被囚於奧爾良高等法院監獄。公有領域，IA 與 Google Books 都有掃描。\n2. Léonard 的角色：王后派 Léonard 攜信來見他（約 p. 69–70），他把 Léonard 帶上自己的馬車（約 p. 70–73）；之後派 Léonard 乘 cabriolet 去 Stenay，途經 Varennes 傳話給 Damas、Bouillé 與將軍，內容是「我的位置與我的期待」（約 p. 81）。\n3. 撤騎兵：約 1791 年 6 月 21 日傍晚，作者因鎮民與國民自衛軍越來越激動，自己決定下令騎兵離開，改走小路往 Varennes（約 p. 83–84）。正文沒有說撤離是 Léonard 轉達的。\n\n## 用了什麼史料\n\n作者本人的記述，依據他自己的行程與當天的見聞；另附錄有騎兵 Boucher 的證詞（約 p. 159），寫 Léonard 於晚上約八點乘 cabriolet 經過 Varennes、沒有下車，假裝不認識他。\n\n## 跟其他資料的關係\n\n- 與 Tourzel 回憶錄（s-1883-tourzel-memoires，第 1 冊 pp. 313–314）的說法不同：Tourzel 寫 Choiseul 把自己的 cabriolet 給了 Léonard，要他去通知各部隊「王室旅程失敗」，然後 Choiseul 才撤離；她的說法以「à ce que l'on m'a assuré」（據說是有人告訴她的）開頭，屬二手。\n- 與 Weber 回憶錄（s-1822-weber-memoires-v2）大致相符：Damas 從 Léonard 那裡得知 Choiseul 已在 Pont-de-Sommevelle 讓人離開。\n- 與布耶回憶錄（s-1797-bouille-memoires）不同：布耶沒有提到 Léonard，也沒有描述 Pont-de-Sommevelle 的撤離。\n\n## 值得記住的一句話\n\n原文：「nous pouvions tout calmer par notre départ」（p. 84 附近，OCR 有斷字）／中譯：「我們的離開可以平息一切」（本站譯）。\n\n## 還不確定的地方\n\n- 只讀了 Léonard 與撤離段落（約 pp. 69–84）與附錄 Boucher 證詞，全書未讀完。\n- p. 81 附近「je chargeai Léonard」的 OCR 斷字嚴重，需對照原頁。\n- 作者在囚中為自己辯護，文本有自我保護的成分。\n",
+   "links": [
+    "t-varennes"
    ]
   },
   {
@@ -538,6 +619,33 @@
     "t-necklace",
     "t-varennes",
     "t-white-hair"
+   ]
+  },
+  {
+   "id": "s-1823-goguelat-memoire",
+   "type": "source",
+   "title": "Mémoire sur les événemens relatifs au voyage de Louis XVI à Varennes",
+   "author": "Goguelat（François, baron de）",
+   "year": 1823,
+   "kind": "回憶錄",
+   "lang": "fr",
+   "venue": "Paris, Baudouin frères, 1823",
+   "url": "https://archive.org/details/mmoiredemlebaro00gogugoog",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1791,
+    1791
+   ],
+   "topics": [
+    "t-varennes"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n布耶派出的軍官 Goguelat 1823 年出版的回憶錄，負責在 Pont-de-Sommevelle 帶領騎兵；本次只讀了 Varennes 抵達的段落，沒有讀到 Léonard 相關的內容。\n\n## 三個重點\n\n1. 書目：Baudouin frères，1823；事件後 32 年，作者為自己辯護。\n2. 本次讀到的段落：Goguelat 與 Choiseul 被國民自衛軍攔下、進入 Varennes（約 p. 26–27）；他引用布耶回憶錄第二冊 p. 79–80 的敘述。\n3. 本次未讀到 Léonard 與撤騎兵決定的段落。\n\n## 用了什麼史料\n\n作者本人的見聞與行程；引用布耶回憶錄。\n\n## 跟其他資料的關係\n\n- 與 Choiseul（s-1822-choiseul-relation）的敘述有交集：兩人都在 Pont-de-Sommevelle 與 Varennes 活動；Choiseul 書中寫 Goguelat 在他換衣服時交來布耶的密令，並在撤離前參與討論（約 p. 73–84）。細節需要補讀 Goguelat 自己的版本。\n\n## 值得記住的一句話\n\n本次未取得可核對的引文。\n\n## 還不確定的地方\n\n- 全書未讀完，Pont-de-Sommevelle 撤離的段落需要補讀。\n- 頁碼依 OCR 頁首數字，未逐頁核對。\n",
+   "links": [
+    "t-varennes"
    ]
   },
   {
@@ -2237,6 +2345,33 @@
    ]
   },
   {
+   "id": "s-2013-briot-fargeon-fournisseur",
+   "type": "source",
+   "title": "Jean-Louis Fargeon, fournisseur de la cour de France : art et techniques d'un parfumeur du XVIIIe siècle",
+   "author": "Eugénie Briot",
+   "year": 2013,
+   "kind": "期刊論文",
+   "lang": "fr",
+   "venue": "Artefact n° 1 (2013), pp. 167–177（OpenEdition 線上版 2014），doi:10.4000/artefact.11123（CC BY-NC-ND 4.0）",
+   "url": "https://doi.org/10.4000/artefact.11123",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1748,
+    1806
+   ],
+   "topics": [
+    "t-perfume"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\nEugénie Briot 研究法爾容（Jean-Louis Fargeon）的工具、配方與 1806 年去世時的店內庫存。她發現他 1801 年書中強調的麝香、乳香等異國香料，和他實際大量生產的玫瑰、柑橘等花水並不一致。文章沒有提到王后的香水用量。\n\n## 三個重點\n\n1. 法爾容 1748 年生於蒙彼利埃，1774 年取得師傅資格，店在巴黎羅勒街 11 號（rue du Roule）；1806 年 7 月 9 日在店裡去世（p. 167）。\n2. 1806 年的遺產庫存中，麝香只值 2,812 法郎，總貨值 143,950 法郎，庫存不到 3 公斤。店裡的大宗是玫瑰、薰衣草、茉莉、柑橘、丁香、紫丁香等花水與香水粉（「des centaines de kilos de poudre, de pommade, d'eaux aromatiques ou spiritueuses de rose, de lavande, de jasmin, d'agrumes, d'œillet, de lilas」，p. 169）。作者的結論是「花與柑橘」在產量中佔最大比例（p. 169）。\n3. 書中長篇描寫麝香、乳香，但玫瑰這個他大量使用的原料只有「兩行」（p. 170）。作者認為，這種描寫帶有「象徵」性，是為了替作品加上神秘光環（推論，見下方引文）。\n\n## 用了什麼史料\n\n- 1806 年的遺產庫存（inventaire après-décès），記錄店內的工具、原料與成品。\n- 法爾容 1801 年的《L'Art du parfumeur》（見 s-1801-fargeon-art-parfumeur）。\n- 作者對蒸餾、配方的技術分析（本卡只讀了前言、「調香師的調色盤」一節，以及庫存比對的段落）。\n\n## 跟其他資料的關係\n\n- 與 s-1801-fargeon-art-parfumeur 直接對照：Briot 是唯一把書中配方與實際庫存並排比較的研究。\n- 與 s-2020-lanoe-gallois-huet 同一家店（rue du Roule 11）的背景。\n- 文中唯一提到王后的地方是前言：法爾容是「宮廷香水師」，因此也是「瑪麗．安東尼的香水師」（p. 167）。全文沒有討論王后的個人香水、化妝品或梳妝盒（已用 nécessaire、reine、Marie-Antoinette 搜尋全文）。\n- 參考書目第 27 條：Élisabeth（文中寫 Elizabeth）de Feydeau, *Jean-Louis Fargeon, parfumeur de Marie-Antoinette*, Paris, Perrin, **2004**（p. 177）。注意：不是 2005 年。這本專書本站沒有全文，未讀。\n\n## 值得記住的一句話\n\n原文：「la rose, qui est au cœur d'un très grand nombre de ses compositions, ne bénéficie que de deux lignes」\n中譯：「玫瑰是他很多配方的核心，卻只得到兩行的篇幅。」（本站譯；p. 170）\n\n## 還不確定的地方\n\n- 文章沒有任何王后用香水、化妝品或梳妝盒的記載，也沒有提到瓦雷納逃亡。\n- 「麝香描寫是為了神秘光環」是作者的判斷（推論），不是史料直接寫的。\n- 頁碼是 PDF 頁面上的印刷頁碼（PDF 2＝p. 167、PDF 3＝p. 168、PDF 4＝p. 169、PDF 5＝p. 170、PDF 12＝p. 177）。\n- 只讀了前言、「palette」一節與庫存比對段；技術章節只掃過。\n- Feydeau（2004）全書未取得，要找英譯本《A Scented Palace》或台大館藏才能讀。\n",
+   "links": [
+    "t-perfume"
+   ]
+  },
+  {
    "id": "s-2013-chatenet-becquet-review",
    "type": "source",
    "title": "書評：Hélène Becquet，《瑪麗－泰蕾茲．德．法蘭西：聖殿塔的孤兒》（Perrin, 2012）",
@@ -2538,6 +2673,33 @@
    "body": "## 一句話\n\n這篇研究談的是 1789 年以後針對波利尼亞克夫人的色情諷刺小冊子，順帶引用 Chantal Thomas 的看法：最早一批「王朝考量」的小冊子可能出自凡爾賽宮廷，甚至可能來自普羅旺斯伯爵的身邊。作者用的是「可能」，不是證實。\n\n## 三個重點\n\n1. 作者引 Chantal Thomas 的說法，認為早期一批以王朝繼承為主題的小冊子「potentiellement」（可能）出自「comte de Provence」的身邊人士，因為普羅旺斯伯爵在 1774 年到 1781 年間是王位繼承人，最有動機懷疑哥哥的子女是否合法（注 6，p. 34）。\n2. 這是一個注釋裡的引述，不是本文的論證主軸。作者本人沒有進一步檢驗這個說法。\n3. 作者注明原始說法來自 Thomas《La reine scélérate》（Seuil，Points 版 2008 年，p. 64 以下），但本站還沒讀到 Thomas 的原書，所以這個判斷目前只能當「研究者提出的可能性」。\n\n## 用了什麼史料\n\n- 作者自己的分析：1789 年以後針對波利尼亞克夫人的色情小冊子，把她寫成「louve」（母狼）與「Ganymède femelle」（母的甘尼墨得斯）。\n- 注 6 引用 Thomas：早期小冊子引用 1774 年一份已失傳的「Avis important de la branche espagnole」之類的王朝論述。\n- 作者也引 Elizabeth Colwill（1989，History Workshop）與 Robert Darnton（法譯本 2014 年）談宮廷中的誹謗網絡（注 4、6）。\n\n## 跟其他資料的關係\n\n- 跟 `s-1874-arneth-mercy-correspondance` 的關係：Mercy 的信寫的是宮廷內部的摩擦（普羅旺斯伯爵與王后的冷淡），沒有提到小冊子與子女合法性；兩者不互相證實。\n- 跟 `s-1993-barker-cake` 等通論：本文主題是波利尼亞克夫人，對普羅旺斯伯爵只是注釋。\n\n## 值得記住的一句話\n\n<!-- 原文（40 字以內）＋中譯，附頁碼 -->\n原文：「potentiellement dans l'entourage du comte de provence, héritier de la couronne…」（p. 34 注 6）\n中譯（本站譯）：「可能來自普羅旺斯伯爵的身邊，他是王位繼承人，因此最有興趣懷疑其兄長子女的合法性。」\n\n## 還不確定的地方\n\n- 本站只讀到引言與注釋，約 p. 33–34 與注 6；本文其餘部分（主要討論波利尼亞克夫人的小冊子）未逐段讀完，所以 depth 標「部分」。\n- 「potentiellement」是作者的保留語氣；Thomas 原書 p. 64 以下的完整論證還沒核對。\n- 頁碼依 PDF 頁眉（Page33 起）推定，與期刊印刷頁碼一致的部分需再核對。\n- 沒有找到任何同時代原典（Mercy、Campan 等）說普羅旺斯伯爵寫或資助誹謗小冊子；這點見 `raw/notes/t-provence-原典頁碼.md`。\n",
    "links": [
     "t-libels"
+   ]
+  },
+  {
+   "id": "s-2020-lanoe-gallois-huet",
+   "type": "source",
+   "title": "Une dynastie de parfumeurs du roi : les Gallois/Huet et la fabrique des apparences de la cour à la ville, 1686-1789",
+   "author": "Catherine Lanoë",
+   "year": 2020,
+   "kind": "期刊論文",
+   "lang": "fr",
+   "venue": "Artefact 12 (2020), pp. 317–348，doi:10.4000/artefact.6022（HAL: hal-03537483）",
+   "url": "https://doi.org/10.4000/artefact.6022",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1686,
+    1789
+   ],
+   "topics": [
+    "t-perfume"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\nCatherine Lanoë 研究巴黎一個皇家香水商家族（Gallois/Huet，1686–1789）的歷史。其中一段提到，1774 年法爾容（Fargeon）接手巴黎羅勒街 11 號的店，他被描寫為「宮廷與瑪麗．安東尼的香水師」。\n\n## 三個重點\n\n1. 1774 年，巴黎羅勒街 11 號的店由 Jean-Daniel Vigier 之後，由 Jean-Louis Fargeon 接手（原文「où lui succède en 1774 Jean-Louis Fargeon, parfumeur de la cour et de Marie-Antoinette」，p. 328）。這是本站目前看到最接近「法爾容是王后的香水師」的同時期描述，但它是作者的敘述，不是王后的帳單或命令。\n2. 「宮廷香水商」有不同的頭銜，各家競爭很激烈。Huet 家族的頭銜是「國王和王后的一般香水商」（marchand parfumeur ordinaire du roi et de la reine），作者說這是一種榮譽稱號，店面會用飾有百合花與王室徽章的三塊布來展示它；但許多商家都在爭用類似的稱號（p. 328）。\n3. 文中提到 1754 年「王后」是 Huet 家的常客，四份帳單共 961 里弗爾（p. 328–329）。文中沒有寫王后的名字；這一年的王后應是路易十五的王后瑪麗．萊什琴斯卡（本站推論，不是原文），不是瑪麗．安東尼。\n\n## 用了什麼史料\n\n- 店主的婚約、帳目與遺產資料，為作者的主要依據。詳細檔案出處見原文註腳；本卡沒有逐一核對。\n\n## 跟其他資料的關係\n\n- 與 s-2013-briot-fargeon-fournisseur 同樣談法爾容的店（rue du Roule 11）。Lanoë 的重點是家族與商業結構，不是法爾容的香料或配方。\n- 文中沒有談瑪麗．安東尼用什麼香水、有沒有梳妝盒的記錄。\n\n## 值得記住的一句話\n\n原文：「où lui succède en 1774 Jean-Louis Fargeon, parfumeur de la cour et de Marie-Antoinette」\n中譯：「1774 年接手這家店的是讓－路易．法爾容，他是宮廷與瑪麗．安東尼的香水師。」（本站譯；p. 328）\n\n## 還不確定的地方\n\n- 頁碼：印刷頁 p. 328 與 p. 329 之間的分段，是依 PDF 內的頁碼標記推定。\n- 只讀了與法爾容和 Huet 家族有關的段落；全文 33 頁沒有通讀。\n- 「1754 年的王后」是瑪麗．萊什琴斯卡，這是本站推論，不是原文。\n",
+   "links": [
+    "t-perfume"
    ]
   },
   {
@@ -4685,6 +4847,8 @@
    "image": "t-varennes.jpg",
    "imageAlt": "粉彩畫風插畫：夜裡的鄉間道路，一輛大馬車駛向小鎮石橋，橋上一輛翻倒的貨車擋住去路。",
    "sources": [
+    "s-1822-choiseul-relation",
+    "s-1797-bouille-memoires",
     "s-1868-feuillet-elisabeth-correspondance",
     "s-1899-elisabeth-life-letters-en",
     "s-1883-tourzel-memoires",
@@ -4696,11 +4860,14 @@
     "s-2005-ozouf-varennes"
    ],
    "updated": "2026-11-15",
-   "body": "## 一句話說明\n\n1791 年 6 月，國王一家喬裝逃離巴黎，在距離邊境不遠的小鎮瓦雷納（Varennes）被攔下；他們不是因為停下來吃飯而被追上，而是一路上的小延誤累積成一個半小時，又被驛站長認出了臉。\n\n## 迷思與史料\n\n和國王一家同車逃亡的王室子女家庭教師圖澤爾夫人（Madame de Tourzel）在回憶錄裡特別澄清：「有人說國王停下來吃晚餐，這說法完全錯誤。他只在車上吃東西」，一路上「哪裡都沒有停」，國王只下過一次車（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊 p. 310）。\n\n不過，被押回巴黎的路上，他們確實在聖默努爾德（Sainte-Menehould）停下來吃了一頓飯（[[s-1883-tourzel-memoires]] 第 1 冊 p. 328）。所以判定是「半真半假」：吃飯這件事真的有，只是發生在回程，而且跟被抓無關。要注意的是，圖澤爾夫人是當事人、也是王室的忠實僕人，回憶錄在她死後才出版。\n\n## 故事是這樣的\n\n### 出發前\n\n路線早在一個多月前就畫好了。1791 年 5 月，負責接應的布耶將軍（Bouillé）用密碼寫信給費爾森，列出每一段驛程：巴黎到莫城 10 里，再到拉費爾泰、蒙米賴、沙隆、聖默努爾德、瓦雷納、當，最後到斯特奈，「總共 61 里驛程，夜裡出發、第二天晚上就到」（本站譯）（[[s-1877-klinckowstrom-fersen]] 第 1 冊約 p. 121）。\n\n出發前一天，6 月 19 日，費爾森在王后那裡和國王夫婦對了最後一次細節：如果他們被攔下，他就去布魯塞爾找外援。費爾森在日記裡寫，國王送他走時說：「費爾森先生，不管我遇到什麼事，我都不會忘記您為我做的一切。」王后哭得很厲害（本站譯）（[[s-1877-klinckowstrom-fersen]] 第 1 冊日記，1791 年 6 月 19 日條）。\n\n逃亡原本訂在 6 月 19 日晚上，因為宮裡有一個被懷疑效忠拉法葉（Lafayette）的女僕輪值，才延到 20 日（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 303）。這段故事最主要的證人，是王室子女的家庭教師圖澤爾夫人（Madame de Tourzel）。她剛生過病，王后勸她去溫泉療養，她回答：「如果我是男人，陛下也不會攔著我上戰場吧。」（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊約 pp. 302–303）於是她跟著上了車。\n\n那天晚上，王后親自去叫醒六歲的王太子。孩子一聽說要去一座「可以指揮自己軍團」的要塞，立刻跳下床大喊：「快快快，給我軍刀、靴子，我們走！」（本站譯）他被換上一套小女孩的裙子和帽子，喬裝成女孩（[[s-1883-tourzel-memoires]] 第 1 冊約 pp. 303–305）。王后把孩子交給圖澤爾夫人時說：「國王和我，把我們最珍貴的東西完全託付給你了。」（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊約 pp. 305–306）\n\n宮外，一輛像出租馬車的舊車在等著，駕車的是扮成車夫的瑞典伯爵費爾森（見 [[t-fersen]]）。他吹著口哨、跟一個假裝路過的同伴閒聊、遞鼻煙盒，裝得很像。等著等著，九歲的公主突然看見拉法葉從旁邊經過，圖澤爾夫人趕緊把王太子藏到自己的裙子底下（[[s-1883-tourzel-memoires]] 第 1 冊 p. 306）。國王則被他每晚的就寢儀式絆住：拉法葉和巴黎市長也來參加，國王不能顯得急著打發他們走。等人散了，他再起來換衣服、戴假髮，從杜樂麗宮走路出來（[[s-1883-tourzel-memoires]] 第 1 冊 pp. 306–307）。王后是最後一個上車的。圖澤爾夫人記得，國王緊緊抱住她，一直說：「看到你來了，我真高興！」（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊 p. 307）\n\n### 一路累積的延誤\n\n費爾森在日記裡把這一夜記成了時刻表：午夜出發，凌晨一點半到邦迪（Bondy）換驛馬（[[s-1877-klinckowstrom-fersen]] 第 1 冊日記，1791 年 6 月 20 日條）。康龐夫人的記錄也說是邦迪（[[s-1823-campan-memoires]] 第 2 冊 p. 328）；圖澤爾夫人卻寫成巴黎東郊的克萊（Claye）（[[s-1883-tourzel-memoires]] 第 1 冊 p. 310）。費爾森在這裡跟王室分開，抄小路往北走。他的日記把那一夜記得像值班紀錄：十點一刻到宮殿的「親王庭院」；十一點一刻，孩子們被帶出來，「沒有任何困難」；拉法葉從旁邊經過了兩次；十一點三刻，伊莉莎白夫人、國王、王后依序出來（本站譯）（[[s-1877-klinckowstrom-fersen]] 第 1 冊日記，1791 年 6 月 20 日條）。（推論）邦迪和克萊兩種說法也許都對：費爾森在邦迪下車離開，王室再到下一站克萊換馬，1868 年伊莉莎白夫人書信集的編者就是這樣解釋的（[[s-1868-feuillet-elisabeth-correspondance]] 編者敘述）。\n\n延誤從一開始就在累積。圖澤爾夫人一筆一筆記下來：費爾森繞了遠路，多花半小時；國王的就寢儀式拖了四十五分鐘；路上遇到婚禮的人群；後來馬車翻倒、套具斷裂，修了一個多小時。加起來，他們比預定時間晚了一個半小時（[[s-1883-tourzel-memoires]] 第 1 冊 pp. 309–310）。過了沙隆（Châlons），國王鬆了一口氣，說到了下一站就會遇到第一支接應的部隊（[[s-1883-tourzel-memoires]] 第 1 冊 p. 313）。但部隊等不到人，以為計畫取消，已經撤走；指揮官舒瓦瑟爾公爵慌了手腳，竟派王后的髮型師去通知其他部隊（[[s-1883-tourzel-memoires]] 第 1 冊 pp. 313–314）。\n\n### 鈔票上的臉\n\n6 月 21 日傍晚，馬車在聖默努爾德（Sainte-Menehould）換馬。驛站長德魯埃（Jean-Baptiste Drouet）後來在國民議會說，他覺得車裡的女士像王后，又發現那位先生的臉，和五十里弗爾指券（assignat，當時的紙鈔）上印的國王頭像很像；他怕是自己弄錯、引起虛驚，猶豫之後才和同伴騎馬抄小路去追（[[s-1887-drouet-barre]] p. 508）。康龐夫人說，後來還有一個陌生騎士經過車窗，只丟下一句「你們被認出來了！」就跑了（[[s-1823-campan-memoires]] 第 2 冊 p. 330）。\n\n不過，德魯埃到底怎麼認出國王，說法不只一種。1868 年的書信集編者說，有人說他是看指券上的頭像，也有人說他在前一年的聯盟節見過國王；接著他騎馬狂奔十二里，把馬都累垮了，搶先趕到瓦雷納（[[s-1868-feuillet-elisabeth-correspondance]] 編者敘述，約 p. 300）。九歲的公主瑪麗－泰蕾茲後來的回憶又不一樣：她說一家人始終沒見過「那個有名的德魯埃」，只記得離開克萊蒙時，有一個騎馬的人超過他們的車；另一個叫紀堯姆（Guillaume）的人，則說自己沒認出國王，只認出了她的姑姑，因為在聯盟節見過她（本站譯）（[[s-1899-elisabeth-life-letters-en]] 約 pp. 222–223）。\n\n{{photo:t-varennes-drouet.jpg|德魯埃的肖像版畫，1791 年出版，現藏法國國家圖書館。他就是在聖默努爾德認出國王的驛站長。|Wikimedia Commons，Public domain}}\n\n### 瓦雷納的八個鐘頭\n\n德魯埃搶先趕到瓦雷納，在橋上翻倒一輛貨車擋路，叫醒鎮上的人。晚上十一點半，馬車被持槍的居民攔下（[[s-1883-tourzel-memoires]] 第 1 冊 p. 318）。王后催他們快一點，對方故意拖延，好讓民兵集合；孩子們被安置在鎮上雜貨商、也是公社檢察官索斯（Sauce）家樓上的床上，很快就睡著了，圖澤爾夫人說，這種安穩和父母的處境對比，看得人心碎（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 319）。王后坐在索斯家店鋪深處、堆滿蠟燭和肥皂箱子的地方，求索斯太太勸丈夫放他們走。索斯太太哭著說：「我很愛我的國王，可是，您聽我說，我也很愛我的丈夫，他是要負責任的。」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 pp. 331–332）\n\n這時一位軍官帶著騎兵趕到，問國王要不要用武力衝出去。國王問：「會流血嗎？」對方說不可能不流血，國王就不肯冒這個險（[[s-1823-campan-memoires]] 第 2 冊 p. 333）。公主的回憶補上了屋子裡的樣子：警鐘一直響，大家擠在一個很小的房間裡，鎮上的人也擠進來看；倒楣的是，牆上正好掛著國王的畫像，村民一下看看國王、一下看看畫。王后和圖澤爾夫人大聲抗議，說她們只是拿著政府護照帶家人旅行，國王根本不在車上。人們找來一位法官確認，法官看了國王，一句話也不說；伊莉莎白夫人急著問他到底認不認得，他還是不說話，只是抬頭望天。吵成這樣，三名護衛竟然睡著了（本站譯）（[[s-1899-elisabeth-life-letters-en]] 約 p. 222）。據圖澤爾夫人說，一個小時之內，鎮上就集合了四千名國民自衛軍（[[s-1883-tourzel-memoires]] 第 1 冊約 pp. 319–320）。他們在瓦雷納熬過了「八個鐘頭要命的等待」（本站譯），接應的大軍始終沒來（[[s-1883-tourzel-memoires]] 第 1 冊 p. 325）。\n\n### 回程\n\n回程是一場漫長的遊街。馬車一啟程，就有人大喊「抓住舒瓦瑟爾！」；一路上群眾高喊「國民與國民議會萬歲！」（[[s-1883-tourzel-memoires]] 第 1 冊 p. 326）。一位貴族丹皮耶爾（Dampierre）只是想靠近馬車向國王致意，圖澤爾夫人說他就在路上被開槍打死（[[s-1883-tourzel-memoires]] 第 1 冊 p. 327）。1868 年書信集編者的說法更殘酷：他在王室眼前被割了喉，頭和四肢被挑在長矛上（[[s-1868-feuillet-elisabeth-correspondance]] 編者敘述，約 p. 301）。前者是在場的人寫的，後者是事後七十多年的敘述。\n\n在聖默努爾德，他們確實停下來吃了一頓飯，當地官員當面責備國王（[[s-1883-tourzel-memoires]] 第 1 冊 p. 328）。公主記得，那是他們從早上六點以來第一次下車，被帶到市長法爾西（Farcy）家裡；市長太太一次又一次走到國王面前問：「您為什麼要離開我們？」大家跟她解釋，國王本來就沒有要離開法國，只是想去蒙梅迪，可是群眾什麼都聽不進去（本站譯）（[[s-1899-elisabeth-life-letters-en]] 約 p. 223）。路上有士兵餓著肚子抱怨，王后從車裡拿出食物分給他們；有人大喊「別碰，一定下了毒！」，國王和孩子們就當場吃給他們看（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 331）。\n\n國民議會派來三位議員上車同行，其中巴納夫（Barnave）和佩蒂翁（Pétion）擠進了王室的車廂。佩蒂翁一路大談美國和共和的好處（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 337）。天氣熱到極點，車裡每個人都滿身汗水和灰塵，王后抱著王太子（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 340）。小王子在途中過夜時夢見自己在森林裡和狼在一起，媽媽有危險，哭著醒來（[[s-1883-tourzel-memoires]] 第 1 冊 p. 334）。6 月 25 日，他們從莫城（Meaux）回到巴黎。拉法葉下令沿途群眾不准脫帽、保持安靜（[[s-1883-tourzel-memoires]] 第 1 冊 p. 343）。這時候的費爾森在邊境的阿爾隆（Arlon）。6 月 23 日半夜，他寫信給父親：「全完了，親愛的父親，我絕望了。國王在瓦雷納被捕，離邊境只有 16 里。」（本站譯）消息是布耶將軍告訴他的；他當晚就動身去布魯塞爾，把國王交代的信送給梅西大使（[[s-1877-klinckowstrom-fersen]] 第 1 冊，1791 年 6 月 23 日致父親信）。同年 8 月 18 日，國民議會通過法令，獎賞德魯埃和其他攔下國王的人（[[s-1887-ap-varennes-reward]]）。\n\n{{photo:t-varennes-retour-1791.jpg|1791 年 6 月國王一家被押回巴黎的版畫，Prieur 繪、Baleverest 刻，製作於 1791 年之後，現藏卡納瓦雷博物館。|Wikimedia Commons，CC0}}\n\n## 研究者怎麼看\n\n- 美國歷史學家塔克特（Timothy Tackett）的《國王逃亡之時》（*When the King Took Flight*, 2003）和法國歷史學家奧祖夫（Mona Ozouf）的《瓦雷納：王權之死》（*Varennes*, 2005）都把這次逃亡視為革命的轉捩點：國王出逃之後，許多法國人不再信任他（[[s-2003-tackett-king]]；[[s-2005-ozouf-varennes]]）。本站目前只讀到這兩本書的書目資訊，還沒讀到內文。\n- 德魯埃的陳述是在議會上爭取功勞時說的，他有領賞的利害關係；圖澤爾夫人則是王室這一邊的人。兩人各自的立場，都可能影響細節（[[s-1887-drouet-barre]]；[[s-1883-tourzel-memoires]]）。\n\n## 延伸閱讀\n\n- [[s-1883-tourzel-memoires]]\n- [[s-1823-campan-memoires]]\n- [[s-1877-klinckowstrom-fersen]]\n- [[s-1887-drouet-barre]]\n- [[s-1887-ap-varennes-reward]]\n- [[s-2003-tackett-king]]\n- [[s-2005-ozouf-varennes]]\n- 名詞：[[e-fersen]]\n- 相關故事：[[t-october-days]]、[[t-temple]]、[[t-table]]、[[t-august10]]、[[t-secret]]、[[t-tuileries]]\n- 人物：[[e-tourzel]]\n\n## 還不知道的事\n\n- 那輛大型豪華馬車（berline）的細節、逃亡路線圖，需要讀 Tackett 或 Ozouf 的原書。\n- 圖澤爾夫人和康龐夫人的版本有幾處對不上：費爾森送到邦迪還是克萊；佩蒂翁談共和時國王有沒有回話（圖澤爾說有，康龐說國王從此一路不發一語）；三名護衛有沒有被綁在車座上（只有康龐這樣寫）（[[s-1883-tourzel-memoires]]；[[s-1823-campan-memoires]] 第 2 冊 pp. 328–336）。\n- 康龐夫人這段是王后回到巴黎第二天親口講給她聽的，等於是王后自己的版本。\n- 王后在這次逃亡後頭髮變白的說法，見 [[t-white-hair]]。\n",
+   "body": "## 一句話說明\n\n1791 年 6 月，國王一家喬裝逃離巴黎，在距離邊境不遠的小鎮瓦雷納（Varennes）被攔下；他們不是因為停下來吃飯而被追上，而是一路上的小延誤累積成一個半小時，又被驛站長認出了臉。\n\n## 迷思與史料\n\n和國王一家同車逃亡的王室子女家庭教師圖澤爾夫人（Madame de Tourzel）在回憶錄裡特別澄清：「有人說國王停下來吃晚餐，這說法完全錯誤。他只在車上吃東西」，一路上「哪裡都沒有停」，國王只下過一次車（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊 p. 310）。\n\n不過，被押回巴黎的路上，他們確實在聖默努爾德（Sainte-Menehould）停下來吃了一頓飯（[[s-1883-tourzel-memoires]] 第 1 冊 p. 328）。所以判定是「半真半假」：吃飯這件事真的有，只是發生在回程，而且跟被抓無關。要注意的是，圖澤爾夫人是當事人、也是王室的忠實僕人，回憶錄在她死後才出版。\n\n## 故事是這樣的\n\n### 出發前\n\n路線早在一個多月前就畫好了。1791 年 5 月，負責接應的布耶將軍（Bouillé）用密碼寫信給費爾森，列出每一段驛程：巴黎到莫城 10 里，再到拉費爾泰、蒙米賴、沙隆、聖默努爾德、瓦雷納、當，最後到斯特奈，「總共 61 里驛程，夜裡出發、第二天晚上就到」（本站譯）（[[s-1877-klinckowstrom-fersen]] 第 1 冊約 p. 121）。\n\n出發前一天，6 月 19 日，費爾森在王后那裡和國王夫婦對了最後一次細節：如果他們被攔下，他就去布魯塞爾找外援。費爾森在日記裡寫，國王送他走時說：「費爾森先生，不管我遇到什麼事，我都不會忘記您為我做的一切。」王后哭得很厲害（本站譯）（[[s-1877-klinckowstrom-fersen]] 第 1 冊日記，1791 年 6 月 19 日條）。\n\n逃亡原本訂在 6 月 19 日晚上，因為宮裡有一個被懷疑效忠拉法葉（Lafayette）的女僕輪值，才延到 20 日（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 303）。這段故事最主要的證人，是王室子女的家庭教師圖澤爾夫人（Madame de Tourzel）。她剛生過病，王后勸她去溫泉療養，她回答：「如果我是男人，陛下也不會攔著我上戰場吧。」（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊約 pp. 302–303）於是她跟著上了車。\n\n那天晚上，王后親自去叫醒六歲的王太子。孩子一聽說要去一座「可以指揮自己軍團」的要塞，立刻跳下床大喊：「快快快，給我軍刀、靴子，我們走！」（本站譯）他被換上一套小女孩的裙子和帽子，喬裝成女孩（[[s-1883-tourzel-memoires]] 第 1 冊約 pp. 303–305）。王后把孩子交給圖澤爾夫人時說：「國王和我，把我們最珍貴的東西完全託付給你了。」（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊約 pp. 305–306）\n\n宮外，一輛像出租馬車的舊車在等著，駕車的是扮成車夫的瑞典伯爵費爾森（見 [[t-fersen]]）。他吹著口哨、跟一個假裝路過的同伴閒聊、遞鼻煙盒，裝得很像。等著等著，九歲的公主突然看見拉法葉從旁邊經過，圖澤爾夫人趕緊把王太子藏到自己的裙子底下（[[s-1883-tourzel-memoires]] 第 1 冊 p. 306）。國王則被他每晚的就寢儀式絆住：拉法葉和巴黎市長也來參加，國王不能顯得急著打發他們走。等人散了，他再起來換衣服、戴假髮，從杜樂麗宮走路出來（[[s-1883-tourzel-memoires]] 第 1 冊 pp. 306–307）。王后是最後一個上車的。圖澤爾夫人記得，國王緊緊抱住她，一直說：「看到你來了，我真高興！」（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊 p. 307）\n\n### 一路累積的延誤\n\n費爾森在日記裡把這一夜記成了時刻表：午夜出發，凌晨一點半到邦迪（Bondy）換驛馬（[[s-1877-klinckowstrom-fersen]] 第 1 冊日記，1791 年 6 月 20 日條）。康龐夫人的記錄也說是邦迪（[[s-1823-campan-memoires]] 第 2 冊 p. 328）；圖澤爾夫人卻寫成巴黎東郊的克萊（Claye）（[[s-1883-tourzel-memoires]] 第 1 冊 p. 310）。費爾森在這裡跟王室分開，抄小路往北走。他的日記把那一夜記得像值班紀錄：十點一刻到宮殿的「親王庭院」；十一點一刻，孩子們被帶出來，「沒有任何困難」；拉法葉從旁邊經過了兩次；十一點三刻，伊莉莎白夫人、國王、王后依序出來（本站譯）（[[s-1877-klinckowstrom-fersen]] 第 1 冊日記，1791 年 6 月 20 日條）。（推論）邦迪和克萊兩種說法也許都對：費爾森在邦迪下車離開，王室再到下一站克萊換馬，1868 年伊莉莎白夫人書信集的編者就是這樣解釋的（[[s-1868-feuillet-elisabeth-correspondance]] 編者敘述）。\n\n延誤從一開始就在累積。圖澤爾夫人一筆一筆記下來：費爾森繞了遠路，多花半小時；國王的就寢儀式拖了四十五分鐘；路上遇到婚禮的人群；後來馬車翻倒、套具斷裂，修了一個多小時。加起來，他們比預定時間晚了一個半小時（[[s-1883-tourzel-memoires]] 第 1 冊 pp. 309–310）。過了沙隆（Châlons），國王鬆了一口氣，說到了下一站就會遇到第一支接應的部隊（[[s-1883-tourzel-memoires]] 第 1 冊 p. 313）。但部隊等不到人，已經撤走了。圖澤爾夫人說「據人告訴我」，指揮官舒瓦瑟爾公爵以為計畫取消，竟派王后的髮型師萊昂納爾（Léonard）去通知其他部隊（[[s-1883-tourzel-memoires]] 第 1 冊 pp. 313–314）。舒瓦瑟爾自己的說法不同：他說鎮民和國民自衛軍對這支來路不明的騎兵越來越起疑，他判斷「我們離開，就能讓一切平靜下來」，是他自己下令撤的；萊昂納爾則是被他派去通知前面的軍官「我在哪裡、在等什麼」（本站譯）（[[s-1822-choiseul-relation]] pp. 81–84）。\n\n### 鈔票上的臉\n\n6 月 21 日傍晚，馬車在聖默努爾德（Sainte-Menehould）換馬。驛站長德魯埃（Jean-Baptiste Drouet）後來在國民議會說，他覺得車裡的女士像王后，又發現那位先生的臉，和五十里弗爾指券（assignat，當時的紙鈔）上印的國王頭像很像；他怕是自己弄錯、引起虛驚，猶豫之後才和同伴騎馬抄小路去追（[[s-1887-drouet-barre]] p. 508）。康龐夫人說，後來還有一個陌生騎士經過車窗，只丟下一句「你們被認出來了！」就跑了（[[s-1823-campan-memoires]] 第 2 冊 p. 330）。\n\n不過，德魯埃到底怎麼認出國王，說法不只一種。1868 年的書信集編者說，有人說他是看指券上的頭像，也有人說他在前一年的聯盟節見過國王；接著他騎馬狂奔十二里，把馬都累垮了，搶先趕到瓦雷納（[[s-1868-feuillet-elisabeth-correspondance]] 編者敘述，約 p. 300）。九歲的公主瑪麗－泰蕾茲後來的回憶又不一樣：她說一家人始終沒見過「那個有名的德魯埃」，只記得離開克萊蒙時，有一個騎馬的人超過他們的車；另一個叫紀堯姆（Guillaume）的人，則說自己沒認出國王，只認出了她的姑姑，因為在聯盟節見過她（本站譯）（[[s-1899-elisabeth-life-letters-en]] 約 pp. 222–223）。\n\n{{photo:t-varennes-drouet.jpg|德魯埃的肖像版畫，1791 年出版，現藏法國國家圖書館。他就是在聖默努爾德認出國王的驛站長。|Wikimedia Commons，Public domain}}\n\n### 瓦雷納的八個鐘頭\n\n德魯埃搶先趕到瓦雷納，在橋上翻倒一輛貨車擋路，叫醒鎮上的人。晚上十一點半，馬車被持槍的居民攔下（[[s-1883-tourzel-memoires]] 第 1 冊 p. 318）。王后催他們快一點，對方故意拖延，好讓民兵集合；孩子們被安置在鎮上雜貨商、也是公社檢察官索斯（Sauce）家樓上的床上，很快就睡著了，圖澤爾夫人說，這種安穩和父母的處境對比，看得人心碎（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 319）。王后坐在索斯家店鋪深處、堆滿蠟燭和肥皂箱子的地方，求索斯太太勸丈夫放他們走。索斯太太哭著說：「我很愛我的國王，可是，您聽我說，我也很愛我的丈夫，他是要負責任的。」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 pp. 331–332）\n\n這時一位軍官帶著騎兵趕到，問國王要不要用武力衝出去。國王問：「會流血嗎？」對方說不可能不流血，國王就不肯冒這個險（[[s-1823-campan-memoires]] 第 2 冊 p. 333）。公主的回憶補上了屋子裡的樣子：警鐘一直響，大家擠在一個很小的房間裡，鎮上的人也擠進來看；倒楣的是，牆上正好掛著國王的畫像，村民一下看看國王、一下看看畫。王后和圖澤爾夫人大聲抗議，說她們只是拿著政府護照帶家人旅行，國王根本不在車上。人們找來一位法官確認，法官看了國王，一句話也不說；伊莉莎白夫人急著問他到底認不認得，他還是不說話，只是抬頭望天。吵成這樣，三名護衛竟然睡著了（本站譯）（[[s-1899-elisabeth-life-letters-en]] 約 p. 222）。據圖澤爾夫人說，一個小時之內，鎮上就集合了四千名國民自衛軍（[[s-1883-tourzel-memoires]] 第 1 冊約 pp. 319–320）。他們在瓦雷納熬過了「八個鐘頭要命的等待」（本站譯），接應的大軍始終沒來（[[s-1883-tourzel-memoires]] 第 1 冊 p. 325）。\n\n### 回程\n\n回程是一場漫長的遊街。馬車一啟程，就有人大喊「抓住舒瓦瑟爾！」；一路上群眾高喊「國民與國民議會萬歲！」（[[s-1883-tourzel-memoires]] 第 1 冊 p. 326）。一位貴族丹皮耶爾（Dampierre）只是想靠近馬車向國王致意，圖澤爾夫人說他就在路上被開槍打死（[[s-1883-tourzel-memoires]] 第 1 冊 p. 327）。1868 年書信集編者的說法更殘酷：他在王室眼前被割了喉，頭和四肢被挑在長矛上（[[s-1868-feuillet-elisabeth-correspondance]] 編者敘述，約 p. 301）。前者是在場的人寫的，後者是事後七十多年的敘述。\n\n在聖默努爾德，他們確實停下來吃了一頓飯，當地官員當面責備國王（[[s-1883-tourzel-memoires]] 第 1 冊 p. 328）。公主記得，那是他們從早上六點以來第一次下車，被帶到市長法爾西（Farcy）家裡；市長太太一次又一次走到國王面前問：「您為什麼要離開我們？」大家跟她解釋，國王本來就沒有要離開法國，只是想去蒙梅迪，可是群眾什麼都聽不進去（本站譯）（[[s-1899-elisabeth-life-letters-en]] 約 p. 223）。路上有士兵餓著肚子抱怨，王后從車裡拿出食物分給他們；有人大喊「別碰，一定下了毒！」，國王和孩子們就當場吃給他們看（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 331）。\n\n國民議會派來三位議員上車同行，其中巴納夫（Barnave）和佩蒂翁（Pétion）擠進了王室的車廂。佩蒂翁一路大談美國和共和的好處（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 337）。天氣熱到極點，車裡每個人都滿身汗水和灰塵，王后抱著王太子（[[s-1883-tourzel-memoires]] 第 1 冊約 p. 340）。小王子在途中過夜時夢見自己在森林裡和狼在一起，媽媽有危險，哭著醒來（[[s-1883-tourzel-memoires]] 第 1 冊 p. 334）。6 月 25 日，他們從莫城（Meaux）回到巴黎。拉法葉下令沿途群眾不准脫帽、保持安靜（[[s-1883-tourzel-memoires]] 第 1 冊 p. 343）。這時候的費爾森在邊境的阿爾隆（Arlon）。6 月 23 日半夜，他寫信給父親：「全完了，親愛的父親，我絕望了。國王在瓦雷納被捕，離邊境只有 16 里。」（本站譯）消息是布耶將軍告訴他的；他當晚就動身去布魯塞爾，把國王交代的信送給梅西大使（[[s-1877-klinckowstrom-fersen]] 第 1 冊，1791 年 6 月 23 日致父親信）。同年 8 月 18 日，國民議會通過法令，獎賞德魯埃和其他攔下國王的人（[[s-1887-ap-varennes-reward]]）。\n\n{{photo:t-varennes-retour-1791.jpg|1791 年 6 月國王一家被押回巴黎的版畫，Prieur 繪、Baleverest 刻，製作於 1791 年之後，現藏卡納瓦雷博物館。|Wikimedia Commons，CC0}}\n\n## 研究者怎麼看\n\n- 美國歷史學家塔克特（Timothy Tackett）的《國王逃亡之時》（*When the King Took Flight*, 2003）和法國歷史學家奧祖夫（Mona Ozouf）的《瓦雷納：王權之死》（*Varennes*, 2005）都把這次逃亡視為革命的轉捩點：國王出逃之後，許多法國人不再信任他（[[s-2003-tackett-king]]；[[s-2005-ozouf-varennes]]）。本站目前只讀到這兩本書的書目資訊，還沒讀到內文。\n- 德魯埃的陳述是在議會上爭取功勞時說的，他有領賞的利害關係；圖澤爾夫人則是王室這一邊的人。兩人各自的立場，都可能影響細節（[[s-1887-drouet-barre]]；[[s-1883-tourzel-memoires]]）。\n- **是髮型師搞砸了逃亡嗎？** 常見的說法是，王后的髮型師萊昂納爾一路叫接應的騎兵撤走。舒瓦瑟爾公爵 1791 年在獄中寫、1822 年出版的記述說，王后在出發那天下午一點多、國王上桌吃飯前，把萊昂納爾叫到壁爐邊，問他「我可以信任你嗎？」，要他帶信去找公爵、「完全照他的話做」；公爵這才帶他一起往東走（[[s-1822-choiseul-relation]] pp. 69–70）。撤兵是公爵自己的決定，他在書的序言裡辯解：如果他硬留在那裡，引起騷動、讓沙隆關上城門，那才真是害國王被抓（[[s-1822-choiseul-relation]] 序言 pp. 23–24）。負責整個接應計畫的布耶侯爵 1797 年的回憶錄，把失敗怪到別的軍官和不肯出動的龍騎兵身上，一句也沒提萊昂納爾（[[s-1797-bouille-memoires]]）。（推論）這是一群互相推卸責任的當事人；說「髮型師害的」，只有圖澤爾夫人的轉述。\n\n\n## 延伸閱讀\n\n- [[s-1883-tourzel-memoires]]\n- [[s-1823-campan-memoires]]\n- [[s-1877-klinckowstrom-fersen]]\n- [[s-1887-drouet-barre]]\n- [[s-1887-ap-varennes-reward]]\n- [[s-2003-tackett-king]]\n- [[s-2005-ozouf-varennes]]\n- 名詞：[[e-fersen]]\n- 相關故事：[[t-october-days]]、[[t-temple]]、[[t-table]]、[[t-august10]]、[[t-secret]]、[[t-tuileries]]\n- 人物：[[e-tourzel]]\n\n## 還不知道的事\n\n- 那輛大型豪華馬車（berline）的細節、逃亡路線圖，需要讀 Tackett 或 Ozouf 的原書。\n- 圖澤爾夫人和康龐夫人的版本有幾處對不上：費爾森送到邦迪還是克萊；佩蒂翁談共和時國王有沒有回話（圖澤爾說有，康龐說國王從此一路不發一語）；三名護衛有沒有被綁在車座上（只有康龐這樣寫）（[[s-1883-tourzel-memoires]]；[[s-1823-campan-memoires]] 第 2 冊 pp. 328–336）。\n- 康龐夫人這段是王后回到巴黎第二天親口講給她聽的，等於是王后自己的版本。\n- 王后在這次逃亡後頭髮變白的說法，見 [[t-white-hair]]。\n- 國王的軍官戈格拉（Goguelat）1823 年的記述，本站只讀了抵達瓦雷納的段落，撤兵那一段還沒讀（[[s-1823-goguelat-memoire]]）。\n",
    "links": [
     "e-fersen",
     "e-tourzel",
+    "s-1797-bouille-memoires",
+    "s-1822-choiseul-relation",
     "s-1823-campan-memoires",
+    "s-1823-goguelat-memoire",
     "s-1868-feuillet-elisabeth-correspondance",
     "s-1877-klinckowstrom-fersen",
     "s-1883-tourzel-memoires",
@@ -5129,6 +5296,10 @@
    "t-execution"
   ],
   [
+   "s-1797-bouille-memoires",
+   "t-varennes"
+  ],
+  [
    "s-1797-laperouse-voyage",
    "t-louis"
   ],
@@ -5139,6 +5310,10 @@
   [
    "s-1815-edgeworth-memoirs",
    "t-execution"
+  ],
+  [
+   "s-1822-choiseul-relation",
+   "t-varennes"
   ],
   [
    "s-1822-weber-memoires-v2",
@@ -5175,6 +5350,10 @@
   [
    "s-1823-campan-memoires",
    "t-white-hair"
+  ],
+  [
+   "s-1823-goguelat-memoire",
+   "t-varennes"
   ],
   [
    "s-1824-lafont-daussonne-memoires",
@@ -7730,7 +7909,19 @@
   ],
   [
    "t-varennes",
+   "s-1797-bouille-memoires"
+  ],
+  [
+   "t-varennes",
+   "s-1822-choiseul-relation"
+  ],
+  [
+   "t-varennes",
    "s-1823-campan-memoires"
+  ],
+  [
+   "t-varennes",
+   "s-1823-goguelat-memoire"
   ],
   [
    "t-varennes",

@@ -1,8 +1,8 @@
 # 目錄（index）
 
-> 由 `tools/build.py` 自動產生於 2026-11-16，不要手改。
+> 由 `tools/build.py` 自動產生於 2026-11-17，不要手改。
 
-資料卡 109 張（全文 25）｜主題 50｜實體 5｜問答 1
+資料卡 115 張（全文 25）｜主題 50｜實體 5｜問答 1
 
 ## 主題頁
 
@@ -85,11 +85,15 @@
 - [[s-1793-tribunal-proces-criminel-testament]] Procès criminel de Marie-Antoinette de Lorraine（Denné 版） — 革命法庭（書記紀錄，無署名）（1793）｜檔案｜部分
 - [[s-1793-tribunal-proces-marie-antoinette]] Procès de Marie-Antoinette: dite de Lorraine d'Autriche, veuve de Louis Capet（通行版） — 革命法庭（書記紀錄，無署名）（1793）｜檔案｜部分
 - [[s-1795-poncelin-proces-louis-xvi]] 路易十六的審判：國民公會的演說、表決與文件彙編（Le procès de Louis XVI, ou collection complète des opinions, discours et …，第 1 冊） — 讓－夏爾．龐塞林．德拉羅什－蒂拉克（Jean-Charles Poncelin de La Roche-Tilhac，據 Internet Archive 元資料，待核）（1795）｜檔案｜部分
+- [[s-1797-bouille-memoires]] Mémoires sur la révolution française — 布耶（François-Claude-Amour, marquis de Bouillé）（1797）｜回憶錄｜部分
 - [[s-1797-laperouse-voyage]] 拉佩魯茲《環球航海記》第一卷（Voyage de La Pérouse autour du monde，1797 年版） — 拉佩魯茲（Jean-François de Galaup, comte de La Pérouse）；編者 Louis-Antoine Milet-Mureau（1797）｜專書｜部分
 - [[s-1798-clery-journal]] 聖殿塔日記（Journal de ce qui s'est passé à la tour du Temple pendant la captivité de Louis XVI） — 克萊里（Jean-Baptiste Cléry，1759–1809）（1798）｜日記｜部分
+- [[s-1801-fargeon-art-parfumeur]] L'Art du parfumeur, ou Traité complet de la préparation des parfums, cosmétiques, pommades, pastilles, odeurs, huiles antiques, essences, bains aromatiques et des gants de senteur — Jean-Louis Fargeon（署名「D. J. F. ci-devant Parfumeur de la Cour」）（1801）｜專書｜部分
 - [[s-1815-edgeworth-memoirs]] 埃奇沃斯神父回憶錄：路易十六最後幾小時的敘述（Memoirs of the Abbé Edgeworth, containing his narrative of the last hours of Louis XVI） — 埃奇沃斯神父（Henry Essex Edgeworth de Firmont，1745–1807）；1815 年編者 C. Sneyd Edgeworth（1815）｜回憶錄｜部分
+- [[s-1822-choiseul-relation]] Relation du départ de Louis XVI, le 20 juin 1791 — Choiseul（Claude Antoine Gabriel, duc de）（1822）｜回憶錄｜部分
 - [[s-1822-weber-memoires-v2]] Mémoires de Weber concernant Marie-Antoinette, archiduchesse d'Autriche et reine de France et de Navarre（第二卷，Berville 與 Barrière 整理，1822） — Weber（回憶）；編者 Berville 與 Barrière（1822）｜回憶錄｜部分
 - [[s-1823-campan-memoires]] Mémoires sur la vie privée de Marie-Antoinette, reine de France et de Navarre（三卷本，1823） — Jeanne-Louise-Henriette Campan（康龐夫人，1752–1822）；編者 F. Barrière（1823）｜回憶錄｜部分
+- [[s-1823-goguelat-memoire]] Mémoire sur les événemens relatifs au voyage de Louis XVI à Varennes — Goguelat（François, baron de）（1823）｜回憶錄｜部分
 - [[s-1824-lafont-daussonne-memoires]] Mémoires secrets et universels des malheurs et de la mort de la reine de France — Gaspard Louis Lafont d'Aussonne（1824）｜回憶錄｜部分
 - [[s-1835-vigee-le-brun-souvenirs]] Souvenirs de Madame Louise-Élisabeth Vigée-Lebrun（三卷，1835–1837） — Louise-Élisabeth Vigée Le Brun（1755–1842）（1835）｜回憶錄｜部分
 - [[s-1838-tussaud-memoirs]] Madame Tussaud's Memoirs and Reminiscences of France, Forming an Abridged History of the French Revolution（1838） — Marie Tussaud（瑪麗．杜莎，原名 Marie Grosholtz）；編者 Francis Hervé（1838）｜回憶錄｜部分
@@ -149,6 +153,7 @@
 - [[s-2011-martin-dairy-queens]] Dairy Queens：從凱瑟琳．德．美第奇到瑪麗．安東尼的田園建築政治（Dairy Queens: The Politics of Pastoral Architecture from Catherine de' Medici to Marie-Antoinette） — Meredith Martin（2011）｜專書｜書目
 - [[s-2012-backman-rogers-threshold]] The Historical Threshold: Crisis, Ritual and Liminality in Sofia Coppola's Marie-Antoinette (2006) — Anna Backman Rogers（2012）｜期刊論文｜全文
 - [[s-2012-ritz-pluie]] Un 14 juillet sous la pluie（1790 年聯盟節的雨在革命文學中的書寫） — Olivier Ritz（2012）｜專書論文｜全文
+- [[s-2013-briot-fargeon-fournisseur]] Jean-Louis Fargeon, fournisseur de la cour de France : art et techniques d'un parfumeur du XVIIIe siècle — Eugénie Briot（2013）｜期刊論文｜部分
 - [[s-2013-chatenet-becquet-review]] 書評：Hélène Becquet，《瑪麗－泰蕾茲．德．法蘭西：聖殿塔的孤兒》（Perrin, 2012） — Aurélie Chatenet-Calyste（2013）｜期刊論文｜全文
 - [[s-2013-nahm-canities-subita]] Canities Subita: A Reappraisal of Evidence Based on 196 Case Reports Published in the Medical Literature — Michael Nahm, Alexander A. Navarini, Emily Williams Kelly（2013）｜期刊論文｜全文
 - [[s-2014-leuwers-tussaud-masque]] Madame Tussaud et le masque de Robespierre. Exercices d'histoire autour de la médiatique reconstitution d'un visage（2014） — Hervé Leuwers；Guillaume Mazeau（2014）｜期刊論文｜書目
@@ -160,6 +165,7 @@
 - [[s-2017-niedziela-joseph-ii-paris]] 皇帝約瑟夫二世在巴黎與凡爾賽（1777） — Rafał Niedziela（2017）｜期刊論文｜部分
 - [[s-2017-ruimi-curtius-cabinet]] Spectacles de cire. Le cabinet de Curtius（2017） — Jennifer Ruimi（2017）｜期刊論文｜書目
 - [[s-2017-triquenaux-messaline]] 《Messaline française, louve de Barbarie et Ganymède femelle》：波利尼亞克夫人的諷刺小冊子與仇恨的傳染 — Maxime Triquenaux（2017）｜期刊論文｜部分
+- [[s-2020-lanoe-gallois-huet]] Une dynastie de parfumeurs du roi : les Gallois/Huet et la fabrique des apparences de la cour à la ville, 1686-1789 — Catherine Lanoë（2020）｜期刊論文｜部分
 - [[s-2020-theobald-soaring]] 〈飛升的想像：凡爾賽第一次孟格菲氣球表演的文字與圖像〉（Soaring Imaginations: The First Montgolfier Ballooning Spectacle at Versailles in Word and Image） — Catherine J. Lewis Theobald（2020）｜期刊論文｜全文
 - [[s-2021-archives-nationales-xray]] Marie-Antoinette's Correspondence under X-Ray（法國國家檔案館說明頁） — Archives nationales（2021）｜網頁｜摘要
 - [[s-2021-lebeurre-bagatelle-pari]] 〈Bagatelle：一個放蕩者的瘋狂賭局〉（Bagatelle : le pari fou d'un libertin） — Alexia Lebeurre、Claire Ollagnier（2021）｜專書論文｜書目
