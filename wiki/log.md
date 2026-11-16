@@ -126,3 +126,12 @@
 - 故事頁 t-hameau、t-deficit、t-temple，app.js、style.css、rules/site.md 還原到 5f657d5；保留 wiki.json 每次向伺服器確認更新的修正
 - 移除：farewell3d.js、temple3d.js、trianon3d.js、trianon3d.json、play.js、tools/trianon3d.py、data/trianon3d-spots.json（git 歷史可找回，最後一版在 76edc25）
 - style.css／app.js ?v=27；手機檢查 0 錯誤
+
+## [2026-11-16] ingest | 夜間擴寫第一批：種痘、熱氣球、作戰計畫、聯盟節、巴加泰勒、梅斯梅爾
+- 新增故事：t-inoculation（查無實據）、t-balloon（半真半假）、t-war-plans（確有其事）、t-federation、t-bagatelle（半真半假）、t-mesmer（半真半假）
+- 新增問答：q-where-did-the-furniture-go（凡爾賽大拍賣；資料不足開故事，改成問答）
+- 擴寫：t-handover（婚禮儀式、煙火慘劇 132／133 死、王太子捐月俸）、t-execution（卡巴尼斯的斷頭台筆記）、t-lamballe／t-elisabeth／t-white-hair（杜莎夫人回憶錄，標明是晚年自述）、t-libels（普羅旺斯伯爵是否幕後黑手：只有研究者的「可能」）、t-tuileries 連到 t-federation、t-hameau 加兩筆待讀研究
+- 新資料卡約 30 張（Haiku 起草，主 session 用 check_quotes 與原文逐段抽查）；timeline +14
+- 發現：種痘「王后說服國王」被梅西與女皇的信直接否定；作戰計畫有 1792 年 3 月 20 日的密碼信為證；康龐夫人說煙火後捐出「一整年收入」，當時紀錄是每月 2000 埃居；巴加泰勒「打賭」只見於八卦刊物，梅西沒提；王后自己的信說她為梅斯梅爾「糾纏」過約瑟夫二世
+- 修正：Haiku 誤覆蓋的 raw/notes/s-1862-sanson-sept-generations.md 已從對話紀錄還原，新內容附在後面
+- 缺插圖：上述 6 篇新故事
