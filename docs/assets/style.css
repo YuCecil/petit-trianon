@@ -308,3 +308,31 @@ code{font-size:.9em;background:var(--sheet);border:1px solid var(--line);padding
   .inline-fig figcaption{padding:0 clamp(16px,4vw,48px)}
   .ftoc{right:12px;bottom:12px}
 }
+/* 3D 立體地圖：先顯示海報，按「開始互動」才載入（參考報導者的互動模組） */
+.s3d{margin:32px 0}
+.s3d-stage{position:relative;height:min(72vh,560px);background:var(--sheet);border:1px solid var(--line);overflow:hidden}
+.s3d-stage canvas{display:block;width:100%;height:100%;cursor:grab}
+.s3d-stage canvas:active{cursor:grabbing}
+.s3d-poster{height:100%;display:grid;place-items:center;padding:16px;background:var(--court-glaze)}
+.s3d-plate{width:min(400px,84vw);aspect-ratio:1;border-radius:50%;background:var(--sheet);box-shadow:0 0 0 2px var(--gilt),0 0 0 9px var(--sheet),0 0 0 10px var(--gilt);display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:0 13%}
+.s3d-poster p{margin:0 0 6px;font-size:15.5px;line-height:1.6}
+.s3d-t{font-family:var(--serif-tc);font-weight:700;font-size:20px;line-height:1.4!important}
+.s3d-go{margin-top:14px;font:500 16px/1 var(--sans);color:var(--sheet);background:var(--ink);border:0;border-radius:999px;padding:12px 26px;min-height:44px;cursor:pointer}
+.s3d-go:disabled{opacity:.7;cursor:wait}
+.s3d-labels{position:absolute;inset:0;pointer-events:none}
+.s3d-pin{position:absolute;left:0;top:0;pointer-events:auto;font:500 13px/1.2 var(--sans);color:var(--ink);background:var(--sheet);border:1px solid var(--ink);border-radius:999px;padding:5px 10px;white-space:nowrap;cursor:pointer}
+.s3d-pin::after{content:"";position:absolute;left:50%;top:100%;width:1px;height:10px;background:var(--ink)}
+.s3d-pin.on{background:var(--ink);color:var(--sheet)}
+.s3d-pin:hover{border-color:var(--gilt)}
+.s3d-tools{display:flex;gap:8px;margin-top:10px}
+.s3d-tools button{font:500 15px/1 var(--sans);color:var(--ink);background:var(--sheet);border:1px solid var(--line);border-radius:999px;min-width:44px;min-height:40px;padding:0 14px;cursor:pointer}
+.s3d-info{margin-top:12px;padding:12px 16px;background:var(--sheet);border:1px solid var(--line)}
+.s3d-info b{font-family:var(--serif-tc);font-size:18px}
+.s3d-info p{margin:4px 0 6px;font-size:16px}
+.s3d figcaption{font-size:14px;color:var(--muted);margin-top:10px;line-height:1.65}
+@media (min-width:1180px){.s3d figcaption{position:static;width:auto}}
+@media (max-width:720px){.s3d{margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw)}.s3d-stage{border-left:0;border-right:0}.s3d-tools,.s3d-info,.s3d figcaption{margin-left:clamp(16px,4vw,48px);margin-right:clamp(16px,4vw,48px)}}
+.s3d-pin.dot{width:14px;height:14px;padding:0;border-radius:50%;background:var(--sheet);border:2px solid var(--ink)}
+.s3d-pin.dot span{display:none}
+.s3d-pin.dot::after{display:none}
+.s3d-pin.dot::before{content:"";position:absolute;inset:-9px}

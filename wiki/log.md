@@ -96,3 +96,8 @@
 - 新增：s-2015-parson-dark-countess（台大資料庫，ScienceDirect；書目以 Crossref 核對）
 - 更新：t-madame-royale（研究者怎麼看：遺骨 mtDNA 與王室母系不符，替身說站不住）
 - 全文因著作權未存 raw，只存書目與結構摘要。
+
+## [2026-11-16] site | 3D 立體地圖試做：小特里亞儂
+- 新增 tools/trianon3d.py、data/trianon3d-spots.json（10 個地點，各附故事與出處）、docs/assets/trianon3d.js、docs/assets/trianon3d.json；放進 t-hameau。
+- 建築與水域輪廓：OpenStreetMap（2026-11-16 擷取，ODbL），存 raw/maps/。高度為示意。
+- rules/site.md 加 3D 地圖規則。手機檢查 0 錯誤。

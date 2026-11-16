@@ -1,0 +1,12 @@
+[
+  {"name": "小特里亞儂宮", "osm": "r11724480", "note": "1774 年新王即位，王后自己開口向國王要了這座小宮殿。在這裡，她一個人來，只帶一名跟班。", "topic": "t-hameau", "source": "s-1823-campan-memoires"},
+  {"name": "王后劇場", "osm": "w74630956", "note": "王后在這裡和朋友們演戲，觀眾只有國王、王室和侍女，大約四十人。", "topic": "t-theatre", "source": "s-2025-masson-theatre-reine"},
+  {"name": "愛神殿", "osm": "w63855314", "note": "1777 年哥哥約瑟夫二世來訪，王后辦了一場夜宴，殿後的溝裡燒了一千五百捆柴，讓愛神殿成了花園裡最亮的地方。", "topic": "t-hameau", "source": "s-1823-campan-memoires"},
+  {"name": "觀景亭", "osm": "w427280007", "note": "英式花園裡的小亭子。1901 年，兩位英國女教師說她們在這一帶的花園裡撞見了 18 世紀的人。", "topic": "t-ghost", "source": "s-1913-moberly-jourdain-adventure"},
+  {"name": "人造洞穴", "osm": "n4265122878", "note": "康龐夫人說，1789 年 10 月 5 日，王后一個人坐在花園的人造洞穴裡，收到紙條要她立刻回宮。", "topic": "t-october-days", "source": "s-1823-campan-memoires"},
+  {"name": "王后之屋", "osm": "w74634949", "note": "農莊裡的屋子外表是諾曼第式的木架和茅草頂，裡面卻是雅緻的沙龍，用來吃飯、玩牌、跳舞。", "topic": "t-hameau", "source": "s-2024-nordin-hameau"},
+  {"name": "馬爾博羅塔", "osm": "w74628684", "note": "農莊湖邊的瞭望塔。", "topic": "t-hameau", "source": "s-2024-nordin-hameau"},
+  {"name": "磨坊", "osm": "w74620096", "note": "農莊的水磨坊。", "topic": "t-hameau", "source": "s-2024-nordin-hameau"},
+  {"name": "乳品室", "osm": "w74631685", "note": "農莊原本有兩座乳品室；真正在用的那一座，拿破崙時代整修時被拆掉了。", "topic": "t-hameau", "source": "s-2016-versailles-queens-hamlet"},
+  {"name": "大湖", "osm": "w124532831", "note": "農莊的十來棟建築圍著這座人工湖，湖裡養了鯉魚和梭子魚。", "topic": "t-hameau", "source": "s-2024-nordin-hameau"}
+]
