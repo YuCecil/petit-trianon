@@ -1,5 +1,5 @@
-// 手機版自動檢查：用本機的 Google Chrome 模擬手機，逐頁打開網站，檢查常見的手機問題。
-// 需要先在專案根目錄安裝：cd .tools && npm install playwright-core lighthouse
+// 手機版自動檢查：用 WebKit（跟 iPhone Safari 同一套核心）模擬 iPhone 17，逐頁打開網站，檢查常見的手機問題。
+// 需要先安裝：cd .tools && npm install playwright-core lighthouse && npx playwright-core install webkit
 // 用法：node tools/mobile_check.mjs [--shots <截圖資料夾>] [--lighthouse]
 //   錯誤（會讓結束碼 = 1）：左右滑動、程式錯誤、圖片或檔案載入失敗
 //   提醒：字太小（< 12px）、按鈕太小（< 24×24px）
@@ -11,7 +11,7 @@ import { fileURLToPath } from "url";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const require = createRequire(path.join(ROOT, ".tools", "package.json"));
-const { chromium } = require("playwright-core");
+const { webkit } = require("playwright-core");
 
 const args = process.argv.slice(2);
 const shotsDir = args.includes("--shots") ? args[args.indexOf("--shots") + 1] : null;
@@ -21,14 +21,10 @@ const PORT = 8792;
 // 跟 GitHub Pages 一樣，網站放在 /petit-trianon/ 底下（404 頁用的是這個路徑）
 const BASE = `http://localhost:${PORT}/petit-trianon/`;
 
-// 要模擬的手機：最窄的 iPhone SE、常見的 iPhone、常見的 Android
+// 要模擬的手機：朋友用的 iPhone 17（6.3 吋，畫面 402×874，3 倍解析度）
 const DEVICES = [
-  { name: "iPhone SE", width: 375, height: 667, dpr: 2,
-    ua: "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1" },
-  { name: "iPhone 15", width: 393, height: 852, dpr: 3,
-    ua: "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1" },
-  { name: "Android", width: 412, height: 915, dpr: 2.625,
-    ua: "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36" },
+  { name: "iPhone 17", width: 402, height: 874, dpr: 3,
+    ua: "Mozilla/5.0 (iPhone; CPU iPhone OS 26_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Mobile/15E148 Safari/604.1" },
 ];
 
 // 要檢查的頁面：所有獨立頁 + 每一篇故事 + 各類型抽一頁 + 404
@@ -48,7 +44,7 @@ if (!existsSync(path.join(SERVE, "petit-trianon"))) symlinkSync(path.join(ROOT, 
 const server = spawn("python3", ["-m", "http.server", String(PORT), "-d", SERVE], { stdio: "ignore" });
 await new Promise(r => setTimeout(r, 800));
 
-const browser = await chromium.launch({ executablePath: CHROME, headless: true });
+const browser = await webkit.launch({ headless: true });
 const errors = [], warnings = {};
 let checked = 0;
 
@@ -102,7 +98,7 @@ try {
       if (r.smallText.length) warn(`字太小：${r.smallText[0]}`);
       if (r.smallTaps.length) warn(`按鈕太小：${r.smallTaps[0]}`);
 
-      if (shotsDir && dev.name === "iPhone SE" && SHOT_PAGES.has(route)) {
+      if (shotsDir && SHOT_PAGES.has(route)) {
         mkdirSync(shotsDir, { recursive: true });
         const name = route.replace(/[#/]+/g, "_").replace(/^_|_$/g, "") || "home";
         await page.screenshot({ path: path.join(shotsDir, `mobile-${name}.png`), fullPage: false });

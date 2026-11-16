@@ -334,8 +334,9 @@ updated: 2026-11-15
 - 路由：`#/`（首頁）、`#/p/<id>`、`#/myths`、`#/timeline`、`#/map`、`#/numbers`、`#/debates`、`#/graph`、`#/library`、`#/about`。新增 wiki 頁面**不需要改網站程式**，只要跑 `build.py`。
 - 改了 `style.css` 或 `app.js`，要把 `index.html` 裡的 `?v=數字` 加一。
 - 改了版面，要用瀏覽器實際檢查首頁、一個故事頁、一個獨立頁；桌機看一次，主控台沒有錯誤。可以在背景用 headless Chrome 截圖檢查，不跳視窗：`"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless=new --window-size=1280,2400 --screenshot=<暫存區>/x.png <網址>`。
-- **手機檢查（朋友都用手機看，2026-11-16 使用者要求列為標準流程）**：改了版面、或新增／大改故事後，跑 `node tools/mobile_check.mjs --shots <暫存區>/mobile`，結果要是 **0 錯誤**。它用本機 Chrome 模擬 iPhone SE（375px）、iPhone 15、Android 三種手機，打開所有獨立頁、每一篇故事、各類型一頁與 404 頁，檢查：左右滑動、圖片或檔案載入失敗、程式錯誤（以上算錯誤）；字小於 12px、按鈕或可點的註碼小於 24×24px（WCAG 2.2，算提醒，能修就修）。跑完要打開 iPhone SE 的截圖（首頁、瓦雷納、時間軸、地圖、迷思對照）親眼看過。加 `--lighthouse` 會再跑 Google Lighthouse 手機模式的無障礙評分，無障礙低於 90 也算錯誤。
-  - 工具裝在專案的 `.tools/`（`cd .tools && npm install playwright-core lighthouse`，不上傳 GitHub），用的是本機已安裝的 Google Chrome，不另外下載瀏覽器。新環境沒有 `.tools/` 時先照這行安裝。
+- **手機檢查（朋友用 iPhone 17 看，2026-11-16 使用者要求列為標準流程）**：改了版面（不論大小）、或新增／大改故事後，跑 `node tools/mobile_check.mjs --shots <暫存區>/mobile`，結果要是 **0 錯誤**。它用 WebKit（跟 iPhone Safari 同一套核心）模擬 **iPhone 17**（402×874），打開所有獨立頁、每一篇故事、各類型一頁與 404 頁，檢查：左右滑動、圖片或檔案載入失敗、程式錯誤（以上算錯誤）；字小於 12px、按鈕或可點的註碼小於 24×24px（WCAG 2.2，算提醒，能修就修）。使用者決定只測 iPhone 17，大改版也一樣，不再測 iPhone SE、Android。跑完要打開截圖（首頁、瓦雷納、時間軸、地圖、迷思對照）親眼看過。加 `--lighthouse` 會再跑 Google Lighthouse 的無障礙評分（用本機 Chrome），低於 90 也算錯誤。
+  - 工具裝在專案的 `.tools/`（`cd .tools && npm install playwright-core lighthouse && npx playwright-core install webkit`，不上傳 GitHub；WebKit 核心存在 `~/Library/Caches/ms-playwright`）。新環境沒有 `.tools/` 時先照這行安裝。
+  - 這仍然是模擬，不是真機；朋友回報的問題以朋友的手機為準。
 - 有 Node.js 時，用 Impeccable 偵測器掃描（`python3 -m http.server 8791 -d docs` 後 `npx impeccable detect "http://localhost:8791/#/"`），結果要是 0 個問題。
 
 ## 10. 不可以做的事

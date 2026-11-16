@@ -127,6 +127,8 @@ h3{font-size:21px}
 .ref{font-size:max(.8em,12px);color:var(--link);text-decoration:none;white-space:nowrap;border-bottom:1px dotted var(--link)}
 .ref:hover{color:var(--ink);border-color:var(--ink)}
 .ref.e,.ref.t{font-size:1em;white-space:normal}
+/* 資料卡標題可能是很長的外文，iPhone Safari 不在連字號斷行，要允許換行，否則會撐出畫面 */
+.ref.s{white-space:normal;overflow-wrap:anywhere}
 .ref.broken{color:var(--mode-ink)}
 
 /* 迷思與史料：判定章做成瓷器底部的圓形窯印 */
@@ -236,7 +238,7 @@ code{font-size:.9em;background:var(--sheet);border:1px solid var(--line);padding
 
 /* 註釋：上標註號、原地展開、文末收合（CLAUDE.md 8.4） */
 .fn{line-height:0}
-.fn-b{font:600 12px/1 var(--sans);color:var(--link);background:none;border:0;padding:6px 9px;margin:-6px -7px;cursor:pointer;vertical-align:super}
+.fn-b{font:600 12px/1 var(--sans);color:var(--link);background:none;border:0;padding:7px 10px;margin:-7px -8px;cursor:pointer;vertical-align:super}
 .fn-b:hover,.fn-b[aria-expanded="true"]{color:var(--gilt-ink)}
 .fn-pop{display:block;margin:8px 0 10px;padding:10px 14px;background:var(--sheet);border:1px solid var(--line);font-size:14.5px;line-height:1.7;color:var(--muted)}
 .fn-pop .ref{font-size:1em}
@@ -256,7 +258,7 @@ code{font-size:.9em;background:var(--sheet);border:1px solid var(--line);padding
 .toc b{display:block;font-family:var(--serif-tc);font-weight:500;font-size:15px;color:var(--muted);margin-bottom:6px}
 .toc ol{margin:0;padding-left:1.4em;display:grid;grid-template-columns:1fr 1fr;column-gap:40px;font-size:15.5px}
 .toc li{break-inside:avoid;margin:3px 0}
-.toc a{color:var(--ink);text-decoration:none}
+.toc a{display:inline-block;padding:2px 0;color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--link);text-decoration:underline}
 .md h3{scroll-margin-top:90px}
 .progress{position:fixed;top:0;left:0;right:0;height:3px;background:var(--gilt);transform-origin:0 50%;transform:scaleX(0);z-index:1100;pointer-events:none}
