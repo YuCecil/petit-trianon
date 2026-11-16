@@ -1,12 +1,12 @@
 {
  "built": "2026-11-17",
  "counts": {
-  "sources": 123,
-  "fulltext": 26,
-  "topics": 52,
+  "sources": 126,
+  "fulltext": 27,
+  "topics": 53,
   "entities": 5,
   "questions": 2,
-  "events": 117,
+  "events": 118,
   "places": 18
  },
  "pages": [
@@ -874,6 +874,36 @@
     "t-elisabeth",
     "t-lamballe",
     "t-white-hair"
+   ]
+  },
+  {
+   "id": "s-1839-anon-chateau-saint-cloud",
+   "type": "source",
+   "title": "《Château de Saint-Cloud》（領地局出版的宮殿介紹小冊，1839）",
+   "author": "不詳（題名頁未具名；出版者為 E. Duverger 印刷所）",
+   "year": 1839,
+   "kind": "檔案",
+   "lang": "fr",
+   "venue": "Paris: Impr. de E. Duverger, 1839（domaine de la couronne）；Internet Archive 識別碼 chateaudesaintcl00pari（本站讀的是 OCR 文字層）",
+   "url": "https://archive.org/details/chateaudesaintcl00pari",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1658,
+    1839
+   ],
+   "topics": [
+    "t-saint-cloud",
+    "t-deficit"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n這本 1839 年的官方介紹小冊說，王后是在 1785 年 2 月 15 日從路易－菲利普．德．奧爾良（Louis-Philippe d'Orléans）手中買下聖克盧宮的，之後由建築師米克（Mique）負責改建。\n\n## 三個重點\n\n1. 買下的日期寫得很明確：1785 年 2 月 15 日，買方是王后瑪麗．安東尼，賣方是奧爾良公爵路易－菲利普（「grand-père du roi régnant」，即七月王朝的路易－菲利普一世的祖父，本站不另展開）。\n2. 這本小冊沒有寫價錢，也沒有提到「六百萬」或「奉王后之名」的告示。\n3. 小冊寫到，王后買下後「委託建築師米克整修並改造，所有內部格局都改了」，但沒有寫改建的年份細節。\n\n## 用了什麼史料\n\n以官方的「領地」（domaine de la couronne）介紹文字為主，引用 1658 年奧爾良家族買下聖克盧的契約日期（8 October 1658）作為背景。性質屬於 19 世紀的官方敘述，不是當時的契約原件；日期應和其他檔案核對。\n\n## 跟其他資料的關係\n\n- 與 [[s-1823-campan-memoires]] 相比：康龐夫人只寫「第一個想法來自王后」，沒有寫年份，也沒有寫價錢。\n- 日期與 [[t-deficit]] 既有寫法（1785 年）相符，但本站仍未找到同時代的原件確認。\n\n## 值得記住的一句話\n\n（本頁未摘錄原文引句；日期與買方的部分見「三個重點」。）\n\n## 還不確定的地方\n\n- 頁碼：OCR 文字層的頁碼標記不完整，「1785 年 2 月 15 日」大約在印刷第 2 頁左右（待核對原書）。\n- 日期衝突：據網路上二手來源，有一說為 1784 年 10 月 24 日（契約日），與本書的 1785 年 2 月 15 日不一致；本站未能取得原始契約，兩說都還沒核實。\n- 價錢：本書沒有寫，「六百萬里弗爾」只在二手網頁見到，未見一手來源。\n",
+   "links": [
+    "s-1823-campan-memoires",
+    "t-deficit",
+    "t-saint-cloud"
    ]
   },
   {
@@ -2679,6 +2709,33 @@
    ]
   },
   {
+   "id": "s-2015-gorguet-grand-habit",
+   "type": "source",
+   "title": "「Petite étude du grand habit à travers les mémoires quittancés de la comtesse d'Artois (1773-1780)」（〈大禮服小考：從阿圖瓦伯爵夫人的已付款帳單看〉）",
+   "author": "Pascale Gorguet Ballesteros",
+   "year": 2015,
+   "kind": "期刊論文",
+   "lang": "fr",
+   "venue": "Apparence(s) n° 6（2015，專號「Se vêtir à la cour en Europe (1400-1815)」）；DOI 10.4000/apparences.1325",
+   "url": "https://journals.openedition.org/apparences/1325",
+   "access": "公開",
+   "depth": "全文",
+   "period": [
+    1773,
+    1780
+   ],
+   "topics": [
+    "t-corset"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n凡爾賽服裝研究者從阿圖瓦伯爵夫人（王后的小姑）的服裝帳單出發，說明「大禮服」（grand habit）的結構：上身是硬挺的「大束身」（grand corps，有很多鯨骨），而日常使用的「束腰衣」（corset）是較軟、可替代的版本。\n\n## 三個重點\n\n1. 大禮服的上身（grand corps）是鯨骨束身，用緊密的鯨骨與背後的繫帶固定；corset 則是較軟的替代品，在沒有大禮服儀式、懷孕或產後時使用（作者第一部分，網頁段落約第 93–100 段）。\n2. 作者引用 Garsault（《裁縫藝術》，文中未附年份）指出，corset 不一定用鯨骨，是用「busc」（胸前的硬條）撐起。作者認為，有些 corset 只靠 busc，不必有鯨骨（網頁段落約第 139–146 段）。\n3. 作者談到一件藏於 Galliera 博物館、被稱為「瑪麗．安東尼的胸衣」（corsage dit « de Marie-Antoinette »）的衣服。作者的看法是：它「可能是一件大禮服用的 corset」，並且只能靠試穿推測，不能肯定就是王后的衣服（網頁段落約第 146–149 段；原文使用「pourrait bien être」）。\n\n## 用了什麼史料\n\n- 阿圖瓦伯爵夫人的已付款帳單（mémoires quittancés），1773–1780 年，來自不同的裁縫、布商與時尚商人（marchandes de modes）。作者說，這些帳單比王后的衣櫃資料更完整（「contrairement aux quelques documents d'archives relatifs à la garde-robe de Marie-Antoinette, parcellaires et inégaux」，網頁段落約第 79 段附近）。\n- Garsault, *Art du tailleur*（作者所引，年份未在文中；未在本站檔案）。\n- Galliera 博物館的藏品（inv. 1997.76.1）與在館內的試穿（作者所述）。\n\n## 跟其他資料的關係\n\n- 與梅西通信（s-1874-arneth-mercy-correspondance）的關係：梅西寫的是 1770 年的束腰問題，本文寫的是 1773 年之後的大禮服與 corset 的結構，年代不重疊。這篇可以說明：束腰在 1770 年代是「大禮服的一部分」，不是可有可無的單獨衣物。\n- 與 Barao 碩士論文（s-2019-barao-corps-corsets）：兩者都提到 Galliera 的「瑪麗．安東尼胸衣」，但 Barao 圖說標示年代為「vers 1785」（約 1785 年），本文沒有給年代，只說「可能」。\n\n## 值得記住的一句話\n\n<!-- 原文（40 字以內）＋中譯，附段落 -->\n\n「un corsage attribué à la reine Marie-Antoinette, conservé au musée Galliera, pourrait bien être un corset de grand habit」\n中譯：「收藏於 Galliera 博物館、被認為是王后瑪麗．安東尼所穿的一件胸衣，很可能是一件大禮服用的 corset」（網頁段落約第 146 段）。\n\n## 還不確定的地方\n\n- 文章沒有談 1770 年的太子妃，也沒有談她是否穿束腰；它的時間範圍是 1773–1780 年的阿圖瓦伯爵夫人的帳單。\n- 文章沒有頁碼（網頁版）。段落數是依文字化後的順序估的，引用時以「第一部分」與原文句子為準。\n- 「不穿束腰會帶動風氣」這個說法，本文沒有任何證據。\n- 原文以 CC BY-NC-ND 授權，全文 HTML 已存於 raw/papers/s-2015-gorguet-grand-habit.html（不上傳）。\n",
+   "links": [
+    "t-corset"
+   ]
+  },
+  {
    "id": "s-2015-parson-dark-countess",
    "type": "source",
    "title": "Molecular genetic analysis on the remains of the Dark Countess: Revisiting the French Royal family",
@@ -2871,6 +2928,33 @@
    "body": "## 一句話\n\n這篇研究談的是 1789 年以後針對波利尼亞克夫人的色情諷刺小冊子，順帶引用 Chantal Thomas 的看法：最早一批「王朝考量」的小冊子可能出自凡爾賽宮廷，甚至可能來自普羅旺斯伯爵的身邊。作者用的是「可能」，不是證實。\n\n## 三個重點\n\n1. 作者引 Chantal Thomas 的說法，認為早期一批以王朝繼承為主題的小冊子「potentiellement」（可能）出自「comte de Provence」的身邊人士，因為普羅旺斯伯爵在 1774 年到 1781 年間是王位繼承人，最有動機懷疑哥哥的子女是否合法（注 6，p. 34）。\n2. 這是一個注釋裡的引述，不是本文的論證主軸。作者本人沒有進一步檢驗這個說法。\n3. 作者注明原始說法來自 Thomas《La reine scélérate》（Seuil，Points 版 2008 年，p. 64 以下），但本站還沒讀到 Thomas 的原書，所以這個判斷目前只能當「研究者提出的可能性」。\n\n## 用了什麼史料\n\n- 作者自己的分析：1789 年以後針對波利尼亞克夫人的色情小冊子，把她寫成「louve」（母狼）與「Ganymède femelle」（母的甘尼墨得斯）。\n- 注 6 引用 Thomas：早期小冊子引用 1774 年一份已失傳的「Avis important de la branche espagnole」之類的王朝論述。\n- 作者也引 Elizabeth Colwill（1989，History Workshop）與 Robert Darnton（法譯本 2014 年）談宮廷中的誹謗網絡（注 4、6）。\n\n## 跟其他資料的關係\n\n- 跟 `s-1874-arneth-mercy-correspondance` 的關係：Mercy 的信寫的是宮廷內部的摩擦（普羅旺斯伯爵與王后的冷淡），沒有提到小冊子與子女合法性；兩者不互相證實。\n- 跟 `s-1993-barker-cake` 等通論：本文主題是波利尼亞克夫人，對普羅旺斯伯爵只是注釋。\n\n## 值得記住的一句話\n\n<!-- 原文（40 字以內）＋中譯，附頁碼 -->\n原文：「potentiellement dans l'entourage du comte de provence, héritier de la couronne…」（p. 34 注 6）\n中譯（本站譯）：「可能來自普羅旺斯伯爵的身邊，他是王位繼承人，因此最有興趣懷疑其兄長子女的合法性。」\n\n## 還不確定的地方\n\n- 本站只讀到引言與注釋，約 p. 33–34 與注 6；本文其餘部分（主要討論波利尼亞克夫人的小冊子）未逐段讀完，所以 depth 標「部分」。\n- 「potentiellement」是作者的保留語氣；Thomas 原書 p. 64 以下的完整論證還沒核對。\n- 頁碼依 PDF 頁眉（Page33 起）推定，與期刊印刷頁碼一致的部分需再核對。\n- 沒有找到任何同時代原典（Mercy、Campan 等）說普羅旺斯伯爵寫或資助誹謗小冊子；這點見 `raw/notes/t-provence-原典頁碼.md`。\n",
    "links": [
     "t-libels"
+   ]
+  },
+  {
+   "id": "s-2019-barao-corps-corsets",
+   "type": "source",
+   "title": "「Corps et corsets, du milieu du XVIIIe siècle à la fin des années 1820」（碩士論文，〈束身衣與胸衣：十八世紀中到 1820 年代末〉）",
+   "author": "Laurie Barao",
+   "year": 2019,
+   "kind": "學位論文",
+   "lang": "fr",
+   "venue": "Université Lyon 2，Master 2（Histoire，指導：Natacha Coquery），2018–2019 學年；HAL/DUMAS 典藏",
+   "url": "https://dumas.ccsd.cnrs.fr/dumas-02335125/document",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1750,
+    1830
+   ],
+   "topics": [
+    "t-corset"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n這是一篇以實物（服裝館藏）為主的碩士論文，整理十八世紀中到 1820 年代的鯨骨束身衣與 corset 的形制，並附有博物館館藏的照片與說明。\n\n## 三個重點\n\n1. 論文把「corps à baleine」（鯨骨束身）與「corset」區分開來：前者有鯨骨，後者可能只用 busc 或較軟的材料（論文約第 1–8 頁的實物圖說與引言，頁碼以 PDF 頁為準）。\n2. 論文 Figure 26 圖說標示 Galliera 博物館的一件胸衣（inv. Gal. 1997.76.1）為「dit « de Marie-Antoinette »，vers 1785」（約 1785 年）。這個名稱是館方的傳統說法，論文沒有證實它屬於王后（PDF 第 15–16 頁）。\n3. 論文引用了 Gorguet Ballesteros（s-2015-gorguet-grand-habit）的研究，說那件胸衣「可能是 corset」，並以試穿的方式推測它的結構。\n\n## 用了什麼史料\n\n- 博物館藏品的實物照片與館藏資料（Kyoto Costume Institute、Palais Galliera、Musée Arlaten、Cluny 等）。\n- 圖說與參考書目；論文以實物為主，沒有大量引用當時的文字資料。\n\n## 跟其他資料的關係\n\n- 跟 s-2015-gorguet-grand-habit：本論文的 Galliera 胸衣段落依據 Gorguet 的研究，兩者不是獨立證據。\n- 跟梅西通信：本論文沒有談 1770 年的太子妃，無法用來判斷她是否穿束腰。\n\n## 值得記住的一句話\n\n本論文沒有可引用的關鍵句子，主要用於實物的年代判斷。\n\n## 還不確定的地方\n\n- 本站只讀了與 corset 和瑪麗．安東尼相關的部分（Figure 1–3、引言與 Galliera 圖說、以及 Garsault 的段落），未讀完全文；depth 標為「部分」。\n- 碩士論文的可信度為中：作者是研究生，且多依賴館藏與他人研究。\n- 本論文沒有證據支持「王后帶動不穿束腰」的說法。\n- 全文 PDF 已存於 raw/papers/s-2019-barao-corps-corsets.pdf（不上傳）；文字版在 raw/papers/s-2019-barao-corps-corsets.txt。\n",
+   "links": [
+    "t-corset"
    ]
   },
   {
@@ -3912,6 +3996,37 @@
     "t-dubarry",
     "t-hameau",
     "t-louis"
+   ]
+  },
+  {
+   "id": "t-corset",
+   "type": "topic",
+   "title": "鯨骨束腰：十四歲太子妃的第一場叛逆",
+   "category": "時尚",
+   "period": [
+    1770,
+    1771
+   ],
+   "summary": "剛嫁到法國，她不肯穿束腰；女官、大使和遠在維也納的母親都急了。",
+   "myth": "瑪麗．安東尼一到法國就拒穿鯨骨束腰，後來還帶動了不穿束腰的風氣。",
+   "verdict": "半真半假",
+   "sources": [
+    "s-1874-arneth-mercy-correspondance",
+    "s-2015-gorguet-grand-habit",
+    "s-2019-barao-corps-corsets",
+    "s-1823-campan-memoires"
+   ],
+   "updated": "2026-11-17",
+   "body": "## 一句話說明\n\n1770 年夏天，剛嫁到凡爾賽的十四歲太子妃不肯穿鯨骨束腰。女官長去告狀，大使寫密報，母親瑪麗亞．特蕾莎從維也納寫信責備。兩個多月後，她讓步了。「她帶動了不穿束腰的風氣」這個說法，本站沒有找到證據。\n\n## 迷思與史料\n\n拒穿束腰是真的。奧地利大使梅西 1770 年 8 月 4 日向女皇報告：女官長諾瓦伊伯爵夫人告訴他，「怎麼都沒辦法讓太子妃穿上鯨骨束腰」，結果太子妃的腰身「明顯變形」，右肩也歪了；梅西說，「這確實是真的，必須立刻想辦法」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 33）。\n\n但她沒有堅持多久。10 月 20 日，梅西報告他已經讓太子妃承認，女皇對她身材的擔心「不是沒有根據的」，所以束腰「非穿不可」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 68）；12 月 17 日又說，束腰「沒有再停過」，對身材有了「預期的好效果」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 111）。至於「帶動不穿束腰的風氣」，本站讀到的梅西通信和康龐夫人回憶錄都沒有這種說法。所以本站判定「半真半假」：拒穿是真的，但只有幾個月；帶動風潮，找不到證據。\n\n## 故事是這樣的\n\n### 鯨骨做的上身\n\n在凡爾賽，女人穿的正式宮廷禮服叫「大禮服」（grand habit）。研究服裝史的戈爾蓋（Gorguet Ballesteros）說，大禮服的上身本身就是一件「鯨骨束身」（grand corps）：一根根鯨骨密密排著，背後用繩子綁緊；比較軟的「束胸」（corset）是替代品，在不必穿大禮服、懷孕或產後時才穿（[[s-2015-gorguet-grand-habit]] 第 1 部分）。（推論）換句話說，在凡爾賽，束腰不是一件可以自己決定穿不穿的內衣，而是宮廷制服的骨架。\n\n### 「法國沒有人穿」\n\n太子妃不肯穿，理由很簡單。女皇 9 月 1 日寫信給梅西說：「我已經寫信給女兒，談清潔和穿束腰的事，可是她在束腰這件事上回我：既然法國沒有人穿，她覺得自己也可以不穿。」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 47）（推論）「法國沒有人穿」當然不是真的，大禮服就是束身；她說的大概是平常在私人房間裡的穿著。\n\n梅西則認為背後有人在教。他 9 月 19 日寫道：不肯穿鯨骨束腰、不願意主持晚上的牌局和社交圈、女官長諾瓦伊夫人失寵，這些「都是阿德萊德夫人的建議造成的」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 55）。阿德萊德夫人是國王的女兒、太子妃的姑姑（見 [[t-mesdames]]）。（推論）梅西和這幾位姑姑一直不和，把事情推到她們身上，也有他自己的立場。\n\n另一方面，諾瓦伊夫人告訴梅西，她已經跟國王路易十五說過了，可是國王從來沒對太子妃提過這件事，「以後也絕不會提」；她拜託梅西務必報告女皇，因為「只有女皇管得動」（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 33）。（推論）一件束腰，要繞過凡爾賽、送到維也納，再從維也納寫信回來，才管得動一個十四歲的女孩。\n\n### 母親的信\n\n女皇真的管了。10 月 2 日她寫給梅西：她已經「很嚴厲地」跟女兒談了束腰和身材，還告訴她（她說「這也是真的」），自己看過布魯塞爾來的一封信，說太子妃「穿得很不得體，身材也不好」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 60）。（推論）在那個年代，王室新娘的身材是政治：她是要生王位繼承人的人，外國宮廷也在看。\n\n### 讓步\n\n10 月 14 日，太子妃主動找梅西談，而且「特別提到她身材的事」。梅西趁機說服她：女皇的擔心不是沒有根據，所以束腰是必要的（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 pp. 67–68）。兩個月後，他報告束腰已經沒再停過（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 111）；1771 年 2 月，他寫道太子妃「整個人愈來愈好看，身材因為穿了鯨骨束腰，已經調整好了」，清潔和打扮也比以前用心（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 137）。\n\n### 博物館裡的「王后胸衣」\n\n巴黎的加列拉時裝博物館（Palais Galliera）收藏了一件傳說是「瑪麗．安東尼的胸衣」。戈爾蓋在館內研究、試穿過它，結論只說它「很可能是大禮服用的一件束胸」，沒有證據能確定它屬於王后（本站譯）（[[s-2015-gorguet-grand-habit]] 第 1 部分）。一篇研究十八世紀束身的碩士論文把它標成「約 1785 年」，也只是沿用館方的名稱（[[s-2019-barao-corps-corsets]] pp. 15–16）。\n\n（推論）十幾年後，王后穿著輕薄的白棉「襯衣裙」入畫，引起軒然大波（見 [[t-chemise]]）。很多人把兩件事連在一起，說她從小就討厭束縛；這說法很順，但本站沒有讀到能把兩件事接起來的史料。\n\n## 研究者怎麼看\n\n- **「身材歪了」可靠嗎：** 這是女官長的話，經梅西轉述，女皇又引了布魯塞爾的一封信；三個人都不是醫生，也都有自己的目的（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 pp. 33, 60）。\n- **誰在背後：** 梅西說是姑姑阿德萊德夫人的影響（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 55）；女皇的信則說這是女兒自己的理由（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 47）。\n- **束身與束胸：** 戈爾蓋強調，鯨骨束身是大禮服的一部分，束胸則是較軟的替代品，兩者不能混為一談（[[s-2015-gorguet-grand-habit]]）。\n\n## 延伸閱讀\n\n- [[t-chemise]]：王后後來那件引起醜聞的白色襯衣裙。\n- [[t-mesdames]]：國王的女兒們，太子妃的姑姑。\n- [[t-mops]]：同一年，大使報告裡的巴哥犬和騎驢散步。\n- [[t-handover]]：她嫁到法國的那一天。\n\n## 還不知道的事\n\n- 女皇寫給女兒、責備她不穿束腰的原信，本站還沒有讀到。\n- 王后成年後平常穿什麼樣的束胸，王后衣櫃的帳冊本站還沒查。\n- 加列拉博物館那件胸衣的來歷。\n",
+   "links": [
+    "s-1823-campan-memoires",
+    "s-1874-arneth-mercy-correspondance",
+    "s-2015-gorguet-grand-habit",
+    "s-2019-barao-corps-corsets",
+    "t-chemise",
+    "t-handover",
+    "t-mesdames",
+    "t-mops"
    ]
   },
   {
@@ -5750,6 +5865,14 @@
    "t-white-hair"
   ],
   [
+   "s-1839-anon-chateau-saint-cloud",
+   "s-1823-campan-memoires"
+  ],
+  [
+   "s-1839-anon-chateau-saint-cloud",
+   "t-deficit"
+  ],
+  [
    "s-1841-karr-guepes",
    "s-2002-campion-vincent-marie-antoinette"
   ],
@@ -6270,6 +6393,10 @@
    "t-louis"
   ],
   [
+   "s-2015-gorguet-grand-habit",
+   "t-corset"
+  ],
+  [
    "s-2015-parson-dark-countess",
    "t-madame-royale"
   ],
@@ -6316,6 +6443,10 @@
   [
    "s-2017-triquenaux-messaline",
    "t-libels"
+  ],
+  [
+   "s-2019-barao-corps-corsets",
+   "t-corset"
   ],
   [
    "s-2020-lanoe-gallois-huet",
@@ -7004,6 +7135,38 @@
   [
    "t-coronation",
    "t-louis"
+  ],
+  [
+   "t-corset",
+   "s-1823-campan-memoires"
+  ],
+  [
+   "t-corset",
+   "s-1874-arneth-mercy-correspondance"
+  ],
+  [
+   "t-corset",
+   "s-2015-gorguet-grand-habit"
+  ],
+  [
+   "t-corset",
+   "s-2019-barao-corps-corsets"
+  ],
+  [
+   "t-corset",
+   "t-chemise"
+  ],
+  [
+   "t-corset",
+   "t-handover"
+  ],
+  [
+   "t-corset",
+   "t-mesdames"
+  ],
+  [
+   "t-corset",
+   "t-mops"
   ],
   [
    "t-deficit",
@@ -9094,6 +9257,11 @@
    "date": "2026-11-16",
    "kind": "ingest",
    "title": "夜間擴寫第一批：種痘、熱氣球、作戰計畫、聯盟節、巴加泰勒、梅斯梅爾"
+  },
+  {
+   "date": "2026-11-17",
+   "kind": "art",
+   "title": "八篇新故事的頁首插圖"
   }
  ],
  "timeline": [
@@ -10032,6 +10200,14 @@
    "category": "飲食",
    "topic": "t-potato",
    "source": "s-2025-collart-pomme-de-terre-journaux"
+  },
+  {
+   "date": "1770-08-04",
+   "title": "大使密報：太子妃不肯穿束腰",
+   "desc": "女官長向梅西告狀，說她身材變形、右肩歪了；兩個多月後她才讓步。",
+   "category": "時尚",
+   "topic": "t-corset",
+   "source": "s-1874-arneth-mercy-correspondance"
   }
  ],
  "stats": [],

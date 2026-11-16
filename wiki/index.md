@@ -2,7 +2,7 @@
 
 > 由 `tools/build.py` 自動產生於 2026-11-17，不要手改。
 
-資料卡 123 張（全文 26）｜主題 52｜實體 5｜問答 2
+資料卡 126 張（全文 27）｜主題 53｜實體 5｜問答 2
 
 ## 主題頁
 
@@ -18,6 +18,7 @@
 - [[t-consummation]] 七年沒有圓房：哥哥從維也納來「開導」 — 母親、大使、哥哥輪番上陣，全歐洲都在等這對夫妻的好消息。
 - [[t-coppola]] 《凡爾賽拜金女》哪些是真的：從電影走進史料 — 粉紅色的馬卡龍和那雙 Converse，背後各自有一段真正的歷史。
 - [[t-coronation]] 「我們太年輕了」：新王登基與蘭斯的加冕 — 一對年輕的國王與王后，和一場讓她「活一百年也忘不了」的典禮。
+- [[t-corset]] 鯨骨束腰：十四歲太子妃的第一場叛逆 — 剛嫁到法國，她不肯穿束腰；女官、大使和遠在維也納的母親都急了。
 - [[t-deficit]] 赤字夫人：王后的衣櫥拖垮了法國嗎？ — 她確實愛美、帶動奢華風氣，但國家帳本上最大的洞在別處。
 - [[t-dubarry]] 「今天凡爾賽人真多」：太子妃與杜巴利夫人的冷戰 — 為了一句話，維也納、凡爾賽和大使館鬥了將近兩年。
 - [[t-elisabeth]] 伊莉莎白夫人：「別讓他們知道我不是王后」 — 國王的妹妹，可以走卻留下，陪哥哥一家走到最後。
@@ -105,6 +106,7 @@
 - [[s-1828-nissen-biographie]] 《莫札特傳》（Biographie W. A. Mozart's），依書信與文獻寫成的早期傳記 — Georg Nikolaus von Nissen（1828）｜傳記｜部分
 - [[s-1835-vigee-le-brun-souvenirs]] Souvenirs de Madame Louise-Élisabeth Vigée-Lebrun（三卷，1835–1837） — Louise-Élisabeth Vigée Le Brun（1755–1842）（1835）｜回憶錄｜部分
 - [[s-1838-tussaud-memoirs]] Madame Tussaud's Memoirs and Reminiscences of France, Forming an Abridged History of the French Revolution（1838） — Marie Tussaud（瑪麗．杜莎，原名 Marie Grosholtz）；編者 Francis Hervé（1838）｜回憶錄｜部分
+- [[s-1839-anon-chateau-saint-cloud]] 《Château de Saint-Cloud》（領地局出版的宮殿介紹小冊，1839） — 不詳（題名頁未具名；出版者為 E. Duverger 印刷所）（1839）｜檔案｜部分
 - [[s-1841-karr-guepes]] Les Guêpes（《黃蜂》），1841 年 11 月號 — Alphonse Karr（1841）｜報刊｜部分
 - [[s-1845-holmes-life-mozart]] 《莫札特的一生》（The Life of Mozart），英文傳記，大量依據 Nissen 的資料 — Edward Holmes（1845）｜傳記｜部分
 - [[s-1851-mirabeau-lamarck]] Correspondance entre le comte de Mirabeau et le comte de La Marck pendant les années 1789, 1790 et 1791（兩卷） — Honoré-Gabriel de Riquetti, comte de Mirabeau（信件）；Adolphe de Bacourt（編）；La Marck 為收信人（1851）｜書信｜部分
@@ -168,6 +170,7 @@
 - [[s-2013-nahm-canities-subita]] Canities Subita: A Reappraisal of Evidence Based on 196 Case Reports Published in the Medical Literature — Michael Nahm, Alexander A. Navarini, Emily Williams Kelly（2013）｜期刊論文｜全文
 - [[s-2014-leuwers-tussaud-masque]] Madame Tussaud et le masque de Robespierre. Exercices d'histoire autour de la médiatique reconstitution d'un visage（2014） — Hervé Leuwers；Guillaume Mazeau（2014）｜期刊論文｜書目
 - [[s-2014-olalde-louis-xvi-blood]] Genomic analysis of the blood attributed to Louis XVI (1754–1793), king of France — Olalde I.（與 Lalueza-Fox C. 等 19 位作者）（2014）｜期刊論文｜部分
+- [[s-2015-gorguet-grand-habit]] 「Petite étude du grand habit à travers les mémoires quittancés de la comtesse d'Artois (1773-1780)」（〈大禮服小考：從阿圖瓦伯爵夫人的已付款帳單看〉） — Pascale Gorguet Ballesteros（2015）｜期刊論文｜全文
 - [[s-2015-parson-dark-countess]] Molecular genetic analysis on the remains of the Dark Countess: Revisiting the French Royal family — Walther Parson, Cordula Berger, Timo Sänger, Sabine Lutz-Bonengel（2015）｜期刊論文｜全文
 - [[s-2016-maes-laiterie-rambouillet]] La laiterie de Marie-Antoinette à Rambouillet. Un temple pastoral pour le plaisir de la reine — Antoine Maës（2016）｜專書｜書目
 - [[s-2016-versailles-queens-hamlet]] 凡爾賽宮官網「Queen's Hamlet」頁面與長文（英文） — 凡爾賽宮（Château de Versailles）（2016）｜網頁｜全文
@@ -175,6 +178,7 @@
 - [[s-2017-niedziela-joseph-ii-paris]] 皇帝約瑟夫二世在巴黎與凡爾賽（1777） — Rafał Niedziela（2017）｜期刊論文｜部分
 - [[s-2017-ruimi-curtius-cabinet]] Spectacles de cire. Le cabinet de Curtius（2017） — Jennifer Ruimi（2017）｜期刊論文｜書目
 - [[s-2017-triquenaux-messaline]] 《Messaline française, louve de Barbarie et Ganymède femelle》：波利尼亞克夫人的諷刺小冊子與仇恨的傳染 — Maxime Triquenaux（2017）｜期刊論文｜部分
+- [[s-2019-barao-corps-corsets]] 「Corps et corsets, du milieu du XVIIIe siècle à la fin des années 1820」（碩士論文，〈束身衣與胸衣：十八世紀中到 1820 年代末〉） — Laurie Barao（2019）｜學位論文｜部分
 - [[s-2020-lanoe-gallois-huet]] Une dynastie de parfumeurs du roi : les Gallois/Huet et la fabrique des apparences de la cour à la ville, 1686-1789 — Catherine Lanoë（2020）｜期刊論文｜部分
 - [[s-2020-theobald-soaring]] 〈飛升的想像：凡爾賽第一次孟格菲氣球表演的文字與圖像〉（Soaring Imaginations: The First Montgolfier Ballooning Spectacle at Versailles in Word and Image） — Catherine J. Lewis Theobald（2020）｜期刊論文｜全文
 - [[s-2021-archives-nationales-xray]] Marie-Antoinette's Correspondence under X-Ray（法國國家檔案館說明頁） — Archives nationales（2021）｜網頁｜摘要
