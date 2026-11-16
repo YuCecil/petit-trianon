@@ -480,7 +480,7 @@ function route() {
   home((h.match(/^#\/#([\w\-]+)/) || [])[1]);
 }
 
-fetch("data/wiki.json").then(r => r.json()).then(d => {
+fetch("data/wiki.json", { cache: "no-cache" }).then(r => r.json()).then(d => {
   W = d;
   W.pages.forEach(p => byId[p.id] = p);
   W.edges.forEach(([a, b]) => (backlinks[b] = backlinks[b] || []).push(a));
