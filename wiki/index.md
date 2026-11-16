@@ -2,7 +2,7 @@
 
 > 由 `tools/build.py` 自動產生於 2026-11-17，不要手改。
 
-資料卡 137 張（全文 27）｜主題 55｜實體 5｜問答 4
+資料卡 140 張（全文 27）｜主題 56｜實體 5｜問答 4
 
 ## 主題頁
 
@@ -11,6 +11,7 @@
 - [[t-balloon]] 一隻羊、一隻鴨、一隻公雞：凡爾賽的熱氣球 — 人類第一次飛上天之前，先上去的是三隻動物，地點就在國王的庭院。
 - [[t-bertin]] 羅絲．貝爾坦：「我和王后陛下最近的工作」 — 一個平民女帽商走進了王后的內室，惹惱了整個宮廷的貴婦。
 - [[t-cake]] 讓他們吃蛋糕：一句她沒說過的話 — 革命時罵她的小冊子成千上萬，卻沒有一本提過這句話。
+- [[t-carolina]] 那不勒斯的姊姊：被母親拆開的兩姊妹 — 最要好的姊姊卡羅琳娜，十五歲被母親下令和妹妹分開，後來成了那不勒斯王后。
 - [[t-chemise]] 穿內衣見人？一幅肖像引起的醜聞 — 一件白紗裙被罵成內衣，後來卻變成全歐洲的流行。
 - [[t-children]] 王后的四個孩子：只有一個活到長大 — 一個女兒、兩個王太子、一個沒滿週歲的小公主。
 - [[t-clery]] 克萊里：留在塔裡的最後一個僕人 — 他替國王梳了五個月的頭，國王最後的遺言，是託他轉達的。
@@ -129,7 +130,9 @@
 - [[s-1874-arneth-mercy-correspondance]] Marie-Antoinette. Correspondance secrète entre Marie-Thérèse et le comte de Mercy-Argenteau（三卷，1874） — 瑪麗亞．特蕾莎、瑪麗．安東尼、梅西－阿爾讓托（書信作者）；編者 Alfred von Arneth（導論與註）、Auguste Geffroy（評註）（1874）｜書信｜部分
 - [[s-1877-davillier-vente-mobilier]] 大革命期間凡爾賽城堡家具的拍賣（Davillier 1877，documents inédits） — Baron Charles Davillier（1877）｜專書｜部分
 - [[s-1877-klinckowstrom-fersen]] Le comte de Fersen et la cour de France. Extraits des papiers du grand maréchal de Suède, comte Jean Axel de Fersen（第一卷） — R. M. de Klinckowström（編）（1877）｜書信｜部分
+- [[s-1878-helfert-karolina]] Königin Karolina von Neapel und Sicilien im Kampfe gegen die französische Weltherrschaft（1790–1814） — Joseph Alexander von Helfert（1878）｜專書｜部分
 - [[s-1879-goncourt-marie-antoinette]] 《瑪麗．安東尼史》 — Edmond de Goncourt, Jules de Goncourt（1879）｜專書｜部分
+- [[s-1881-arneth-briefe-kinder]] Briefe der Kaiserin Maria Theresia an ihre Kinder und Freunde（第 2 卷，1881） — Alfred von Arneth（編）（1881）｜書信｜部分
 - [[s-1881-vizetelly-diamond-necklace]] The Story of the Diamond Necklace — Henry Vizetelly（1881）｜專書｜部分
 - [[s-1883-tourzel-memoires]] Mémoires de Madame la duchesse de Tourzel（兩冊） — 圖澤爾夫人（Duchesse de Tourzel，本名 de Croÿ-Havré）（1883）｜回憶錄｜部分
 - [[s-1887-ap-varennes-reward]] Décret accordant des récompenses à l'occasion de l'arrestation du roi（1791 年 8 月 18 日，Archives parlementaires，第 29 卷） — Archives parlementaires（集體紀錄）（1887）｜檔案｜部分
@@ -138,6 +141,7 @@
 - [[s-1899-elisabeth-life-letters-en]] The Life and Letters of Madame Elisabeth de France, Sister of Louis XVI（英譯本，附〈聖殿日記〉選段） — 不詳（英譯者未具名；底本為法文傳記與書信集，註腳提到「Vie de Madame Élisabeth」）（1899）｜傳記｜部分
 - [[s-1900-nolhac-dauphine]] 《瑪麗．安東尼，太子妃》（Marie-Antoinette Dauphine） — Pierre de Nolhac（1900）｜傳記｜部分
 - [[s-1903-funck-brentano-collier]] 《項鍊案》 — Frantz Funck-Brentano（1903）｜專書｜部分
+- [[s-1907-bearne-carolina]] A Sister of Marie Antoinette: The Life-Story of Maria Carolina, Queen of Naples — Catherine Mary Bearne（1907）｜傳記｜部分
 - [[s-1907-lenotre-last-days-marie-antoinette]] The Last Days of Marie Antoinette — G. Lenôtre（1907）｜傳記｜部分
 - [[s-1909-duchesne-bagatelle]] 《巴加泰勒城堡，1715–1908》（Le Château de Bagatelle, 1715–1908），依檔案寫成的地方史專書 — Henri-Gaston Duchesne（1909）｜專書｜部分
 - [[s-1913-moberly-jourdain-adventure]] An Adventure（第二版，附 Appendix 與地圖） — Charlotte Anne Elizabeth Moberly；Eleanor Frances Jourdain（以筆名 Elizabeth Morison、Frances Lamont 發表）（1913）｜回憶錄｜部分

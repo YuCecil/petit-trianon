@@ -1,12 +1,12 @@
 {
  "built": "2026-11-17",
  "counts": {
-  "sources": 137,
+  "sources": 140,
   "fulltext": 27,
-  "topics": 55,
+  "topics": 56,
   "entities": 5,
   "questions": 4,
-  "events": 120,
+  "events": 121,
   "places": 18
  },
  "pages": [
@@ -1407,6 +1407,33 @@
    ]
   },
   {
+   "id": "s-1878-helfert-karolina",
+   "type": "source",
+   "title": "Königin Karolina von Neapel und Sicilien im Kampfe gegen die französische Weltherrschaft（1790–1814）",
+   "author": "Joseph Alexander von Helfert",
+   "year": 1878,
+   "kind": "專書",
+   "lang": "de",
+   "venue": "Prag／Wien（Internet Archive 掃描本，BSB 館藏 11373148bsb）",
+   "url": "https://archive.org/details/11373148bsb",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1768,
+    1814
+   ],
+   "topics": [
+    "t-carolina"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n十九世紀奧地利史家海弗特（Helfert）為瑪麗．卡羅琳娜（Maria Carolina）寫的政治傳記，用了維也納宮廷檔案，是研究她與法國革命關係最早、最完整的專書之一。\n\n## 三個重點\n\n1. 海弗特把卡羅琳娜與妹妹瑪麗．安東尼相提並論，認為兩人同樣「開朗、性情活潑」，在類似的位置上可能走出相似的路（p. 69）。\n2. 1793 年 7 月 12 日，那不勒斯由阿克頓（Acton）等人代表，與英國公使哈密頓簽下同盟條約，反法立場正式確立（頁碼未定，見全文筆記）。\n3. 寫到她晚年流亡途中時，仍會對隨行的人拿出妹妹與妹夫的畫像，流淚說「看，這是我妹妹瑪麗．安東尼」（p. 540，本站據 OCR 推定頁碼）。\n4. 書中寫妹妹死後，卡羅琳娜與馬德里宮廷的關係「幾乎斷絕」（頁碼未定）。\n\n## 用了什麼史料\n\n以維也納皇家宮廷與國家檔案館（Haus-, Hof- und Staatsarchiv）的公文與書信為主，註解中引用大使報告。本站只讀了與卡羅琳娜、妹妹與 1793 年前後有關的段落（OCR 全文，約 1.5MB）。\n\n## 跟其他資料的關係\n\n- 與梅西大使通信集（s-1874-arneth-mercy-correspondance）互相印證：兩者都說明女皇與卡羅琳娜的通信很密，但多數已失散。\n- 與 Bearne 1907 傳記（s-1907-bearne-carolina）的 1793 年敘述不同：Helfert 對「得知死訊時的反應」著墨較少，只談外交與戰爭（見 t-carolina 全文筆記的矛盾表）。\n\n## 值得記住的一句話\n\n（待補：本站未取得可逐字核對的全文引文，目前只用段落大意。）\n\n## 還不確定的地方\n\n- OCR 掃描的 Fraktur 字體，ſ 與 s、Irrthum 等字易錯，引文以原頁面為準，本站只用大意。\n- 掃描頁碼與印刷頁碼的對應只做了抽樣，p. 540 等頁碼為推定。\n- 沒有找到卡羅琳娜 1793 年得知死訊時寫給加洛（Gallo）或其他人的原信。Helfert 的註解可能引用，但還未核對。\n",
+   "links": [
+    "t-carolina"
+   ]
+  },
+  {
    "id": "s-1879-goncourt-marie-antoinette",
    "type": "source",
    "title": "《瑪麗．安東尼史》",
@@ -1433,6 +1460,33 @@
     "s-1823-campan-memoires",
     "s-1874-arneth-mercy-correspondance",
     "t-vermond"
+   ]
+  },
+  {
+   "id": "s-1881-arneth-briefe-kinder",
+   "type": "source",
+   "title": "Briefe der Kaiserin Maria Theresia an ihre Kinder und Freunde（第 2 卷，1881）",
+   "author": "Alfred von Arneth（編）",
+   "year": 1881,
+   "kind": "書信",
+   "lang": "de",
+   "venue": "Wien: Wilhelm Braumüller（Internet Archive 掃描本）",
+   "url": "https://archive.org/details/briefederkaiser02arnegoog",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1767,
+    1773
+   ],
+   "topics": [
+    "t-carolina"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n阿爾內特（Arneth）編的瑪麗亞．特蕾莎致子女書信集，第 2 卷的「前言」（Vorwort）說明女皇寫給卡羅琳娜的信大量遺失、為何遺失，並說她是女皇最疼愛的女兒之一。\n\n## 三個重點\n\n1. 前言寫女皇「最疼愛」的女兒之一是卡羅琳娜，僅次於瑪麗．克里斯蒂娜（Marie Christine）；女皇也說卡羅琳娜是「最像她的」（p. XXVII，本站譯）。\n2. 前言說，卡羅琳娜 1768 年出嫁前往那不勒斯後，母女之間「極為熱烈的通信」幾乎全部失散，只留下 1769 年 10 月卡羅琳娜寫給母親的一封信與女皇的回信，而且兩信都在抱怨西班牙宮廷（p. XXVIII）。\n3. 前言也說，女皇生前習慣在收到子女來信一段時間後燒掉，所以大部分子女的信都不存在（前言頁碼待核，見全文筆記）。\n\n## 用了什麼史料\n\n編者取自維也納皇家檔案與女皇的原件，本站只讀了第 2 卷前言，沒有逐封讀完信件正文。\n\n## 跟其他資料的關係\n\n- 與梅西通信集（s-1874-arneth-mercy-correspondance）的「導言」互相呼應：兩部集子都說卡羅琳娜與母親的通信散失。\n- 與 Bearne 1907（s-1907-bearne-carolina）引用的 1767 年 8 月 19 日女皇寫給卡羅琳娜的信，本站在第 1、2 卷的目錄與正文中找不到原文，所以那封信只能暫時依 Bearne 的英文譯文引用，要標明。\n\n## 值得記住的一句話\n\n（原文）「Caroline — die Erzherzogin Marie Christine allein ausgenommen — von all ihren Tochtern am meisten liebte」（本站譯）卡羅琳娜——除了瑪麗．克里斯蒂娜之外——是女皇所有女兒中最疼愛的一個。（前言 p. XXVII）\n\n## 還不確定的地方\n\n- 第 1、2、3 卷的正文只抽查了與卡羅琳娜有關的段落，沒有全部讀完。\n- 1767 年 8 月的分開信不在這三卷中，原因未查明。\n- 前言頁碼依 OCR 的頁首標示推定，要以紙本為準。\n",
+   "links": [
+    "t-carolina"
    ]
   },
   {
@@ -1691,6 +1745,33 @@
     "s-1879-goncourt-marie-antoinette",
     "s-2025-seth-antoine",
     "t-vermond"
+   ]
+  },
+  {
+   "id": "s-1907-bearne-carolina",
+   "type": "source",
+   "title": "A Sister of Marie Antoinette: The Life-Story of Maria Carolina, Queen of Naples",
+   "author": "Catherine Mary Bearne",
+   "year": 1907,
+   "kind": "傳記",
+   "lang": "en",
+   "venue": "London（Internet Archive 掃描本；首版年待核，IA 紀錄為 1907）",
+   "url": "https://archive.org/details/sisterofmarieant00bearuoft",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1752,
+    1814
+   ],
+   "topics": [
+    "t-carolina"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n英文傳記，最完整地講了瑪麗．卡羅琳娜的一生，並且引用了女皇寫給她的 1767 年信件，講到兩姊妹被拆開的原因，也講到她聽說妹妹死訊後的反應與「復仇」傳說。\n\n## 三個重點\n\n1. 1767 年女皇覺得卡羅琳娜和妹妹安東尼（Antoinette）「閒散、粗心、一起說傻話」，因此把兩人分開，把卡羅琳娜交給隆萊費爾德伯爵夫人（Lerchenfeld）照顧（pp. 53–54，本站譯自英文）。\n2. 女皇在信裡寫「我會完全把你和妹妹分開」，又說她「調皮」、要她「不要玩小孩子的把戲」（p. 55，英文譯文，原德文待核）。\n3. 書中說卡羅琳娜聽到妹妹被處決的消息時，失聲說「天啊！你想得到法國人會這樣殘忍地對待我妹妹和她丈夫嗎？」（p. 203，轉述自 Marchesa Solari 的回憶），之後在書房放了妹妹的畫像，下面寫著「Je poursuiverai ma vengeance jusqu'au tombeau」（我要把復仇進行到墳墓）（p. 204）。\n\n## 用了什麼史料\n\n作者引用了女皇 1767 年 8 月 19 日的信（英文譯文）、梅西與維也納的通信（未註明）與 Marchesa Solari 的回憶（轉述）。許多細節沒有註明原始檔案，需要對照原件。\n\n## 跟其他資料的關係\n\n- 與 s-1881-arneth-briefe-kinder 的前言互相印證：兩者都說女皇與卡羅琳娜的信件失散，但 Arneth 版本沒有收錄 1767 年 8 月的那封信。\n- 與 s-1878-helfert-karolina 比較：Helfert 是學術研究，對卡羅琳娜的 1793 年反應著墨較少；Bearne 的「復仇」敘述較戲劇化，兩者的證據層級不同。\n\n## 值得記住的一句話\n\n（原文）「I tell you you will be entirely separated from your sister.」（本站譯）「我告訴你，你會完全和妹妹分開。」（女皇 1767 年信，見 p. 55，英文譯文）\n\n## 還不確定的地方\n\n- 「天啊」一句來自 Marchesa Solari 的轉述，原語言與原文未查到，且出自後來的回憶，可信度只能算中。\n- 「復仇」畫像與銘文是否真的存在、是否有當時的照片或目擊紀錄，本站未查到。\n- 1767 年信的德文原件未找到；英文譯文的用詞可能與原文有差距。\n- 只讀了與卡羅琳娜的童年、1793 年及復仇傳說有關的章節，沒有讀完全書。\n",
+   "links": [
+    "t-carolina"
    ]
   },
   {
@@ -4034,6 +4115,39 @@
     "t-libels",
     "t-october-days",
     "t-table"
+   ]
+  },
+  {
+   "id": "t-carolina",
+   "type": "topic",
+   "title": "那不勒斯的姊姊：被母親拆開的兩姊妹",
+   "category": "人物",
+   "period": [
+    1752,
+    1814
+   ],
+   "summary": "最要好的姊姊卡羅琳娜，十五歲被母親下令和妹妹分開，後來成了那不勒斯王后。",
+   "myth": "卡羅琳娜得知妹妹被處決後，在書房掛上妹妹的畫像，下面寫著「我要復仇到進墳墓」。",
+   "verdict": "查無實據",
+   "sources": [
+    "s-1907-bearne-carolina",
+    "s-1878-helfert-karolina",
+    "s-1881-arneth-briefe-kinder",
+    "s-1874-arneth-mercy-correspondance",
+    "s-1835-vigee-le-brun-souvenirs"
+   ],
+   "updated": "2026-11-17",
+   "body": "## 一句話說明\n\n瑪麗亞．卡羅琳娜（Maria Carolina）比瑪麗．安東尼大三歲，兩人在維也納一起長大。1767 年，母親瑪麗亞．特蕾莎寫信要她和妹妹「完全分開」，不准兩人再說悄悄話。隔年她嫁到那不勒斯，成了實際掌權的王后；二十五年後，妹妹在巴黎上了斷頭台。\n\n## 迷思與史料\n\n常聽說卡羅琳娜得知妹妹的死訊後，在書房掛上妹妹的畫像，下面寫著「我要把復仇進行到墳墓」（Je poursuiverai ma vengeance jusqu'au tombeau）。本站找到最早寫這件事的，是英國作家貝恩（Catherine Bearne）1907 年的通俗傳記，她沒有註明出處（[[s-1907-bearne-carolina]] p. 204）。1878 年研究卡羅琳娜的奧地利史學家黑爾弗特（Helfert）寫了一整本她如何對抗法國的書，本站讀到的部分沒有這段銘文（[[s-1878-helfert-karolina]]）。\n\n所以本站判定「查無實據」：畫像和銘文找不到當時的證據。（推論）但卡羅琳娜敵視法國革命是真的，那是外交上看得到的事：1793 年 7 月，那不勒斯和英國簽了同盟條約（[[s-1878-helfert-karolina]]）。只是這不必靠一句戲劇化的銘文來證明。\n\n## 故事是這樣的\n\n### 兩個小女兒\n\n瑪麗亞．特蕾莎有十六個孩子。卡羅琳娜生於 1752 年 8 月 13 日，安東尼生於 1755 年 11 月 2 日，相差三歲，不是有些書說的雙胞胎（[[s-1874-arneth-mercy-correspondance]] 第 1 冊）。兩人小時候由同一位家庭教師布蘭迪斯伯爵夫人（Brandis）照顧；貝恩說卡羅琳娜對妹妹「非常依戀」（本站譯）（[[s-1907-bearne-carolina]] pp. 53–54）。黑爾弗特則說，兩姊妹「都是開朗的性子、活潑的脾氣」（本站譯）（[[s-1878-helfert-karolina]] p. 69）。\n\n十九世紀編女皇家書的阿內特（Arneth）說，除了大女兒瑪麗．克里斯蒂娜，卡羅琳娜是女皇最疼的女兒；女皇還一再說，所有孩子裡她最像自己（[[s-1881-arneth-briefe-kinder]] 第 2 冊前言 p. XXVII）。\n\n### 「你會完全和妹妹分開」\n\n疼歸疼，女皇對兩個小女兒很不放心。貝恩說，女皇大概覺得兩人養成了懶散的習慣，常湊在一起說傻話，卡羅琳娜又比同齡人幼稚（[[s-1907-bearne-carolina]] p. 54）。1767 年 8 月 19 日，十五歲的卡羅琳娜換了一位新的家庭教師萊辛費爾德伯爵夫人（Lerchenfeld），女皇寫信給她：要用功學音樂、畫畫、歷史、地理、拉丁文，「絕不要閒著」，因為她的腦袋得一直有事做，才不會去「玩孩子氣的把戲」（本站譯）（[[s-1907-bearne-carolina]] pp. 54–55）。\n\n接著是最狠的一句：「既然我現在要把你當大人看，我告訴你，你會完全和妹妹分開。我禁止你們之間的一切祕密、私話和交談；要是那個小的又想開始，你只要不理她，或者去告訴萊辛費爾德……這些搗蛋就會馬上停止。」（本站譯）（[[s-1907-bearne-carolina]] p. 55）這封信本站只讀到貝恩的英文譯文，德文原信還沒找到。\n\n卡羅琳娜 1768 年 4 月出發去那不勒斯嫁人。阿內特說，她一走，女皇立刻把最小的女兒安東妮交給同一位萊辛費爾德夫人管教（[[s-1881-arneth-briefe-kinder]] 第 2 冊前言）。（推論）兩年後，輪到安東妮被送去法國。\n\n### 寫不完的信，找不到的信\n\n分開以後，兩姊妹一直通信。編梅西通信的學者說，王后和「她很愛的」那不勒斯王后通信非常頻繁，「可惜這些信都沒有找到」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊導言 p. XIX）。阿內特也說，女皇有把孩子來信看完一陣子就燒掉的習慣，所以卡羅琳娜寫回家的信大多不在了（[[s-1881-arneth-briefe-kinder]] 第 2 冊前言）。\n\n多年後，卡羅琳娜流亡途中對朋友說起母親：孩子們都非常尊敬她，「可是她讓我們好怕！」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 404 註）\n\n### 那不勒斯的王后\n\n卡羅琳娜的丈夫、那不勒斯國王斐迪南不愛管事，她進了國務會議，實際掌政。1790 年代在那不勒斯替她畫像的維傑．勒布倫說，她「個性很強，也很聰明」，整個政府的擔子都是她一個人扛；她「沒有她的小妹妹法國王后那麼漂亮，但很讓我想起她」（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 2 冊；另見 [[t-vigee]]）。\n\n### 1793 年的消息\n\n貝恩引用一位從法國逃來的侯爵夫人索拉里（Solari）的回憶：她到那不勒斯晉見時，王后一看到她就「發出一聲可怕的尖叫」，然後說：「天啊！你想得到法國人會這樣對待我妹妹和她丈夫嗎？」侯爵夫人用法語回答，王后馬上打斷她：「看在上帝份上，別讓我再聽那種殺人的語言！你會說義大利語和德語……」（本站譯）（[[s-1907-bearne-carolina]] p. 203）這段話本站只讀到貝恩的轉述，索拉里的原文還沒找到。\n\n外交上的動作比較清楚。黑爾弗特說，1793 年 1 月路易十六被處死之後，那不勒斯有市民請願要向法國開戰；7 月 12 日，那不勒斯和英國簽訂同盟（[[s-1878-helfert-karolina]]）。黑爾弗特還寫到，妹妹悲慘的結局，讓卡羅琳娜對出身西班牙波旁家族的媳婦更沒好感（[[s-1878-helfert-karolina]] p. 329）。\n\n### 晚年\n\n1813 年，卡羅琳娜離開西西里，經波蘭流亡（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 404 註）。黑爾弗特轉述一位伯爵的回憶：她的房間裡有一個櫃子，放著家人的畫像和紀念物；她指著路易十六夫婦的畫像，流著淚說：「您看，這是我妹妹瑪麗．安東尼。」（本站譯）（[[s-1878-helfert-karolina]] 約 p. 540）她在 1814 年去世，比妹妹多活了二十一年（[[s-1878-helfert-karolina]]）。\n\n## 研究者怎麼看\n\n- **證據的層級：** 「被母親拆開」有女皇的信（經貝恩英譯）支持（[[s-1907-bearne-carolina]] p. 55）；「得知死訊時的尖叫」是貝恩轉述的第三者回憶（[[s-1907-bearne-carolina]] p. 203）；「復仇銘文」連出處都沒有（[[s-1907-bearne-carolina]] p. 204）。\n- **怎麼解釋她的反法：** 貝恩把它寫成為妹妹復仇，說妹妹之死「讓她的性格變得苦澀」（[[s-1907-bearne-carolina]] p. 204）；黑爾弗特則把重點放在條約、同盟和戰爭，寫的是一個國家的外交（[[s-1878-helfert-karolina]]）。（推論）兩種說法並不衝突，但後者有檔案可查。\n\n## 延伸閱讀\n\n- [[t-handover]]：輪到妹妹嫁去法國的那一天。\n- [[t-joseph]]：另一位手足，哥哥約瑟夫二世。\n- [[t-vigee]]：替姊妹兩人都畫過像的畫家。\n- [[t-execution]]：1793 年的斷頭台。\n\n## 還不知道的事\n\n- 女皇 1767 年 8 月 19 日那封信的德文原文。\n- 兩姊妹之間的通信，目前都沒有找到。\n- 卡羅琳娜寫給大臣加洛（Gallo）的信（1911 年出版），可能有她 1793 年最直接的反應，本站還沒讀到。\n- 索拉里侯爵夫人回憶錄的原文。\n",
+   "links": [
+    "s-1835-vigee-le-brun-souvenirs",
+    "s-1874-arneth-mercy-correspondance",
+    "s-1878-helfert-karolina",
+    "s-1881-arneth-briefe-kinder",
+    "s-1907-bearne-carolina",
+    "t-execution",
+    "t-handover",
+    "t-joseph",
+    "t-vigee"
    ]
   },
   {
@@ -6410,6 +6524,10 @@
    "t-fersen"
   ],
   [
+   "s-1878-helfert-karolina",
+   "t-carolina"
+  ],
+  [
    "s-1879-goncourt-marie-antoinette",
    "s-1823-campan-memoires"
   ],
@@ -6420,6 +6538,10 @@
   [
    "s-1879-goncourt-marie-antoinette",
    "t-vermond"
+  ],
+  [
+   "s-1881-arneth-briefe-kinder",
+   "t-carolina"
   ],
   [
    "s-1881-vizetelly-diamond-necklace",
@@ -6544,6 +6666,10 @@
   [
    "s-1903-funck-brentano-collier",
    "t-vermond"
+  ],
+  [
+   "s-1907-bearne-carolina",
+   "t-carolina"
   ],
   [
    "s-1907-lenotre-last-days-marie-antoinette",
@@ -7256,6 +7382,42 @@
   [
    "t-cake",
    "t-table"
+  ],
+  [
+   "t-carolina",
+   "s-1835-vigee-le-brun-souvenirs"
+  ],
+  [
+   "t-carolina",
+   "s-1874-arneth-mercy-correspondance"
+  ],
+  [
+   "t-carolina",
+   "s-1878-helfert-karolina"
+  ],
+  [
+   "t-carolina",
+   "s-1881-arneth-briefe-kinder"
+  ],
+  [
+   "t-carolina",
+   "s-1907-bearne-carolina"
+  ],
+  [
+   "t-carolina",
+   "t-execution"
+  ],
+  [
+   "t-carolina",
+   "t-handover"
+  ],
+  [
+   "t-carolina",
+   "t-joseph"
+  ],
+  [
+   "t-carolina",
+   "t-vigee"
   ],
   [
    "t-chemise",
@@ -10851,6 +11013,14 @@
    "category": "身後",
    "topic": "t-library",
    "source": "s-1864-proces-livres-boudoir"
+  },
+  {
+   "date": "1767-08-19",
+   "title": "女皇下令兩姊妹分開",
+   "desc": "女皇寫信給十五歲的卡羅琳娜：從此要和妹妹安東妮完全分開，不准說悄悄話。",
+   "category": "人物",
+   "topic": "t-carolina",
+   "source": "s-1907-bearne-carolina"
   }
  ],
  "stats": [],
