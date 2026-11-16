@@ -2,7 +2,7 @@
 
 > 由 `tools/build.py` 自動產生於 2026-11-17，不要手改。
 
-資料卡 136 張（全文 27）｜主題 55｜實體 5｜問答 3
+資料卡 137 張（全文 27）｜主題 55｜實體 5｜問答 4
 
 ## 主題頁
 
@@ -72,6 +72,7 @@
 
 ## 問答
 
+- [[q-cold-chemise]] 王后真的光著身子在冬天發抖，等貴婦們輪流遞襯衣？「禮儀夫人」的綽號是她取的嗎？ — 
 - [[q-did-she-compose]] 浪漫曲〈他是我的朋友〉（C'est mon ami）真的是王后作的嗎？ — 
 - [[q-mozart-proposal]] 六歲的莫札特真的向小瑪麗．安東尼求過婚嗎？ — 
 - [[q-where-did-the-furniture-go]] 革命以後，王后在凡爾賽和小特里亞儂的家具去了哪裡？ — 
@@ -181,6 +182,7 @@
 - [[s-2014-olalde-louis-xvi-blood]] Genomic analysis of the blood attributed to Louis XVI (1754–1793), king of France — Olalde I.（與 Lalueza-Fox C. 等 19 位作者）（2014）｜期刊論文｜部分
 - [[s-2015-gorguet-grand-habit]] 「Petite étude du grand habit à travers les mémoires quittancés de la comtesse d'Artois (1773-1780)」（〈大禮服小考：從阿圖瓦伯爵夫人的已付款帳單看〉） — Pascale Gorguet Ballesteros（2015）｜期刊論文｜全文
 - [[s-2015-parson-dark-countess]] Molecular genetic analysis on the remains of the Dark Countess: Revisiting the French Royal family — Walther Parson, Cordula Berger, Timo Sänger, Sabine Lutz-Bonengel（2015）｜期刊論文｜全文
+- [[s-2016-garcia-prieto-etiquette-reine]] 以禮儀塑造王后：安妮．奧地利（1570–1580）的宮廷（Modeler le comportement de la reine par l'étiquette） — Elisa García Prieto（2016）｜期刊論文｜部分
 - [[s-2016-maes-laiterie-rambouillet]] La laiterie de Marie-Antoinette à Rambouillet. Un temple pastoral pour le plaisir de la reine — Antoine Maës（2016）｜專書｜書目
 - [[s-2016-versailles-queens-hamlet]] 凡爾賽宮官網「Queen's Hamlet」頁面與長文（英文） — 凡爾賽宮（Château de Versailles）（2016）｜網頁｜全文
 - [[s-2017-caron-garde-meuble]] 《Le Garde-Meuble et la Cour》研究計畫摘要（Caron，2017） — Mathieu Caron（2017）｜學位論文｜摘要

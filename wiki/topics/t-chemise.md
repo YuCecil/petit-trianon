@@ -64,6 +64,7 @@ updated: 2026-11-16
 
 ## 延伸閱讀
 
+- [[q-cold-chemise]]：王后冬天等貴婦輪流遞襯衣的故事。
 - [[s-2024-pearce-creole]]
 - [[s-1835-vigee-le-brun-souvenirs]]
 - [[s-1823-campan-memoires]]

@@ -79,6 +79,7 @@ updated: 2026-11-15
 
 ## 延伸閱讀
 
+- [[q-cold-chemise]]：電影開場的起床儀式，史料怎麼說。
 - [[s-1823-campan-memoires]]
 - [[s-2006-stamberg-npr-fraser]]
 - [[s-2012-backman-rogers-threshold]]
