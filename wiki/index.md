@@ -2,7 +2,7 @@
 
 > 由 `tools/build.py` 自動產生於 2026-11-17，不要手改。
 
-資料卡 126 張（全文 27）｜主題 53｜實體 5｜問答 2
+資料卡 129 張（全文 27）｜主題 54｜實體 5｜問答 2
 
 ## 主題頁
 
@@ -20,6 +20,7 @@
 - [[t-coronation]] 「我們太年輕了」：新王登基與蘭斯的加冕 — 一對年輕的國王與王后，和一場讓她「活一百年也忘不了」的典禮。
 - [[t-corset]] 鯨骨束腰：十四歲太子妃的第一場叛逆 — 剛嫁到法國，她不肯穿束腰；女官、大使和遠在維也納的母親都急了。
 - [[t-deficit]] 赤字夫人：王后的衣櫥拖垮了法國嗎？ — 她確實愛美、帶動奢華風氣，但國家帳本上最大的洞在別處。
+- [[t-diary]] 國王的日記：巴士底陷落那天，他真的只寫了「無事」？ — 「Rien」是真的，但那本日記其實是打獵紀錄，「Rien」的意思是「沒打獵」。
 - [[t-dubarry]] 「今天凡爾賽人真多」：太子妃與杜巴利夫人的冷戰 — 為了一句話，維也納、凡爾賽和大使館鬥了將近兩年。
 - [[t-elisabeth]] 伊莉莎白夫人：「別讓他們知道我不是王后」 — 國王的妹妹，可以走卻留下，陪哥哥一家走到最後。
 - [[t-execution]] 國王的最後一天：「我無罪而死」 — 從聽到判決，到斷頭台上被鼓聲蓋過的最後一句話。
@@ -117,6 +118,7 @@
 - [[s-1866-arneth-marie-antoinette]] Marie Antoinette, Joseph II. und Leopold II. Ihr Briefwechsel — Alfred Ritter von Arneth（編）（1866）｜書信｜部分
 - [[s-1867-arneth-maria-theresia-joseph]] Maria Theresia und Joseph II. Ihre Correspondenz sammt Briefen Joseph's an seinen Bruder Leopold, Zweiter Band (1773–1778) — Alfred Ritter von Arneth（編）（1867）｜書信｜部分
 - [[s-1868-feuillet-elisabeth-correspondance]] Correspondance de Madame Élisabeth de France, sœur de Louis XVI（伊莉莎白夫人書信集，據原件手稿校印） — Feuillet de Conches（編者，1798–1887）（1868）｜書信｜部分
+- [[s-1873-nicolardot-journal-louis-xvi]] 《路易十六的日記》（Journal de Louis XVI，尼科拉多編，1873） — Louis Nicolardot（1873）｜日記｜部分
 - [[s-1874-arneth-mercy-correspondance]] Marie-Antoinette. Correspondance secrète entre Marie-Thérèse et le comte de Mercy-Argenteau（三卷，1874） — 瑪麗亞．特蕾莎、瑪麗．安東尼、梅西－阿爾讓托（書信作者）；編者 Alfred von Arneth（導論與註）、Auguste Geffroy（評註）（1874）｜書信｜部分
 - [[s-1877-davillier-vente-mobilier]] 大革命期間凡爾賽城堡家具的拍賣（Davillier 1877，documents inédits） — Baron Charles Davillier（1877）｜專書｜部分
 - [[s-1877-klinckowstrom-fersen]] Le comte de Fersen et la cour de France. Extraits des papiers du grand maréchal de Suède, comte Jean Axel de Fersen（第一卷） — R. M. de Klinckowström（編）（1877）｜書信｜部分
@@ -180,6 +182,7 @@
 - [[s-2017-triquenaux-messaline]] 《Messaline française, louve de Barbarie et Ganymède femelle》：波利尼亞克夫人的諷刺小冊子與仇恨的傳染 — Maxime Triquenaux（2017）｜期刊論文｜部分
 - [[s-2019-barao-corps-corsets]] 「Corps et corsets, du milieu du XVIIIe siècle à la fin des années 1820」（碩士論文，〈束身衣與胸衣：十八世紀中到 1820 年代末〉） — Laurie Barao（2019）｜學位論文｜部分
 - [[s-2020-lanoe-gallois-huet]] Une dynastie de parfumeurs du roi : les Gallois/Huet et la fabrique des apparences de la cour à la ville, 1686-1789 — Catherine Lanoë（2020）｜期刊論文｜部分
+- [[s-2020-pinoteau-chasses-louis-xvi]] 《路易十六的狩獵》（Les chasses de Louis XVI：Splendeur et ruine des plaisirs de Sa Majesté, 1774–1799） — Henri Pinoteau（2020）｜專書｜摘要
 - [[s-2020-theobald-soaring]] 〈飛升的想像：凡爾賽第一次孟格菲氣球表演的文字與圖像〉（Soaring Imaginations: The First Montgolfier Ballooning Spectacle at Versailles in Word and Image） — Catherine J. Lewis Theobald（2020）｜期刊論文｜全文
 - [[s-2021-archives-nationales-xray]] Marie-Antoinette's Correspondence under X-Ray（法國國家檔案館說明頁） — Archives nationales（2021）｜網頁｜摘要
 - [[s-2021-lebeurre-bagatelle-pari]] 〈Bagatelle：一個放蕩者的瘋狂賭局〉（Bagatelle : le pari fou d'un libertin） — Alexia Lebeurre、Claire Ollagnier（2021）｜專書論文｜書目
@@ -201,3 +204,4 @@
 - [[s-2026-versailles-chateau-first-balloon]] First hot air balloon flight（凡爾賽宮官網「關鍵年表」） — Château de Versailles（2026）｜網頁｜摘要
 - [[s-2026-versailles-coppola-exhibition]] «Marie-Antoinette» by Sofia Coppola（凡爾賽宮展覽頁） — Château de Versailles（2026）｜網頁｜摘要
 - [[s-2026-wallace-riesener]] Wallace Collection「Riesener：家具」專題頁 — The Wallace Collection（2026）｜網頁｜摘要
+- [[s-2026-zanetti-amazones]] Amazones ! Cavalières et icônes de mode（展覽新聞稿） — Clément Trouche、Valerio Zanetti（展覽策展人）（2026）｜網頁｜部分

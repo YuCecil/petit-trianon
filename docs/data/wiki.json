@@ -1,9 +1,9 @@
 {
  "built": "2026-11-17",
  "counts": {
-  "sources": 126,
+  "sources": 129,
   "fulltext": 27,
-  "topics": 53,
+  "topics": 54,
   "entities": 5,
   "questions": 2,
   "events": 118,
@@ -1178,6 +1178,35 @@
    "body": "## 一句話\n\n這是伊莉莎白夫人的書信集，編者 Feuillet de Conches 寫了一篇很長的〈序言〉，記述她的生平與死亡；書信本身來自手稿，可信度高，但序言是十九世紀的傳記式敘述，帶有濃厚的王黨情感。\n\n## 三個重點\n\n1. 書信可以直接用來寫她的日常：蒙特勒伊的園子、植物、給 Bombelles 夫人的信、Raigecourt 夫人的信，多數只有日期或年份不完整（編者在序言與註腳中有說明）。\n2. 序言是最重要的生平敘述：婚事（葡萄牙、奧斯塔、約瑟夫二世）、蒙特勒伊的來歷、聖殿塔裡的讀書與縫補、1794 年 5 月 9 日的告別、5 月 10 日的審判與行刑（序言行 2360–2640 附近）。\n3. 序言的行刑細節（「Au nom de Dieu, monsieur, couvrez-moi!」）來源沒有註明是誰的目擊記錄；與英譯本的版本不同，寫作時要分開標示。\n\n## 用了什麼史料\n\n- 伊莉莎白夫人的手稿書信（書信作者本人，不是當事人回憶，但寫信對象是親近的女伴，語氣較私人）。\n- 編者序言引用的人物：Mme de Mackau、Bombelles、Raigecourt、Le Monnier、Mauduit、Chauveau-Lagarde 等，序言沒有一一註明來源。\n- 序言註腳引用 Ferrand、Mme Guénard 的刊本，以及 Blosseville 侯爵提供的抄本，編者說明這些刊本有刪節。\n\n## 跟其他資料的關係\n\n- 與 Clery、Marie-Thérèse、Lafont 的聖殿與審判細節相互對照：行刑前夜與 Madame Royale 的告別，Feuillet 寫 1794 年 5 月 9 日傍晚，Marie-Thérèse 也寫 5 月 9 日夜間。\n- 與英譯本（s-1899-elisabeth-life-letters-en）的內容大部分相同，英譯應是以類似的法文傳記為底本；英譯增加了審判問答與行刑後的墓地細節。\n- 序言寫伊莉莎白「3 août」轉入聖殿，與 Clery 記載的 1792 年 8 月 13 日有出入，見下方「還不確定的地方」。\n\n## 值得記住的一句話\n\n原文：「Ah ! mon frère, répondait-elle, puis-je avoir des regrets quand je partage vos malheurs ?」（序言，行 2409–2412 附近）\n中譯：「哥哥，我分擔您的不幸，還能有什麼遺憾呢？」（本站譯）\n\n## 還不確定的地方\n\n- 序言寫「translation de Madame Elisabeth, le 3 août」進聖殿，與 Clery 記載的 1792 年 8 月 13 日不同；可能是印刷或 OCR 錯誤，未核對原版。\n- 書信多數有日期，但 OCR 漏掉了一部分（例如蒙特勒伊「petit Trianon」那封信的日期未辨識）。\n- 序言裡「她不遺憾」婚事、「她是一個『franche émigrée』（坦率的流亡者）」等說法是編者的判斷，不是她的原話。\n- 本次只讀了序言的主要段落與部分信件，書信全集未逐封讀完。\n- 文字檔來自 archive.org 的 djvu OCR，法文字詞有大量錯誤（例如 \"Elisabeth\" 多寫成 \"Elisa beth\"、\"Ilovale\" 為 Royale），引文已依上下文還原，寫作前請對照原頁。\n",
    "links": [
     "t-elisabeth"
+   ]
+  },
+  {
+   "id": "s-1873-nicolardot-journal-louis-xvi",
+   "type": "source",
+   "title": "《路易十六的日記》（Journal de Louis XVI，尼科拉多編，1873）",
+   "author": "Louis Nicolardot",
+   "year": 1873,
+   "kind": "日記",
+   "lang": "fr",
+   "venue": "Paris: E. Dentu, 1873（236 頁）",
+   "url": "https://archive.org/details/journaldelouisxv00nico",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1766,
+    1792
+   ],
+   "topics": [
+    "t-diary"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n十九世紀的編者尼科拉多（Louis Nicolardot）根據保存在檔案館的國王日記手稿，印出一部分條目並寫下編者說明；這是今天讀「路易十六日記」最容易取得的公有領域版本，但摘錄與評論都是編者的選擇。\n\n## 三個重點\n\n1. 日記的主體是狩獵紀錄。日記從 1766 年元旦寫起（作為太子），1774 年 8 月起作為國王，直到 1792 年 7 月 31 日（p. 18–19）。編者說，日記「essentiellement」是「一份狩獵的清單」（p. 21）。\n2. 「Rien」（無事）是日記裡最常出現的字，但它的意思是「那天沒有打獵」。編者舉例：國王曾在 1777 年 10 月 13 日寫「rien」，「因為獵隊自己去打獵了」（p. 102）。同樣的字也出現在他參加的會議、宗教儀式、親人去世，甚至 1792 年 3 月 10 日得知神聖羅馬皇帝去世的那一天（p. 101–103）。\n3. 1789 年 7 月 14 日條目是「14, rien.」（p. 136）。同一本日記的 7 月 15 日寫「séance à la Salle des États」，7 月 17 日寫「voyage à Paris à l'Hôtel de Ville」（p. 136–137）；10 月 5 日寫「interrompu par les événements」（p. 138），也就是說國王在有大事時會寫下事件。\n\n## 用了什麼史料\n\n- 原件：自國民公會以來由檔案館（Archives du royaume）保存（p. 18）；編者說日記「完全是路易十六的手筆」，全書 844 頁，「作為太子的日記」共 78 頁，「作為國王的日記」共 266 頁（p. 18–19）。\n- 本書的內容：編者序與「日記的性質」說明（p. 15–21）、「Rien」一章（p. 101–103）、「革命在日記裡」一章（p. 135–142 附近，摘錄 1789–1791 年的條目）。\n- 編者在書中提到，日記是「事後」寫成的，不是「逐日」寫的：「Il est certain que le Journal n'est pas écrit au jour le jour」（p. 20）。\n\n## 跟其他資料的關係\n\n- 與 [[s-1900-nolhac-dauphine]]：Nolhac 引用的 1770 年 5 月 17 日「Rien」，在本書摘錄中找不到（本書只收錄 1770 年 5 月 16 日「mon mariage」，p. 41）。\n- 與 [[s-2020-pinoteau-chasses-louis-xvi]]：Pinoteau 的導論引用了本書的統計數字（見該卡）。\n\n## 值得記住的一句話\n\n「Quoiqu'il n'ait, dans la pensée du roi, d'autre objet que d'indiquer qu'il n'y a pas eu de chasse, il fait un singulier effet dans beaucoup de circonstances.」（p. 101）／中譯：「雖然在國王的想法裡，這個字只是要說明當天沒有打獵，它在很多場合卻產生一種奇特的效果。」（本站譯）\n\n## 還不確定的地方\n\n- 本站只讀到編者摘錄與說明，沒有逐條讀完 844 頁日記原文。1774 年 5 月 10 日（路易十五去世）的條目在本書摘錄中找不到；本書只有 1774 年 5 月 18 日在繆埃特城堡晚餐的紀錄（p. 34）。\n- 原件的檔案館號碼（cote）本書沒有說明，本站還沒查到。\n- 編者的「Rien」解釋是十九世紀後期的判斷，後來研究者（見 Delors 網頁）也用同樣的讀法，但沒有在學術文獻中檢驗原件。\n- OCR 文字有錯字（如「i3」＝13、「1 1」＝11），引文以 PDF 頁面核對為準。\n",
+   "links": [
+    "s-1900-nolhac-dauphine",
+    "s-2020-pinoteau-chasses-louis-xvi",
+    "t-diary"
    ]
   },
   {
@@ -2983,6 +3012,34 @@
    ]
   },
   {
+   "id": "s-2020-pinoteau-chasses-louis-xvi",
+   "type": "source",
+   "title": "《路易十六的狩獵》（Les chasses de Louis XVI：Splendeur et ruine des plaisirs de Sa Majesté, 1774–1799）",
+   "author": "Henri Pinoteau",
+   "year": 2020,
+   "kind": "專書",
+   "lang": "fr",
+   "venue": "Presses universitaires de Rennes（Histoire；與凡爾賽宮研究中心合作，Aulica 系列）",
+   "url": "https://books.openedition.org/pur/266956",
+   "access": "公開",
+   "depth": "摘要",
+   "period": [
+    1774,
+    1799
+   ],
+   "topics": [
+    "t-diary"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n檔案學者 Pinoteau 研究路易十六的狩獵，他的導論引用了國王狩獵日記的統計，但這本書沒有直接解釋「Rien」這個字。\n\n## 三個重點\n\n1. 作者 Henri Pinoteau 是國家檔案館（Archives nationales）的古文書學者，專門研究凡爾賽的王室狩獵（摘要工具讀到的作者介紹）。\n2. 導論提到國王的狩獵日記，註腳引用「Louis XVI 1873」，也就是 [[s-1873-nicolardot-journal-louis-xvi]]；據導論統計，1775–1787 年國王每年約狩獵 160–200 次，鹿獵約占 40–50%（摘要工具讀到，頁碼未核）。\n3. 導論說路易十六和祖父一樣，打獵主要出於個人喜好，而不是為了塑造國王形象（摘要工具讀到，原句未核）。\n\n## 用了什麼史料\n\n本站只讀到導論（chapitre introductif）的摘要內容，還沒有逐字核對原文。全書的檔案來源需要另外讀「État des sources」一章（books.openedition.org/pur/267041）。\n\n## 跟其他資料的關係\n\n- 與 [[s-1873-nicolardot-journal-louis-xvi]]：Pinoteau 的統計用的是 Nicolardot 版的日記摘錄；本站還沒有核對他是否用過日記原件。\n\n## 值得記住的一句話\n\n（尚未核對原文，暫不引用。）\n\n## 還不確定的地方\n\n- 導論摘要沒有提到 1789 年 7 月 14 日，也沒有提到「Rien」的意思。\n- 全書正文（章節中是否討論日記「Rien」）還沒讀。這本書是 OpenEdition 免費開放閱讀的版本，下一步應讀正文中有關日記的章節，並補上頁碼。\n",
+   "links": [
+    "s-1873-nicolardot-journal-louis-xvi",
+    "t-diary"
+   ]
+  },
+  {
    "id": "s-2020-theobald-soaring",
    "type": "source",
    "title": "〈飛升的想像：凡爾賽第一次孟格菲氣球表演的文字與圖像〉（Soaring Imaginations: The First Montgolfier Ballooning Spectacle at Versailles in Word and Image）",
@@ -3567,6 +3624,33 @@
    ]
   },
   {
+   "id": "s-2026-zanetti-amazones",
+   "type": "source",
+   "title": "Amazones ! Cavalières et icônes de mode（展覽新聞稿）",
+   "author": "Clément Trouche、Valerio Zanetti（展覽策展人）",
+   "year": 2026,
+   "kind": "網頁",
+   "lang": "fr",
+   "venue": "Musée de la Mode et du Costume, Arles（2026 年 5 月 22 日至 9 月 20 日展出）",
+   "url": "無",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1500,
+    1900
+   ],
+   "topics": [
+    "t-riding"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n2026 年阿爾勒服裝博物館「Amazones！」展的新聞稿，說明女性騎馬與騎裝（habit d'amazone）從十七世紀宮廷到十八世紀的發展，並提到瑪麗．安東尼「en amazone」的畫像。\n\n## 三個重點\n\n1. 新聞稿寫：路易十四時期，女性在宮廷「首次」以騎裝「en Amazone」騎馬，騎裝借用男性服飾的元素（「emprunte et réinvente les éléments les plus spectaculaires de la garde robe masculine」）。\n2. 十八世紀：騎裝成為各地常見的服裝，是裁縫行會（maîtres-tailleurs）的專門業務。\n3. 展品中有 Duplessis 的「Portrait équestre de la Dauphine Marie-Antoinette, 1771」草稿（私人收藏），以及一幅「Marie-Antoinette en amazone」的展示。新聞稿沒有寫明畫中她是側騎還是跨騎。\n\n## 用了什麼史料\n\n展覽策展人的新聞稿（博物館文件，非同儕審查）。策展人 Valerio Zanetti 自述有十年以上的研究。PDF 全文已存為 raw/papers/s-2026-zanetti-amazones.txt（pdftotext 轉出，PDF 共 24 頁）。\n\n## 跟其他資料的關係\n\n與 t-riding 的「騎裝」「男式騎法」說法相關，但它是展覽宣傳文字，沒有引用一手史料。它沒有提到 1770 年女皇的信，也沒有判斷梅西說的「女式鞍」與女皇說的「en homme」哪一個正確。\n\n## 值得記住的一句話\n\n<!-- 原文（40 字以內）＋中譯，附頁碼 -->\n「Une amazone ce n'est pas une femme qui se travestit, c'est la création d'une icône féminine」（新聞稿，PDF 第 6 頁：「騎裝不是女扮男裝，而是女性形象的創造」）。\n\n## 還不確定的地方\n\n- 只讀了新聞稿的前半與十八世紀小節（PDF 第 3–9 頁），沒有讀完整份。\n- 新聞稿沒有列出參考文獻，無法直接查到它依據哪些一手史料。\n- 「Marie-Antoinette en amazone」的畫作是哪一幅（1783 Brun？或 1771 Duplessis 草稿？）新聞稿未說明。\n- 策展人 Zanetti 的學術論文（如 Ludica 2019「Holding the Reins」）已找到書目，但全文讀不到（學術網站擋住自動存取），未納入。\n",
+   "links": [
+    "t-riding"
+   ]
+  },
+  {
    "id": "t-august10",
    "type": "topic",
    "title": "1792 年 8 月 10 日：王室離開杜樂麗宮的那一天",
@@ -4072,6 +4156,35 @@
     "t-necklace",
     "t-polignac",
     "t-pouf"
+   ]
+  },
+  {
+   "id": "t-diary",
+   "type": "topic",
+   "title": "國王的日記：巴士底陷落那天，他真的只寫了「無事」？",
+   "category": "迷思",
+   "period": [
+    1766,
+    1792
+   ],
+   "summary": "「Rien」是真的，但那本日記其實是打獵紀錄，「Rien」的意思是「沒打獵」。",
+   "myth": "1789 年 7 月 14 日巴士底陷落那天，路易十六在日記裡只寫了「無事」，可見他對民間的動盪一無所知。",
+   "verdict": "半真半假",
+   "sources": [
+    "s-1873-nicolardot-journal-louis-xvi",
+    "s-2020-pinoteau-chasses-louis-xvi",
+    "s-1900-nolhac-dauphine"
+   ],
+   "updated": "2026-11-17",
+   "body": "## 一句話說明\n\n路易十六從十一歲起寫了二十六年的日記，1789 年 7 月 14 日那一行，確實只有「14，無事」（14, rien）。但這本日記主要是打獵紀錄，「無事」通常的意思是「今天沒打獵」；同一本日記裡，兒子死的那一天、內閣大臣換人的那一天，也都可能寫著「無事」。\n\n## 迷思與史料\n\n1873 年出版日記摘錄的編者尼科拉多（Nicolardot），把 1789 年 7 月的條目照抄出來：「11，無事，內克先生離職。12，晚禱與聖體降福，蒙莫蘭、聖普里斯特和拉呂澤爾納諸位先生離職。13，無事。14，無事。15，到三級會議廳開會，然後回來。」（本站譯）（[[s-1873-nicolardot-journal-louis-xvi]] p. 136）「無事」兩個字是真的，巴士底也確實一個字都沒提。\n\n但同一位編者在書裡專門寫了一章談「無事」：這是全本日記裡最常出現的字，「在國王的心裡，它的意思只是當天沒有打獵」；所以它常常寫在很怪的地方，例如「無事，下雨」「無事，舞會」「無事，皇帝來訪」，甚至「無事，宣誓就職」「無事，國務會議」（本站譯）（[[s-1873-nicolardot-journal-louis-xvi]] pp. 101–102）。他也說，很多讀過這本日記的人之所以「太過震驚」，是因為不了解王室歷代都有記錄打獵的傳統（本站譯）（[[s-1873-nicolardot-journal-louis-xvi]] p. 18）。\n\n所以本站判定「半真半假」：「無事」這個字確實寫在 7 月 14 日，但把它讀成「國王覺得那天什麼事都沒發生」，是誤讀了這本日記的寫法。（推論）至於國王當時知不知道巴黎發生了什麼，要看別的史料，不能從這兩個字判斷。\n\n## 故事是這樣的\n\n### 一本 844 頁的打獵簿\n\n尼科拉多說，這本日記從 1766 年 1 月 1 日，也就是路易十一歲時開始，到 1792 年 7 月 31 日結束，全部是他親筆寫的，一共 844 頁；王太子時期的四本小冊子比較小，當上國王以後換成大一點的紙，每年一本（[[s-1873-nicolardot-journal-louis-xvi]] pp. 18–19）。原件在革命時被收走，從國民公會時期就存在國家檔案館（[[s-1873-nicolardot-journal-louis-xvi]] p. 18）。編者還抱怨國王的錯字「又多又粗」，他印的時候都改掉了（[[s-1873-nicolardot-journal-louis-xvi]] p. 18）。\n\n日記一天通常只有一行：去哪裡打獵、獵到幾隻鹿、打了幾隻鳥。編者算過各種獵物，連燕子都打：1784 年 6 月 28 日，「打了 200 隻燕子」（[[s-1873-nicolardot-journal-louis-xvi]] pp. 96–97）。研究王室狩獵的檔案學者皮諾托（Pinoteau）根據這本日記統計，1775 到 1787 年間，國王每年大約打獵 160 到 200 次（[[s-2020-pinoteau-chasses-louis-xvi]] 導論）。\n\n### 新婚的「無事」\n\n日記裡最早被拿來嘲笑的「無事」，不是 1789 年，而是 1770 年。婚禮那天他寫：「16 日，我的婚禮，畫廊裡的套房，歌劇廳的國宴。」（本站譯）（[[s-1873-nicolardot-journal-louis-xvi]] p. 41）十九世紀的凡爾賽學者諾拉克說，第二天宮裡準備去看歌劇，王太子不能去打獵，就在日記上寫下他「平常的記法：『無事』」（本站譯）（[[s-1900-nolhac-dauphine]] p. 101）。後人把它讀成「新婚之夜什麼都沒發生」，其實他記的是獵場（見 [[t-consummation]]）。\n\n### 1789 年的夏天\n\n翻開 1789 年那幾頁，可以看到一個家庭和一個國家同時在崩塌。6 月 4 日：「我兒子凌晨一點過世」；接下來幾天，他只寫私下望彌撒、「誰也沒見」；13 日，「兒子的葬禮」（本站譯）（[[s-1873-nicolardot-journal-louis-xvi]] pp. 135–136）。（推論）這是整本日記裡少數寫到私人情緒邊緣的地方，用的仍是記帳般的短句。\n\n接著是政治。6 月 23 日：「十點在三級會議舉行御前會議」；7 月 11 日：「無事，內克先生離職」；14 日：「無事」；17 日：「去巴黎市政廳」（[[s-1873-nicolardot-journal-louis-xvi]] pp. 136–137）。（推論）罷免受歡迎的財政總監內克，是引爆巴黎暴動的導火線；國王在那一天，也只寫了「無事」加上一句說明。\n\n### 10 月 5 日\n\n三個月後，巴黎婦女走到凡爾賽。那天日記寫：「5 日，在沙蒂永門打獵，打了 81 隻，被事件打斷，騎馬往返。」第二天：「中午十二點半出發去巴黎，到市政廳，在杜樂麗宮吃晚飯、睡覺。」（本站譯）（[[s-1873-nicolardot-journal-louis-xvi]] p. 138；另見 [[t-october-days]]）這是整本日記裡最接近承認「出事了」的一句：「被事件打斷」。\n\n### 逃亡和之後\n\n1791 年 6 月，日記照常記錄：「21 日，星期二，午夜從巴黎出發，晚上十一點抵達瓦雷納並被捕。」接下來是一路被押回的行程，在哪裡吃午飯、在哪裡過夜，在多爾芒「在扶手椅上睡了三小時」；回到巴黎第二天，26 日，他寫：「什麼都沒有。」（rien du tout）（本站譯）（[[s-1873-nicolardot-journal-louis-xvi]] pp. 142–143；另見 [[t-varennes]]）\n\n（推論）從那以後，他再也沒有出去打獵的機會。日記一年比一年短，1791 年 7 月 14 日，攻占巴士底兩週年，只寫了「我得吃藥」；7 月 17 日，「戰神廣場事件」（[[s-1873-nicolardot-journal-louis-xvi]] p. 143）。\n\n## 研究者怎麼看\n\n- **怎麼讀「無事」：** 編者尼科拉多認為它只表示當天沒有打獵，並批評讀者不了解王室的狩獵紀錄傳統（[[s-1873-nicolardot-journal-louis-xvi]] pp. 18, 101）。諾拉克在講 1770 年的「無事」時，也稱它為「平常的記法」（[[s-1900-nolhac-dauphine]] p. 101）。\n- **打獵對國王的意義：** 皮諾托認為，路易十六和祖父一樣，打獵主要出於個人喜好（[[s-2020-pinoteau-chasses-louis-xvi]] 導論）。本站只讀到這本書導論的摘要。\n- （推論）這本日記證明不了國王「冷漠」，也證明不了他「關心」；它只是一本記錄行程與獵物的簿子。要知道國王 1789 年 7 月怎麼想，得看他的信、大臣的回憶和當時的報告。\n\n## 延伸閱讀\n\n- [[t-louis]]：鎖匠國王，被低估的路易十六。\n- [[t-consummation]]：新婚之夜的「無事」與七年沒圓房。\n- [[t-october-days]]：日記寫「被事件打斷」的那一天。\n- [[t-varennes]]：日記寫「抵達瓦雷納並被捕」的那一天。\n\n## 還不知道的事\n\n- 本站只讀了尼科拉多書中的摘錄和說明，沒有讀到日記的全部條目，也沒有看到國家檔案館的原件。\n- 1774 年 5 月 10 日路易十五去世那天，日記寫了什麼，摘錄裡沒有。\n- 皮諾托 2020 年專書的正文本站還沒讀。\n",
+   "links": [
+    "s-1873-nicolardot-journal-louis-xvi",
+    "s-1900-nolhac-dauphine",
+    "s-2020-pinoteau-chasses-louis-xvi",
+    "t-consummation",
+    "t-louis",
+    "t-october-days",
+    "t-varennes"
    ]
   },
   {
@@ -5937,6 +6050,18 @@
    "t-elisabeth"
   ],
   [
+   "s-1873-nicolardot-journal-louis-xvi",
+   "s-1900-nolhac-dauphine"
+  ],
+  [
+   "s-1873-nicolardot-journal-louis-xvi",
+   "s-2020-pinoteau-chasses-louis-xvi"
+  ],
+  [
+   "s-1873-nicolardot-journal-louis-xvi",
+   "t-diary"
+  ],
+  [
    "s-1874-arneth-mercy-correspondance",
    "e-mercy"
   ],
@@ -6451,6 +6576,14 @@
   [
    "s-2020-lanoe-gallois-huet",
    "t-perfume"
+  ],
+  [
+   "s-2020-pinoteau-chasses-louis-xvi",
+   "s-1873-nicolardot-journal-louis-xvi"
+  ],
+  [
+   "s-2020-pinoteau-chasses-louis-xvi",
+   "t-diary"
   ],
   [
    "s-2020-theobald-soaring",
@@ -7231,6 +7364,34 @@
   [
    "t-deficit",
    "t-pouf"
+  ],
+  [
+   "t-diary",
+   "s-1873-nicolardot-journal-louis-xvi"
+  ],
+  [
+   "t-diary",
+   "s-1900-nolhac-dauphine"
+  ],
+  [
+   "t-diary",
+   "s-2020-pinoteau-chasses-louis-xvi"
+  ],
+  [
+   "t-diary",
+   "t-consummation"
+  ],
+  [
+   "t-diary",
+   "t-louis"
+  ],
+  [
+   "t-diary",
+   "t-october-days"
+  ],
+  [
+   "t-diary",
+   "t-varennes"
   ],
   [
    "t-dubarry",
