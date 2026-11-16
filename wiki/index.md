@@ -2,7 +2,7 @@
 
 > 由 `tools/build.py` 自動產生於 2026-11-17，不要手改。
 
-資料卡 129 張（全文 27）｜主題 54｜實體 5｜問答 2
+資料卡 135 張（全文 27）｜主題 54｜實體 5｜問答 3
 
 ## 主題頁
 
@@ -71,6 +71,7 @@
 
 ## 問答
 
+- [[q-did-she-compose]] 浪漫曲〈他是我的朋友〉（C'est mon ami）真的是王后作的嗎？ — 
 - [[q-mozart-proposal]] 六歲的莫札特真的向小瑪麗．安東尼求過婚嗎？ — 
 - [[q-where-did-the-furniture-go]] 革命以後，王后在凡爾賽和小特里亞儂的家具去了哪裡？ — 
 
@@ -113,11 +114,15 @@
 - [[s-1851-mirabeau-lamarck]] Correspondance entre le comte de Mirabeau et le comte de La Marck pendant les années 1789, 1790 et 1791（兩卷） — Honoré-Gabriel de Riquetti, comte de Mirabeau（信件）；Adolphe de Bacourt（編）；La Marck 為收信人（1851）｜書信｜部分
 - [[s-1852-marie-therese-temple]] 瑪麗－泰蕾茲回憶錄：「王室在聖殿塔的囚禁」（收於 1852 年版《Relation du voyage de Varennes》） — 瑪麗－泰蕾茲－夏綠蒂（Marie-Thérèse-Charlotte de France，王后的女兒，後來的昂古萊姆公爵夫人，1778–1851）（1852）｜回憶錄｜部分
 - [[s-1856-jahn-mozart]] 《W. A. Mozart》，十九世紀德文學界的重要莫札特研究 — Otto Jahn（1856）｜傳記｜部分
+- [[s-1862-lacour-livres-boudoir]] 《瑪麗．安東尼女王的小書房藏書》（Livres du boudoir de la reine Marie-Antoinette，附序言與註） — Louis Lacour（1862）｜專書｜部分
 - [[s-1862-sanson-sept-generations]] 七代劊子手：桑松家族回憶錄（Sept générations d'exécuteurs, 1688–1847 ; mémoires des Sanson，本站使用第 3、4 冊） — 亨利．桑松（Henri Sanson，生於 1799，編者），據其祖父 Charles-Henri Sanson（生於 1739）與父 Henri Sanson（1767–1849）的家族記述整理（1862）｜回憶錄｜部分
+- [[s-1863-lacroix-bibliotheque-reine]] 《瑪麗．安東尼女王的藏書：小特里亞儂》（附 1793 年查封目錄與馬爾基．德．保爾米的批註） — Paul Lacroix（le bibliophile Jacob）（1863）｜專書｜部分
+- [[s-1864-proces-livres-boudoir]] 《關於〈瑪麗．安東尼的小書房藏書〉出版的訴訟紀錄》（Procès relatif à la publication du catalogue intitulé Livres du boudoir） — 無署名（庭審紀錄，含檢察官論述與判決）（1864）｜檔案｜部分
 - [[s-1865-prevost-proces-recueil]] Procès de Marie Antoinette: ci-devant reine des Français; ou, Recueil exact — Nicolas Prévost（編者）（1865）｜檔案｜部分
 - [[s-1866-arneth-marie-antoinette]] Marie Antoinette, Joseph II. und Leopold II. Ihr Briefwechsel — Alfred Ritter von Arneth（編）（1866）｜書信｜部分
 - [[s-1867-arneth-maria-theresia-joseph]] Maria Theresia und Joseph II. Ihre Correspondenz sammt Briefen Joseph's an seinen Bruder Leopold, Zweiter Band (1773–1778) — Alfred Ritter von Arneth（編）（1867）｜書信｜部分
 - [[s-1868-feuillet-elisabeth-correspondance]] Correspondance de Madame Élisabeth de France, sœur de Louis XVI（伊莉莎白夫人書信集，據原件手稿校印） — Feuillet de Conches（編者，1798–1887）（1868）｜書信｜部分
+- [[s-1871-weckerlin-c-est-mon-ami]] C'est mon ami（韋克林編曲浪漫曲，1871 年出版，IMSLP 目錄頁） — Jean-Baptiste Weckerlin（作曲／編曲）；Jean-Pierre Claris de Florian（歌詞）（1871）｜圖像｜書目
 - [[s-1873-nicolardot-journal-louis-xvi]] 《路易十六的日記》（Journal de Louis XVI，尼科拉多編，1873） — Louis Nicolardot（1873）｜日記｜部分
 - [[s-1874-arneth-mercy-correspondance]] Marie-Antoinette. Correspondance secrète entre Marie-Thérèse et le comte de Mercy-Argenteau（三卷，1874） — 瑪麗亞．特蕾莎、瑪麗．安東尼、梅西－阿爾讓托（書信作者）；編者 Alfred von Arneth（導論與註）、Auguste Geffroy（評註）（1874）｜書信｜部分
 - [[s-1877-davillier-vente-mobilier]] 大革命期間凡爾賽城堡家具的拍賣（Davillier 1877，documents inédits） — Baron Charles Davillier（1877）｜專書｜部分
@@ -127,6 +132,7 @@
 - [[s-1883-tourzel-memoires]] Mémoires de Madame la duchesse de Tourzel（兩冊） — 圖澤爾夫人（Duchesse de Tourzel，本名 de Croÿ-Havré）（1883）｜回憶錄｜部分
 - [[s-1887-ap-varennes-reward]] Décret accordant des récompenses à l'occasion de l'arrestation du roi（1791 年 8 月 18 日，Archives parlementaires，第 29 卷） — Archives parlementaires（集體紀錄）（1887）｜檔案｜部分
 - [[s-1887-drouet-barre]] Admission de M. Drouet à la barre, lors de la séance du 24 juin 1791（Archives parlementaires，第 27 卷） — Jean-Baptiste Drouet（陳述人）；Archives parlementaires（1887 年版）（1887）｜檔案｜部分
+- [[s-1890-weckerlin-nouveau-musiciana]] Nouveau Musiciana：extraits d'ouvrages rares ou bizarres（新音樂逸聞，1890） — Jean-Baptiste Weckerlin（1821–1910）（1890）｜專書｜部分
 - [[s-1899-elisabeth-life-letters-en]] The Life and Letters of Madame Elisabeth de France, Sister of Louis XVI（英譯本，附〈聖殿日記〉選段） — 不詳（英譯者未具名；底本為法文傳記與書信集，註腳提到「Vie de Madame Élisabeth」）（1899）｜傳記｜部分
 - [[s-1900-nolhac-dauphine]] 《瑪麗．安東尼，太子妃》（Marie-Antoinette Dauphine） — Pierre de Nolhac（1900）｜傳記｜部分
 - [[s-1903-funck-brentano-collier]] 《項鍊案》 — Frantz Funck-Brentano（1903）｜專書｜部分
@@ -181,6 +187,7 @@
 - [[s-2017-ruimi-curtius-cabinet]] Spectacles de cire. Le cabinet de Curtius（2017） — Jennifer Ruimi（2017）｜期刊論文｜書目
 - [[s-2017-triquenaux-messaline]] 《Messaline française, louve de Barbarie et Ganymède femelle》：波利尼亞克夫人的諷刺小冊子與仇恨的傳染 — Maxime Triquenaux（2017）｜期刊論文｜部分
 - [[s-2019-barao-corps-corsets]] 「Corps et corsets, du milieu du XVIIIe siècle à la fin des années 1820」（碩士論文，〈束身衣與胸衣：十八世紀中到 1820 年代末〉） — Laurie Barao（2019）｜學位論文｜部分
+- [[s-2019-schechter-secret-library]] The Secret Library of Marie Antoinette: Revealing the Inner Life of a Conflicted Queen（Tack Faculty Lecture 摘要） — Ronald Schechter（2019）｜網頁｜摘要
 - [[s-2020-lanoe-gallois-huet]] Une dynastie de parfumeurs du roi : les Gallois/Huet et la fabrique des apparences de la cour à la ville, 1686-1789 — Catherine Lanoë（2020）｜期刊論文｜部分
 - [[s-2020-pinoteau-chasses-louis-xvi]] 《路易十六的狩獵》（Les chasses de Louis XVI：Splendeur et ruine des plaisirs de Sa Majesté, 1774–1799） — Henri Pinoteau（2020）｜專書｜摘要
 - [[s-2020-theobald-soaring]] 〈飛升的想像：凡爾賽第一次孟格菲氣球表演的文字與圖像〉（Soaring Imaginations: The First Montgolfier Ballooning Spectacle at Versailles in Word and Image） — Catherine J. Lewis Theobald（2020）｜期刊論文｜全文

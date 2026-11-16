@@ -77,6 +77,8 @@ updated: 2026-11-16
 
 ## 延伸閱讀
 
+- [[q-did-she-compose]]：〈他是我的朋友〉真的是王后作的曲嗎？
+
 - [[s-1823-campan-memoires]]
 - [[s-1874-arneth-mercy-correspondance]]
 - [[s-2025-masson-theatre-reine]]

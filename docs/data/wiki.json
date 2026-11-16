@@ -1,11 +1,11 @@
 {
  "built": "2026-11-17",
  "counts": {
-  "sources": 129,
+  "sources": 135,
   "fulltext": 27,
   "topics": 54,
   "entities": 5,
-  "questions": 2,
+  "questions": 3,
   "events": 119,
   "places": 18
  },
@@ -1046,6 +1046,33 @@
    ]
   },
   {
+   "id": "s-1862-lacour-livres-boudoir",
+   "type": "source",
+   "title": "《瑪麗．安東尼女王的小書房藏書》（Livres du boudoir de la reine Marie-Antoinette，附序言與註）",
+   "author": "Louis Lacour",
+   "year": 1862,
+   "kind": "專書",
+   "lang": "fr",
+   "venue": "Paris, J. Gay, 1862（限量 317 冊編號本）",
+   "url": "https://archive.org/details/livresduboudoir00lacogoog",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1770,
+    1793
+   ],
+   "topics": [
+    "t-library"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n路易．拉庫爾（Louis Lacour）第一次出版了一份據稱是王后「boudoir」（小書房）藏書的手寫目錄，共列 98 部著作、約 600 冊，並附上一篇很長的序言，把這些書說成王后的「日常讀物」，批評它們品味低落。\n\n## 三個重點\n\n1. 目錄是手寫本，原件收在當時的帝國圖書館（今法國國家圖書館），編號「supplément français 2929」（之後改為 13001）。1863 年的庭審紀錄（1864 年出版）載明，拉庫爾是自己在帝國圖書館抄下來的。他描述這份原件是四開本、23 張（feuillets），紅色摩洛哥皮封、飾有王后的徽章，依字母排列，並提到目錄指出書放在兩個編號的櫥櫃裡。\n2. 拉庫爾說目錄列出 98 部著作，「comprenant environ six cents volumes」（約 600 冊）。他在序言中把 Faublas 稱為「modèle du genre」（同類書的典範），目錄裡也列有 Restif de la Bretonne 的作品，他把這些書與王后的道德判斷連在一起。\n3. 拉庫爾認為藏書的挑選者可能是阿貝．德．維爾蒙（Vermond，王后的讀書指導者）。拉克魯瓦（見 s-1863-lacroix-bibliotheque-reine）在 1863 年駁斥了這個說法，認為維爾蒙不讀新小說。\n\n## 用了什麼史料\n\n- 帝國圖書館的手寫「Livres du boudoir」目錄（拉庫爾的抄本，書中有原件描述）。\n- Marquis de Paulmy 的《Manuel des châteaux》（1779）與他在 Arsenal 的小說評語，用來說明十八世紀小書房的讀書風氣。\n- 拉庫爾在凡爾賽市立圖書館找到幾本帶「C. T.」（Château de Trianon）書脊標記的書，用來證明目錄與王后的藏書有關。\n\n## 跟其他資料的關係\n\n- 1863 年，書商 Jules Gay 與拉庫爾因為「出版官方手稿」被告上法院（見 s-1864-proces-livres-boudoir）。法院判決兩人無罪：手寫目錄是國家財產，但抄寫的目錄不算「作品」，不受著作權保護。\n- 拉克魯瓦的序言把拉庫爾的註解稱為「過度嚴格」（rigorisme），但並不否認目錄是真的。\n- 梅西的通信集（Arneth & Geffroy 編，1874）的導言提到「Les prétendus catalogues particuliers de la reine qu'on a publiés, et qui feraient scandale, ne sont pas démontrés authentiques」（王后那些被出版、「會引起醜聞」的所謂私人目錄，尚未證明為真）；這句話是編者的懷疑，指的很可能就是拉庫爾這份書，但書中並未點名。\n\n## 值得記住的一句話\n\n<!-- 原文（40 字以內）＋中譯，附頁碼 -->\n- 原文：「Les ouvrages énumérés sont au nombre de 98, comprenant environ six cents volumes.」（頁碼待核，OCR 中在目錄說明段）\n- 中譯：「所列的著作共 98 部，約六百冊。」（本站譯）\n\n## 還不確定的地方\n\n- 98 部／約 600 冊是拉庫爾的數字；目錄原件是否如此、他是否合併計算，要以原件或 BnF 目錄核對。\n- 手寫目錄本身（BN 13001）沒有在本站讀到；本卡只根據拉庫爾的描述與抄錄內容。\n- 拉庫爾的序言帶有強烈的道德評論，把小說與王后的人格直接連在一起；在引用時要標明這是他的評論，不是史料事實。\n- 頁碼：OCR 文字（raw/books/s-1862-lacour-livres-boudoir.txt）中頁碼不穩定，本卡只給段落位置，正式引用前需對原書頁碼。\n- depth 定為「部分」：讀了序言、目錄的描述段與開頭；沒有逐條讀目錄。\n",
+   "links": [
+    "t-library"
+   ]
+  },
+  {
    "id": "s-1862-sanson-sept-generations",
    "type": "source",
    "title": "七代劊子手：桑松家族回憶錄（Sept générations d'exécuteurs, 1688–1847 ; mémoires des Sanson，本站使用第 3、4 冊）",
@@ -1070,6 +1097,60 @@
    "body": "## 一句話\n\n劊子手桑松家族的回憶錄，第 3 冊有一章詳細寫 1793 年 1 月 21 日的處決，是唯一站在劊子手一方的記述；但它是家族後人的整理，很多細節（包括國王改刀刃的故事）都只有口頭來源。\n\n## 三個重點\n\n1. 1 月 21 日凌晨，桑松先出門，八點離家，九點前到革命廣場；他和兩個弟弟在大衣下帶了劍、短刀與手槍（s-1862 v3 pp. 471–472）。\n2. 1792 年 3 月初，國王在杜樂麗宮看過 Schmidt 的刀刃設計圖，把半月形改成斜線；同年 4 月在畢塞特（Bicêtre）用屍體試驗，斜刃兩次成功（s-1862 v3 pp. 400–404）。這一段只有家族記述，沒有同時代檔案。\n3. 行刑時鼓聲不斷，桑特爾（Santerre）給鼓手打了信號；神父說了「聖路易之子，升天吧」（s-1862 v3 pp. 476–478）。\n\n## 用了什麼史料\n\n編者說，行刑的描述是他祖父 Charles-Henri 的記述，由父親與祖母口述、再由作者（亨利．桑松）整理。書中提到祖父寫給《Thermomètre du jour》的信，但沒有附原文，也沒有日期。書中還提到 Balzac 曾聽家人講述行刑的故事，並用來寫 1830 年代假託回憶錄的前言。\n\n## 跟其他資料的關係\n\n- 與 Cléry 與 Edgeworth 的記述大致一致：國王被帶上刑台、鼓聲、神父在旁。\n- 與 Edgeworth 不同：綁手的次序（桑松說神父先伸手）、擊鼓的命令者（桑特爾）。\n- 與瑪麗－泰蕾茲不同：瑪麗－泰蕾茲說用手帕綁手，桑松沒有寫用什麼綁。\n- 刀刃的故事只在本書出現（本站查到的最早版本）；1831 年的假託回憶錄全文關鍵字檢查，沒有找到這一段。\n\n## 值得記住的一句話\n\n「Français, vous voyez votre roi prêt à mourir pour vous. Puisse mon sang cimenter votre bonheur.」（第 3 冊 p. 476，法文原文）\n中譯：「法國人，你們看見你們的國王準備為你們而死。願我的血為你們的幸福奠基。」（本站譯）\n\n## 還不確定的地方\n\n- 「改刀刃」的情節只有家族口頭來源，沒有議會紀錄或同時代信件；2026 年的研究尚未找到獨立證據。\n- 祖父給《Thermomètre du jour》的信，本站沒有找到原文。\n- 第 3、4 冊頁碼以 1862 年印刷頁碼為準；OCR 有誤，標「約」的可能差 ±1。\n- 本書第 4 冊 p. 82–84 引用的 1793 年報紙，本站沒有查到原報。\n",
    "links": [
     "t-execution"
+   ]
+  },
+  {
+   "id": "s-1863-lacroix-bibliotheque-reine",
+   "type": "source",
+   "title": "《瑪麗．安東尼女王的藏書：小特里亞儂》（附 1793 年查封目錄與馬爾基．德．保爾米的批註）",
+   "author": "Paul Lacroix（le bibliophile Jacob）",
+   "year": 1863,
+   "kind": "專書",
+   "lang": "fr",
+   "venue": "Paris, Jules Gay, 1863",
+   "url": "https://archive.org/details/bibliothquedela00jacogoog",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1770,
+    1793
+   ],
+   "topics": [
+    "t-library"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n十九世紀書目學者拉克魯瓦（Paul Lacroix）根據 1793 年查封小特里亞儂時的藏書目錄，整理出一份「小特里亞儂藏書目錄」，並在序言中主張：這批書以小說和戲劇為主，屬於「休閒」讀物。\n\n## 三個重點\n\n1. 序言直接引用了 1793 年革命政府委員會製作的「Catalogue des livres provenant de chez la femme Capet, au Petit-Trianon」，拉克魯瓦說他依原始登記冊出版，並加上馬爾基．德．保爾米（Marquis de Paulmy）在一百多年前寫的未發表批註，多半針對小說。\n2. 他的結論很明確：小特里亞儂的藏書「composée presque exclusivement de romans et de pièces de théâtre」（幾乎全是小說和戲劇），是「bibliothèque de récréation et de délassement」（消遣用的書房）。\n3. 他同時說，王后在杜樂麗宮另有一座「最大、最有王室氣派」的藏書，「s'élevaient à plusieurs milliers」（有好幾千冊），但沒有看到那份目錄；這個說法他只根據查封紀錄與 Millin 1792–93 年的報導，目前沒有可核對的目錄數字。\n\n## 用了什麼史料\n\n- 1793 年查封目錄的原始登記冊（拉克魯瓦說他用的是原冊，而非另一份抄本；現存下落未在本書說明）。\n- 馬爾基．德．保爾米的批註（未發表，拉克魯瓦從原稿引用）。\n- Millin 在《Magasin encyclopédique》1792–93 年的報導（序言 p. XVII 引）：杜樂麗宮的書「trasportés à la Bibliothèque nationale」，其中提到「une collection considérable de pièces de théâtre」。\n- 序言另引 Louis Lacour 1862 年出版的《Livres du boudoir》（見另卡 s-1862-lacour-livres-boudoir）。\n\n## 跟其他資料的關係\n\n- 與 s-1862-lacour-livres-boudoir 同一批史料。Lacour 把這份目錄當成王后日常閱讀的證據，並強調其中的情色成分；拉克魯瓦同意目錄是真的，但認為它只是 boudoir 的一小部分，並替王后辯護（他說自己不會「譴責」她讀小說與戲劇）。兩人都不否認小說多，分歧在於「有多壞」和「代表多少」。\n- 梅西大使的通信（Arneth & Geffroy 編）與王后的讀書指導者維爾蒙（Vermond）的報告，只說她「讀書少」，沒有提到藏書內容；這些是另一種證據，不要與藏書目錄混為一談（見 raw/notes/t-library-原典頁碼.md）。\n- 2019 年 Ronald Schechter 的演講摘要（見 s-2019-schechter-secret-library）說：查到的手寫目錄中，「不少」書是被禁的，與拉克魯瓦所說的「小說與戲劇」不完全一致。這點仍待核對原始目錄。\n\n## 值得記住的一句話\n\n<!-- 原文（40 字以內）＋中譯，附頁碼 -->\n- 原文：「les pièces de théâtre et les romans n'ont jamais envoyé à l'échafaud une tête couronnée」（p. XXVIII 附近；頁碼待核）\n- 中譯：「戲劇和小說從來沒有送一顆王冠的頭上斷頭台。」（本站譯）\n\n## 還不確定的地方\n\n- 目錄總數：序言與目錄正文都沒有寫出總冊數；從 OCR 文字無法可靠計數（編號錯字多），不要引用任何「幾百冊」的精確數字，以原書（或 Gallica 原件）核對後為準。\n- 頁碼：本檔是 Google Books 掃描的 OCR 文字（raw/books/s-1863-lacroix-bibliotheque-reine.txt），頁碼由頁尾羅馬數字推定，請對 PDF 核對。\n- 只讀了序言全文與目錄的開頭、中段與結尾；目錄逐條（約 1003–6565 行）未逐條讀，故 depth 定為「部分」。\n- 杜樂麗宮的「plusieurs milliers」沒有目錄支持，只是拉克魯瓦的推論。\n",
+   "links": [
+    "t-library"
+   ]
+  },
+  {
+   "id": "s-1864-proces-livres-boudoir",
+   "type": "source",
+   "title": "《關於〈瑪麗．安東尼的小書房藏書〉出版的訴訟紀錄》（Procès relatif à la publication du catalogue intitulé Livres du boudoir）",
+   "author": "無署名（庭審紀錄，含檢察官論述與判決）",
+   "year": 1864,
+   "kind": "檔案",
+   "lang": "fr",
+   "venue": "Paris, 1864（紀錄庭審 1863 年 5 月）",
+   "url": "https://archive.org/details/procsrelatiflap00unkngoog",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1862,
+    1863
+   ],
+   "topics": [
+    "t-library"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n1863 年，書商 Jules Gay 與作者 Louis Lacour 因出版王后小書房的手寫目錄而被告「仿冒」；法院判決兩人無罪，理由是那份抄寫的目錄不是「作品」，不受著作權保護。這份庭審紀錄因此也記下了當時對這份目錄的爭論。\n\n## 三個重點\n\n1. 手寫目錄屬於國家財產（1792 年隨王室財產歸入國家）。Lacour 1862 年出版時，附上他在帝國圖書館抄寫的副本；Gay 負責印刷發行。\n2. 庭審在 1863 年 5 月 1、16、22 日進行。檢察官認為，目錄是國家的財產，但是否構成「仿冒」，要看它是不是「作品」。\n3. 法院的判決（1863 年 5 月 22 日宣讀，第 e 庭）認定：目錄「n'est que la copie par ordre alphabétique de titres de livres」（不過是按字母排列的書名抄本），屬於「travail purement manuel」（純粹的抄寫工作），因此「Renvoie Gay et Lacour du délit de contrefaçon」（判兩人無仿冒罪）。\n\n## 用了什麼史料\n\n- 庭審的起訴書與辯護詞（檢察官、Gay 的律師 Suin、Lacour 的律師 Gallien 的陳述）。\n- 判決全文。\n\n## 跟其他資料的關係\n\n- 這是 s-1862-lacour-livres-boudoir 的出版背景。它說明 Lacour 的版本確實是帝國圖書館手寫目錄的抄寫本，而不是他自己編造的。\n- 它不能證明目錄的內容為真，也不能證明王后讀了哪些書；它只證明手寫目錄「存在」，並且被當時的官方承認。\n- 庭審只處理著作權問題，沒有審查目錄內容是否真實；它不能當作王后閱讀內容的證據。\n\n## 值得記住的一句話\n\n<!-- 原文（40 字以內）＋中譯，附頁碼 -->\n- 原文：「n'est que la copie par ordre alphabétique de titres de livres」（判決文，頁碼待核）\n- 中譯：「不過是按字母順序抄寫的書名目錄」（本站譯）\n\n## 還不確定的地方\n\n- 頁碼：OCR 文字（raw/books/s-1864-proces-livres-boudoir.txt）的頁碼不穩定，判決段落位於紀錄末段附近（約第 86 頁前後），正式引用前需核對。\n- 本卡只讀了判決與起訴理由的主要段落，沒有逐段讀辯護詞。\n- 判決宣讀日期：紀錄寫有庭審日期（1863 年 5 月 1、16、22 日），判決段落標示為「22」日，年份沿用同一庭期。\n",
+   "links": [
+    "t-library"
    ]
   },
   {
@@ -1178,6 +1259,33 @@
    "body": "## 一句話\n\n這是伊莉莎白夫人的書信集，編者 Feuillet de Conches 寫了一篇很長的〈序言〉，記述她的生平與死亡；書信本身來自手稿，可信度高，但序言是十九世紀的傳記式敘述，帶有濃厚的王黨情感。\n\n## 三個重點\n\n1. 書信可以直接用來寫她的日常：蒙特勒伊的園子、植物、給 Bombelles 夫人的信、Raigecourt 夫人的信，多數只有日期或年份不完整（編者在序言與註腳中有說明）。\n2. 序言是最重要的生平敘述：婚事（葡萄牙、奧斯塔、約瑟夫二世）、蒙特勒伊的來歷、聖殿塔裡的讀書與縫補、1794 年 5 月 9 日的告別、5 月 10 日的審判與行刑（序言行 2360–2640 附近）。\n3. 序言的行刑細節（「Au nom de Dieu, monsieur, couvrez-moi!」）來源沒有註明是誰的目擊記錄；與英譯本的版本不同，寫作時要分開標示。\n\n## 用了什麼史料\n\n- 伊莉莎白夫人的手稿書信（書信作者本人，不是當事人回憶，但寫信對象是親近的女伴，語氣較私人）。\n- 編者序言引用的人物：Mme de Mackau、Bombelles、Raigecourt、Le Monnier、Mauduit、Chauveau-Lagarde 等，序言沒有一一註明來源。\n- 序言註腳引用 Ferrand、Mme Guénard 的刊本，以及 Blosseville 侯爵提供的抄本，編者說明這些刊本有刪節。\n\n## 跟其他資料的關係\n\n- 與 Clery、Marie-Thérèse、Lafont 的聖殿與審判細節相互對照：行刑前夜與 Madame Royale 的告別，Feuillet 寫 1794 年 5 月 9 日傍晚，Marie-Thérèse 也寫 5 月 9 日夜間。\n- 與英譯本（s-1899-elisabeth-life-letters-en）的內容大部分相同，英譯應是以類似的法文傳記為底本；英譯增加了審判問答與行刑後的墓地細節。\n- 序言寫伊莉莎白「3 août」轉入聖殿，與 Clery 記載的 1792 年 8 月 13 日有出入，見下方「還不確定的地方」。\n\n## 值得記住的一句話\n\n原文：「Ah ! mon frère, répondait-elle, puis-je avoir des regrets quand je partage vos malheurs ?」（序言，行 2409–2412 附近）\n中譯：「哥哥，我分擔您的不幸，還能有什麼遺憾呢？」（本站譯）\n\n## 還不確定的地方\n\n- 序言寫「translation de Madame Elisabeth, le 3 août」進聖殿，與 Clery 記載的 1792 年 8 月 13 日不同；可能是印刷或 OCR 錯誤，未核對原版。\n- 書信多數有日期，但 OCR 漏掉了一部分（例如蒙特勒伊「petit Trianon」那封信的日期未辨識）。\n- 序言裡「她不遺憾」婚事、「她是一個『franche émigrée』（坦率的流亡者）」等說法是編者的判斷，不是她的原話。\n- 本次只讀了序言的主要段落與部分信件，書信全集未逐封讀完。\n- 文字檔來自 archive.org 的 djvu OCR，法文字詞有大量錯誤（例如 \"Elisabeth\" 多寫成 \"Elisa beth\"、\"Ilovale\" 為 Royale），引文已依上下文還原，寫作前請對照原頁。\n",
    "links": [
     "t-elisabeth"
+   ]
+  },
+  {
+   "id": "s-1871-weckerlin-c-est-mon-ami",
+   "type": "source",
+   "title": "C'est mon ami（韋克林編曲浪漫曲，1871 年出版，IMSLP 目錄頁）",
+   "author": "Jean-Baptiste Weckerlin（作曲／編曲）；Jean-Pierre Claris de Florian（歌詞）",
+   "year": 1871,
+   "kind": "圖像",
+   "lang": "fr",
+   "venue": "Paris: Durand, Schœnewerk & Cie.（plate W.P. 2376）；Bibliographie de la France, 2 décembre 1871, p. 320（IMSLP 所引）",
+   "url": "https://imslp.org/wiki/C%27est_mon_ami_(Weckerlin,_Jean-Baptiste)",
+   "access": "公開",
+   "depth": "書目",
+   "period": [
+    1770,
+    1793
+   ],
+   "topics": [
+    "t-theatre"
+   ],
+   "entities": [],
+   "reliability": "低",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n已知最早有明確年份的〈C'est mon ami〉印刷樂譜之一（1871 年），目錄上寫「根據瑪麗．安東尼王后的一個旋律」，但沒有說明旋律來自哪份史料。\n\n## 三個重點\n\n1. 目錄資料（IMSLP，由 WebFetch 摘要）：作曲／編曲者為韋克林（Weckerlin），歌詞為弗洛里安（Florian, 1755–1794）；F 大調，聲樂與鋼琴；「Related Works」欄寫「Based on a theme by Marie-Antoinette, Queen of France」。\n2. IMSLP 另引 Curiosités musicales（韋克林編的選集）為來源，並說明「Romance」副標題不見於較早的 1912 版。這是 IMSLP 的說法，本次未能親自看到選集內頁。\n3. 目錄頁本身沒有寫明旋律的來源（哪一份手稿或哪一本書），也沒有注記 18 世紀的印刷品。\n\n## 用了什麼史料\n\n- 只用 IMSLP 的目錄頁（經 WebFetch 摘要）；樂譜掃描本（法國國家圖書館 F-Pn 掃描）未直接下載核對。\n\n## 跟其他資料的關係\n\n- 同一首歌的 1912 年 Hamelle 版（Francisque Darcieux 轉寫、和聲）在 IMSLP 上也寫王后是作者，但 IMSLP 同時注記「BnF 沒有十八世紀的手稿」、「Grove 的王后條目沒有列出她的作品」，並說「可能是偽託的歸屬」（IMSLP 原文，經 WebFetch 摘要）。\n- 與 `s-1890-weckerlin-nouveau-musiciana`（同一作者）：1890 年的逸聞選集沒有提到這首歌。\n\n## 值得記住的一句話\n\n「there is a possibility that this is a spurious attribution」（IMSLP 注記：這可能是偽託的歸屬）。中譯：「這個歸屬有可能是偽託的。」（本站譯；經 WebFetch 摘要，非原頁逐字）\n\n## 還不確定的地方\n\n- 沒有看到樂譜掃描本，無法確認「王后的旋律」是哪一段、是否真與王后有關。\n- 1871 年是本次找到的最早有年份的出版；十八世紀是否有印刷品，未查到。\n- 出處全部來自 IMSLP 的摘要，建議用台大或 BnF 目錄核對書目（Bibliographie de la France 2 Dec 1871, p. 320）。\n",
+   "links": [
+    "t-theatre"
    ]
   },
   {
@@ -1470,6 +1578,33 @@
    "body": "## 一句話\n\nSainte-Menehould 驛站長 Drouet 在 1791 年 6 月 24 日向制憲國民議會口頭陳述他如何認出國王，是最接近第一手、事發三天後的記錄；但陳述人本人有領賞的利害，原文 OCR 殘缺，引文需對照原頁。\n\n## 三個重點\n\n1. 他的說法：一開始「crut reconnaître la reine」（以為認出王后），然後被一個人與五十里弗爾 assignat 上的頭像「ressemblance subite」（突然的相似）打動（頁 508，OCR 可辨識）。\n2. 他自述猶豫：怕是假警報，先與同伴 Guillaume 商量，之後騎馬走小路先趕到 Varennes，並在城裡設置障礙、通知居民（頁 508–509，OCR 殘缺）。\n3. 這段陳述與 Tourzel 回憶錄（頁 316）都提到 assignat，但細節不同：Drouet 說一開始以為是王后；Tourzel 說是「crut reconnaître le Roi」。\n\n## 用了什麼史料\n\n議會記錄（主持人 Beauharnais 在 1887 年版中的紀錄），是當時的口頭陳述；並非 Drouet 親筆。\n\n## 跟其他資料的關係\n\n- 與 Tourzel 回憶錄（s-1883-tourzel-memoires，頁 316、318）：在 assignat 與 Varennes 城內的障礙等處大致一致（Drouet 段落 OCR 殘缺，需對照原頁）。\n- 與 1791 年 8 月 18 日獎賞法令（s-1887-ap-varennes-reward）相連：陳述後議會給獎；Drouet 的獎金金額未在本次 OCR 中確認。\n- 英文維基說 Drouet 是「Legislative Assembly」邀請陳述；本紀錄的議會是制憲國民議會（Assemblée nationale），此處以原紀錄為準。\n\n## 值得記住的一句話\n\n原文：「je crus reconnaître la reine que j'avais déjà vue」（頁 508，OCR 句子，需對照原頁）\n中譯：「我以為認出了王后，我之前見過她。」（本站譯）\n\n## 還不確定的地方\n\n- OCR 嚴重斷字，大部分句子只能拼湊，逐字引用前必須對照 Gallica 或 Persée 掃描頁。\n- 到達 Sainte-Menehould 的確切時刻未能確認（OCR 讀成 \"sept\" 或 \"11\" 之類）。\n- 主持人答覆（頁 509）未讀。\n- 陳述人有領賞利害，陳述內容未經獨立核對。\n",
    "links": [
     "t-varennes"
+   ]
+  },
+  {
+   "id": "s-1890-weckerlin-nouveau-musiciana",
+   "type": "source",
+   "title": "Nouveau Musiciana：extraits d'ouvrages rares ou bizarres（新音樂逸聞，1890）",
+   "author": "Jean-Baptiste Weckerlin（1821–1910）",
+   "year": 1890,
+   "kind": "專書",
+   "lang": "fr",
+   "venue": "Paris: Garnier frères, 1890（附插圖與樂譜片段）",
+   "url": "https://archive.org/details/nouveaumusiciana00weck",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1770,
+    1793
+   ],
+   "topics": [
+    "t-theatre"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n十九世紀音樂館員韋克林（Weckerlin）的逸聞選集，收了一段「瑪麗．安東尼的音樂信」，但書中沒有把〈C'est mon ami〉跟王后連在一起。\n\n## 三個重點\n\n1. 第 189 頁列出巴黎音樂院收藏的「七首 Estelle 浪漫曲」，題獻給弗洛里安（Florian），注明是 Imbault 出版、伴奏為大鍵琴（clavecin）。這是弗洛里安歌詞在十八世紀被譜曲的旁證，但這裡沒有提到〈C'est mon ami〉。\n2. 第 190–191 頁收了一組「瑪麗．安東尼書信片段」，談法國音樂「空虛」、談格魯克（Gluck）《伊菲吉尼在奧利德》（Iphigénie en Aulide）首演。這些是王后本人對音樂的看法，證明她對音樂有興趣，但**不是**作曲的證據。\n3. 全書只看到 pp. 189–191 這三頁（本次只讀相關段落，其餘未讀）。書中沒有註明這幾段書信的原件出處。\n\n## 用了什麼史料\n\n- 作者自己整理的十九世紀逸聞選集，引用的原典多半不附完整出處。\n- 王后書信片段的原件來源，書中未註明（本次未追查）。\n\n## 跟其他資料的關係\n\n- 與 `s-1871-weckerlin-c-est-mon-ami`（同一位作者的 1871 年〈C'est mon ami〉樂譜目錄）：作者相同，但本書 1890 年的選集沒有提到這首歌的王后作曲說。\n- 與康龐夫人回憶錄（`s-1823-campan-memoires`）：兩者都說王后愛音樂、不會演奏樂器但能視譜；本書是十九世紀後期的逸聞集，證據強度較低。\n\n## 值得記住的一句話\n\n原文：「Je n'aime pas la musique française extraordinairement」（我不太喜歡法國音樂）（p. 190，王后書信片段）。中譯：「我不是特別喜歡法國音樂。」（本站譯）\n\n## 還不確定的地方\n\n- 本次只讀了 pp. 189–191，沒有讀完全書；書中是否在別處提到〈C'est mon ami〉或「王后作曲」，未查。\n- 王后書信片段的原件（收件人與年份）未註明，不能單獨當史料使用。\n",
+   "links": [
+    "t-theatre"
    ]
   },
   {
@@ -2982,6 +3117,33 @@
    "body": "## 一句話\n\n這是一篇以實物（服裝館藏）為主的碩士論文，整理十八世紀中到 1820 年代的鯨骨束身衣與 corset 的形制，並附有博物館館藏的照片與說明。\n\n## 三個重點\n\n1. 論文把「corps à baleine」（鯨骨束身）與「corset」區分開來：前者有鯨骨，後者可能只用 busc 或較軟的材料（論文約第 1–8 頁的實物圖說與引言，頁碼以 PDF 頁為準）。\n2. 論文 Figure 26 圖說標示 Galliera 博物館的一件胸衣（inv. Gal. 1997.76.1）為「dit « de Marie-Antoinette »，vers 1785」（約 1785 年）。這個名稱是館方的傳統說法，論文沒有證實它屬於王后（PDF 第 15–16 頁）。\n3. 論文引用了 Gorguet Ballesteros（s-2015-gorguet-grand-habit）的研究，說那件胸衣「可能是 corset」，並以試穿的方式推測它的結構。\n\n## 用了什麼史料\n\n- 博物館藏品的實物照片與館藏資料（Kyoto Costume Institute、Palais Galliera、Musée Arlaten、Cluny 等）。\n- 圖說與參考書目；論文以實物為主，沒有大量引用當時的文字資料。\n\n## 跟其他資料的關係\n\n- 跟 s-2015-gorguet-grand-habit：本論文的 Galliera 胸衣段落依據 Gorguet 的研究，兩者不是獨立證據。\n- 跟梅西通信：本論文沒有談 1770 年的太子妃，無法用來判斷她是否穿束腰。\n\n## 值得記住的一句話\n\n本論文沒有可引用的關鍵句子，主要用於實物的年代判斷。\n\n## 還不確定的地方\n\n- 本站只讀了與 corset 和瑪麗．安東尼相關的部分（Figure 1–3、引言與 Galliera 圖說、以及 Garsault 的段落），未讀完全文；depth 標為「部分」。\n- 碩士論文的可信度為中：作者是研究生，且多依賴館藏與他人研究。\n- 本論文沒有證據支持「王后帶動不穿束腰」的說法。\n- 全文 PDF 已存於 raw/papers/s-2019-barao-corps-corsets.pdf（不上傳）；文字版在 raw/papers/s-2019-barao-corps-corsets.txt。\n",
    "links": [
     "t-corset"
+   ]
+  },
+  {
+   "id": "s-2019-schechter-secret-library",
+   "type": "source",
+   "title": "The Secret Library of Marie Antoinette: Revealing the Inner Life of a Conflicted Queen（Tack Faculty Lecture 摘要）",
+   "author": "Ronald Schechter",
+   "year": 2019,
+   "kind": "網頁",
+   "lang": "en",
+   "venue": "William & Mary, Tack Faculty Lecture Series（2019 年 3 月 28 日）",
+   "url": "https://wm.edu/sites/facultylecture/past/2019-spring",
+   "access": "公開",
+   "depth": "摘要",
+   "period": [
+    1770,
+    1793
+   ],
+   "topics": [
+    "t-library"
+   ],
+   "entities": [],
+   "reliability": "低",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n美國歷史學者 Ronald Schechter（William & Mary）2019 年的校內講座摘要，主張瑪麗．安東尼的小特里亞儂藏書裡「超過五百冊」的書幾乎都是被禁的作品，反映出她內心的衝突。\n\n## 三個重點\n\n1. 講座摘要說，王后的藏書放在小特里亞儂的 boudoir（小書房）裡，依據的是「一份當時手寫的目錄」，列出「over 500 volumes」（超過五百冊）。\n2. 摘要說，這些書「nearly all were officially banned」（幾乎全被官方禁止），內容攻擊天主教會、嘲笑貴族，並暗示沒有國王或王后法國會更好。\n3. 摘要說 Schechter 認為王后「highly intelligent」（非常聰明），藏書顯示她有「a turbulent inner life」（動盪的內心世界）。\n\n## 用了什麼史料\n\n- 講座摘要只提到一份當時的手寫目錄，沒有註明是哪一份（摘要中未提 Bibliothèque nationale）。講座影片未核對。\n\n## 跟其他資料的關係\n\n- 與拉克魯瓦（s-1863-lacroix-bibliotheque-reine）的判斷衝突：拉克魯瓦根據同樣的目錄（或類似的目錄）說書「幾乎全是小說和戲劇」，而不是「被禁的政治書」。\n- 與拉庫爾（s-1862-lacour-livres-boudoir）的說法也不完全相同：拉庫爾說目錄列 98 部、約 600 冊，主要是情色與輕浮小說，沒有提到政治禁書。\n- 數字不一致：Schechter 說「超過 500 冊」，拉庫爾說「約 600 冊」。兩者可能指同一份目錄，也可能指不同的範圍，需要核對原件。\n- 摘要中提到的 Schechter 研究沒有查到同行審查的文章版本（搜尋沒有找到 OpenEdition、Persée、HAL 的對應文章）。\n\n## 值得記住的一句話\n\n<!-- 原文（40 字以內）＋中譯，附頁碼 -->\n- 原文：未取得逐字原文（只有網頁摘要，不能引用為原文）。\n- 中譯：（不引用）\n\n## 還不確定的地方\n\n- 這是講座摘要，不是學術文章；摘要的文字不一定是 Schechter 的原話，不能逐字引用。\n- 「幾乎全被禁」「攻擊教會、嘲笑貴族、暗示沒有國王」這些內容，需要對照原始目錄（BN 手寫本）驗證，目前沒有核對。\n- 還沒有找到 Schechter 發表的學術文章；若有，應另建一張學術資料卡，並以它為準。\n",
+   "links": [
+    "t-library"
    ]
   },
   {
@@ -5284,8 +5446,9 @@
     "s-2025-masson-theatre-reine"
    ],
    "updated": "2026-11-16",
-   "body": "## 一句話說明\n\n瑪麗．安東尼從小在維也納學音樂，到了法國，她最大的嗜好之一就是音樂和戲劇：她支持作曲家格魯克（Gluck）的新歌劇，每天上豎琴課，還在小特里亞儂蓋了一座自己的劇場，和朋友們粉墨登場。觀眾為她歡呼過，也在背後笑她演得「很有王家氣派地爛」。\n\n## 故事是這樣的\n\n### 從維也納來的老師\n\n作曲家格魯克在維也納時就認識這位小公主。大使梅西的書信集編者說，格魯克 1771 年已經是維也納宮廷的作曲家，王后後來也給了他每年六千里弗爾的年金（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 252 註）。1774 年 4 月，他的新歌劇《伊菲革涅亞在奧利斯》在巴黎首演前，梅西寫信回維也納，說太子妃會出席，還預言這部戲會「開創法國和聲的改革」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 131 註）。\n\n王后的貼身女官康龐夫人說，格魯克一到巴黎，就可以隨時進出王后的梳妝室，王后整段時間都在跟他說話。王后問他新歌劇《阿爾米德》寫得怎麼樣了，他用濃濃的德國腔法語天真地回答：「夫人，快寫完了，真的會很精彩。」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 pp. 153–154）康龐夫人也說，王后後來決定不再公開替新劇本撐腰，因為巴黎的評論常常推翻宮廷的判斷；她只把支持留給作曲家（[[s-1823-campan-memoires]] 第 1 冊 p. 153）。\n\n{{photo:t-theatre-gluck.jpg|迪普萊西（Joseph-Siffred Duplessis）1775 年所畫的格魯克，畫家坐在大鍵琴前；現藏維也納藝術史博物館。|Wikimedia Commons，Public domain}}\n\n### 「希臘人有夏康舞嗎？」\n\n格魯克的脾氣也很有名。康龐夫人記下一段對話：舞蹈明星韋斯特里斯（Vestris）要求在《伊菲革涅亞》的結尾加一段夏康舞（chaconne），格魯克反問：「希臘人有夏康舞嗎？」韋斯特里斯只好說：「他們沒有。」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 155）\n\n另一位作曲家格雷特里（Grétry）的歌劇首演後隔天，王后在楓丹白露的走廊上召見他和劇作家馬蒙泰爾（Marmontel），說她夜裡還夢到劇中魔鏡後面那段三重唱。格雷特里高興得抱住馬蒙泰爾，說：「多棒的音樂啊……」馬蒙泰爾接著說：「……配上多糟的歌詞。」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 pp. 155–156）\n\n### 每天早上的豎琴課\n\n1774 年秋天，路易十五剛過世，宮廷在服喪，不能看戲也不能跳舞。梅西報告：王后每天早上上一個半到兩個小時的豎琴課，下午幾乎每天都有一場小音樂會，練習早上學的東西（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 256）。\n\n畫家維傑．勒布倫也記得，王后聽說她嗓子好，常常在畫肖像的空檔，拉著她一起唱格雷特里的二重唱；她老實地補了一句：王后的音準「並不太準」（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊；另見 [[t-vigee]]）。\n\n### 1775 年 1 月 13 日：「讓我們歌頌我們的王后」\n\n1775 年 1 月 13 日，王后到巴黎歌劇院看《伊菲革涅亞》。梅西寫信告訴瑪麗亞．特蕾莎：第二幕有一段合唱，歌詞原本是「歌頌你們的王后」，那晚演員走到台前，改唱成「讓我們歌頌我們的王后」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 283）。\n\n觀眾要求把合唱再唱一次，一邊高喊「王后萬歲！」，演出停了超過半刻鐘，梅西說這是歌劇院從來沒發生過的事。王后感動得掉了眼淚；最早鼓掌的人裡，有國王的兩個弟弟和大弟媳（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 pp. 283–284）。那天國王留在凡爾賽沒來；梅西自己因為劇院裡太熱，第二天失聲又全身痠痛（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 284）。\n\n兩年後，王后的哥哥約瑟夫二世到巴黎，跟她約在歌劇院見面。他想躲在包廂後面，觀眾卻一直盯著他看，王后把他拉到包廂前面，全場掌聲雷動，演出又停了好幾分鐘（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 54）。那晚演的也是《伊菲革涅亞》，同一段合唱又唱了一次（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 55 註）。\n\n但王后喜歡的，觀眾不一定買單。1776 年格魯克的《阿爾刻斯提斯》首演，王后到場、明顯表示讚賞，觀眾的反應卻很冷淡（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 443 註）。畫家維傑．勒布倫記得，當時巴黎的樂迷分成「格魯克派」和「皮契尼派」，在皇家宮殿的花園裡吵得不可開交，她說還因此鬧出不只一場決鬥（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊）。\n\n### 小特里亞儂的劇場\n\n1778 年起，建築師米克（Mique）在小特里亞儂替王后蓋了一座劇場，1780 年初夏落成：觀眾席三層，最多三百個座位，舞台機關由皇家歌劇院的機關師設計（[[s-2025-masson-theatre-reine]] p. 297）。\n\n{{photo:t-theatre-entree.jpg|小特里亞儂花園裡的王后劇場入口，建築師米克設計；2011 年拍攝。|Wikimedia Commons，Coyau，CC BY-SA 3.0}}\n\n康龐夫人說，王后在這裡和朋友們組了一個業餘劇團：除了國王的弟弟阿圖瓦伯爵，不收年輕男子；觀眾只有國王、國王的大弟和不上台的公主們，再加上王后的女官和她們的姊妹、女兒，大約四十個人（[[s-1823-campan-memoires]] 第 1 冊 p. 228）。國王每次排練都到，大家常常等他來才開始；歌劇院的演員卡優（Caillot）教唱，法蘭西喜劇院的達藏古（Dazincourt）教台詞（[[s-1823-campan-memoires]] 第 1 冊 p. 229）。\n\n王后演過的角色，有《意外的賭注》裡的女僕戈特，和盧梭的小歌劇《鄉村占卜師》裡的牧羊女柯萊特；康龐夫人說後者「真的演得非常好」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 230）。王后很喜歡拿老侍從阿德馬爾開玩笑：他的嗓子以前很好，現在抖得厲害，穿上牧羊人的衣服更顯得老，王后說，選這樣的「情人」，連最惡意的人也挑不出毛病（[[s-1823-campan-memoires]] 第 1 冊 p. 228）。1780 年 9 月，梅西坐在一個有格柵的包廂裡看了一場，他說王后的演技「高貴而優雅」；幕間，國王還走上舞台，到王后的化妝間去找她（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 pp. 478–479）。\n\n### 「我們才是演員」\n\n照凡爾賽的規矩，宮裡的戲劇娛樂歸國王的首席侍從管。王后卻把小特里亞儂劇場交給康龐夫人的公公管理，首席侍從弗隆薩克公爵（duc de Fronsac）氣壞了，一再寫信抗議。王后只回一句：「我們是演員的時候，您就當不成首席侍從。」她說她在特里亞儂不設宮廷，過的是私人生活（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 229）。公爵此後每次在王后梳妝時，都故意把康龐夫人的公公叫做「我的同事康龐」；王后等他走後聳聳肩說：「元帥黎塞留的兒子，怎麼是這麼小氣的人。」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 pp. 229–230）\n\n後來觀眾愈來愈多，掌聲也愈來愈誇張。康龐夫人說，演員們聽了都以為自己演得很好，但散場時有人大聲說，這真是「演得很有王家氣派地爛」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 231）。\n\n### 最後一齣戲\n\n王后在小特里亞儂最後演的戲，是博馬舍的《塞維亞的理髮師》，她演女主角羅西娜。康龐夫人記得，有一天王后叫她來陪練台詞，兩人在沙發上練了一個小時；練完，王后順口問起珠寶商伯默爾（Böhmer）來找她的事。康龐夫人這才說出伯默爾拿著王后的「簽名」到處借錢，王后大吃一驚，派人去叫伯默爾隔天來。康龐夫人說，他來的那天早上，正是那齣戲上演的日子（[[s-1823-campan-memoires]] 第 2 冊 pp. 281–282；另見 [[t-necklace]]）。這就是鑽石項鍊案爆發的開始。\n\n凡爾賽宮的文物主管馬松（Raphaël Masson）說，王后使用這座劇場到 1785 年夏天為止；革命時，劇場的家具和藍色帷幔被拆走，繡花的舞台大幕在 1793 年被拍賣，建築就這樣關了起來（[[s-2025-masson-theatre-reine]] p. 297）。\n\n## 研究者怎麼看\n\n- 馬松提醒，王后在自己的劇場裡，主要是「出錢請人演戲」的人，親自上台的次數其實不多（[[s-2025-masson-theatre-reine]] p. 297）。康龐夫人的回憶錄集中寫她親自演出的那幾齣，容易讓人以為她常常登台（[[s-1823-campan-memoires]]）。\n- 康龐夫人是王后的忠實僕人，又是劇場管理者的家人，她為王后辯護：路易十四時代，曼特農夫人的房間裡也搭過戲台，王子們也在太子妃面前演過戲（[[s-1823-campan-memoires]] 第 1 冊 p. 231 註）。批評者則認為王后演小歌劇有失身分；康龐夫人在書後附錄引了這類批評，也說它們不完全準確（[[s-1823-campan-memoires]] 第 1 冊附錄）。\n- （推論）1775 年觀眾為她歡呼、1776 年對她喜歡的歌劇冷淡，說明「王后喜歡什麼」和「巴黎喜歡什麼」，從一開始就不完全一樣。\n\n## 延伸閱讀\n\n- [[s-1823-campan-memoires]]\n- [[s-1874-arneth-mercy-correspondance]]\n- [[s-2025-masson-theatre-reine]]\n- [[s-1835-vigee-le-brun-souvenirs]]\n- 相關故事：[[t-hameau]]、[[t-necklace]]、[[t-vigee]]、[[t-figaro]]\n\n## 還不知道的事\n\n- 王后在小特里亞儂到底演過幾齣戲、幾場，需要讀宮廷的演出紀錄或研究專書。\n- 格魯克派與皮契尼派之爭，本站還沒讀到音樂史的研究。\n",
+   "body": "## 一句話說明\n\n瑪麗．安東尼從小在維也納學音樂，到了法國，她最大的嗜好之一就是音樂和戲劇：她支持作曲家格魯克（Gluck）的新歌劇，每天上豎琴課，還在小特里亞儂蓋了一座自己的劇場，和朋友們粉墨登場。觀眾為她歡呼過，也在背後笑她演得「很有王家氣派地爛」。\n\n## 故事是這樣的\n\n### 從維也納來的老師\n\n作曲家格魯克在維也納時就認識這位小公主。大使梅西的書信集編者說，格魯克 1771 年已經是維也納宮廷的作曲家，王后後來也給了他每年六千里弗爾的年金（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 252 註）。1774 年 4 月，他的新歌劇《伊菲革涅亞在奧利斯》在巴黎首演前，梅西寫信回維也納，說太子妃會出席，還預言這部戲會「開創法國和聲的改革」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 131 註）。\n\n王后的貼身女官康龐夫人說，格魯克一到巴黎，就可以隨時進出王后的梳妝室，王后整段時間都在跟他說話。王后問他新歌劇《阿爾米德》寫得怎麼樣了，他用濃濃的德國腔法語天真地回答：「夫人，快寫完了，真的會很精彩。」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 pp. 153–154）康龐夫人也說，王后後來決定不再公開替新劇本撐腰，因為巴黎的評論常常推翻宮廷的判斷；她只把支持留給作曲家（[[s-1823-campan-memoires]] 第 1 冊 p. 153）。\n\n{{photo:t-theatre-gluck.jpg|迪普萊西（Joseph-Siffred Duplessis）1775 年所畫的格魯克，畫家坐在大鍵琴前；現藏維也納藝術史博物館。|Wikimedia Commons，Public domain}}\n\n### 「希臘人有夏康舞嗎？」\n\n格魯克的脾氣也很有名。康龐夫人記下一段對話：舞蹈明星韋斯特里斯（Vestris）要求在《伊菲革涅亞》的結尾加一段夏康舞（chaconne），格魯克反問：「希臘人有夏康舞嗎？」韋斯特里斯只好說：「他們沒有。」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 155）\n\n另一位作曲家格雷特里（Grétry）的歌劇首演後隔天，王后在楓丹白露的走廊上召見他和劇作家馬蒙泰爾（Marmontel），說她夜裡還夢到劇中魔鏡後面那段三重唱。格雷特里高興得抱住馬蒙泰爾，說：「多棒的音樂啊……」馬蒙泰爾接著說：「……配上多糟的歌詞。」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 pp. 155–156）\n\n### 每天早上的豎琴課\n\n1774 年秋天，路易十五剛過世，宮廷在服喪，不能看戲也不能跳舞。梅西報告：王后每天早上上一個半到兩個小時的豎琴課，下午幾乎每天都有一場小音樂會，練習早上學的東西（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 256）。\n\n畫家維傑．勒布倫也記得，王后聽說她嗓子好，常常在畫肖像的空檔，拉著她一起唱格雷特里的二重唱；她老實地補了一句：王后的音準「並不太準」（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊；另見 [[t-vigee]]）。\n\n### 1775 年 1 月 13 日：「讓我們歌頌我們的王后」\n\n1775 年 1 月 13 日，王后到巴黎歌劇院看《伊菲革涅亞》。梅西寫信告訴瑪麗亞．特蕾莎：第二幕有一段合唱，歌詞原本是「歌頌你們的王后」，那晚演員走到台前，改唱成「讓我們歌頌我們的王后」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 283）。\n\n觀眾要求把合唱再唱一次，一邊高喊「王后萬歲！」，演出停了超過半刻鐘，梅西說這是歌劇院從來沒發生過的事。王后感動得掉了眼淚；最早鼓掌的人裡，有國王的兩個弟弟和大弟媳（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 pp. 283–284）。那天國王留在凡爾賽沒來；梅西自己因為劇院裡太熱，第二天失聲又全身痠痛（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 284）。\n\n兩年後，王后的哥哥約瑟夫二世到巴黎，跟她約在歌劇院見面。他想躲在包廂後面，觀眾卻一直盯著他看，王后把他拉到包廂前面，全場掌聲雷動，演出又停了好幾分鐘（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 54）。那晚演的也是《伊菲革涅亞》，同一段合唱又唱了一次（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 55 註）。\n\n但王后喜歡的，觀眾不一定買單。1776 年格魯克的《阿爾刻斯提斯》首演，王后到場、明顯表示讚賞，觀眾的反應卻很冷淡（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 443 註）。畫家維傑．勒布倫記得，當時巴黎的樂迷分成「格魯克派」和「皮契尼派」，在皇家宮殿的花園裡吵得不可開交，她說還因此鬧出不只一場決鬥（[[s-1835-vigee-le-brun-souvenirs]] 第 1 冊）。\n\n### 小特里亞儂的劇場\n\n1778 年起，建築師米克（Mique）在小特里亞儂替王后蓋了一座劇場，1780 年初夏落成：觀眾席三層，最多三百個座位，舞台機關由皇家歌劇院的機關師設計（[[s-2025-masson-theatre-reine]] p. 297）。\n\n{{photo:t-theatre-entree.jpg|小特里亞儂花園裡的王后劇場入口，建築師米克設計；2011 年拍攝。|Wikimedia Commons，Coyau，CC BY-SA 3.0}}\n\n康龐夫人說，王后在這裡和朋友們組了一個業餘劇團：除了國王的弟弟阿圖瓦伯爵，不收年輕男子；觀眾只有國王、國王的大弟和不上台的公主們，再加上王后的女官和她們的姊妹、女兒，大約四十個人（[[s-1823-campan-memoires]] 第 1 冊 p. 228）。國王每次排練都到，大家常常等他來才開始；歌劇院的演員卡優（Caillot）教唱，法蘭西喜劇院的達藏古（Dazincourt）教台詞（[[s-1823-campan-memoires]] 第 1 冊 p. 229）。\n\n王后演過的角色，有《意外的賭注》裡的女僕戈特，和盧梭的小歌劇《鄉村占卜師》裡的牧羊女柯萊特；康龐夫人說後者「真的演得非常好」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 230）。王后很喜歡拿老侍從阿德馬爾開玩笑：他的嗓子以前很好，現在抖得厲害，穿上牧羊人的衣服更顯得老，王后說，選這樣的「情人」，連最惡意的人也挑不出毛病（[[s-1823-campan-memoires]] 第 1 冊 p. 228）。1780 年 9 月，梅西坐在一個有格柵的包廂裡看了一場，他說王后的演技「高貴而優雅」；幕間，國王還走上舞台，到王后的化妝間去找她（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 pp. 478–479）。\n\n### 「我們才是演員」\n\n照凡爾賽的規矩，宮裡的戲劇娛樂歸國王的首席侍從管。王后卻把小特里亞儂劇場交給康龐夫人的公公管理，首席侍從弗隆薩克公爵（duc de Fronsac）氣壞了，一再寫信抗議。王后只回一句：「我們是演員的時候，您就當不成首席侍從。」她說她在特里亞儂不設宮廷，過的是私人生活（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 229）。公爵此後每次在王后梳妝時，都故意把康龐夫人的公公叫做「我的同事康龐」；王后等他走後聳聳肩說：「元帥黎塞留的兒子，怎麼是這麼小氣的人。」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 pp. 229–230）\n\n後來觀眾愈來愈多，掌聲也愈來愈誇張。康龐夫人說，演員們聽了都以為自己演得很好，但散場時有人大聲說，這真是「演得很有王家氣派地爛」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 231）。\n\n### 最後一齣戲\n\n王后在小特里亞儂最後演的戲，是博馬舍的《塞維亞的理髮師》，她演女主角羅西娜。康龐夫人記得，有一天王后叫她來陪練台詞，兩人在沙發上練了一個小時；練完，王后順口問起珠寶商伯默爾（Böhmer）來找她的事。康龐夫人這才說出伯默爾拿著王后的「簽名」到處借錢，王后大吃一驚，派人去叫伯默爾隔天來。康龐夫人說，他來的那天早上，正是那齣戲上演的日子（[[s-1823-campan-memoires]] 第 2 冊 pp. 281–282；另見 [[t-necklace]]）。這就是鑽石項鍊案爆發的開始。\n\n凡爾賽宮的文物主管馬松（Raphaël Masson）說，王后使用這座劇場到 1785 年夏天為止；革命時，劇場的家具和藍色帷幔被拆走，繡花的舞台大幕在 1793 年被拍賣，建築就這樣關了起來（[[s-2025-masson-theatre-reine]] p. 297）。\n\n## 研究者怎麼看\n\n- 馬松提醒，王后在自己的劇場裡，主要是「出錢請人演戲」的人，親自上台的次數其實不多（[[s-2025-masson-theatre-reine]] p. 297）。康龐夫人的回憶錄集中寫她親自演出的那幾齣，容易讓人以為她常常登台（[[s-1823-campan-memoires]]）。\n- 康龐夫人是王后的忠實僕人，又是劇場管理者的家人，她為王后辯護：路易十四時代，曼特農夫人的房間裡也搭過戲台，王子們也在太子妃面前演過戲（[[s-1823-campan-memoires]] 第 1 冊 p. 231 註）。批評者則認為王后演小歌劇有失身分；康龐夫人在書後附錄引了這類批評，也說它們不完全準確（[[s-1823-campan-memoires]] 第 1 冊附錄）。\n- （推論）1775 年觀眾為她歡呼、1776 年對她喜歡的歌劇冷淡，說明「王后喜歡什麼」和「巴黎喜歡什麼」，從一開始就不完全一樣。\n\n## 延伸閱讀\n\n- [[q-did-she-compose]]：〈他是我的朋友〉真的是王后作的曲嗎？\n\n- [[s-1823-campan-memoires]]\n- [[s-1874-arneth-mercy-correspondance]]\n- [[s-2025-masson-theatre-reine]]\n- [[s-1835-vigee-le-brun-souvenirs]]\n- 相關故事：[[t-hameau]]、[[t-necklace]]、[[t-vigee]]、[[t-figaro]]\n\n## 還不知道的事\n\n- 王后在小特里亞儂到底演過幾齣戲、幾場，需要讀宮廷的演出紀錄或研究專書。\n- 格魯克派與皮契尼派之爭，本站還沒讀到音樂史的研究。\n",
    "links": [
+    "q-did-she-compose",
     "s-1823-campan-memoires",
     "s-1835-vigee-le-brun-souvenirs",
     "s-1874-arneth-mercy-correspondance",
@@ -5723,6 +5886,27 @@
    ]
   },
   {
+   "id": "q-did-she-compose",
+   "type": "question",
+   "title": "浪漫曲〈他是我的朋友〉（C'est mon ami）真的是王后作的嗎？",
+   "asked": "2026-11-17",
+   "sources": [
+    "s-1871-weckerlin-c-est-mon-ami",
+    "s-1890-weckerlin-nouveau-musiciana",
+    "s-1823-campan-memoires",
+    "s-1874-arneth-mercy-correspondance"
+   ],
+   "body": "## 簡短回答\n\n找不到證據。這首歌的歌詞署名是詩人弗洛里安（Florian）；說旋律是王后寫的，本站找到最早有年份的出處是 1871 年的一份樂譜，離王后去世快八十年。當時認識王后的人，都說她愛音樂、學唱歌和豎琴，沒有人說她作曲。\n\n## 詳細說明\n\n**當時的人怎麼說她的音樂。** 王后的貼身女官康龐夫人說，音樂是王后最喜歡的才藝；她「沒有一樣樂器彈得好」，但後來能像最好的老師一樣看譜就唱。她剛到凡爾賽時，其實連樂理的基本常識都不懂，為了不在宮廷的聲樂老師面前出醜，偷偷請康龐夫人的小叔教了她三個月，笑著說：「太子妃得替女大公顧好名聲。」三個月後老師來了，對她學得這麼快大吃一驚（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 pp. 40–41）。1777 年秋天她寫信告訴母親：「我讀書、做女紅，有兩位音樂老師，一位教唱歌，一位教豎琴；我又開始畫一點畫。」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 124）她支持作曲家格魯克的事，見 [[t-theatre]]。\n\n**這首歌從哪裡來。** 〈他是我的朋友〉的歌詞，一般說出自弗洛里安 1788 年的田園小說；本站還沒核對原書。樂譜資料庫 IMSLP 收的最早版本，是音樂學者韋克林（Weckerlin）1871 年出版的編曲，目錄寫它「根據王后的一個旋律」；1912 年另一個版本乾脆把王后寫成作者。IMSLP 的編目者自己註明：法國國家圖書館沒有十八世紀的手稿，《格羅夫音樂辭典》的王后條目也沒有列出任何作品，所以這很可能是「偽託」的（[[s-1871-weckerlin-c-est-mon-ami]]）。\n\n**韋克林自己怎麼說。** 同一位韋克林 1890 年出版的音樂軼事集，收了幾段王后談音樂的書信片段，卻沒有提到這首歌，也沒有說她作曲（[[s-1890-weckerlin-nouveau-musiciana]] pp. 189–191）。（推論）如果他手上真有王后作曲的證據，很難想像他會在自己的軼事集裡略過不提。\n\n（推論）十九世紀後半，法國流行懷念舊王朝的「王后熱」，把一首好聽的老歌掛上王后的名字，很能賣。這和「讓他們吃蛋糕」從別人的話變成王后的話，是同一種現象的反面（見 [[t-cake]]）。\n\n## 依據\n\n- 康龐夫人回憶錄、王后 1777 年的家書：當時的記載，只寫她學唱歌和豎琴。\n- IMSLP 目錄只透過網頁摘要讀到，還沒看到 1871 年樂譜的掃描本；也還沒找到十八世紀的印刷樂譜或手稿。\n- 沒有找到專門研究這首歌歸屬的學術論文。\n",
+   "links": [
+    "s-1823-campan-memoires",
+    "s-1871-weckerlin-c-est-mon-ami",
+    "s-1874-arneth-mercy-correspondance",
+    "s-1890-weckerlin-nouveau-musiciana",
+    "t-cake",
+    "t-theatre"
+   ]
+  },
+  {
    "id": "q-mozart-proposal",
    "type": "question",
    "title": "六歲的莫札特真的向小瑪麗．安東尼求過婚嗎？",
@@ -6057,6 +6241,10 @@
    "t-elisabeth"
   ],
   [
+   "s-1871-weckerlin-c-est-mon-ami",
+   "t-theatre"
+  ],
+  [
    "s-1873-nicolardot-journal-louis-xvi",
    "s-1900-nolhac-dauphine"
   ],
@@ -6195,6 +6383,10 @@
   [
    "s-1887-drouet-barre",
    "t-varennes"
+  ],
+  [
+   "s-1890-weckerlin-nouveau-musiciana",
+   "t-theatre"
   ],
   [
    "s-1899-elisabeth-life-letters-en",
@@ -8590,6 +8782,10 @@
   ],
   [
    "t-theatre",
+   "q-did-she-compose"
+  ],
+  [
+   "t-theatre",
    "s-1823-campan-memoires"
   ],
   [
@@ -9215,6 +9411,30 @@
   [
    "e-tourzel",
    "t-white-hair"
+  ],
+  [
+   "q-did-she-compose",
+   "s-1823-campan-memoires"
+  ],
+  [
+   "q-did-she-compose",
+   "s-1871-weckerlin-c-est-mon-ami"
+  ],
+  [
+   "q-did-she-compose",
+   "s-1874-arneth-mercy-correspondance"
+  ],
+  [
+   "q-did-she-compose",
+   "s-1890-weckerlin-nouveau-musiciana"
+  ],
+  [
+   "q-did-she-compose",
+   "t-cake"
+  ],
+  [
+   "q-did-she-compose",
+   "t-theatre"
   ],
   [
    "q-mozart-proposal",
