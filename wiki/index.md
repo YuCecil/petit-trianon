@@ -2,7 +2,7 @@
 
 > 由 `tools/build.py` 自動產生於 2026-11-16，不要手改。
 
-資料卡 63 張（全文 14）｜主題 44｜實體 5｜問答 0
+資料卡 76 張（全文 16）｜主題 44｜實體 5｜問答 0
 
 ## 主題頁
 
@@ -85,17 +85,24 @@
 - [[s-1868-feuillet-elisabeth-correspondance]] Correspondance de Madame Élisabeth de France, sœur de Louis XVI（伊莉莎白夫人書信集，據原件手稿校印） — Feuillet de Conches（編者，1798–1887）（1868）｜書信｜部分
 - [[s-1874-arneth-mercy-correspondance]] Marie-Antoinette. Correspondance secrète entre Marie-Thérèse et le comte de Mercy-Argenteau（三卷，1874） — 瑪麗亞．特蕾莎、瑪麗．安東尼、梅西－阿爾讓托（書信作者）；編者 Alfred von Arneth（導論與註）、Auguste Geffroy（評註）（1874）｜書信｜部分
 - [[s-1877-klinckowstrom-fersen]] Le comte de Fersen et la cour de France. Extraits des papiers du grand maréchal de Suède, comte Jean Axel de Fersen（第一卷） — R. M. de Klinckowström（編）（1877）｜書信｜部分
+- [[s-1879-goncourt-marie-antoinette]] 《瑪麗．安東尼史》 — Edmond de Goncourt, Jules de Goncourt（1879）｜專書｜部分
 - [[s-1881-vizetelly-diamond-necklace]] The Story of the Diamond Necklace — Henry Vizetelly（1881）｜專書｜部分
 - [[s-1883-tourzel-memoires]] Mémoires de Madame la duchesse de Tourzel（兩冊） — 圖澤爾夫人（Duchesse de Tourzel，本名 de Croÿ-Havré）（1883）｜回憶錄｜部分
 - [[s-1887-ap-varennes-reward]] Décret accordant des récompenses à l'occasion de l'arrestation du roi（1791 年 8 月 18 日，Archives parlementaires，第 29 卷） — Archives parlementaires（集體紀錄）（1887）｜檔案｜部分
 - [[s-1887-drouet-barre]] Admission de M. Drouet à la barre, lors de la séance du 24 juin 1791（Archives parlementaires，第 27 卷） — Jean-Baptiste Drouet（陳述人）；Archives parlementaires（1887 年版）（1887）｜檔案｜部分
 - [[s-1899-elisabeth-life-letters-en]] The Life and Letters of Madame Elisabeth de France, Sister of Louis XVI（英譯本，附〈聖殿日記〉選段） — 不詳（英譯者未具名；底本為法文傳記與書信集，註腳提到「Vie de Madame Élisabeth」）（1899）｜傳記｜部分
+- [[s-1903-funck-brentano-collier]] 《項鍊案》 — Frantz Funck-Brentano（1903）｜專書｜部分
 - [[s-1907-lenotre-last-days-marie-antoinette]] The Last Days of Marie Antoinette — G. Lenôtre（1907）｜傳記｜部分
 - [[s-1913-moberly-jourdain-adventure]] An Adventure（第二版，附 Appendix 與地圖） — Charlotte Anne Elizabeth Moberly；Eleanor Frances Jourdain（以筆名 Elizabeth Morison、Frances Lamont 發表）（1913）｜回憶錄｜部分
+- [[s-1919-hubert-mercy-dispatches]] Le comte de Mercy-Argenteau et Blumendorf. Dépêches inédites tirées des archives impériales de Vienne. 5 janvier-23 septembre 1792 — Eugène Hubert（1919）｜專書論文｜書目
 - [[s-1989-colwill-citoyenne]] Just Another "Citoyenne?" Marie-Antoinette on Trial, 1790-1793 — Elizabeth Colwill（1989）｜期刊論文｜全文
 - [[s-1989-white-solution]] Was There a Solution to the Ancien Régime's Financial Dilemma? — Eugene Nelson White（1989）｜期刊論文｜全文
+- [[s-1989-wolf-lameth-mercy]] La correspondance d'Alexandre de Lameth avec Mercy-Argenteau après le 10 août 1792 — Gerhard Wolf, Jean-René Suratteau（1989）｜期刊論文｜全文
+- [[s-1990-boutry-roi-martyr]] « Le Roi martyr ». La cause de Louis XVI devant la Cour de Rome (1820) — Philippe Boutry（1990）｜期刊論文｜部分
 - [[s-1992-price-vies-privees]] Vies privées et scandaleuses: Marie-Antoinette and the Public Eye — Leah Price（1992）｜期刊論文｜全文
+- [[s-1992-wolf-duport-mercy]] Quelques remarques concernant la politique étrangère de Vienne, de Paris et de la faction Duport-Lameth après le 20 avril 1792 — Gerhard Wolf（1992）｜期刊論文｜部分
 - [[s-1993-barker-cake]] Let Them Eat Cake': The Mythical Marie Antoinette and the French Revolution — Nancy N. Barker（1993）｜期刊論文｜全文
+- [[s-1994-neuhaus-mercy-ndb]] Mercy-Argenteau, Florimund Claudius Graf von（Neue Deutsche Biographie 17） — Helmut Neuhaus（1994）｜專書論文｜摘要
 - [[s-1995-sargent-macroeconomic]] Macroeconomic Features of the French Revolution — Thomas J. Sargent; François R. Velde（1995）｜期刊論文｜部分
 - [[s-1998-jehaes-naundorff]] Mitochondrial DNA analysis on remains of a putative son of Louis XVI, King of France and Marie-Antoinette — Els Jehaes 等（Leuven 大學人類遺傳學中心）（1998）｜期刊論文｜摘要
 - [[s-2001-jehaes-louis17]] Mitochondrial DNA analysis of the putative heart of Louis XVII, son of Louis XVI and Marie-Antoinette — Els Jehaes, Heidi Pfeiffer, Kaan Toprak, Ronny Decorte, Bernd Brinkmann, Jean-Jacques Cassiman（2001）｜期刊論文｜摘要
@@ -108,12 +115,15 @@
 - [[s-2008-skellett-sudden-whitening]] Sudden whitening of the hair: an historical fiction? — Anne-Marie Skellett, George W. M. Millington, Nick J. Levell（2008）｜期刊論文｜書目
 - [[s-2009-navarini-marie-antoinette]] Marie Antoinette Syndrome — Alexander A. Navarini, Stephan Nobbe（2009）｜期刊論文｜摘要
 - [[s-2010-navarini-henry-iii-hair]] Why Henry III of Navarre's Hair Probably did not Turn White Overnight — Alexander A. Navarini（2010）｜期刊論文｜全文
+- [[s-2010-varadi-verbum-memoires]] 十八世紀法國的回憶錄與回憶錄作者：論僕人出身的克萊里與康龐夫人的回憶錄 — Márta Váradi（瓦拉迪）（2010）｜期刊論文｜部分
 - [[s-2011-andersson-queen-fashion]] Marie Antoinette: Queen of Fashion – Queen of Decadence — Therése Andersson（2011）｜期刊論文｜全文
 - [[s-2012-backman-rogers-threshold]] The Historical Threshold: Crisis, Ritual and Liminality in Sofia Coppola's Marie-Antoinette (2006) — Anna Backman Rogers（2012）｜期刊論文｜全文
+- [[s-2013-chatenet-becquet-review]] 書評：Hélène Becquet，《瑪麗－泰蕾茲．德．法蘭西：聖殿塔的孤兒》（Perrin, 2012） — Aurélie Chatenet-Calyste（2013）｜期刊論文｜全文
 - [[s-2013-nahm-canities-subita]] Canities Subita: A Reappraisal of Evidence Based on 196 Case Reports Published in the Medical Literature — Michael Nahm, Alexander A. Navarini, Emily Williams Kelly（2013）｜期刊論文｜全文
 - [[s-2014-olalde-louis-xvi-blood]] Genomic analysis of the blood attributed to Louis XVI (1754–1793), king of France — Olalde I.（與 Lalueza-Fox C. 等 19 位作者）（2014）｜期刊論文｜部分
 - [[s-2016-maes-laiterie-rambouillet]] La laiterie de Marie-Antoinette à Rambouillet. Un temple pastoral pour le plaisir de la reine — Antoine Maës（2016）｜專書｜書目
 - [[s-2016-versailles-queens-hamlet]] 凡爾賽宮官網「Queen's Hamlet」頁面與長文（英文） — 凡爾賽宮（Château de Versailles）（2016）｜網頁｜全文
+- [[s-2017-niedziela-joseph-ii-paris]] 皇帝約瑟夫二世在巴黎與凡爾賽（1777） — Rafał Niedziela（2017）｜期刊論文｜部分
 - [[s-2021-archives-nationales-xray]] Marie-Antoinette's Correspondence under X-Ray（法國國家檔案館說明頁） — Archives nationales（2021）｜網頁｜摘要
 - [[s-2021-michelin-xrf]] 2D macro-XRF to reveal redacted sections of French queen Marie-Antoinette secret correspondence with Swedish count Axel von Fersen — Anne Michelin, Fabien Pottier, Christine Andraud（2021）｜期刊論文｜部分
 - [[s-2022-hassler-strasbourg]] « Lien de deux États, ornement de deux Cours » : Marie-Antoinette à Strasbourg en mai 1770 — Éric Hassler（2022）｜期刊論文｜摘要
@@ -122,5 +132,8 @@
 - [[s-2024-pearce-creole]] Creole Creations: Unraveling Caribbean origins, makers and wearers of the robe à la creole c.1780-1815 — Emma Pearce（2024）｜期刊論文｜部分
 - [[s-2025-dati-culture-sevres-rambouillet]] Rachida Dati 宣布 Sèvres 國立陶瓷博物館將收藏兩件 Rambouillet 乳品室瓷器（政府新聞稿） — 法國文化部（Ministère de la Culture）（2025）｜網頁｜全文
 - [[s-2025-masson-theatre-reine]] Les décors historiques du théâtre de la Reine à Versailles — Raphaël Masson（2025）｜專書論文｜部分
+- [[s-2025-seth-antoine]] 「從安托瓦到瑪麗．安東尼：（重新）閱讀大公夫人的信」 — Catriona Seth（2025）｜專書論文｜部分
 - [[s-2026-harvard-gazette-coppola]] Why Sofia Coppola gave Marie Antoinette sneakers — Harvard Gazette（2026）｜報刊｜全文
+- [[s-2026-mensch-reine-morte]] 「王后死了，瑪麗－泰蕾茲萬歲？」：1795–1825 年間如何重新思考法國的王后 — Matthieu Mensch（2026）｜期刊論文｜部分
+- [[s-2026-varadi-temoins-thesis]] Témoins historiques et intimes de la Cour：Campan 與 Cléry 的回憶錄敘事與親密性（博士論文） — Márta Váradi（瓦拉迪）（2026）｜學位論文｜部分
 - [[s-2026-versailles-coppola-exhibition]] «Marie-Antoinette» by Sofia Coppola（凡爾賽宮展覽頁） — Château de Versailles（2026）｜網頁｜摘要

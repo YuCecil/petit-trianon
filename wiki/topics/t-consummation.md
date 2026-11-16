@@ -9,7 +9,7 @@ image: t-consummation.jpg
 imageAlt: 粉彩畫風插畫：清晨的華麗臥室，有高大帷幔的床，床邊小桌上放著一封封好的信。
 myth: 路易十六有生理缺陷，動了包莖手術之後才終於圓房。
 verdict: 查無實據
-sources: [s-1867-arneth-maria-theresia-joseph, s-1866-arneth-marie-antoinette, s-1874-arneth-mercy-correspondance, s-2006-stamberg-npr-fraser]
+sources: [s-1867-arneth-maria-theresia-joseph, s-1866-arneth-marie-antoinette, s-1874-arneth-mercy-correspondance, s-2006-stamberg-npr-fraser, s-2017-niedziela-joseph-ii-paris]
 updated: 2026-11-15
 ---
 
@@ -69,10 +69,12 @@ updated: 2026-11-15
 
 - 弗雷澤認為問題是心理上的，不是身體上的（[[s-2006-stamberg-npr-fraser]]）。
 - 醫學史研究者安德魯索斯（Androutsos）2002 年發表〈路易十六的包莖〉一文，討論包莖是否為原因；本站只讀到摘要，摘要說多數歷史學家同意婚後七年才圓房，並列出包莖等可能原因（未建資料卡）。
+- 涅杰拉 2017 年研究約瑟夫二世訪法的論文，把幾種說法並排：一些研究者推測國王有包莖，是在約瑟夫鼓勵下才動了小手術；他指出，宮廷醫生拉松（Lassonne）被認為是治這種病的專家，1777 年 5 月 27 日確實和皇帝見過面，但談了什麼沒人知道，也沒有證據顯示他替國王開過刀。他引萊弗（Évelyne Lever）的看法：手術說既不能證實，也不能否定。另一種說法來自法國傳記作者珀蒂菲斯（Jean-Christian Petitfils）：問題可能在王后，她心理上還沒準備好，緊張造成痙攣，連國王也覺得痛（[[s-2017-niedziela-joseph-ii-paris]] p. 508）。
 - （推論）當時的書信顯示，梅西和女皇都把問題同時歸在國王的冷淡和王后的疏忽上，而不是單純的身體問題。
 
 ## 延伸閱讀
 
+- [[s-2017-niedziela-joseph-ii-paris]]
 - [[s-1867-arneth-maria-theresia-joseph]]
 - [[s-1866-arneth-marie-antoinette]]
 - [[s-1874-arneth-mercy-correspondance]]

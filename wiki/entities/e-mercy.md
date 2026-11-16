@@ -5,7 +5,7 @@ title: 梅西大使（Comte de Mercy-Argenteau）
 kind: 人物
 period: [1770, 1794]
 summary: 奧地利駐法大使，每個月替瑪麗亞．特蕾莎寫報告，是王后前十年生活最密集的紀錄者。
-sources: [s-1874-arneth-mercy-correspondance]
+sources: [s-1874-arneth-mercy-correspondance, s-1994-neuhaus-mercy-ndb, s-1989-wolf-lameth-mercy, s-1992-wolf-duport-mercy, s-1919-hubert-mercy-dispatches]
 ---
 
 ## 是什麼
@@ -13,6 +13,8 @@ sources: [s-1874-arneth-mercy-correspondance]
 梅西（Florimond-Claude, comte de Mercy-Argenteau）是奧地利駐凡爾賽的大使。瑪麗．安東尼 1770 年嫁到法國後，他每個月寫一份像日記一樣的報告寄回維也納，記下宮裡當月發生的事（[[s-1874-arneth-mercy-correspondance]] 第 1 冊導言 p. IV）。另外還有一份「私密報告」，只給女皇一個人看；女皇 1774 年寫信告訴他，兒子約瑟夫二世想看信時，她只給公開的那些，「祕密的只留給自己」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊導言 pp. III–IV）。
 
 他最重要的眼線，是王后的讀書老師韋爾蒙神父：神父天天見得到王后，大使自己不敢跑得那麼勤（[[s-1874-arneth-mercy-correspondance]] 第 1 冊導言 p. IV；另見 [[t-vermond]]）。書信集的編者阿爾內特（Arneth）說，除了韋爾蒙，當時在法國沒有人比梅西更清楚王后的私事（[[s-1874-arneth-mercy-correspondance]] 第 1 冊導言 pp. IV–V）。
+
+他出生在列日（今屬比利時），1766 年起駐巴黎，1790 年 9 月才離開，1794 年死在倫敦；德國的傳記辭典在 1994 年還說，他缺一本現代傳記（[[s-1994-neuhaus-mercy-ndb]]）。他離開巴黎後仍是王后和立憲派傳話的對象：1792 年 8 月王政倒台後，拉梅特逃到比利時，還寫了三封信給他（[[s-1989-wolf-lameth-mercy]] p. 307；另見 [[t-secret]]）。他 1792 年寄回維也納的未刊急件，1919 年由比利時學者胡伯（Hubert）整理出版，本站還沒讀到內文（[[s-1919-hubert-mercy-dispatches]]）。
 
 ## 在故事裡的角色
 

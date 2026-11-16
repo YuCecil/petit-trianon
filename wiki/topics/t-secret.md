@@ -9,7 +9,7 @@ myth: 米拉波親吻王后的手，說「這一吻救了君主制」。
 verdict: 半真半假
 image: t-secret.jpg
 imageAlt: 粉彩畫風插畫：清晨的宮殿花園，一位穿深色外套的男子背影走上碎石小徑，遠處樹籬圍成的圓形空地上站著一位女士。
-sources: [s-1851-mirabeau-lamarck, s-1823-campan-memoires, s-1822-weber-memoires-v2, s-1866-arneth-marie-antoinette, s-1883-tourzel-memoires, s-1877-klinckowstrom-fersen]
+sources: [s-1851-mirabeau-lamarck, s-1823-campan-memoires, s-1822-weber-memoires-v2, s-1866-arneth-marie-antoinette, s-1883-tourzel-memoires, s-1877-klinckowstrom-fersen, s-1992-wolf-duport-mercy, s-1989-wolf-lameth-mercy]
 updated: 2026-11-16
 ---
 
@@ -77,10 +77,13 @@ updated: 2026-11-16
 
 - 米拉波收錢這件事，1792 年在杜樂麗宮的「鐵櫃」裡被翻出證據之後就公開了；1851 年出版的拉馬克通信集，提供了最完整的內情。拉馬克是中間人，他的記述會替自己和米拉波說話（[[s-1851-mirabeau-lamarck]]）。
 - 王后對兩人的真實態度很難判斷：她對梅西說米拉波「如果誠懇」就好，對拉馬克說見到他時又恐懼又厭惡；她說巴納夫坦率，但同一時期，她也透過費爾森寫信給外國宮廷（[[s-1866-arneth-marie-antoinette]]；[[s-1851-mirabeau-lamarck]]；另見 [[t-fersen]]）。（推論）對她來說，這些談判更像是爭取時間。
+- 1792 年春天對奧地利宣戰後，立憲派還有沒有透過梅西偷偷跟維也納談和？法國歷史學者沃爾夫（Wolf）1992 年翻查維也納檔案後認為「幾乎可以確定」沒有：當時傳說有個叫「杜爾哥」的密使跑去維也納談判，檔案裡卻完全找不到這個人；拉梅特在王政倒台後寫給梅西的三封信，整整八頁，對祕密談判也隻字未提（本站譯）（[[s-1992-wolf-duport-mercy]] p. 224）。這三封信是 1792 年 8 月，拉梅特跟著拉法葉逃出法國、在比利時被奧軍扣留時寫的，他在信裡說「我們只能暫時屈服於情勢」（本站譯）（[[s-1989-wolf-lameth-mercy]] p. 307；另見 [[t-lafayette]]）。
 - 王后與巴納夫之間的往來信件，1912 年才在瑞典一座城堡的檔案裡被找到，後來出版；有人認為那些信是在巴納夫口述下寫成的，真偽和寫法都有爭議。本站只讀到一篇 1937 年的書評轉述，還沒讀到信件本身。
 
 ## 延伸閱讀
 
+- [[s-1992-wolf-duport-mercy]]
+- [[s-1989-wolf-lameth-mercy]]
 - [[s-1851-mirabeau-lamarck]]
 - [[s-1823-campan-memoires]]
 - [[s-1822-weber-memoires-v2]]

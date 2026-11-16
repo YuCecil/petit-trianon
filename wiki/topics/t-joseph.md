@@ -7,7 +7,7 @@ period: [1777, 1778]
 summary: 皇帝化名來訪，住旅館、罵禮儀，臨走留下一封長長的訓誡信。
 image: t-joseph.jpg
 imageAlt: 粉彩畫風插畫：鄉間路旁的樸素小旅館，一輛簡樸的馬車停在門前，一位穿棕色外套的男子背影走向門口。
-sources: [s-1823-campan-memoires, s-1866-arneth-marie-antoinette, s-1874-arneth-mercy-correspondance, s-1867-arneth-maria-theresia-joseph]
+sources: [s-1823-campan-memoires, s-1866-arneth-marie-antoinette, s-1874-arneth-mercy-correspondance, s-1867-arneth-maria-theresia-joseph, s-2017-niedziela-joseph-ii-paris]
 updated: 2026-11-16
 ---
 
@@ -64,10 +64,13 @@ updated: 2026-11-16
 - 本篇關於約瑟夫在凡爾賽言行的細節，幾乎都來自康龐夫人。她當時在王后身邊服侍，對這位皇帝的批評很直接，代表的是法國宮廷內部的眼光（[[s-1823-campan-memoires]] 第 1 冊 pp. 174–184）。
 - 忠告信是約瑟夫本人寫的，有檔案草稿為證，是這趟訪問最可靠的史料；但它是一位哥哥的訓誡，內容是他「聽說」和「看到」的，不一定是事實（[[s-1866-arneth-marie-antoinette]] 前言）。
 - 王后那封 12 月的回信日期有兩說：阿內特的書信集印作 1777 年 12 月 20 日；書信集的編者在註裡說，另一位編者費耶·德·孔希（Feuillet de Conches）印的 12 月 21 日才是對的，並由此判斷 20 日那個版本和它的影印本不可靠（[[s-1866-arneth-marie-antoinette]] p. 20 註）。
-- 本站還沒讀到研究這次訪問的學術著作。
+- 波蘭歷史學者涅杰拉（Rafał Niedziela）2017 年專文研究這次訪問。他整理了法國宮廷的不同反應：克魯瓦公爵（duc de Croÿ）在日記裡說他舉止自然、法語流利；瑞典大使克羅伊茨（Creutz）則記下，他看完路易十六的就寢儀式後挖苦說，要是上床得經過這麼多儀式，他大概永遠上不了床（本站譯）（[[s-2017-niedziela-joseph-ii-paris]] p. 507）。
+- 涅杰拉認為，這趟旅行在家務事上算是成功：國王夫妻的關係改善了，1777 年 8 月 18 日終於圓房。不過他也說，勸妹妹少賭博、少買珠寶的效果很有限；而約瑟夫真正的外交目標，想拉法國支持奧地利吞併巴伐利亞，被外交大臣韋爾熱訥（Vergennes）一口回絕，完全失敗（[[s-2017-niedziela-joseph-ii-paris]] pp. 508–509）。
+- 約瑟夫有沒有勸國王動手術，見 [[t-consummation]]。
 
 ## 延伸閱讀
 
+- [[s-2017-niedziela-joseph-ii-paris]]
 - [[s-1866-arneth-marie-antoinette]]
 - [[s-1823-campan-memoires]]
 - [[s-1874-arneth-mercy-correspondance]]

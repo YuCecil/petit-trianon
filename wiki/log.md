@@ -69,3 +69,17 @@
 - CLAUDE.md 第 8、9 節（網站風格、網站程式、插圖、真實圖片、手機檢查）搬到 rules/site.md，CLAUDE.md 只留語氣、用字、出處與圖片語法，並寫明哪些工作要先讀 rules/site.md；4.1 的 frontmatter 範例改成精簡的可填值清單（欄位以 templates/ 為準）。CLAUDE.md 從約 3.3 萬字元減到約 2.3 萬。
 - 新增 tools/check_quotes.py：把全文筆記與資料卡的外文引文拿去 raw/ 全文比對（容許 OCR 錯字、長 s、跨頁頁眉；只換一個字的假引文擋得住）。6.4 抽查、haiku-brief、haiku-expand-brief 改成先跑它。第一次全站掃描：2,220 句外文引文，143 句待人工對照（抽看的樣本多為 OCR 太差），16 句出處可能標錯，105 句的資料沒有存全文。
 - 使用者同意（「34都做」）。
+
+## [2026-11-16] rule | 不用分身派工
+- CLAUDE.md 6.4 新增：不用分身（fork）寫故事或找資料，改派全新的 Haiku 或一般助手並只給簡短說明。
+- 「一次對話只做一件事」不寫進規則：更新進度已有全域規定，且會妨礙使用者讓 AI 半夜自己跑。
+- 使用者同意（「改」）。
+
+## [2026-11-16] ingest | 補學術研究：瑪麗－泰蕾茲、約瑟夫二世、克萊里、韋爾蒙、梅西
+- 新增：s-2026-mensch-reine-morte、s-2013-chatenet-becquet-review、s-1990-boutry-roi-martyr、s-2017-niedziela-joseph-ii-paris、s-2026-varadi-temoins-thesis、s-2010-varadi-verbum-memoires、s-2025-seth-antoine、s-1879-goncourt-marie-antoinette、s-1903-funck-brentano-collier、s-1989-wolf-lameth-mercy、s-1992-wolf-duport-mercy、s-1919-hubert-mercy-dispatches、s-1994-neuhaus-mercy-ndb
+- 更新：t-madame-royale（復辟時期的「準王后」、封聖請求）、t-joseph、t-consummation（包莖手術說與陰道痙攣說並陳）、t-clery（離塔、入獄、1800 年偽版、晚年）、t-vermond、t-secret（1792 年立憲派沒有經梅西與維也納密談）、e-mercy；debates.json t-consummation +2
+- 發現：Wolf 1989 正文把拉梅特的信印成 1793 年，標題與 Wolf 1992 都是 1792 年，採 1792。Váradi 2010 說克萊里日記「近百年沒再版」，與同作者博士論文列的 1807、1823、1825 年版矛盾，不採用。圖澤爾夫人沒找到學術研究。
+- 派工：5 個 Haiku 找資料、1 個 Haiku 用瀏覽器讀 Persée；主 session 抽查 Niedziela、Mensch、Váradi、Seth、Goncourt、Wolf 原文，均相符。
+
+## [2026-11-16] lint | 引文清查
+- check_quotes.py 全站 157 句待查，分 4 個 Haiku 逐條對原文：絕大多數是 OCR、斷行或沒存全文；實際修正 5 句、改出處 4 句、標【查無原文】2 句（"deux francs maladroits"、"nous sommes trop jeunes pour régner"），兩句故事頁原本就寫明查不到或是流傳版本，故事頁不用改。

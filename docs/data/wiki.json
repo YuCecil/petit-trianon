@@ -1,8 +1,8 @@
 {
  "built": "2026-11-16",
  "counts": {
-  "sources": 63,
-  "fulltext": 14,
+  "sources": 76,
+  "fulltext": 16,
   "topics": 44,
   "entities": 5,
   "questions": 0,
@@ -686,6 +686,35 @@
    ]
   },
   {
+   "id": "s-1879-goncourt-marie-antoinette",
+   "type": "source",
+   "title": "《瑪麗．安東尼史》",
+   "author": "Edmond de Goncourt, Jules de Goncourt",
+   "year": 1879,
+   "kind": "專書",
+   "lang": "fr",
+   "venue": "Paris, 1879（本站讀的是 Project Gutenberg 電子版",
+   "url": "https://www.gutenberg.org/ebooks/34351",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1770,
+    1793
+   ],
+   "topics": [
+    "t-vermond"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n兩兄弟以文學家的眼光寫的王后傳記，第七章專門寫韋爾蒙如何從「王后的老師」變成「王后的顧問」，又如何推動布里安入閣。他們的立場很明顯：既承認韋爾蒙有能力，也把他描成一個有野心的神職人員。\n\n## 三個重點\n\n1. 第七章的說法是：王后選韋爾蒙當顧問，是因為他「沒有隨從、沒有派系」，又對王后忠誠，而且他說自己不想要高位，這一點最讓王后放心（第 VII 章；Gutenberg 電子版無頁碼）。作者同時認為他的真正野心是當上「沒有官銜的 Dubois」，也就是幕後掌權，而且他「花了十七年」等待（第 VII 章）。\n2. 作者說，1787 年布里安入閣，是韋爾蒙替推薦他的大主教（即布里安本人）還了人情，同時把教會人士「主教型行政官」的政治計畫放進內閣（第 VII 章）。布里安上任後表現不好，王后發現自己被韋爾蒙和布里安的保證騙了，最後請布里安離開（第 VII 章）。\n3. 作者在注釋裡也反駁了偏見：韋爾蒙「不是革命小冊子所畫的那種反動分子」，而且他早期「支持內克」（第 VII 章）。注 48 還直接說：「Mercy-Argenteau 對這位神父評價不錯。但不要忘了，韋爾蒙是瑪麗．泰蕾莎和她大臣的人。」\n\n## 用了什麼史料\n\n- 梅西大使的信（經由梅西書信集）、Métra 的《秘密通信》（注 316）、康龐夫人回憶錄（注 315、317、323）、韋爾蒙寫給瑪麗亞．特蕾莎的信（注 318）、Weber 回憶錄（注 321–322）。\n- 第七章大量引用的是康龐與 Weber，而不是檔案原件；作者本身沒有交代抄自哪一版。\n\n## 跟其他資料的關係\n\n- 與 [[s-1823-campan-memoires]] 相呼應：康龐說韋爾蒙把王后的信都先看過，Goncourt 則說王后「被韋爾蒙的保證誤導」。\n- 與 [[s-1874-arneth-mercy-correspondance]] 的評價方向不同：梅西書信集的編者說他忠心能幹，Goncourt 則說他是「瑪麗．泰蕾莎和她大臣的人」，語氣相對中立，但說法不完全一致。\n- 注 318 引用韋爾蒙 1773 年想辭職、1777 年與王后爭執的細節，與梅西書信集第 2 冊的記載互相補充（本站只讀到注釋，沒有核對原件）。\n\n## 值得記住的一句話\n\n原文：「L'abbé de Vermond est l'homme de Marie-Thérèse et de son ministre.」\n中譯：「韋爾蒙神父是瑪麗．泰蕾莎和她那位大臣的人。」（注 48，作者自己的註解；本站譯）\n\n## 還不確定的地方\n\n- 本站讀的是電子版，沒有頁碼，只能寫章節與注碼。\n- 「第七章」的標題與內容在目錄中確認（目錄第 VII 章「L'abbé de Vermond, conseiller de la Reine」），但這本書第一部、第二部的章節編號有重複，引用時要寫清楚是哪一部分。\n- 注 321 引的「lettres adressées à M. de Marbeuf」（一封指控韋爾蒙「操縱」王后的信）是作者轉引，本站還沒有找到原件；它是「當時有人這樣寫」的證據，不是事實的證據。\n- 作者的敘述有明顯的主觀評價（例如「野心」「精神上的權力」），用的時候要寫明是「Goncourt 的看法」。\n",
+   "links": [
+    "s-1823-campan-memoires",
+    "s-1874-arneth-mercy-correspondance",
+    "t-vermond"
+   ]
+  },
+  {
    "id": "s-1881-vizetelly-diamond-necklace",
    "type": "source",
    "title": "The Story of the Diamond Necklace",
@@ -858,6 +887,36 @@
    ]
   },
   {
+   "id": "s-1903-funck-brentano-collier",
+   "type": "source",
+   "title": "《項鍊案》",
+   "author": "Frantz Funck-Brentano",
+   "year": 1903,
+   "kind": "專書",
+   "lang": "fr",
+   "venue": "Paris, Librairie Hachette et Cie, 1903（本站讀的是 Restitutio 收藏的掃描本，原件藏布加勒斯特大學圖書館）",
+   "url": "https://restitutio.bcub.ro/storage/item/2024/Jun/laffaire-du-collier-dapres-de-nouveaux-documents/0i12M4RR8Rk5yNKJOKFOgKYasUqHGtcNe5noB7t8.pdf",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1784,
+    1786
+   ],
+   "topics": [
+    "t-vermond"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n法國檔案學者 Funck-Brentano 寫的項鍊案專書，引用 Goncourt 的說法，把韋爾蒙和梅西描成「奧地利皇室的忠實幫手」，同時也寫到韋爾蒙在宮中的教育影響。\n\n## 三個重點\n\n1. 他說，韋爾蒙被派去維也納負責公主的教育，但他沒有克制她的性格，反而「加強」了那些性格（p. 39–40，引 Goncourt 的看法）。\n2. 他把韋爾蒙寫成「那個時代的人」：一個愛說笑、有諷刺感的神父。他說 Goncourt 認為韋爾蒙「想用教育讓瑪麗．安東尼比起身分更接近她的性別」，然後把這說成是盧梭的教育觀（p. 39–40）。\n3. 在項鍊案的敘述裡，他寫道：王后本來應該與大禮拜堂主任羅昂樞機主教往來，但瑪麗亞．特蕾莎派「忠心的助手」梅西伯爵和韋爾蒙神父守在王后身邊，設法讓她避開這位樞機主教（p. 130）。這是作者對兩人角色的看法，本站還沒有對照檔案。\n\n## 用了什麼史料\n\n- 主要引用 Goncourt（上一條資料卡 [[s-1879-goncourt-marie-antoinette]]）的評論，沒有說明自己另外查了哪些檔案。\n- 作者本人是巴士底檔案的研究者，書裡有不少檔案細節，但韋爾蒙的段落本站沒有逐一核對原件。\n\n## 跟其他資料的關係\n\n- 與 [[s-1879-goncourt-marie-antoinette]] 的立場接近，本書引用 Goncourt 的說法；兩者都不是獨立證據。\n- 與 [[s-2025-seth-antoine]] 不一致之處：Seth 只談韋爾蒙的語言教學，沒有評價他的影響力。\n- 與 [[s-1823-campan-memoires]] 有差異：Funck 認為韋爾蒙和梅西是「瑪麗亞．特蕾莎的助手」，康龐則認為韋爾蒙是「讓王后無知的人」。兩者都是「看法」，不是事實。\n\n## 值得記住的一句話\n\n原文：「L'impératrice veille, avec ses dévoués auxiliaires, le comte de Mercy et l'abbé de Vermond」\n中譯：「女皇讓她忠心的助手梅西伯爵與韋爾蒙神父守在身邊」（p. 130，本站譯）\n\n## 還不確定的地方\n\n- 本站只讀了韋爾蒙相關的兩段（p. 39–40、p. 130），沒有讀全書。\n- 掃描本的頁碼依 OCR 頁眉判斷，「p. 39–40」與「p. 130」是約略位置，正式引用前要對照紙本。\n- 「避開羅昂」的段落（p. 130）是作者對項鍊案的敘述，本站還沒有比對原始檔案，不能當成史實。\n- 這本書是 1903 年的研究，屬於「中」可信度，引用時要標出是 20 世紀初的研究者說法。\n",
+   "links": [
+    "s-1823-campan-memoires",
+    "s-1879-goncourt-marie-antoinette",
+    "s-2025-seth-antoine",
+    "t-vermond"
+   ]
+  },
+  {
    "id": "s-1907-lenotre-last-days-marie-antoinette",
    "type": "source",
    "title": "The Last Days of Marie Antoinette",
@@ -912,6 +971,39 @@
    "body": "## 一句話\n兩位英國女學者 1901 年 8 月在小特里亞儂的花園裡，看見穿 18 世紀服裝的人與景物，後來認為那是王后的「記憶」；1911 年以化名出版的回憶錄，是整個「凡爾賽鬼魂」故事的第一手來源。\n\n## 三個重點\n\n1. 兩位當事人各自寫了紀錄（1901 年 11 月），然後花近十年查證舊檔案、地圖與帳簿。查證的結果有一部分與 1783–1789 年的地圖吻合，例如石窟、小橋、Jeu de Bague 的位置。但書中大部分「符合」是作者自己判斷的，沒有獨立的第三方核對。\n2. 兩人對同一個場景的描述有明顯差異：Morison 看到了一位畫畫的女士，Lamont 完全沒看見；Lamont 聽到的口音，先後被說成「奧地利式法語」「古法語」「布列塔尼口音」。作者沒有把這些差異整理成一個結論。\n3. 作者承認她們在 1904 年之前曾把故事講給別人聽，之後才改為私下查證，並且承認故事在別人的轉述中被改寫（Ch. III，p. 104、118）。這直接影響了可信度。\n\n## 用了什麼史料\n\n- 作者自己的 1901 年紀錄（Morison 與 Lamont 各一份，之後的附錄 A1、A2 為 1901 年 11 月的版本）。\n- 1902–1910 年間的實地查訪：園丁與店家的口述、Archives nationales 的園林帳簿（O¹ 1875–1883 等檔案號）、1783 年的 Mique 地圖與 1780–1792 年的園林工程紀錄、Desjardins《Le Petit Trianon》、De Nolhac《La Reine Marie-Antoinette》、Madame Campan、d'Hezecques《Souvenirs d'un Page》、Frenilly《Souvenirs》、Madame Éloffe 的日記、Julie Lavergne《Légendes de Trianon》。\n- 作者也查過攝影（Pierre Petit、Dufayel）、音樂（Sacchini、Philidor、Monsigny、Grétry、Pergolesi 的歌劇）與 Versailles 市政檔案。\n\n## 跟其他資料的關係\n\n- 與 Campan 的關係：作者稱 Campan 的短文是 1789 年 10 月 5 日「王后去過小特里亞儂」說法的基礎（p. 106），本書的 Marion 傳說則來自 Lavergne（p. 54–57）。\n- 與 Vaudreuil 的關係：作者指出，小亭旁那位有天花痕、穿黑斗篷的男人，符合多數回憶錄對 Vaudreuil 的描述（克里奧爾人、臉有麻子，1785 年演出 Almaviva 時穿黑斗篷）（p. 51–52）；這是作者的推論。\n- 後續評論：W. H. Salter（1950）與 Terry Castle（1991）對本書有重要批評，見 raw/notes/expand-t-ghost.md（外部評論尚未讀全文，只列出書目）。\n\n## 值得記住的一句話\n\n<!-- 原文（40 字以內）＋中譯，附頁碼 -->\n- 原文：「We both think that the Petit Trianon is haunted.」／中譯：「我們都覺得小特里亞儂鬧鬼。」（p. 103）\n- 原文：「It is not our business to explain or to understand」／中譯：「解釋或理解不是我們的責任。」（序言 p. vi）\n\n## 還不確定的地方\n\n- 1901 年 8 月 10 日：書中只寫「八月的一個（星期六）下午」，沒有直接寫日期；8 月 10 日是 SPR 百科等二手資料的說法（我以日曆核對 1901 年 8 月 10 日確為星期六）。\n- 1911 首版與 1913 第二版的文字是否相同，未核對。\n- Gutenberg 版（ebook 64809，依搜尋）因 403 無法下載，未比對。\n- Ch. IV 後段（p. 127–158）與附錄大部分未讀。\n- 作者是否改寫過早期紀錄：Salter 等人（轉引自 SPR 百科）認為後來版本有潤飾；作者與出版社聲明紀錄忠實（出版者注 p. vii），本卡無法判定。\n",
    "links": [
     "t-ghost"
+   ]
+  },
+  {
+   "id": "s-1919-hubert-mercy-dispatches",
+   "type": "source",
+   "title": "Le comte de Mercy-Argenteau et Blumendorf. Dépêches inédites tirées des archives impériales de Vienne. 5 janvier-23 septembre 1792",
+   "author": "Eugène Hubert",
+   "year": 1919,
+   "kind": "專書論文",
+   "lang": "fr",
+   "venue": "Mémoires de l'Académie royale de Belgique, Classe des lettres et des sciences morales et politiques, in-4°, t. 7（1919–1921），pp. 1–219",
+   "url": "https://www.persee.fr/doc/marb_0775-3241_1919_num_7_1_3955",
+   "access": "公開",
+   "depth": "書目",
+   "period": [
+    1792,
+    1792
+   ],
+   "topics": [
+    "t-secret"
+   ],
+   "entities": [
+    "e-mercy"
+   ],
+   "reliability": "中",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n比利時學者胡伯（Eugène Hubert）在 1919 年整理出一批梅西（Mercy）在 1792 年 1 月到 9 月的未刊急件，抄自維也納帝國檔案館，全書 219 頁。這是目前找到、專門處理梅西 1792 年活動的一手史料整理本。\n\n## 三個重點\n\n1. 版本：發表在比利時王家科學院的《紀要》（Mémoires），不是獨立專書；Persée 標示 pp. 1–219（[[s-1919-hubert-mercy-dispatches]] 書目）。\n2. 範圍：書名標出的時間是 1792 年 1 月 5 日至 9 月 23 日，也就是路易十六被關起來之前到八月十日事件之後的這段時間。目錄列有導論（Préface）與 1792 年 1 月的四份巴黎急件（I–IV）。\n3. 書名中的「Blumendorf」是誰，目前沒有查清楚，不可以先猜。\n\n## 用了什麼史料\n\n全部是維也納帝國檔案館（archives impériales de Vienne）的急件，依書名判斷。Persée 文字版只有書名頁與目錄，沒有導論與急件正文，所以沒有任何從內文來的事實（見 [[s-1919-hubert-mercy-dispatches]] 的讀取紀錄）。\n\n## 跟其他資料的關係\n\n- 梅西 1792 年的活動，另有 Wolf 兩篇論文（見 [[s-1989-wolf-lameth-mercy]]、[[s-1992-wolf-duport-mercy]]）談到他跟法國憲政派人士的接觸。\n- 本站目前的梅西材料主要來自 Arneth 編的書信集（[[s-1874-arneth-mercy-correspondance]]），只到 1780 年；這本 1919 年的整理本正好接上 1792 年，但還沒讀到正文，無法對照。\n\n## 還不確定的地方\n\n- 只讀到 Persée 的書名頁與目錄，正文未取得。要讀正文需要 PDF 原檔（Persée 的 PDF 下載需要使用者同意）。這張卡維持「書目」等級。\n- 「Blumendorf」的身分、急件的收件人，都還沒查清楚。\n- 1919 年的整理者是否完整抄錄、有沒有刪節，未知。\n",
+   "links": [
+    "e-mercy",
+    "s-1874-arneth-mercy-correspondance",
+    "s-1989-wolf-lameth-mercy",
+    "s-1992-wolf-duport-mercy",
+    "t-secret"
    ]
   },
   {
@@ -971,6 +1063,66 @@
    ]
   },
   {
+   "id": "s-1989-wolf-lameth-mercy",
+   "type": "source",
+   "title": "La correspondance d'Alexandre de Lameth avec Mercy-Argenteau après le 10 août 1792",
+   "author": "Gerhard Wolf, Jean-René Suratteau",
+   "year": 1989,
+   "kind": "期刊論文",
+   "lang": "fr",
+   "venue": "Annales historiques de la Révolution française, n° 277（1989），pp. 307–308（「Glanes」欄）",
+   "url": "https://www.persee.fr/doc/ahrf_0003-4436_1989_num_277_1_1268",
+   "access": "公開",
+   "depth": "全文",
+   "period": [
+    1792,
+    1793
+   ],
+   "topics": [
+    "t-secret"
+   ],
+   "entities": [
+    "e-mercy"
+   ],
+   "reliability": "高",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n這是一則兩頁的短札記，談的是憲政派的亞歷山大．德拉梅特（Alexandre de Lameth）寫給梅西（Mercy-Argenteau）的三封信。信件存在維也納國家檔案館，是他出逃後仍想影響奧地利政策的證據。\n\n## 三個重點\n\n1. 三封信的日期，本文印為 1793 年 8 月 20、23、29 日；檔案標註 1792–93（pp. 307，[[s-1989-wolf-lameth-mercy]]）。與 Wolf 1992 年論文寫的 1792 年 8 月有衝突，見「還不確定的地方」。\n2. 內容：第一封從 Rochefort 寄出，他和拉斐特想經荷蘭去英國；第二封從 Namur 寄出，說明「我們必須暫時屈從於環境的需要」（p. 307）。\n3. 第三封回顧皮爾尼茨宣言以來的局勢，勸梅西不要追捕「唯一支持與法國結盟」的人，並批評英普體系；他說「刺刀適合摧毀，卻完全不適合組織」（p. 308）。\n\n## 用了什麼史料\n\n維也納國家檔案館，檔案號 47 Frankreich Varia, 1792–93（[[s-1989-wolf-lameth-mercy]] p. 307）。\n\n## 跟其他資料的關係\n\n- 與 [[s-1992-wolf-duport-mercy]] 同一位作者。1992 年那篇寫這三封信是 1792 年 8 月的，並說信中對秘密談判保持沉默（[[s-1992-wolf-duport-mercy]] p. 224）。\n- 與 [[s-1919-hubert-mercy-dispatches]] 時間上接續（1792 年），但那本是梅西的急件，這篇是寫給梅西的信。\n\n## 還不確定的地方\n\n- 日期：本文 1793 年、Wolf 1992 年寫 1792 年。（推論）拉斐特與德拉梅特在 1792 年 8 月出逃，信的內容也提到普魯士軍隊，比較像 1792 年，本文的 1793 可能是印刷錯誤；要看檔案原件 47 Frankreich Varia 才能確定。故事頁暫時只寫「1792 年 8 月出逃後」。\n- 頁碼只到 pp. 307–308，沒有逐句頁碼。\n- 信件原件未讀。\n",
+   "links": [
+    "e-mercy",
+    "s-1919-hubert-mercy-dispatches",
+    "s-1992-wolf-duport-mercy",
+    "t-secret"
+   ]
+  },
+  {
+   "id": "s-1990-boutry-roi-martyr",
+   "type": "source",
+   "title": "« Le Roi martyr ». La cause de Louis XVI devant la Cour de Rome (1820)",
+   "author": "Philippe Boutry",
+   "year": 1990,
+   "kind": "期刊論文",
+   "lang": "fr",
+   "venue": "Revue d'histoire de l'Église de France, t. LXXVI（1990），n° 196，pp. 57–71",
+   "url": "https://www.persee.fr/doc/rhef_0300-9505_1990_num_76_196_3484",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1790,
+    1820
+   ],
+   "topics": [
+    "t-madame-royale"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n1820 年，瑪麗－泰蕾茲（安古蘭公爵夫人）請求為路易十六申請封聖（殉道）。羅馬的答覆是一份私下寫成、不交給對方的備忘錄，說明封聖程序，並沒有把路易十六當作殉道者。\n\n## 三個重點\n\n1. 1816 年起，法國每年 1 月 21 日都紀念路易十六（p. 57，[[s-1990-boutry-roi-martyr]] 注 3）。1833 年七月王朝才正式廢止這個國家哀悼日（p. 57）。\n2. 1820 年 6 月 19 日，駐巴黎的教廷大使 Macchi 寫信給 Consalvi，轉達安古蘭公爵夫人的請求（p. 57）。9 月 20 日，Consalvi 寄來一份「祕密」備忘錄，要求大使「不要把它交給對方」（p. 58）。\n3. 這份備忘錄的作者是教廷禮儀聖部秘書 Carpegna（p. 58）。作者指出，1952 年 Bertier de Sauvigny 已在梵蒂岡檔案中發現它，本文是第一次全文刊出（p. 57，注 2）。\n\n## 用了什麼史料\n\n梵蒂岡秘密檔案館（Archivio Segreto Vaticano）的 Archivio Nunziatura di Parigi，vol. 14，Tit. VIII/1（p. 58，注 5）；Macchi 的信在 vol. 1，n° 57（注 4）。\n\n## 跟其他資料的關係\n\n- 殉道國王的形象，與 1816 年起的 1 月 21 日紀念活動有關；與 [[s-1798-clery-journal]] 的關係尚未確認（讀到的部分沒有提到克萊里）。\n- Sorrel（2011，Publications de l'École française de Rome）的注釋引用了本文，可作為後來的研究者怎麼用它的線索；本次只看到 Persée 搜尋頁的摘要，沒有讀全文。\n\n## 值得記住的一句話\n\n原文：「Afin de me rendre aux vives instances de S.A.R. la duchesse d'Angoulême」（p. 58）\n中譯：為了回應安古蘭公爵夫人殿下的殷切請求。（教廷大使寫給 Consalvi 的信，本站譯）\n\n## 還不確定的地方\n\n- 本次只讀到文字版第 1 頁（pp. 57–59）。第 2–15 頁，包括作者的分析與結論，沒有讀到，所以 depth 寫「部分」。\n- 「克萊里日記」與本文的關係本次未確認。若要寫進 t-clery，需要讀後續頁，看作者如何處理殉道國王與克萊里的記述。\n- 本文沒有記載克萊里本人與封聖案的直接關係。\n",
+   "links": [
+    "s-1798-clery-journal",
+    "t-madame-royale"
+   ]
+  },
+  {
    "id": "s-1992-price-vies-privees",
    "type": "source",
    "title": "Vies privées et scandaleuses: Marie-Antoinette and the Public Eye",
@@ -995,6 +1147,38 @@
    "body": "## 一句話\n\nPrice 把瑪麗．安東尼的形象放在「公私界線」的歷史脈絡裡來看：十八世紀的匿名小冊子把王后的私生活變成公共話題，而這套寫法，在一兩百年後仍被用來描述 Imelda Marcos。\n\n## 三個重點\n\n1. 第一批反對瑪麗．安東尼的小冊子出現於 1774 年，大革命初期持續增加，內容彼此翻寫、互相矛盾，卻一致把王后描繪成放蕩與陰謀者（p. 177）。作者強調，同一本小冊子常同時寫她「不育」與「避孕」、「愛出風頭」與「密謀」（p. 177）。\n2. 作者認為這些小冊子同時依據兩套對立的道德體系：一套把祕密等同於性、把公開等同於透明；另一套主張女性應退隱家庭。王后的形象正好落在兩者的交界，所以她「太顯眼」又「不夠顯眼」（pp. 177–178，p. 184）。\n3. 小冊子的「性指控」被作者看成政治論證的工具：把政治腐敗寫成性罪惡，王后的「性慾」與「奢侈」並列（p. 178–179）。同樣的修辭後來被革命報刊（Hébert 的 *Le Père Duchesne*）與革命法庭沿用，例如指控她教兒子自慰（p. 179）。\n4. 審判中最核心的指控之一，是她「任命大臣、強迫財政大臣撥款」，也就是「女人插手政務」本身就是罪（p. 183）。作者認為，小冊子與革命法庭都把她的政治影響力歸因於她的性別，而不是她的王室身分（p. 182–183，p. 189）。\n5. 結論（p. 189）：公眾女性被批評，並不代表私領域的女性被讚美；男性公共領域的建立，沒有同時帶來一個有德的女性私領域。作者認為公私界線在性別問題上站不住腳（推論，為作者論點的概述）。\n\n## 用了什麼史料\n\n- 研究對象是十八世紀後期的匿名小冊子文學與媒體再現。作者引用的小冊子包括：*Le Père Duchesne*（Hébert 主編的革命報紙，第 36、122、164、166、194 號等）、*Essais historiques sur la vie de Marie-Antoinette d'Autriche*（註 8 寫 London 1789；p. 189 另註寫 n.d.，需核對）、*Vie privée, libertine et scandaleuse de Marie-Antoinette*（書目年份文字層不清，未確定）。\n- 審判紀錄引自 Wallon《Histoire du tribunal révolutionnaire de Paris》（1880）與 Campardon《Le tribunal révolutionnaire de Paris》（1866）；1793 年 10 月 30 日《Moniteur》的報導（女性俱樂部法令那天）。\n- 理論來源：Habermas 的公私領域理論（p. 176，註 2）；Foucault 的「可見性」概念（p. 192，註 53）；Joan Landes（1988）。\n- 作者引的其他研究：Duhet（1971）、Carol Blum（1986）、Ruth Graham（1976）、Schama《Citizens》（1989）、Chantal Thomas（1988, 1989）、Lynn Hunt（1991）、Sarah Maza（1991）。\n\n## 跟其他資料的關係\n\n- 與 Kaiser 2006（s-2006-kaiser-nursery）的關係：Kaiser 在 p. 405 註 9 列舉的誹謗文學研究中沒有 Price 這篇（已對照全文筆記）。兩篇不是互相引用的關係，只是同屬研究脈絡。\n- 與 Colwill 1989（s-1989-colwill-citoyenne）同屬「王后誹謗文學」與審判的研究脈絡（推論）。Price 也引用了審判紀錄與革命法庭的指控語言。\n\n## 值得記住的一句話\n\n「The first pamphlets against Marie-Antoinette appeared in 1774.」（p. 177）\n中譯（本站譯）：第一批反對瑪麗．安東尼的小冊子出現於 1774 年。\n\n## 還不確定的地方\n\n- 全文主文 pp. 176–189 與註腳已讀過，但檢視器文字層有截斷，p. 188 Amar 的長引文、p. 189 結尾段只讀到大意，若故事頁要引原文，需截圖核對頁碼。\n- p. 184 與 p. 187 原本未讀，這次補讀；其中 p. 184 的 Hébert 解讀（把王后與蘭巴勒公主的感傷讀成同性戀與昏厥流行的諷刺）是作者的概括，未核對 Hébert 的原文。\n- 「1774 年第一批小冊子」是作者引的說法，註 7 的出處文字層未擷取，需截圖核對。\n- 《Essais historiques》的出版年在 p. 189 與 p. 190 註的寫法不同（1789 與 n.d.），需查書目。\n- 《Vie privée, libertine et scandaleuse de Marie-Antoinette》的年份在文字層裡不清楚，資料卡不寫年份，待核對。\n- 文中沒有處理小冊子的印量、讀者群、書商、禁毀或王室「買下銷毀」的應對，這些題目仍需其他資料。\n- Kaiser 2006 註 9 未列 Price，故本卡與 Kaiser 卡之間沒有直接引用關係；若要把 Price 掛到 t-libels 的主要參考，需另外確認。\n",
    "links": [
     "t-libels"
+   ]
+  },
+  {
+   "id": "s-1992-wolf-duport-mercy",
+   "type": "source",
+   "title": "Quelques remarques concernant la politique étrangère de Vienne, de Paris et de la faction Duport-Lameth après le 20 avril 1792",
+   "author": "Gerhard Wolf",
+   "year": 1992,
+   "kind": "期刊論文",
+   "lang": "fr",
+   "venue": "Annales historiques de la Révolution française, n° 288（1992），pp. 223–233，DOI 10.3406/ahrf.1992.1488",
+   "url": "https://www.persee.fr/doc/ahrf_0003-4436_1992_num_288_1_1488",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1792,
+    1792
+   ],
+   "topics": [
+    "t-secret"
+   ],
+   "entities": [
+    "e-mercy"
+   ],
+   "reliability": "高",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\nWolf 這篇論文談 1792 年 4 月法國對奧宣戰後，維也納、巴黎與杜波爾－德拉梅特派（Duport-Lameth）之間的外交試探。作者的結論是：有接觸的跡象，但找不到秘密談判的檔案證據。\n\n## 三個重點\n\n1. Duport 派的外交目標是避免與奧地利開戰，以便在和平時修改憲法；Duport 於 1792 年 5 月 20 日創辦《Indicateur》，語氣親奧（pp. 223–224，[[s-1992-wolf-duport-mercy]]）。\n2. 費爾森 1792 年 6 月 18 日寫道：立憲派將派人去維也納談判（p. 224）。巴伐利亞大使的報告提到一位「Turgot」於 6 月 20 日自法國返回維也納，但作者在維也納檔案中找不到此人（p. 224）。\n3. 德拉梅特 1792 年 8 月寫給梅西的三封信，對秘密談判完全沉默（p. 224）。法國駐維也納大使 Noailles 於 6 月 6 日才離開，遲了很久（p. 225）。\n\n## 用了什麼史料\n\n奧地利宇宙檔案（Österreichisches Staats-, Haus- und Hofarchiv，47 Frankreich, Varia）、巴伐利亞國家檔案、Public Record Office 等，見注釋 5–10（p. 224–225）。\n\n## 跟其他資料的關係\n\n- 與 [[s-1989-wolf-lameth-mercy]] 同一位作者，兩篇談的是同一批人與梅西的往來。本文寫三封信是 1792 年 8 月，1989 年那篇印為 1793 年，兩者有衝突。\n- 與 [[s-1919-hubert-mercy-dispatches]] 的 1792 年急件時間重疊，但還沒有對照。\n\n## 還不確定的地方\n\n- 讀到的只有 pp. 223–225（到注釋 10 為止）。文字版在這裡中斷，pp. 225–233 的正文與結論未讀到。\n- 「Turgot」的身分未能確定。\n- 頁面上作者名字拼成「Gehrard Wolf」，本卡以 Gerhard Wolf 為準（刊物原文拼寫仍需對照）。\n",
+   "links": [
+    "e-mercy",
+    "s-1919-hubert-mercy-dispatches",
+    "s-1989-wolf-lameth-mercy",
+    "t-secret"
    ]
   },
   {
@@ -1026,6 +1210,34 @@
     "t-cake",
     "t-deficit",
     "t-necklace"
+   ]
+  },
+  {
+   "id": "s-1994-neuhaus-mercy-ndb",
+   "type": "source",
+   "title": "Mercy-Argenteau, Florimund Claudius Graf von（Neue Deutsche Biographie 17）",
+   "author": "Helmut Neuhaus",
+   "year": 1994,
+   "kind": "專書論文",
+   "lang": "de",
+   "venue": "Neue Deutsche Biographie 17（1994），S. 127 f.",
+   "url": "https://www.deutsche-biographie.de/124246567.html",
+   "access": "公開",
+   "depth": "摘要",
+   "period": [
+    1727,
+    1794
+   ],
+   "topics": [],
+   "entities": [
+    "e-mercy"
+   ],
+   "reliability": "高",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n德國《新德意志傳記辭典》（NDB）的梅西條目，是目前找到最權威的簡明傳記：生於列日（Liège），1727 年生，1794 年死於倫敦，1766 至 1790 年任駐巴黎大使。條目作者認為他主要是觀察者與顧問，不是能單獨決策的人。\n\n## 三個重點\n\n1. 出身與死亡：生於列日，1727 年 4 月 20 日；死於倫敦，條目寫 1794 年 8 月 26 日（[[s-1994-neuhaus-mercy-ndb]] 條目頭）。網上部分資料寫 25 日，本站以 NDB 為準，但需再核對。\n2. 生涯：先後在都靈、聖彼得堡、波蘭任職，1766 年起任駐巴黎大使至 1790 年（[[s-1994-neuhaus-mercy-ndb]] 條目）。\n3. 1789 至 1790 年：條目說他支持維也納與巴黎的同盟，反對革命，並試圖救援王室；1790 年 9 月離開巴黎去海牙參加比利時問題的會議（依摘要）。條目也說 1791 年 8 月的《皮爾尼茨宣言》草稿「歸於他名下」（依摘要，本站未核對原文）。\n\n## 用了什麼史料\n\n條目以維也納與梅西自己的報告、與約瑟夫二世、考尼茨往來的報告為基礎（依摘要）。\n\n## 跟其他資料的關係\n\n- 與 [[s-1874-arneth-mercy-correspondance]] 的時間範圍相接，但 NDB 只寫生涯梗概，不含書信內容。\n- 條目的文獻表列出 Michaud 的《世界傳記》第 28 冊與 Wurzbach 第 17 冊；條目也說「缺一本現代的傳記」（依摘要）。\n\n## 還不確定的地方\n\n- 讀到的是摘要，沒有全文原文；條目中的日期與《皮爾尼茨宣言》草稿的歸屬，需要看原文或其他研究確認。\n- 條目說「缺現代傳記」是 1994 年的判斷，之後是否有人寫過，本站還沒查到。\n- 摘要說梅西 1791 年 12 月起的信署名「奧地利在尼德蘭的全權大臣」，間接指向布魯塞爾，原文需核對。\n",
+   "links": [
+    "e-mercy",
+    "s-1874-arneth-mercy-correspondance"
    ]
   },
   {
@@ -1362,6 +1574,33 @@
    ]
   },
   {
+   "id": "s-2010-varadi-verbum-memoires",
+   "type": "source",
+   "title": "十八世紀法國的回憶錄與回憶錄作者：論僕人出身的克萊里與康龐夫人的回憶錄",
+   "author": "Márta Váradi（瓦拉迪）",
+   "year": 2010,
+   "kind": "期刊論文",
+   "lang": "fr",
+   "venue": "Verbum Analecta Neolatina XII/2, pp. 460–467（Piliscsaba：PPKE/BTK）",
+   "url": "https://ojs.ppke.hu/verbum/article/download/589/608/827",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1792,
+    1798
+   ],
+   "topics": [
+    "t-clery"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n這篇期刊論文把克萊里的日記和康龐夫人的回憶錄並列，談「僕人出身的回憶錄作者」如何用親近的視角寫王室；作者說克萊里「幾乎不談自己」，寫的是國王的最後時刻，但也提醒，這類回憶錄的真偽很難判斷。\n\n## 三個重點\n\n1. 寫作目的：克萊里在序言說，他整理筆記是「為將來寫路易十六悲慘結局的人提供材料」，不是要自己寫回憶錄（p. 464，引 1798 年版）。\n2. 寫作時間：作者認為他入塔後就開始記筆記，1795 年才開始寫完整的稿子，1798 年出版（p. 464–465）。\n3. 流傳與遺忘：日記在 1798 年出版後很受歡迎，但之後差不多一百年沒有再版，直到 20 世紀才重新出版（p. 463、467）。\n\n## 用了什麼史料\n\n作者以 Cléry 的 1798 年版為主要文本，並引用 J. Eckard 的《Notice》（1825）說明手稿來源（p. 466，註 19）。文章沒有處理 1800 年偽版。\n\n## 跟其他資料的關係\n\n- 與 s-2026-varadi-temoins-thesis（同一作者的博士論文）：博士論文是這篇文章的延伸，兩者在克萊里的寫作過程上的說法一致，但博士論文多了偽版與版本的考證。\n- 與 s-1798-clery-journal（原版日記）：本文只引用原版的序言與少數段落，沒有比對內容。\n\n## 值得記住的一句話\n\n「Cléry fait preuve d'un désintéressement extraordinaire dans son récit : il ne parlera pratiquement jamais de lui-même.」（p. 465）\n中譯：「克萊里寫得毫無私心，幾乎從不談自己。」（本站譯）\n\n## 還不確定的地方\n\n- 本站讀了摘要、談克萊里的段落與結論，談康龐夫人的段落只掃過；depth 標「部分」。\n- 作者說日記「1795 年才開始完整寫作」，依據是 Eckard 的 1825 年《Notice》，這是轉述而非手稿本身。\n- 文章沒有對日記的史實做核對，也沒有討論 1800 年偽版。\n",
+   "links": [
+    "t-clery"
+   ]
+  },
+  {
    "id": "s-2011-andersson-queen-fashion",
    "type": "source",
    "title": "Marie Antoinette: Queen of Fashion – Queen of Decadence",
@@ -1413,6 +1652,34 @@
    "body": "## 一句話\n\n作者用人類學的「通過儀禮」與「閾限」理論讀《凡爾賽拜金女》，認為影片的時代錯置與風格是政治性的，不是空洞的。\n\n## 三個重點\n\n1. 坎城首映後的評價兩極：Agnès Poirier 批評影片「空洞」，Jean-Michel Frodon 讚賞其嬉戲式處理（p. 80）。\n2. 影片把瑪麗寫成一個處於「閾限」的少女，她的身體被儀式規訓、商品化；影片刻意不處理法國大革命（p. 81–82、91）。\n3. 時代錯置的例子：「I Want Candy」蒙太奇中的淺藍色 Converse、Gang of Four 與 Sex Pistols 式的片頭字體（p. 83、94）。\n\n## 用了什麼史料\n\n以 Antonia Fraser 的傳記（2002 年版）為敘事基礎，引 Coppola 的訪談（轉引自 Hohendal，《紐約時報》2006）與影評（Stephanie Zacharek、Poirier、Frodon）。理論依據是 Van Gennep 與 Turner。作者只分析影片，不做史料考證。\n\n## 跟其他資料的關係\n\n與 s-2011-andersson-queen-fashion 同樣把影片的服裝與配色當成敘事工具，但理論框架不同（本篇用儀禮，Andersson 用 melodrama 與 camp）。\n\n## 值得記住的一句話\n\n原文：「playfully anachronistic (and accidental) addition」（p. 94）\n中譯：「俏皮的（而且是意外的）時代錯置添加」（本站譯，描述淺藍色 Converse）\n\n## 還不確定的地方\n\n- 同儕審查狀態本次未核對；本卡暫定「中」，確認審查流程後可升為「高」。\n- 作者正文寫 Fraser 傳記為 2002 年，參考書目寫 2001（Phoenix 版）。\n- 作者說 Converse 是「accidental」，這是作者的推論，未附導演說法。\n- 作者沒有提到 Ladurée 或凡爾賽實地拍攝的細節，那些另由其他資料支持。\n",
    "links": [
     "t-coppola"
+   ]
+  },
+  {
+   "id": "s-2013-chatenet-becquet-review",
+   "type": "source",
+   "title": "書評：Hélène Becquet，《瑪麗－泰蕾茲．德．法蘭西：聖殿塔的孤兒》（Perrin, 2012）",
+   "author": "Aurélie Chatenet-Calyste",
+   "year": 2013,
+   "kind": "期刊論文",
+   "lang": "fr",
+   "venue": "Genre & Histoire, n° 11（2012 年秋季號），線上 2013-07-25；DOI 10.4000/genrehistoire.1708",
+   "url": "https://journals.openedition.org/genrehistoire/1708",
+   "access": "公開",
+   "depth": "全文",
+   "period": [
+    1778,
+    1851
+   ],
+   "topics": [
+    "t-madame-royale"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n書評把 Becquet 的傳記看成一部政治傳記，寫瑪麗－泰蕾茲從 1789 年到第二帝國，如何成為王黨事業的象徵，並肯定作者對她形象的分析。\n\n## 三個重點\n\n1. 1792 年 8 月 13 日她被關進聖殿塔，1795 年 12 月 19 日是家人中唯一活著出來的人；路易十七死後，她成為王黨與「哀痛派」情緒的焦點（書評首段；p. 97）。\n2. 復辟時期她是「王室的女兒」，第二次復辟後被稱為「準王后」（第 5、6 章）；1851 年去世後，正統派把她的苦難說成救贖（p. 291）。\n3. 百日王朝期間，王黨稱她「戰爭的王后」，波拿巴派則批評她「不像女人」（書評概述，未註頁碼）。\n\n## 用了什麼史料\n\n書評沒有列出 Becquet 書中的史料細目，只說「史料很多」，但建議應更早介紹。評者關心的是政治與形象史，不談替身說法。\n\n## 跟其他資料的關係\n\n與 [[s-2026-mensch-reine-morte]] 的分析相近，都把她 1815 年後的地位放在王朝與宮廷政治裡看；書評是 2012 年的研究，Mensch 2026 年的論文有更多宮廷與肖像的細節。\n\n## 還不確定的地方\n\n- 書評只是概述，Becquet 的原書未讀；書評引用的頁碼（p. 97、p. 247、p. 291）是轉引，要以原書核對。\n- Becquet 原書（Perrin, 2012，414 頁）是傳記，本站尚未取得全文。\n- 書評沒有談 1795 年的交換細節、她的回憶錄，或替身說法。\n",
+   "links": [
+    "s-2026-mensch-reine-morte",
+    "t-madame-royale"
    ]
   },
   {
@@ -1522,6 +1789,38 @@
    "body": "## 一句話\n\n凡爾賽宮官方說明：1783 年王后請 Richard Mique 建造小村落，1786 年完工；農場是真正運作的農場，但王后「並沒有扮演農夫」，她在此散步、小聚。\n\n## 三個重點\n\n1. 1783 年夏天開工，1786 年完工；Mique 負責建造，畫家 Hubert Robert 以「具有如畫風格的建築圖稿」提供靈感（長文，依 WebFetch 摘要）。\n2. 頁面明確否定「扮演農夫」的流行印象，並說王后堅持農場要真正運作，並為王室子女提供農業教育（頁面摘要）。\n3. 乳品室分為「working dairy」與「model dairy」兩座；工作用乳品室與穀倉在拿破崙時期（1810–1812）翻修前已拆除（頁面摘要）。\n\n## 用了什麼史料\n\n官方導覽文字，沒有列出引用的史料與頁碼。\n\n## 跟其他資料的關係\n\n- 與維基條目（英文）引用的同一頁面相符；維基條目把「扮演牧羊女或農婦」列為「沒有當時證據的迷思」。\n- 頁面沒有提到農場的農夫姓名，也沒有提到擠牛奶或農婦服裝。維基條目中的農場主管人名（Valy Bussard）未在官方頁面找到。\n\n## 值得記住的一句話\n\n頁面原文大意：王后與侍從並沒有「扮演農夫」（did not \"play at being farmers\"），但她經常在此散步、舉辦小型聚會。（此句由 WebFetch 摘要取得，非原文逐字核對，引用前請於官網核對。）\n\n## 還不確定的地方\n\n- WebFetch 取得的是摘要式內容，不是逐字全文。原文引文請人工核對官網。\n- 頁面沒有提供頁碼或段落編號；本卡無法附頁碼。\n- 頁面沒有說明乳品室實際做什麼用，也沒有說明有沒有農民家庭住在裡面（只提到「several people lived here, including the head gardener and the guard」）。\n- 頁面沒有提到 Hubert Robert 參與乳品室的設計。\n",
    "links": [
     "t-hameau"
+   ]
+  },
+  {
+   "id": "s-2017-niedziela-joseph-ii-paris",
+   "type": "source",
+   "title": "皇帝約瑟夫二世在巴黎與凡爾賽（1777）",
+   "author": "Rafał Niedziela",
+   "year": 2017,
+   "kind": "期刊論文",
+   "lang": "其他",
+   "venue": "Zeszyty Naukowe Uniwersytetu Jagiellońskiego, Prace Historyczne 144, z. 3, s. 499–514",
+   "url": "https://ejournals.eu/en/journal_article_files/full_text/018eced9-24d8-73c3-bbd5-079e99aa8e9d/download",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1777,
+    1777
+   ],
+   "topics": [
+    "t-joseph",
+    "t-consummation"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n波蘭學者整理 1777 年約瑟夫二世在巴黎與凡爾賽的停留，說明他的介入改善了王室夫妻的關係，但路易十六的婚姻困難原因至今沒有定論。\n\n## 三個重點\n\n1. 作者依據當時的日記、外交信件與回憶錄，描述約瑟夫在巴黎受歡迎、在凡爾賽批評宮廷禮儀的情形（pp. 504–507）。\n2. 作者整理了路易十六「包皮過長」（phimosis）的假說：一些研究者推測，約瑟夫可能勸他動小手術；作者說沒有證據證明手術真的做了（p. 508）。\n3. 作者也引用另一種假說，把問題歸因於王后的心理與身體反應（陰道痙攣），並說明萊弗（Lever）認為兩種說法都不能證實也不能否定（p. 508）。\n\n## 用了什麼史料\n\n作者主要依賴：Creutz 1777 年 4 月 24 日給瑞典國王的信、約瑟夫寫給利奧波德與瑪麗亞．特蕾莎的信（1776–1777）、梅西大使寫給瑪麗亞．特蕾莎的信（1777 年 6 月 15 日）、康龐夫人回憶錄、Croÿ 公爵日記，以及 Lever、Petitfils、Fraser 等傳記（pp. 499–500 與各註）。\n\n## 跟其他資料的關係\n\n- 與 [[s-1866-arneth-marie-antoinette]] 同樣引用約瑟夫寫給利奧波德的信，但作者用的是 1867 年的 Arneth 版（註 8、註 52、註 53）。\n- 與 [[s-1823-campan-memoires]] 的描述一致：作者同樣引用康龐夫人對約瑟夫「不得體」的評語（p. 507）。\n- 與 [[s-1874-arneth-mercy-correspondance]] 的關係：作者引用梅西 1777 年 6 月 15 日的信，說約瑟夫與妹妹談話讓她尷尬（p. 508）。\n- 作者引的醫學文章 Androutsos（2002）是「包皮過長」說的出處，本站未取得全文，只有書目（見 raw/notes）。\n\n## 值得記住的一句話\n\n<!-- 原文（40 字以內）＋中譯，附頁碼 -->\nUsunięcie stulejki wymagałoby drobnej ingerencji chirurgicznej（p. 508）／切除包皮過長需要一次小型的外科手術。（本站譯）\n\n## 還不確定的地方\n\n- 停留日期：作者寫 1777 年 4 月 18 日至 5 月 31 日（p. 500），凡爾賽官網寫 4 月 19 日至 5 月 30 日，本站採哪個需再核對。\n- 只讀了 pp. 499–509；pp. 510–514 的結語與參考文獻未細讀。\n- 「約瑟夫說服路易動手術」沒有原始證據；拉松與皇帝 1777 年 5 月 27 日見面的內容不清楚（p. 508）。\n- 醫學假說的原文 G. Androutsos, 「Le phimosis de Louis XVI (1754–1793) aurait-il été à l'origine de ses difficultés sexuelles et de sa fécondité retardée ?」, *Progrès en Urologie* 12(1) (2002), pp. 132–137 未取得全文，只看到 MEDLINE 書目與摘要（PMID 11980007）。\n",
+   "links": [
+    "s-1823-campan-memoires",
+    "s-1866-arneth-marie-antoinette",
+    "s-1874-arneth-mercy-correspondance",
+    "t-consummation",
+    "t-joseph"
    ]
   },
   {
@@ -1752,6 +2051,35 @@
    ]
   },
   {
+   "id": "s-2025-seth-antoine",
+   "type": "source",
+   "title": "「從安托瓦到瑪麗．安東尼：（重新）閱讀大公夫人的信」",
+   "author": "Catriona Seth",
+   "year": 2025,
+   "kind": "專書論文",
+   "lang": "fr",
+   "venue": "(Re)Lire les correspondances: Hommages à Geneviève Haroche-Bouzinac, éd. B. Obitz et P. De Vita, Classiques Garnier, 2025, pp. 207–23",
+   "url": "https://ora.ox.ac.uk/objects/uuid:b67acb08-5a7e-490f-84d0-a4b31c18a7c8",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1755,
+    1793
+   ],
+   "topics": [
+    "t-vermond"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n牛津大學學者 Catriona Seth 研究瑪麗．安東尼出嫁前的書信，其中一段記錄韋爾蒙在 1769 年 1 月寫給梅西大使的信，抱怨要把奧地利小公主教成法國人有多難。\n\n## 三個重點\n\n1. 韋爾蒙被找來，是為了補上小公主在維也納受教育時「文化與語言」的不足，好讓她到凡爾賽時像樣（注 1）。\n2. 1769 年 1 月 21 日，韋爾蒙寫信給奧地利大使梅西，說要讓她「只說、只聽法文」根本做不到，因為維也納人人都講三種語言（頁 207 注 1，引 Albin Michel 2019 版《Lettres inédites》p. 22）。這是他直接寫給梅西的信，屬於當時的第一手證據，也說明他有向大使報告的管道。\n3. 文章開頭就寫，在這個宮廷裡三種語言每天並用，韋爾蒙為此感到困擾（頁 207 正文：「l'abbé de Vermond s'en désolait」）。這是他被找來的背景。\n\n## 用了什麼史料\n\n- 梅西大使寫給瑪麗亞．特蕾莎的信與韋爾蒙寫給梅西的信（Seth 引 Albin Michel 2019 版）。\n- 那不勒斯國家檔案館 Archivio Borbonico 的瑪麗．卡洛琳娜與姊妹的書信（作者自己引用）。\n- 維也納 Haus-, Hof- und Staatsarchiv 的檔案（注 35）。\n\n## 跟其他資料的關係\n\n- 與 [[s-1874-arneth-mercy-correspondance]] 可以互相對照：Seth 引的是 1769 年 1 月的信，梅西書信集裡是否收了同一封，本站還沒核對（推論：梅西書信集的附錄可能收有韋爾蒙的信，待查）。\n- 與 [[s-1823-campan-memoires]] 的「教育失敗」說法不衝突，但 Seth 沒有評價他教得好不好，只記錄他的抱怨。\n\n## 值得記住的一句話\n\n原文：「ce qui est impossible dans un pays où tout le monde parle trois langues」\n中譯：「在一個人人都說三種語言的國家，這是不可能的」（頁 207 注 1）\n\n## 還不確定的地方\n\n- 收刊的論文集是 2025 年出版；本站只讀了 PDF 前幾頁、韋爾蒙相關段落與結尾，沒有全文讀完。\n- PDF 是作者版本，頁碼以「p. 207」為起點（PDF 第 1 頁），之後的 PDF 頁碼與印刷頁碼不一定一致。韋爾蒙「在維也納的教育」段落在 PDF 第 6 頁，印刷頁碼未確認。\n- 文章沒有直接討論「間諜」或「操縱王后」的說法，這點本站沒有證據。\n",
+   "links": [
+    "s-1823-campan-memoires",
+    "s-1874-arneth-mercy-correspondance",
+    "t-vermond"
+   ]
+  },
+  {
    "id": "s-2026-harvard-gazette-coppola",
    "type": "source",
    "title": "Why Sofia Coppola gave Marie Antoinette sneakers",
@@ -1776,6 +2104,61 @@
    "body": "## 一句話\n\nSofia Coppola 在 Harvard Film Archive 的 Q&A 中解釋，影片的時代錯置（Converse、The Strokes）是理解瑪麗內心世界的方式。\n\n## 三個重點\n\n1. Coppola 說：瑪麗「唯一的創作出口」是她的環境、服裝、花園（段落 2）。\n2. 拍攝超過 300 人參與；凡爾賽拍攝時的花與蠟燭是真的（段落 4）。\n3. Coppola 說 Fraser 的傳記「讓她變得像人」，宮廷的人際關係「像高中」（段落 6）。\n\n## 用了什麼史料\n\nCoppola 的口述（活動 Q&A），以及她引用的 Fraser 傳記與洛可可畫風作為參考。報導本身不做史料考證。\n\n## 跟其他資料的關係\n\nCoppola 的說法與 s-2012-backman-rogers-threshold 的「時代錯置是政治性的」解讀可以對照；Coppola 的說法偏向個人情感與創作動機。\n\n## 值得記住的一句話\n\n原文：「the only way she could express herself」（Coppola，段落 2）\n中譯：「大家都知道她會在身邊打造一個世界，我覺得這是她唯一能表達自己的方式。」（本站譯）\n\n## 還不確定的地方\n\n- Q&A 的確切日期與記者署名未在抓取內容中確認。\n- 蠟燭與窗簾的說法只見於這篇報導，未有其他來源核對。\n- 報導中 Converse 與 The Strokes 的敘述是記者的描述，寫進故事時要標示。\n",
    "links": [
     "t-coppola"
+   ]
+  },
+  {
+   "id": "s-2026-mensch-reine-morte",
+   "type": "source",
+   "title": "「王后死了，瑪麗－泰蕾茲萬歲？」：1795–1825 年間如何重新思考法國的王后",
+   "author": "Matthieu Mensch",
+   "year": 2026,
+   "kind": "期刊論文",
+   "lang": "fr",
+   "venue": "Bulletin du Centre de recherche du château de Versailles, n° 28（2026）；DOI 10.4000/15ydq",
+   "url": "https://journals.openedition.org/crcv/44116",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1795,
+    1825
+   ],
+   "topics": [
+    "t-madame-royale"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n作者認為瑪麗－泰蕾茲從來不是女王，但 1795 年後，王黨把她塑造成接近王后的角色，用她的血統與苦難來加強君主制。\n\n## 三個重點\n\n1. 1795 年後，王黨小冊子要求釋放她，把她寫成理想化、可憐的人物；1799 年路易十八安排她與堂兄昂古萊姆公爵結婚（§ 23、§ 31）。\n2. 極端王黨在 1820 年後重提女性繼承的主張，但作者認為那是出於對奧爾良支系的恐懼，不是改革的意願（§ 33–36）。\n3. 1815 年後，她被畫成與國王並列的成對肖像，宮廷也讓她「玩王后的遊戲」，但作者強調只有正妻才能當王后（§ 44–50）。\n\n## 用了什麼史料\n\n以 1795–1825 年的王黨與反王黨出版品、肖像與宮廷文件為主，作者用它們分析「準王后」的形象如何形成。全文的註釋引用大量當時的小冊子與公文。文章於 2024 年特里爾大學研討會發表，2026 年刊出。\n\n## 跟其他資料的關係\n\n與 [[s-2013-chatenet-becquet-review]] 的看法相呼應：兩篇都認為她在復辟時期是「王朝象徵」，但 Mensch 把重點放在「能不能繼承王位」的法律與宮廷爭論。\n\n## 還不確定的地方\n\n- 網頁版沒有印刷頁碼，引用時只能寫 § 號。PDF 文字層亂碼，無法逐頁核對。\n- 只讀到文章大部分段落，沒有逐字讀完第 53 節之後的結論。\n- 文章不談聖殿塔的囚禁細節、1795 年的交換，也不談「暗夜伯爵夫人」的替身說法。\n",
+   "links": [
+    "s-2013-chatenet-becquet-review",
+    "t-madame-royale"
+   ]
+  },
+  {
+   "id": "s-2026-varadi-temoins-thesis",
+   "type": "source",
+   "title": "Témoins historiques et intimes de la Cour：Campan 與 Cléry 的回憶錄敘事與親密性（博士論文）",
+   "author": "Márta Váradi（瓦拉迪）",
+   "year": 2026,
+   "kind": "學位論文",
+   "lang": "fr",
+   "venue": "塞格德大學（Szegedi Tudományegyetem）博士論文，2026",
+   "url": "https://doktori.bibl.u-szeged.hu/13012/",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1759,
+    1809
+   ],
+   "topics": [
+    "t-clery"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n這本法語博士論文把克萊里的日記和康龐夫人的回憶錄放在一起比較，同時花了不少篇幅考證日記的手稿、1798 年原版，以及 1800 年冒名出版的偽版；作者認為克萊里的日記是重要史料，但讀的時候要看見它的政治立場與道德導向。\n\n## 三個重點\n\n1. 手稿與寫作：克萊里在塔裡用鉛筆記下的筆記，由妻子在探監時收集；1795 年 10 月抵達斯特拉斯堡後寫成完整手稿，交給 Hélène Kugler 保管，她又親手抄了一份寄給他（p. 56，引 Eckard 1825 Notice 第 20–21、24–25 頁）。\n2. 1800 年偽版：以「原版，唯一經作者承認」為名的《Mémoires de M. Cléry》（倫敦，Baylis 名義，1800）被作者判定為偽作，Cléry 本人 1801 年在《北方觀察者》上抗議（p. 99–100）。來源有爭議：Quérard（1856）說是 Daujon 寫的諷刺作品，「不是被篡改的重印」；作者與 Eckard 則認為是第三者改寫或督政府的製造（p. 99–100、163–164）。\n3. 立場：作者說日記「是重要史料，但是有政治立場、道德導向的讀法」，寫成於恐怖統治之後，1798 年出版，「當時的環境正適合殉道國王的記憶」（p. 49）。\n\n## 用了什麼史料\n\n作者主要用：Cléry 的 1798 年版（Mém. 1798）；Jean Eckard 的《Notice sur J.B.C. Hanet-Cléry》（1825，印 100 本；作者只寫 E-K-D 初字）；Pierre-Louis Cant-Hanet 的《Mémoires》（1825，兩卷，Eymery）；Quérard, *Le Quérard*（1856）；Barbier 的《Dictionnaire des ouvrages anonymes》（1823）；同時代的《Monthly Mirror》與 1801 年《Spectateur du Nord》。所以它的「克萊里生平」大部分來自 Eckard 與弟弟的回憶，是二手轉述。\n\n## 跟其他資料的關係\n\n- 與 s-2010-varadi-verbum-memoires（同一作者 2010 年的期刊論文）內容有重疊；期刊文章沒有處理 1800 年偽版，博士論文則花了大量篇幅處理。\n- 與 s-1798-clery-journal（原版日記）：本論文以 1798 年版為準，兩者的內容對照是本站的工作。\n- 與 s-1823-campan-memoires（康龐回憶錄）：論文比較了兩人的敘事手法，但只做了文學分析，沒有核對史實。\n\n## 值得記住的一句話\n\n「Cléry constitue une source essentielle sur la captivité royale, mais présente une lecture politique engagée et de morale orientée.」（p. 49）\n中譯：「Cléry 是王室被囚期間的重要史料，但他呈現的是有政治立場、帶道德導向的讀法。」（本站譯）\n\n## 還不確定的地方\n\n- 本站只讀了論文中談 Cléry 的章節與註腳（約 pp. 48–56、75–76、83–92、99–100、163–164），其餘談 Campan 的部分未讀，depth 標「部分」。\n- 1798 年法文版在法國「祕密重印」（Giguet et Michaud）的說法，論文沒有註明來源，本站不採用。\n- 1800 年偽版是「Daujon 的諷刺作品」（Quérard）還是「第三者改寫的假版」（作者與 Eckard），兩說並列，本站未能判定。\n- 論文作者未對日記的史實細節（如 1792 年 9 月 3 日、1793 年 1 月 20 日）做逐條核對。\n",
+   "links": [
+    "t-clery"
    ]
   },
   {
@@ -1992,15 +2375,19 @@
     "s-1798-clery-journal",
     "s-1835-vigee-le-brun-souvenirs",
     "s-1907-lenotre-last-days-marie-antoinette",
-    "s-1815-edgeworth-memoirs"
+    "s-1815-edgeworth-memoirs",
+    "s-2026-varadi-temoins-thesis",
+    "s-2010-varadi-verbum-memoires"
    ],
    "updated": "2026-11-16",
-   "body": "## 一句話說明\n\n尚－巴蒂斯特．克萊里（Jean-Baptiste Cléry）本來是照顧王太子的貼身僕人。1792 年 8 月，王室被關進聖殿塔，他自己想辦法進了塔，成了國王身邊唯一的僕人，一直服侍到 1793 年 1 月 21 日國王上斷頭台的那個早上。五年後，他在倫敦出版了一本日記，今天我們知道的塔裡的生活，很多都來自這本書（見 [[t-temple]]）。\n\n## 故事是這樣的\n\n### 8 月 10 日：從窗口跳出去\n\n克萊里在書的開頭說，他從 1782 年起就在王室家中服務，革命發生時是王太子的貼身僕人（[[s-1798-clery-journal]] 序）。1792 年 8 月 10 日，群眾攻打杜樂麗宮，那天他就在王太子的房間值班（[[s-1798-clery-journal]] pp. 6–7；另見 [[t-august10]]）。王室躲到國民議會之後，宮裡開始屠殺，他從杜樂麗宮的一扇窗戶跳出去逃生，躲進附近一戶人家。主人要他假裝在大桌上畫圖，搜查瑞士衛兵的人走進來，雙手沾著血，坐下來冷冷地講他們殺了誰；他就這樣從早上十點躲到下午四點，從窗口看著廣場上的殺戮（[[s-1798-clery-journal]] pp. 9–11）。\n\n天黑後，他陪著同樣逃出來的王太子侍女，穿過堆滿屍體的橋，從城牆一處沒人看守的缺口出了巴黎。半路上被拿著槍的農民攔下，差點被當成國王的衛兵當場射殺，被押到沃吉拉爾（Vaugirard）的市政廳才放行；他後來才知道，同一天被關進那裡的二十二名國王衛兵，9 月初全被殺了（[[s-1798-clery-journal]] pp. 11–13）。\n\n### 自己走進監獄\n\n他回到鄉下的家，本以為一切結束了。但王室入塔的第六天，他聽說原本跟著王室進塔的人，半夜全被帶走、關進監獄，只有國王的僕人于埃（Hue）被送回來（[[s-1798-clery-journal]] pp. 13–14）。他決定去找巴黎市長佩蒂翁，要求回去服侍王太子。市長說他是王室的人，市議會不會答應，但還是寫信問了國王；國王回信說同意（[[s-1798-clery-journal]] p. 14）。\n\n1792 年 8 月 26 日晚上八點，克萊里被搜過身、聽完一堆「該怎麼表現」的訓話，走進了聖殿塔（[[s-1798-clery-journal]] p. 14）。他說，很難形容見到這個家庭時的感受。是王后先開口：「你來服侍我的兒子，有我們的事，就跟于埃先生商量。」他激動得幾乎說不出話（本站譯）（[[s-1798-clery-journal]] p. 15）。晚餐時，王后和兩位公主問他能不能替她們梳頭，她們已經八天沒有侍女了。他說，只要能讓她們高興的事，他都願意做；一位市政官員立刻走過來，大聲叫他說話小心一點。克萊里寫道：「這個開始讓我害怕。」（本站譯）（[[s-1798-clery-journal]] p. 15）\n\n### 塔裡的雜事\n\n不久于埃也被帶走，市政官員來通知他不會再回來了（[[s-1798-clery-journal]] 約 p. 18）。從此克萊里成了塔裡唯一的僕人。他每天替國王穿衣、梳頭，替王后、公主和伊莉莎白夫人梳頭，陪王太子玩，服侍用餐（[[s-1798-clery-journal]]；另見 [[t-temple]]、[[t-table]]）。國王的刮鬍刀被收走，好一陣子沒辦法刮鬍子，只能一天用冷水洗好幾次臉。12 月他第二次要出庭前，克萊里建議乾脆就這樣上國民公會，讓大家看看委員會多殘忍；國王說：「我不該想辦法博取同情。」後來市議會決定還他刮鬍刀，但只准在兩名市政官員面前使用（本站譯）（[[s-1798-clery-journal]] p. 95）。一位曾在塔裡值班的市政委員莫埃爾（Moelle）後來回憶，王室每一項需求都要寫成書面申請，由克萊里簽名；國王活著時，克萊里跟委員們一起吃飯（[[s-1907-lenotre-last-days-marie-antoinette]] p. 134）。\n\n1792 年聖誕節，國王寫下遺囑。克萊里說，那份遺囑「全部是國王親筆寫的，有幾處塗改」，他後來抄了一份，全文收在日記裡（本站譯）（[[s-1798-clery-journal]] 約 p. 95）。\n\n### 「克萊里，請叫我的晚餐」\n\n1793 年 1 月 20 日，國王被判死刑。司法部長加拉來宣讀判決，國王交給他一封信，又從皮夾裡拿出一張紙，上面是他想見的神父的地址：「巴克街 483 號，埃奇沃斯．德．菲爾蒙先生」（[[s-1798-clery-journal]] 約 p. 109；另見 [[t-execution]]）。部長一行人走後，國王在房裡踱步。克萊里說，他自己站在門邊，雙臂交叉，「好像失去了一切感覺」；國王走到他面前，只說：「克萊里，請去叫我的晚餐。」（本站譯）（[[s-1798-clery-journal]] 約 p. 109）\n\n那一夜，國王請神父躺在克萊里的床上休息，克萊里自己坐在國王房裡的椅子上過夜。清晨五點，他生火，國王醒來問：「五點了嗎？」他答：「好幾座鐘都敲了，但房裡的鐘還沒。」國王問他睡在哪裡，他說在椅子上，國王說：「我很抱歉。」（本站譯）（[[s-1798-clery-journal]] p. 111）神父埃奇沃斯也在回憶錄裡記下，克萊里那天早上一直「淚流滿面」（本站譯）（[[s-1815-edgeworth-memoirs]]）。\n\n### 最後的託付\n\n七點，國王把他叫到窗邊，交給他幾樣東西：「這個印章，交給我的兒子；這枚戒指，交給王后，告訴她，我捨不得離開她；這個小包裡是全家人的頭髮，也交給她。」又說：「告訴王后、我親愛的孩子們、我的妹妹，我答應過今天早上要見他們，但我想讓他們免去這麼痛苦的分別……我託你替我向他們道別。」（本站譯）（[[s-1798-clery-journal]] pp. 111–112）在旁的市政官員要克萊里把東西交出來，其中一人提議先讓他保管，等委員會決定，大家同意了（[[s-1798-clery-journal]] p. 112）。\n\n國王想讓克萊里替他剪頭髮，委員會討論了半小時，不准（[[s-1798-clery-journal]] p. 112）。接著有人通知克萊里，要他準備跟著上刑場，在斷頭台上替國王脫衣服；他嚇壞了，還是打起精神準備，另一位官員卻來說他不必去了：「劊子手對他來說已經夠好了。」（本站譯）（[[s-1798-clery-journal]] p. 112）\n\n國王離開前，對官員們說：「我希望克萊里能留在我兒子身邊，他習慣了他的照顧。」然後轉身對司令桑泰爾說：「走吧。」克萊里一個人留在房裡，聽著鼓聲遠去，一個小時後，傳來禮炮聲和「共和國萬歲」的喊聲（[[s-1798-clery-journal]] 約 pp. 113–114）。\n\n### 國王死後\n\n國王的請求沒有實現，克萊里沒能回到王太子身邊（另見 [[t-louis17]]）。不過他又在塔裡留了一段時間：看守戈雷（Goret）後來回憶，克萊里把 1 月 21 日早上國王領聖體用的桌布交給他，他帶到巴黎南邊的朱維西，交給常來塔外打聽消息的克萊里太太保管（[[s-1907-lenotre-last-days-marie-antoinette]] 約 p. 115）。莫埃爾則說，國王死後，克萊里和看守提松（Tison）夫婦一起吃王室剩下的飯菜（[[s-1907-lenotre-last-days-marie-antoinette]] p. 134）。這兩段都是勒諾特書中引用的看守回憶，經過英譯，本站沒有讀到法文原文。\n\n### 寫下來，交出去\n\n之後他流亡到維也納。1796 年 10 月，畫家維傑．勒布倫想畫一幅王室在塔裡的畫，寫信問他。他回了一封長信，提議可以畫六個場面：國王教孩子地理、國王與兒子分離、國王受審前的會談、宣讀死刑、全家告別、國王離開塔。他還仔細描述了告別那晚每個人的穿著，說王后的頭髮「幾乎全白了」，最後請她先別把這些細節說出去，因為他手上有筆記，要等出版（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 2 冊附錄；另見 [[t-vigee]]、[[t-white-hair]]）。\n\n{{photo:t-clery-portrait.jpg|克萊里的肖像，19 世紀末由 Neurdein 兄弟照相館翻印成明信片；原畫作者本站還沒查到。|Wikimedia Commons，Public domain}}\n\n1798 年，他的《路易十六被囚聖殿塔期間紀事》在倫敦出版，書名頁寫著：在作者家中出售（[[s-1798-clery-journal]] 書名頁）。他在書末的註裡說，從維也納前往英國途中，他特地繞到布蘭肯堡，把手稿呈給流亡中的路易十八；路易十八讀到國王託付印章那一段，從書桌裡拿出一枚印章問他：「克萊里，你認得嗎？」他說：「陛下，就是這一枚。」那一天，正好是 1 月 21 日（[[s-1798-clery-journal]] 書末註）。同一條註說，那枚戒指後來也由王后和伊莉莎白夫人連同國王的頭髮，秘密送到了國王的弟弟手上（[[s-1798-clery-journal]] 書末註）。\n\n## 研究者怎麼看\n\n- 克萊里在序言裡說，他是塔裡「唯一一直在場的證人」，在看守監視下想辦法做筆記，只想替將來寫歷史的人提供材料，「不加評論、不偏袒」（本站譯）（[[s-1798-clery-journal]] 序）。但書是在倫敦的流亡王黨圈子裡出版的，事件已過去五年，又獻給新國王，自然站在王室一邊。本站把它的可信度列為「低」：細節生動，但多數只有他一個人的說法（[[s-1798-clery-journal]]）。\n- 他和王后的女兒瑪麗－泰蕾茲對同一件事常常記得不一樣，例如 1792 年 9 月 3 日王后是昏倒還是呆立（見 [[t-temple]]）。\n- 1796 年寫給維傑．勒布倫的信，和兩年後出版的日記可以互相對照：信裡的告別場面、衣著細節，大多和日記一致（[[s-1835-vigee-le-brun-souvenirs]]；[[s-1798-clery-journal]]）。\n\n## 延伸閱讀\n\n- [[s-1798-clery-journal]]\n- [[s-1835-vigee-le-brun-souvenirs]]\n- [[s-1907-lenotre-last-days-marie-antoinette]]\n- [[s-1815-edgeworth-memoirs]]\n- 相關故事：[[t-temple]]、[[t-execution]]、[[t-louis]]、[[t-white-hair]]\n\n## 還不知道的事\n\n- 克萊里什麼時候、怎麼離開聖殿塔，又是怎麼到維也納的，本站讀到的資料都沒寫。\n- 他晚年的經歷（常見說法是 1809 年死於維也納附近），本站還沒讀到可靠出處。\n- 戈雷與莫埃爾兩位看守回憶的法文原文。\n",
+   "body": "## 一句話說明\n\n尚－巴蒂斯特．克萊里（Jean-Baptiste Cléry）本來是照顧王太子的貼身僕人。1792 年 8 月，王室被關進聖殿塔，他自己想辦法進了塔，成了國王身邊唯一的僕人，一直服侍到 1793 年 1 月 21 日國王上斷頭台的那個早上。五年後，他在倫敦出版了一本日記，今天我們知道的塔裡的生活，很多都來自這本書（見 [[t-temple]]）。\n\n## 故事是這樣的\n\n### 8 月 10 日：從窗口跳出去\n\n克萊里在書的開頭說，他從 1782 年起就在王室家中服務，革命發生時是王太子的貼身僕人（[[s-1798-clery-journal]] 序）。1792 年 8 月 10 日，群眾攻打杜樂麗宮，那天他就在王太子的房間值班（[[s-1798-clery-journal]] pp. 6–7；另見 [[t-august10]]）。王室躲到國民議會之後，宮裡開始屠殺，他從杜樂麗宮的一扇窗戶跳出去逃生，躲進附近一戶人家。主人要他假裝在大桌上畫圖，搜查瑞士衛兵的人走進來，雙手沾著血，坐下來冷冷地講他們殺了誰；他就這樣從早上十點躲到下午四點，從窗口看著廣場上的殺戮（[[s-1798-clery-journal]] pp. 9–11）。\n\n天黑後，他陪著同樣逃出來的王太子侍女，穿過堆滿屍體的橋，從城牆一處沒人看守的缺口出了巴黎。半路上被拿著槍的農民攔下，差點被當成國王的衛兵當場射殺，被押到沃吉拉爾（Vaugirard）的市政廳才放行；他後來才知道，同一天被關進那裡的二十二名國王衛兵，9 月初全被殺了（[[s-1798-clery-journal]] pp. 11–13）。\n\n### 自己走進監獄\n\n他回到鄉下的家，本以為一切結束了。但王室入塔的第六天，他聽說原本跟著王室進塔的人，半夜全被帶走、關進監獄，只有國王的僕人于埃（Hue）被送回來（[[s-1798-clery-journal]] pp. 13–14）。他決定去找巴黎市長佩蒂翁，要求回去服侍王太子。市長說他是王室的人，市議會不會答應，但還是寫信問了國王；國王回信說同意（[[s-1798-clery-journal]] p. 14）。\n\n1792 年 8 月 26 日晚上八點，克萊里被搜過身、聽完一堆「該怎麼表現」的訓話，走進了聖殿塔（[[s-1798-clery-journal]] p. 14）。他說，很難形容見到這個家庭時的感受。是王后先開口：「你來服侍我的兒子，有我們的事，就跟于埃先生商量。」他激動得幾乎說不出話（本站譯）（[[s-1798-clery-journal]] p. 15）。晚餐時，王后和兩位公主問他能不能替她們梳頭，她們已經八天沒有侍女了。他說，只要能讓她們高興的事，他都願意做；一位市政官員立刻走過來，大聲叫他說話小心一點。克萊里寫道：「這個開始讓我害怕。」（本站譯）（[[s-1798-clery-journal]] p. 15）\n\n### 塔裡的雜事\n\n不久于埃也被帶走，市政官員來通知他不會再回來了（[[s-1798-clery-journal]] 約 p. 18）。從此克萊里成了塔裡唯一的僕人。他每天替國王穿衣、梳頭，替王后、公主和伊莉莎白夫人梳頭，陪王太子玩，服侍用餐（[[s-1798-clery-journal]]；另見 [[t-temple]]、[[t-table]]）。國王的刮鬍刀被收走，好一陣子沒辦法刮鬍子，只能一天用冷水洗好幾次臉。12 月他第二次要出庭前，克萊里建議乾脆就這樣上國民公會，讓大家看看委員會多殘忍；國王說：「我不該想辦法博取同情。」後來市議會決定還他刮鬍刀，但只准在兩名市政官員面前使用（本站譯）（[[s-1798-clery-journal]] p. 95）。一位曾在塔裡值班的市政委員莫埃爾（Moelle）後來回憶，王室每一項需求都要寫成書面申請，由克萊里簽名；國王活著時，克萊里跟委員們一起吃飯（[[s-1907-lenotre-last-days-marie-antoinette]] p. 134）。\n\n1792 年聖誕節，國王寫下遺囑。克萊里說，那份遺囑「全部是國王親筆寫的，有幾處塗改」，他後來抄了一份，全文收在日記裡（本站譯）（[[s-1798-clery-journal]] 約 p. 95）。\n\n### 「克萊里，請叫我的晚餐」\n\n1793 年 1 月 20 日，國王被判死刑。司法部長加拉來宣讀判決，國王交給他一封信，又從皮夾裡拿出一張紙，上面是他想見的神父的地址：「巴克街 483 號，埃奇沃斯．德．菲爾蒙先生」（[[s-1798-clery-journal]] 約 p. 109；另見 [[t-execution]]）。部長一行人走後，國王在房裡踱步。克萊里說，他自己站在門邊，雙臂交叉，「好像失去了一切感覺」；國王走到他面前，只說：「克萊里，請去叫我的晚餐。」（本站譯）（[[s-1798-clery-journal]] 約 p. 109）\n\n那一夜，國王請神父躺在克萊里的床上休息，克萊里自己坐在國王房裡的椅子上過夜。清晨五點，他生火，國王醒來問：「五點了嗎？」他答：「好幾座鐘都敲了，但房裡的鐘還沒。」國王問他睡在哪裡，他說在椅子上，國王說：「我很抱歉。」（本站譯）（[[s-1798-clery-journal]] p. 111）神父埃奇沃斯也在回憶錄裡記下，克萊里那天早上一直「淚流滿面」（本站譯）（[[s-1815-edgeworth-memoirs]]）。\n\n### 最後的託付\n\n七點，國王把他叫到窗邊，交給他幾樣東西：「這個印章，交給我的兒子；這枚戒指，交給王后，告訴她，我捨不得離開她；這個小包裡是全家人的頭髮，也交給她。」又說：「告訴王后、我親愛的孩子們、我的妹妹，我答應過今天早上要見他們，但我想讓他們免去這麼痛苦的分別……我託你替我向他們道別。」（本站譯）（[[s-1798-clery-journal]] pp. 111–112）在旁的市政官員要克萊里把東西交出來，其中一人提議先讓他保管，等委員會決定，大家同意了（[[s-1798-clery-journal]] p. 112）。\n\n國王想讓克萊里替他剪頭髮，委員會討論了半小時，不准（[[s-1798-clery-journal]] p. 112）。接著有人通知克萊里，要他準備跟著上刑場，在斷頭台上替國王脫衣服；他嚇壞了，還是打起精神準備，另一位官員卻來說他不必去了：「劊子手對他來說已經夠好了。」（本站譯）（[[s-1798-clery-journal]] p. 112）\n\n國王離開前，對官員們說：「我希望克萊里能留在我兒子身邊，他習慣了他的照顧。」然後轉身對司令桑泰爾說：「走吧。」克萊里一個人留在房裡，聽著鼓聲遠去，一個小時後，傳來禮炮聲和「共和國萬歲」的喊聲（[[s-1798-clery-journal]] 約 pp. 113–114）。\n\n### 國王死後\n\n國王的請求沒有實現，克萊里沒能回到王太子身邊（另見 [[t-louis17]]）。不過他又在塔裡留了一段時間：看守戈雷（Goret）後來回憶，克萊里把 1 月 21 日早上國王領聖體用的桌布交給他，他帶到巴黎南邊的朱維西，交給常來塔外打聽消息的克萊里太太保管（[[s-1907-lenotre-last-days-marie-antoinette]] 約 p. 115）。莫埃爾則說，國王死後，克萊里和看守提松（Tison）夫婦一起吃王室剩下的飯菜（[[s-1907-lenotre-last-days-marie-antoinette]] p. 134）。這兩段都是勒諾特書中引用的看守回憶，經過英譯，本站沒有讀到法文原文。1793 年 3 月，司法部長加拉（Garat）終於放他出塔，要他回鄉下去；他回到朱維西的家，但同年 9 月又被當成嫌疑犯抓進拉福斯監獄（La Force），關了將近一年，直到羅伯斯比爾倒台後的 1794 年 8 月才出獄（[[s-2026-varadi-temoins-thesis]] p. 56，根據 1825 年埃卡爾〔Jean Eckard〕寫的克萊里小傳）。\n\n### 寫下來，交出去\n\n1795 年 10 月，他到了斯特拉斯堡，把在塔裡用鉛筆偷偷記下、由太太探監時一點一點帶出來的筆記整理成稿；怕原稿弄丟，還託當地一位小姐抄了一份寄給他（[[s-2026-varadi-temoins-thesis]] p. 57）。之後他流亡到維也納。1796 年 10 月，畫家維傑．勒布倫想畫一幅王室在塔裡的畫，寫信問他。他回了一封長信，提議可以畫六個場面：國王教孩子地理、國王與兒子分離、國王受審前的會談、宣讀死刑、全家告別、國王離開塔。他還仔細描述了告別那晚每個人的穿著，說王后的頭髮「幾乎全白了」，最後請她先別把這些細節說出去，因為他手上有筆記，要等出版（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 2 冊附錄；另見 [[t-vigee]]、[[t-white-hair]]）。\n\n{{photo:t-clery-portrait.jpg|克萊里的肖像，19 世紀末由 Neurdein 兄弟照相館翻印成明信片；原畫作者本站還沒查到。|Wikimedia Commons，Public domain}}\n\n1798 年，他的《路易十六被囚聖殿塔期間紀事》在倫敦出版，書名頁寫著：在作者家中出售（[[s-1798-clery-journal]] 書名頁）。他在書末的註裡說，從維也納前往英國途中，他特地繞到布蘭肯堡，把手稿呈給流亡中的路易十八；路易十八讀到國王託付印章那一段，從書桌裡拿出一枚印章問他：「克萊里，你認得嗎？」他說：「陛下，就是這一枚。」那一天，正好是 1 月 21 日（[[s-1798-clery-journal]] 書末註）。同一條註說，那枚戒指後來也由王后和伊莉莎白夫人連同國王的頭髮，秘密送到了國王的弟弟手上（[[s-1798-clery-journal]] 書末註）。書一出就大賣，倫敦接連印了七版、法文兩版；同年 7 月，路易十八封他為聖路易騎士（[[s-2026-varadi-temoins-thesis]] p. 56）。兩年後倫敦又冒出一本自稱「唯一經作者承認的原版」的《克萊里回憶錄》，多了原版沒有的處刑場面，克萊里 1801 年登報抗議，說那是誹謗之作（[[s-2026-varadi-temoins-thesis]] pp. 99–100、163–164）。他後半生替流亡的路易十八和阿圖瓦伯爵四處奔走，1809 年 5 月 27 日在維也納近郊的希青（Hietzing）中風過世，墓碑上寫著「忠實的克萊里長眠於此」（本站譯）（[[s-2026-varadi-temoins-thesis]] p. 58）。\n\n## 研究者怎麼看\n\n- 克萊里在序言裡說，他是塔裡「唯一一直在場的證人」，在看守監視下想辦法做筆記，只想替將來寫歷史的人提供材料，「不加評論、不偏袒」（本站譯）（[[s-1798-clery-journal]] 序）。但書是在倫敦的流亡王黨圈子裡出版的，事件已過去五年，又獻給新國王，自然站在王室一邊。本站把它的可信度列為「低」：細節生動，但多數只有他一個人的說法（[[s-1798-clery-journal]]）。\n- 他和王后的女兒瑪麗－泰蕾茲對同一件事常常記得不一樣，例如 1792 年 9 月 3 日王后是昏倒還是呆立（見 [[t-temple]]）。\n- 1796 年寫給維傑．勒布倫的信，和兩年後出版的日記可以互相對照：信裡的告別場面、衣著細節，大多和日記一致（[[s-1835-vigee-le-brun-souvenirs]]；[[s-1798-clery-journal]]）。\n\n- 匈牙利塞格德大學的瓦拉迪（Márta Váradi）在 2026 年的博士論文裡說，這本日記是王室被囚期間的重要史料，但「呈現的是有政治立場、帶道德導向的讀法」（本站譯）：它寫於恐怖統治之後，1798 年督政府時期出版，正好迎合「殉道國王」的記憶（[[s-2026-varadi-temoins-thesis]] p. 49）。替克萊里寫小傳的埃卡爾自己也承認，人們對克萊里的了解「幾乎只能靠他在日記裡自己說的」（本站譯）；論文裡的克萊里生平，也大多轉述埃卡爾的小傳和他弟弟 1825 年的回憶錄，都是同一陣營的說法（[[s-2026-varadi-temoins-thesis]] pp. 83–84）。\n- 1800 年那本冒名的《克萊里回憶錄》是誰寫的，說法不一：19 世紀書目學家凱拉爾（Quérard）說是聖殿塔看守之一多戎（Daujon）寫的諷刺反駁；埃卡爾說是督政府製造的；瓦拉迪則認為是第三者把原書改寫、加料（[[s-2026-varadi-temoins-thesis]] pp. 99–100、163）。\n- 瓦拉迪在 2010 年的期刊論文裡指出，克萊里寫得非常克制，「幾乎從不談自己」（本站譯），和康龐夫人那種充滿軼事的回憶錄正好相反（[[s-2010-varadi-verbum-memoires]] p. 465）。\n\n## 延伸閱讀\n\n- [[s-1798-clery-journal]]\n- [[s-1835-vigee-le-brun-souvenirs]]\n- [[s-1907-lenotre-last-days-marie-antoinette]]\n- [[s-1815-edgeworth-memoirs]]\n- [[s-2026-varadi-temoins-thesis]]\n- [[s-2010-varadi-verbum-memoires]]\n- 相關故事：[[t-temple]]、[[t-execution]]、[[t-louis]]、[[t-white-hair]]\n\n## 還不知道的事\n\n- 他離塔、再入獄、晚年的經歷，本站目前只讀到博士論文的轉述，源頭是 1825 年埃卡爾的小傳，原書還沒讀到。\n- 他替路易十八奔走的那些任務做了什麼，論文作者也說不清。\n- 戈雷與莫埃爾兩位看守回憶的法文原文。\n",
    "links": [
     "s-1798-clery-journal",
     "s-1815-edgeworth-memoirs",
     "s-1835-vigee-le-brun-souvenirs",
     "s-1907-lenotre-last-days-marie-antoinette",
+    "s-2010-varadi-verbum-memoires",
+    "s-2026-varadi-temoins-thesis",
     "t-august10",
     "t-execution",
     "t-louis",
@@ -2061,15 +2448,17 @@
     "s-1867-arneth-maria-theresia-joseph",
     "s-1866-arneth-marie-antoinette",
     "s-1874-arneth-mercy-correspondance",
-    "s-2006-stamberg-npr-fraser"
+    "s-2006-stamberg-npr-fraser",
+    "s-2017-niedziela-joseph-ii-paris"
    ],
    "updated": "2026-11-15",
-   "body": "## 一句話說明\n\n1770 年結婚的兩個少年，七年多都沒有圓房；在王室，這不是私事，而是國際外交問題。維也納的母親靠大使的密報一封一封追問，最後連王后的哥哥、神聖羅馬帝國皇帝約瑟夫二世都親自來到凡爾賽。\n\n## 迷思與史料\n\n「國王動了手術」這個傳言，當時就有了。1774 年 10 月，瑪麗亞．特蕾莎在給駐法大使梅西的信裡寫道：「這裡傳說國王動了一個手術，大家寄望它帶來一切；我一點也不信，因為你什麼都沒提。」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊，1774 年 10 月信）\n\n而在本站讀到的當時書信裡，從梅西的密報、女皇的回信，到 1777 年約瑟夫二世寫給弟弟的信，都沒有任何一封記載國王真的動過手術，也沒有提到身體上的缺陷（[[s-1874-arneth-mercy-correspondance]]；[[s-1867-arneth-maria-theresia-joseph]] 第 2 冊 pp. 130–139）。傳記作家弗雷澤認為，路易十六不是不能生育，而是「心理上做不到」（本站譯）（[[s-2006-stamberg-npr-fraser]] 第 9–10 段）。所以判定是「查無實據」：手術的傳言確實存在，但找不到手術發生過的紀錄。醫學史研究者另有包莖說的推論，本站還沒讀到原文，見「研究者怎麼看」。\n\n## 故事是這樣的\n\n### 婚禮之後的第一個夏天\n\n1770 年 5 月，十四歲的奧地利公主嫁給了只比她大一歲的法國王太子。第一個夏天，梅西就向維也納回報：7 月 8 日兩人談了一次話，王太子說到了貢比涅（Compiègne）就要跟太子妃同住，達到「夫妻結合所應有的親密」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 25）。\n\n{{photo:t-consummation-wedding.jpg|約 1770 年為慶祝路易（後來的路易十六）與瑪麗．安東尼婚禮而製作的燈飾版畫，現藏卡納瓦雷博物館。|Wikimedia Commons，CC0}}\n\n9 月，王太子答應某一天晚上到太子妃房裡過夜，卻沒有做到，宮裡馬上傳出兩人鬧翻的流言（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 pp. 77–78）。梅西更擔心的是消息走漏：太子妃把這種事告訴了身邊的女官，他去信責備，說「婚姻的親密是神聖的祕密」，一旦外洩就無法挽回（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 pp. 78–79）。\n\n### 一年一年過去\n\n兩年後，1772 年 6 月，梅西說兩人感情融洽，但婚姻「沒有被證實」，「目前只有希望」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 311）。1774 年，路易十五過世，十九歲的王太子成了路易十六，問題從王太子家的私事，變成了王位繼承的大事。這一年秋天，巴黎開始流傳國王動了手術的消息，女皇不信（[[s-1874-arneth-mercy-correspondance]] 第 2 冊，1774 年 10 月信）。坊間的誹謗小冊子更直接說國王「性無能」，女皇讀到了，還希望國王能出面反駁（[[s-1874-arneth-mercy-correspondance]] 第 2 冊）。在給梅西的信裡，她說女兒的婚姻是讓她唯一放不下的「那個要命的問題」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊）。\n\n{{photo:t-consummation-gautier.jpg|雅尼內（Janinet）1777 年的彩色版畫，據 Gautier-Dagoty 的王后肖像製作，是瑪麗．安東尼早年的形象；現藏洛杉磯郡立藝術博物館。|Wikimedia Commons，Public domain}}\n\n### 1775 年：要不要動手術？\n\n1775 年 8 月底，瑪麗亞．特蕾莎寫信給梅西，談的已經是政治：女兒應該多拉攏第一流的大臣，好在國王一直沒有孩子的情況下，抵銷國王大弟普羅旺斯伯爵的影響力。接著她寫：「如果大家認為應該替國王動那個手術，早做總比拖太久好」；但她也說，這件事雖然讓她難過，她只能交給天意（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 373）。（推論）這封信只說明維也納在討論手術的可能，不代表國王真的動過手術。\n\n在那個年代，手術是很可怕的事。同一年秋天，王后在信裡告訴母親，陸軍大臣杜穆伊元帥做了膀胱取石手術，他的太太聽到慘叫才知道丈夫正在開刀，衝進房間就倒在門口，手術一共三十五分鐘，元帥兩天後就死了（[[s-1874-arneth-mercy-correspondance]] 第 2 冊約 p. 384）。\n\n### 哥哥出馬\n\n1777 年 4 月，女皇寫信說，法國駐維也納大使期待皇帝去過之後，王后的婚姻狀況「會有改變」，但她自己「希望多於相信」（[[s-1874-arneth-mercy-correspondance]] 第 3 冊約 pp. 38–39）。梅西則認為問題有一半在王后：她很少主動接近國王，這些疏忽「會造成致命的後果」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊約 pp. 38–39）。\n\n約瑟夫二世化名來到凡爾賽。他寫信給弟弟利奧波德，對妹妹的第一印象是：「王后是個漂亮的女人，但是個輕浮的人」，整天從一場娛樂趕往另一場（本站譯）（[[s-1867-arneth-maria-theresia-joseph]] 第 2 冊約 p. 131）。他寫道，國王受的教育不夠、外表不討喜，卻是個正直的人，只是活在「持續的冷漠」裡；王后「對國王毫無感覺」，又完全忽略他，但她「德行無虧」（本站譯）（[[s-1867-arneth-maria-theresia-joseph]] 第 2 冊 pp. 133–134）。\n\n{{photo:t-consummation-batoni.jpg|龐培歐．巴托尼（Pompeo Batoni）1769 年所畫的神聖羅馬皇帝約瑟夫二世與弟弟托斯卡納大公皮耶特羅．利奧波德的雙人肖像，現藏維也納美術史博物館。|Wikimedia Commons，Public domain}}\n\n據梅西報告，約瑟夫和國王單獨談過一次。國王主動提起自己的婚姻，說希望「很快就會有孩子」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊約 pp. 56–57）。臨走前，約瑟夫給妹妹留下一份長長的書面建議，其中一句是：「你已經沒有年紀小的藉口了。」（本站譯）（[[s-1866-arneth-marie-antoinette]] pp. 17–18）離開法國後，他在信裡說，自己真的跟妹妹很親，分別讓他很難過；他形容國王「有點軟弱，但一點也不笨」（本站譯）（[[s-1867-arneth-maria-theresia-joseph]] 第 2 冊約 pp. 138–139）。\n\n### 好消息\n\n那年夏天，女皇仍然不放心。她在 8 月寫道，有些夫妻要到三十歲才成功，她希望國王也是如此，「但我不太放心」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊約 pp. 110–111）。1778 年 5 月初，她聽到女兒懷孕的傳言，還是說自己「不太相信」，因為希望已經落空太多次了（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 195）。\n\n其實王后自己先寫了信。1778 年 4 月 19 日，她告訴母親：她一個星期前就想寫信報告自己的「大希望」，但怕希望落空，讓媽媽白高興一場，所以等到現在；要到下個月初才能完全確定。她說自己胃口和睡眠都變好了，從有了希望開始，就不再坐馬車出遊，只在附近散步；聖週的儀式太累，醫生不准她參加；前一天晚禱回來，她「吐了一點，這讓我更有希望」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 pp. 186–187）。\n\n幾天後，梅西的報告寄到：王后這個月的月經沒有來，懷孕「現在可以視為確定」；國王高興到了極點，比以前更常、更久地陪在王后身邊（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 pp. 195–196）。（推論）照弗雷澤「七年半」的說法推算，兩人圓房大約是在約瑟夫來訪後不久。\n\n即使這樣，維也納的擔心也沒結束。1779 年春天，梅西說夫妻的親密正在恢復正常，條件之一是王后要放棄騎馬；女皇則擔心，下一個孩子會不會又要再等八年（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 pp. 301–303）。\n\n## 研究者怎麼看\n\n- 弗雷澤認為問題是心理上的，不是身體上的（[[s-2006-stamberg-npr-fraser]]）。\n- 醫學史研究者安德魯索斯（Androutsos）2002 年發表〈路易十六的包莖〉一文，討論包莖是否為原因；本站只讀到摘要，摘要說多數歷史學家同意婚後七年才圓房，並列出包莖等可能原因（未建資料卡）。\n- （推論）當時的書信顯示，梅西和女皇都把問題同時歸在國王的冷淡和王后的疏忽上，而不是單純的身體問題。\n\n## 延伸閱讀\n\n- [[s-1867-arneth-maria-theresia-joseph]]\n- [[s-1866-arneth-marie-antoinette]]\n- [[s-1874-arneth-mercy-correspondance]]\n- [[s-2006-stamberg-npr-fraser]]\n- 相關故事：[[t-handover]]、[[t-dubarry]]、[[t-louis]]、[[t-joseph]]\n\n## 還不知道的事\n\n- 約瑟夫二世形容這對夫妻「像兩個笨手笨腳的人」的那封信，常被引用，但本站在已下載的書信集裡還沒找到原文，可能在 Arneth 另一套《約瑟夫二世與利奧波德通信集》裡。\n- 包莖手術說：Androutsos 2002 年的醫學史論文全文、Évelyne Lever、Simone Poignant 等人的看法，待讀。\n- 女皇提到的那本說國王「性無能」的誹謗小冊子是哪一本，還沒查到。\n- 第一個孩子的出生與王后公開生產的場面，見 [[t-coppola]]。\n",
+   "body": "## 一句話說明\n\n1770 年結婚的兩個少年，七年多都沒有圓房；在王室，這不是私事，而是國際外交問題。維也納的母親靠大使的密報一封一封追問，最後連王后的哥哥、神聖羅馬帝國皇帝約瑟夫二世都親自來到凡爾賽。\n\n## 迷思與史料\n\n「國王動了手術」這個傳言，當時就有了。1774 年 10 月，瑪麗亞．特蕾莎在給駐法大使梅西的信裡寫道：「這裡傳說國王動了一個手術，大家寄望它帶來一切；我一點也不信，因為你什麼都沒提。」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊，1774 年 10 月信）\n\n而在本站讀到的當時書信裡，從梅西的密報、女皇的回信，到 1777 年約瑟夫二世寫給弟弟的信，都沒有任何一封記載國王真的動過手術，也沒有提到身體上的缺陷（[[s-1874-arneth-mercy-correspondance]]；[[s-1867-arneth-maria-theresia-joseph]] 第 2 冊 pp. 130–139）。傳記作家弗雷澤認為，路易十六不是不能生育，而是「心理上做不到」（本站譯）（[[s-2006-stamberg-npr-fraser]] 第 9–10 段）。所以判定是「查無實據」：手術的傳言確實存在，但找不到手術發生過的紀錄。醫學史研究者另有包莖說的推論，本站還沒讀到原文，見「研究者怎麼看」。\n\n## 故事是這樣的\n\n### 婚禮之後的第一個夏天\n\n1770 年 5 月，十四歲的奧地利公主嫁給了只比她大一歲的法國王太子。第一個夏天，梅西就向維也納回報：7 月 8 日兩人談了一次話，王太子說到了貢比涅（Compiègne）就要跟太子妃同住，達到「夫妻結合所應有的親密」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 25）。\n\n{{photo:t-consummation-wedding.jpg|約 1770 年為慶祝路易（後來的路易十六）與瑪麗．安東尼婚禮而製作的燈飾版畫，現藏卡納瓦雷博物館。|Wikimedia Commons，CC0}}\n\n9 月，王太子答應某一天晚上到太子妃房裡過夜，卻沒有做到，宮裡馬上傳出兩人鬧翻的流言（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 pp. 77–78）。梅西更擔心的是消息走漏：太子妃把這種事告訴了身邊的女官，他去信責備，說「婚姻的親密是神聖的祕密」，一旦外洩就無法挽回（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 pp. 78–79）。\n\n### 一年一年過去\n\n兩年後，1772 年 6 月，梅西說兩人感情融洽，但婚姻「沒有被證實」，「目前只有希望」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 311）。1774 年，路易十五過世，十九歲的王太子成了路易十六，問題從王太子家的私事，變成了王位繼承的大事。這一年秋天，巴黎開始流傳國王動了手術的消息，女皇不信（[[s-1874-arneth-mercy-correspondance]] 第 2 冊，1774 年 10 月信）。坊間的誹謗小冊子更直接說國王「性無能」，女皇讀到了，還希望國王能出面反駁（[[s-1874-arneth-mercy-correspondance]] 第 2 冊）。在給梅西的信裡，她說女兒的婚姻是讓她唯一放不下的「那個要命的問題」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊）。\n\n{{photo:t-consummation-gautier.jpg|雅尼內（Janinet）1777 年的彩色版畫，據 Gautier-Dagoty 的王后肖像製作，是瑪麗．安東尼早年的形象；現藏洛杉磯郡立藝術博物館。|Wikimedia Commons，Public domain}}\n\n### 1775 年：要不要動手術？\n\n1775 年 8 月底，瑪麗亞．特蕾莎寫信給梅西，談的已經是政治：女兒應該多拉攏第一流的大臣，好在國王一直沒有孩子的情況下，抵銷國王大弟普羅旺斯伯爵的影響力。接著她寫：「如果大家認為應該替國王動那個手術，早做總比拖太久好」；但她也說，這件事雖然讓她難過，她只能交給天意（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 373）。（推論）這封信只說明維也納在討論手術的可能，不代表國王真的動過手術。\n\n在那個年代，手術是很可怕的事。同一年秋天，王后在信裡告訴母親，陸軍大臣杜穆伊元帥做了膀胱取石手術，他的太太聽到慘叫才知道丈夫正在開刀，衝進房間就倒在門口，手術一共三十五分鐘，元帥兩天後就死了（[[s-1874-arneth-mercy-correspondance]] 第 2 冊約 p. 384）。\n\n### 哥哥出馬\n\n1777 年 4 月，女皇寫信說，法國駐維也納大使期待皇帝去過之後，王后的婚姻狀況「會有改變」，但她自己「希望多於相信」（[[s-1874-arneth-mercy-correspondance]] 第 3 冊約 pp. 38–39）。梅西則認為問題有一半在王后：她很少主動接近國王，這些疏忽「會造成致命的後果」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊約 pp. 38–39）。\n\n約瑟夫二世化名來到凡爾賽。他寫信給弟弟利奧波德，對妹妹的第一印象是：「王后是個漂亮的女人，但是個輕浮的人」，整天從一場娛樂趕往另一場（本站譯）（[[s-1867-arneth-maria-theresia-joseph]] 第 2 冊約 p. 131）。他寫道，國王受的教育不夠、外表不討喜，卻是個正直的人，只是活在「持續的冷漠」裡；王后「對國王毫無感覺」，又完全忽略他，但她「德行無虧」（本站譯）（[[s-1867-arneth-maria-theresia-joseph]] 第 2 冊 pp. 133–134）。\n\n{{photo:t-consummation-batoni.jpg|龐培歐．巴托尼（Pompeo Batoni）1769 年所畫的神聖羅馬皇帝約瑟夫二世與弟弟托斯卡納大公皮耶特羅．利奧波德的雙人肖像，現藏維也納美術史博物館。|Wikimedia Commons，Public domain}}\n\n據梅西報告，約瑟夫和國王單獨談過一次。國王主動提起自己的婚姻，說希望「很快就會有孩子」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊約 pp. 56–57）。臨走前，約瑟夫給妹妹留下一份長長的書面建議，其中一句是：「你已經沒有年紀小的藉口了。」（本站譯）（[[s-1866-arneth-marie-antoinette]] pp. 17–18）離開法國後，他在信裡說，自己真的跟妹妹很親，分別讓他很難過；他形容國王「有點軟弱，但一點也不笨」（本站譯）（[[s-1867-arneth-maria-theresia-joseph]] 第 2 冊約 pp. 138–139）。\n\n### 好消息\n\n那年夏天，女皇仍然不放心。她在 8 月寫道，有些夫妻要到三十歲才成功，她希望國王也是如此，「但我不太放心」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊約 pp. 110–111）。1778 年 5 月初，她聽到女兒懷孕的傳言，還是說自己「不太相信」，因為希望已經落空太多次了（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 195）。\n\n其實王后自己先寫了信。1778 年 4 月 19 日，她告訴母親：她一個星期前就想寫信報告自己的「大希望」，但怕希望落空，讓媽媽白高興一場，所以等到現在；要到下個月初才能完全確定。她說自己胃口和睡眠都變好了，從有了希望開始，就不再坐馬車出遊，只在附近散步；聖週的儀式太累，醫生不准她參加；前一天晚禱回來，她「吐了一點，這讓我更有希望」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 pp. 186–187）。\n\n幾天後，梅西的報告寄到：王后這個月的月經沒有來，懷孕「現在可以視為確定」；國王高興到了極點，比以前更常、更久地陪在王后身邊（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 pp. 195–196）。（推論）照弗雷澤「七年半」的說法推算，兩人圓房大約是在約瑟夫來訪後不久。\n\n即使這樣，維也納的擔心也沒結束。1779 年春天，梅西說夫妻的親密正在恢復正常，條件之一是王后要放棄騎馬；女皇則擔心，下一個孩子會不會又要再等八年（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 pp. 301–303）。\n\n## 研究者怎麼看\n\n- 弗雷澤認為問題是心理上的，不是身體上的（[[s-2006-stamberg-npr-fraser]]）。\n- 醫學史研究者安德魯索斯（Androutsos）2002 年發表〈路易十六的包莖〉一文，討論包莖是否為原因；本站只讀到摘要，摘要說多數歷史學家同意婚後七年才圓房，並列出包莖等可能原因（未建資料卡）。\n- 涅杰拉 2017 年研究約瑟夫二世訪法的論文，把幾種說法並排：一些研究者推測國王有包莖，是在約瑟夫鼓勵下才動了小手術；他指出，宮廷醫生拉松（Lassonne）被認為是治這種病的專家，1777 年 5 月 27 日確實和皇帝見過面，但談了什麼沒人知道，也沒有證據顯示他替國王開過刀。他引萊弗（Évelyne Lever）的看法：手術說既不能證實，也不能否定。另一種說法來自法國傳記作者珀蒂菲斯（Jean-Christian Petitfils）：問題可能在王后，她心理上還沒準備好，緊張造成痙攣，連國王也覺得痛（[[s-2017-niedziela-joseph-ii-paris]] p. 508）。\n- （推論）當時的書信顯示，梅西和女皇都把問題同時歸在國王的冷淡和王后的疏忽上，而不是單純的身體問題。\n\n## 延伸閱讀\n\n- [[s-2017-niedziela-joseph-ii-paris]]\n- [[s-1867-arneth-maria-theresia-joseph]]\n- [[s-1866-arneth-marie-antoinette]]\n- [[s-1874-arneth-mercy-correspondance]]\n- [[s-2006-stamberg-npr-fraser]]\n- 相關故事：[[t-handover]]、[[t-dubarry]]、[[t-louis]]、[[t-joseph]]\n\n## 還不知道的事\n\n- 約瑟夫二世形容這對夫妻「像兩個笨手笨腳的人」的那封信，常被引用，但本站在已下載的書信集裡還沒找到原文，可能在 Arneth 另一套《約瑟夫二世與利奧波德通信集》裡。\n- 包莖手術說：Androutsos 2002 年的醫學史論文全文、Évelyne Lever、Simone Poignant 等人的看法，待讀。\n- 女皇提到的那本說國王「性無能」的誹謗小冊子是哪一本，還沒查到。\n- 第一個孩子的出生與王后公開生產的場面，見 [[t-coppola]]。\n",
    "links": [
     "s-1866-arneth-marie-antoinette",
     "s-1867-arneth-maria-theresia-joseph",
     "s-1874-arneth-mercy-correspondance",
     "s-2006-stamberg-npr-fraser",
+    "s-2017-niedziela-joseph-ii-paris",
     "t-coppola",
     "t-dubarry",
     "t-handover",
@@ -2482,16 +2871,18 @@
     "s-1823-campan-memoires",
     "s-1866-arneth-marie-antoinette",
     "s-1874-arneth-mercy-correspondance",
-    "s-1867-arneth-maria-theresia-joseph"
+    "s-1867-arneth-maria-theresia-joseph",
+    "s-2017-niedziela-joseph-ii-paris"
    ],
    "updated": "2026-11-16",
-   "body": "## 一句話說明\n\n1777 年春天，王后的大哥、神聖羅馬帝國皇帝約瑟夫二世，化名「法爾肯施泰因伯爵」（comte de Falkenstein）來到法國。他在凡爾賽住了一段日子，看什麼都不順眼：法國宮廷的禮儀、國王的懶散、妹妹的胭脂和舞會。他臨走時留下一封長信，裡面有一句後人常引用的話：「革命將會很殘酷」。他勸國王的那一段，見 [[t-consummation]]。\n\n## 故事是這樣的\n\n### 化名的皇帝\n\n約瑟夫原本打算用最嚴格的方式隱姓埋名，母親瑪麗亞．特蕾莎則希望他稍微通融一點（[[s-1874-arneth-mercy-correspondance]] 第 3 冊註）。女皇對這趟旅行不太樂觀。1777 年 1 月，她寫信給大使梅西：結果只有兩種，要不是女兒用體貼和魅力把哥哥收服，就是哥哥一直想教訓她，把她惹煩了；她覺得前者比較可能，但無論如何，都別指望靠皇帝來一趟就扭轉局面（[[s-1874-arneth-mercy-correspondance]] 第 3 冊，1777 年 1 月信）。\n\n{{photo:t-joseph-hickel.jpg|希克爾（Joseph Hickel）1771 年所畫、穿著盔甲的約瑟夫二世。|Wikimedia Commons，Yelkrokoyade 攝，CC BY-SA 3.0}}\n\n王后自己倒是很期待。貼身女官康龐夫人說，王后常在閒談裡誇哥哥聰明、勤勞、懂軍事、生活極其簡樸，身邊的人都很想見見這位皇帝。兄妹在凡爾賽第一次擁抱時，王后的整個內廷都在場，康龐夫人說那一幕「非常動人」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 pp. 174–175）。坊間有一則軼事說，王后坐著輕便馬車出城去迎接他；康龐夫人特別加註說，這是假的，王后是在凡爾賽接見他的（[[s-1823-campan-memoires]] 第 1 冊 p. 175 註）。\n\n### 「我出門都住小旅館」\n\n王后在宮裡替哥哥準備了一套房間，他不要，說自己旅行時「一向住小旅館」。王后再三保證他會很自由、房間離吵鬧的地方很遠，他回答：他知道凡爾賽宮很大，裡面住了那麼多遊手好閒的人，當然塞得下他一個；可是他的僕人已經在一間出租旅館替他把行軍床搭好了，他就住那裡（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 pp. 175–176）。他中午和國王、王后吃飯，晚上和王室全家吃晚飯，還對國王那位剛脫離童年的妹妹伊莉莎白夫人特別感興趣；康龐夫人說，當時有傳言他想娶她，她認為沒有根據（[[s-1823-campan-memoires]] 第 1 冊 p. 176；另見 [[t-elisabeth]]）。\n\n### 什麼都看不順眼\n\n康龐夫人說，這位皇帝在法國一開始很受歡迎，學者、懂行的軍人和名藝術家都佩服他的學識；可是在宮廷裡就沒那麼受歡迎，在國王和王后身邊的人眼裡更是如此。大家覺得他舉止古怪、坦率到常常變成粗魯、刻意裝得簡樸，「與其說令人欽佩，不如說是個怪人」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 175）。\n\n她幾乎每天都在王后的午餐桌邊服侍。皇帝話很多，法語說得流利，用詞常常很特別，例如他喜歡用一個不太道地的字「spectaculeux」，來形容值得一看的場面。他毫不掩飾對法國宮廷禮儀的反感，當著國王的面也照樣冷嘲熱諷；國王只是笑笑，從不回嘴，王后卻看得很難受（[[s-1823-campan-memoires]] 第 1 冊 pp. 177–178）。\n\n他還常常數落國王：巴黎有那麼多好東西，國王自己卻不知道；那麼多名畫堆在倉庫裡積灰塵，要不是有幾幅掛在凡爾賽的房間裡，國王恐怕連自己有哪些傑作都不曉得；國王連傷兵院和軍校都沒去看過，應該到全國各大城市走走才對（[[s-1823-campan-memoires]] 第 1 冊 pp. 178–179）。康龐夫人加了一條註：皇帝走後不久，負責王室建築的官員就向國王提出了建博物館的計畫（[[s-1823-campan-memoires]] 第 1 冊 p. 178 註）。\n\n### 胭脂與簽名\n\n妹妹也逃不掉。有一天王后在簽內廷的付款單，皇帝在房裡踱步，突然停下來，嚴厲地責備她不看內容就簽名。王后回他：原則再好，也可能用錯地方；她的秘書值得信任，現在拿給她簽的只是已經在審計院登記過的內廷薪水單，她不會亂簽（[[s-1823-campan-memoires]] 第 1 冊 p. 179）。\n\n他也一直挑剔王后的打扮，說她帶起太多新流行，又看不慣她擦胭脂。有一天王后要去看戲，胭脂擦得比平常多，他故意指著房裡另一位擦得很濃的女士說：「再多一點，眼睛下面也擦，像這位夫人那樣，擦得像個復仇女神！」王后請他別再開這種玩笑，就算要說難聽話，也只對她一個人說（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 180；另見 [[t-pouf]]）。有一晚王后臨時改去另一家劇院，派侍從去請哥哥過來。皇帝一邊離開包廂，一邊對送他出來的演員說：「你們這位年輕的王后真冒失，不過還好，你們法國人也不太介意。」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 pp. 180–181）不過，兄妹一起去歌劇院時，觀眾為他們熱烈鼓掌，演出停了好幾分鐘（見 [[t-theatre]]）。\n\n### 一封長長的「忠告」\n\n1777 年 5 月 29 日，約瑟夫離開凡爾賽的時候，交給妹妹一份親筆寫的長篇忠告。書信集的編者說，這份文件留在維也納的檔案館，有約瑟夫的草稿，也有一份抄本，女皇在上面親手寫著「給王后，皇帝寫的」（本站譯）（[[s-1866-arneth-marie-antoinette]] 前言 p. ix）。\n\n信裡幾乎每一段都是一連串的質問：她有沒有想過，常去名聲不好的貴婦家裡會讓人怎麼想？她知不知道歐洲明理的人會把年輕人在賭桌上傾家蕩產算在她頭上，何況國王根本不賭（[[s-1866-arneth-marie-antoinette]] pp. 10–11；另見 [[t-deficit]]）？他特別點名歌劇院的化裝舞會：她以為戴著面具就沒人認得出來嗎？就算當晚沒人認出，第二天大家也都知道了，何況她自己還會到處講舞會上的奇遇（[[s-1866-arneth-marie-antoinette]] pp. 11–12）。他也說，大家都認為她到現在還沒有孩子，是騎馬騎太多（[[s-1866-arneth-marie-antoinette]] pp. 12–13）。\n\n他開出的藥方是讀書：每天認真讀兩個小時，最好有一位明理可靠的人陪她一起讀、一起討論，這兩小時的安靜，可以讓她好好想想其餘二十二小時該做什麼、不該做什麼。接著他寫下那句後人常引用的話：「長久下去不會好的，如果你不預先準備，革命將會很殘酷。」（本站譯）（[[s-1866-arneth-marie-antoinette]] pp. 13–14）（推論）他這裡說的「革命」，指的應該是她自己的處境將會劇烈翻轉，不是十二年後的法國大革命；但這句話後來常被當成預言來讀。\n\n信的最後一段很溫柔。他提醒她：想想你是他的妻子，你是王后；別忘了有一個遠在三百里外、幾乎沒有希望再見到你的哥哥，愛你一輩子，比愛自己還多（[[s-1866-arneth-marie-antoinette]] p. 17）。他還說，她已經沒有年紀小的藉口了，再拖下去，會變成一個不幸的女人，和一個更不幸的王后（[[s-1866-arneth-marie-antoinette]] pp. 17–18）。簽名之後，他又補了一段：要管好身邊的人，別把不必要的開銷堆到國王的錢箱上，因為「大家都在叫」（[[s-1866-arneth-marie-antoinette]] p. 18）。\n\n### 妹妹的回信\n\n約瑟夫回到維也納後，兄妹之間的信不太愉快。王后在 1777 年 12 月寫給哥哥的信一開頭就說：「你的信讓我很難過」，她把心裡話告訴他，他卻拿來對付她；她說巴黎流傳的那些關於楓丹白露之行的故事，大多毫無根據，目擊的人一回來就不攻自破了（本站譯）（[[s-1866-arneth-marie-antoinette]] p. 20）。\n\n1778 年 1 月，她又寫信要哥哥放心：自從楓丹白露回來，她幾乎沒離開過凡爾賽；她在凡爾賽的舞會上跳得那麼節制，大家都說她對跳舞厭倦了；歌劇院的舞會，她一次也沒去（[[s-1866-arneth-marie-antoinette]] pp. 20–21）。那年 4 月，她懷了第一個孩子（見 [[t-consummation]]）。\n\n## 研究者怎麼看\n\n- 本篇關於約瑟夫在凡爾賽言行的細節，幾乎都來自康龐夫人。她當時在王后身邊服侍，對這位皇帝的批評很直接，代表的是法國宮廷內部的眼光（[[s-1823-campan-memoires]] 第 1 冊 pp. 174–184）。\n- 忠告信是約瑟夫本人寫的，有檔案草稿為證，是這趟訪問最可靠的史料；但它是一位哥哥的訓誡，內容是他「聽說」和「看到」的，不一定是事實（[[s-1866-arneth-marie-antoinette]] 前言）。\n- 王后那封 12 月的回信日期有兩說：阿內特的書信集印作 1777 年 12 月 20 日；書信集的編者在註裡說，另一位編者費耶·德·孔希（Feuillet de Conches）印的 12 月 21 日才是對的，並由此判斷 20 日那個版本和它的影印本不可靠（[[s-1866-arneth-marie-antoinette]] p. 20 註）。\n- 本站還沒讀到研究這次訪問的學術著作。\n\n## 延伸閱讀\n\n- [[s-1866-arneth-marie-antoinette]]\n- [[s-1823-campan-memoires]]\n- [[s-1874-arneth-mercy-correspondance]]\n- 相關故事：[[t-consummation]]、[[t-theatre]]、[[t-deficit]]、[[t-elisabeth]]\n- 人物：[[e-mercy]]\n\n## 還不知道的事\n\n- 約瑟夫這趟在巴黎和法國各地去了哪些地方、見了哪些人，本站還沒讀到完整的行程記載。\n- 他常被引用、形容國王夫妻「像兩個笨手笨腳的人」的那封信，原文還沒找到（見 [[t-consummation]]）。\n- 這封忠告信，王后自己有沒有回應？本站只讀到半年後兄妹之間的通信。\n- 1780 年約瑟夫又用同一個化名去俄國見凱薩琳二世，線索在《瑪麗亞．特蕾莎與約瑟夫二世通信集》第 3 冊，本站還沒有替這一冊建資料卡；讀資料時要分清 1777 年（法國）與 1780 年（俄國）的「法爾肯施泰因伯爵」。\n",
+   "body": "## 一句話說明\n\n1777 年春天，王后的大哥、神聖羅馬帝國皇帝約瑟夫二世，化名「法爾肯施泰因伯爵」（comte de Falkenstein）來到法國。他在凡爾賽住了一段日子，看什麼都不順眼：法國宮廷的禮儀、國王的懶散、妹妹的胭脂和舞會。他臨走時留下一封長信，裡面有一句後人常引用的話：「革命將會很殘酷」。他勸國王的那一段，見 [[t-consummation]]。\n\n## 故事是這樣的\n\n### 化名的皇帝\n\n約瑟夫原本打算用最嚴格的方式隱姓埋名，母親瑪麗亞．特蕾莎則希望他稍微通融一點（[[s-1874-arneth-mercy-correspondance]] 第 3 冊註）。女皇對這趟旅行不太樂觀。1777 年 1 月，她寫信給大使梅西：結果只有兩種，要不是女兒用體貼和魅力把哥哥收服，就是哥哥一直想教訓她，把她惹煩了；她覺得前者比較可能，但無論如何，都別指望靠皇帝來一趟就扭轉局面（[[s-1874-arneth-mercy-correspondance]] 第 3 冊，1777 年 1 月信）。\n\n{{photo:t-joseph-hickel.jpg|希克爾（Joseph Hickel）1771 年所畫、穿著盔甲的約瑟夫二世。|Wikimedia Commons，Yelkrokoyade 攝，CC BY-SA 3.0}}\n\n王后自己倒是很期待。貼身女官康龐夫人說，王后常在閒談裡誇哥哥聰明、勤勞、懂軍事、生活極其簡樸，身邊的人都很想見見這位皇帝。兄妹在凡爾賽第一次擁抱時，王后的整個內廷都在場，康龐夫人說那一幕「非常動人」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 pp. 174–175）。坊間有一則軼事說，王后坐著輕便馬車出城去迎接他；康龐夫人特別加註說，這是假的，王后是在凡爾賽接見他的（[[s-1823-campan-memoires]] 第 1 冊 p. 175 註）。\n\n### 「我出門都住小旅館」\n\n王后在宮裡替哥哥準備了一套房間，他不要，說自己旅行時「一向住小旅館」。王后再三保證他會很自由、房間離吵鬧的地方很遠，他回答：他知道凡爾賽宮很大，裡面住了那麼多遊手好閒的人，當然塞得下他一個；可是他的僕人已經在一間出租旅館替他把行軍床搭好了，他就住那裡（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 pp. 175–176）。他中午和國王、王后吃飯，晚上和王室全家吃晚飯，還對國王那位剛脫離童年的妹妹伊莉莎白夫人特別感興趣；康龐夫人說，當時有傳言他想娶她，她認為沒有根據（[[s-1823-campan-memoires]] 第 1 冊 p. 176；另見 [[t-elisabeth]]）。\n\n### 什麼都看不順眼\n\n康龐夫人說，這位皇帝在法國一開始很受歡迎，學者、懂行的軍人和名藝術家都佩服他的學識；可是在宮廷裡就沒那麼受歡迎，在國王和王后身邊的人眼裡更是如此。大家覺得他舉止古怪、坦率到常常變成粗魯、刻意裝得簡樸，「與其說令人欽佩，不如說是個怪人」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 175）。\n\n她幾乎每天都在王后的午餐桌邊服侍。皇帝話很多，法語說得流利，用詞常常很特別，例如他喜歡用一個不太道地的字「spectaculeux」，來形容值得一看的場面。他毫不掩飾對法國宮廷禮儀的反感，當著國王的面也照樣冷嘲熱諷；國王只是笑笑，從不回嘴，王后卻看得很難受（[[s-1823-campan-memoires]] 第 1 冊 pp. 177–178）。\n\n他還常常數落國王：巴黎有那麼多好東西，國王自己卻不知道；那麼多名畫堆在倉庫裡積灰塵，要不是有幾幅掛在凡爾賽的房間裡，國王恐怕連自己有哪些傑作都不曉得；國王連傷兵院和軍校都沒去看過，應該到全國各大城市走走才對（[[s-1823-campan-memoires]] 第 1 冊 pp. 178–179）。康龐夫人加了一條註：皇帝走後不久，負責王室建築的官員就向國王提出了建博物館的計畫（[[s-1823-campan-memoires]] 第 1 冊 p. 178 註）。\n\n### 胭脂與簽名\n\n妹妹也逃不掉。有一天王后在簽內廷的付款單，皇帝在房裡踱步，突然停下來，嚴厲地責備她不看內容就簽名。王后回他：原則再好，也可能用錯地方；她的秘書值得信任，現在拿給她簽的只是已經在審計院登記過的內廷薪水單，她不會亂簽（[[s-1823-campan-memoires]] 第 1 冊 p. 179）。\n\n他也一直挑剔王后的打扮，說她帶起太多新流行，又看不慣她擦胭脂。有一天王后要去看戲，胭脂擦得比平常多，他故意指著房裡另一位擦得很濃的女士說：「再多一點，眼睛下面也擦，像這位夫人那樣，擦得像個復仇女神！」王后請他別再開這種玩笑，就算要說難聽話，也只對她一個人說（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 180；另見 [[t-pouf]]）。有一晚王后臨時改去另一家劇院，派侍從去請哥哥過來。皇帝一邊離開包廂，一邊對送他出來的演員說：「你們這位年輕的王后真冒失，不過還好，你們法國人也不太介意。」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 pp. 180–181）不過，兄妹一起去歌劇院時，觀眾為他們熱烈鼓掌，演出停了好幾分鐘（見 [[t-theatre]]）。\n\n### 一封長長的「忠告」\n\n1777 年 5 月 29 日，約瑟夫離開凡爾賽的時候，交給妹妹一份親筆寫的長篇忠告。書信集的編者說，這份文件留在維也納的檔案館，有約瑟夫的草稿，也有一份抄本，女皇在上面親手寫著「給王后，皇帝寫的」（本站譯）（[[s-1866-arneth-marie-antoinette]] 前言 p. ix）。\n\n信裡幾乎每一段都是一連串的質問：她有沒有想過，常去名聲不好的貴婦家裡會讓人怎麼想？她知不知道歐洲明理的人會把年輕人在賭桌上傾家蕩產算在她頭上，何況國王根本不賭（[[s-1866-arneth-marie-antoinette]] pp. 10–11；另見 [[t-deficit]]）？他特別點名歌劇院的化裝舞會：她以為戴著面具就沒人認得出來嗎？就算當晚沒人認出，第二天大家也都知道了，何況她自己還會到處講舞會上的奇遇（[[s-1866-arneth-marie-antoinette]] pp. 11–12）。他也說，大家都認為她到現在還沒有孩子，是騎馬騎太多（[[s-1866-arneth-marie-antoinette]] pp. 12–13）。\n\n他開出的藥方是讀書：每天認真讀兩個小時，最好有一位明理可靠的人陪她一起讀、一起討論，這兩小時的安靜，可以讓她好好想想其餘二十二小時該做什麼、不該做什麼。接著他寫下那句後人常引用的話：「長久下去不會好的，如果你不預先準備，革命將會很殘酷。」（本站譯）（[[s-1866-arneth-marie-antoinette]] pp. 13–14）（推論）他這裡說的「革命」，指的應該是她自己的處境將會劇烈翻轉，不是十二年後的法國大革命；但這句話後來常被當成預言來讀。\n\n信的最後一段很溫柔。他提醒她：想想你是他的妻子，你是王后；別忘了有一個遠在三百里外、幾乎沒有希望再見到你的哥哥，愛你一輩子，比愛自己還多（[[s-1866-arneth-marie-antoinette]] p. 17）。他還說，她已經沒有年紀小的藉口了，再拖下去，會變成一個不幸的女人，和一個更不幸的王后（[[s-1866-arneth-marie-antoinette]] pp. 17–18）。簽名之後，他又補了一段：要管好身邊的人，別把不必要的開銷堆到國王的錢箱上，因為「大家都在叫」（[[s-1866-arneth-marie-antoinette]] p. 18）。\n\n### 妹妹的回信\n\n約瑟夫回到維也納後，兄妹之間的信不太愉快。王后在 1777 年 12 月寫給哥哥的信一開頭就說：「你的信讓我很難過」，她把心裡話告訴他，他卻拿來對付她；她說巴黎流傳的那些關於楓丹白露之行的故事，大多毫無根據，目擊的人一回來就不攻自破了（本站譯）（[[s-1866-arneth-marie-antoinette]] p. 20）。\n\n1778 年 1 月，她又寫信要哥哥放心：自從楓丹白露回來，她幾乎沒離開過凡爾賽；她在凡爾賽的舞會上跳得那麼節制，大家都說她對跳舞厭倦了；歌劇院的舞會，她一次也沒去（[[s-1866-arneth-marie-antoinette]] pp. 20–21）。那年 4 月，她懷了第一個孩子（見 [[t-consummation]]）。\n\n## 研究者怎麼看\n\n- 本篇關於約瑟夫在凡爾賽言行的細節，幾乎都來自康龐夫人。她當時在王后身邊服侍，對這位皇帝的批評很直接，代表的是法國宮廷內部的眼光（[[s-1823-campan-memoires]] 第 1 冊 pp. 174–184）。\n- 忠告信是約瑟夫本人寫的，有檔案草稿為證，是這趟訪問最可靠的史料；但它是一位哥哥的訓誡，內容是他「聽說」和「看到」的，不一定是事實（[[s-1866-arneth-marie-antoinette]] 前言）。\n- 王后那封 12 月的回信日期有兩說：阿內特的書信集印作 1777 年 12 月 20 日；書信集的編者在註裡說，另一位編者費耶·德·孔希（Feuillet de Conches）印的 12 月 21 日才是對的，並由此判斷 20 日那個版本和它的影印本不可靠（[[s-1866-arneth-marie-antoinette]] p. 20 註）。\n- 波蘭歷史學者涅杰拉（Rafał Niedziela）2017 年專文研究這次訪問。他整理了法國宮廷的不同反應：克魯瓦公爵（duc de Croÿ）在日記裡說他舉止自然、法語流利；瑞典大使克羅伊茨（Creutz）則記下，他看完路易十六的就寢儀式後挖苦說，要是上床得經過這麼多儀式，他大概永遠上不了床（本站譯）（[[s-2017-niedziela-joseph-ii-paris]] p. 507）。\n- 涅杰拉認為，這趟旅行在家務事上算是成功：國王夫妻的關係改善了，1777 年 8 月 18 日終於圓房。不過他也說，勸妹妹少賭博、少買珠寶的效果很有限；而約瑟夫真正的外交目標，想拉法國支持奧地利吞併巴伐利亞，被外交大臣韋爾熱訥（Vergennes）一口回絕，完全失敗（[[s-2017-niedziela-joseph-ii-paris]] pp. 508–509）。\n- 約瑟夫有沒有勸國王動手術，見 [[t-consummation]]。\n\n## 延伸閱讀\n\n- [[s-2017-niedziela-joseph-ii-paris]]\n- [[s-1866-arneth-marie-antoinette]]\n- [[s-1823-campan-memoires]]\n- [[s-1874-arneth-mercy-correspondance]]\n- 相關故事：[[t-consummation]]、[[t-theatre]]、[[t-deficit]]、[[t-elisabeth]]\n- 人物：[[e-mercy]]\n\n## 還不知道的事\n\n- 約瑟夫這趟在巴黎和法國各地去了哪些地方、見了哪些人，本站還沒讀到完整的行程記載。\n- 他常被引用、形容國王夫妻「像兩個笨手笨腳的人」的那封信，原文還沒找到（見 [[t-consummation]]）。\n- 這封忠告信，王后自己有沒有回應？本站只讀到半年後兄妹之間的通信。\n- 1780 年約瑟夫又用同一個化名去俄國見凱薩琳二世，線索在《瑪麗亞．特蕾莎與約瑟夫二世通信集》第 3 冊，本站還沒有替這一冊建資料卡；讀資料時要分清 1777 年（法國）與 1780 年（俄國）的「法爾肯施泰因伯爵」。\n",
    "links": [
     "e-mercy",
     "s-1823-campan-memoires",
     "s-1866-arneth-marie-antoinette",
     "s-1867-arneth-maria-theresia-joseph",
     "s-1874-arneth-mercy-correspondance",
+    "s-2017-niedziela-joseph-ii-paris",
     "t-consummation",
     "t-deficit",
     "t-elisabeth",
@@ -2731,14 +3122,20 @@
    "sources": [
     "s-1852-marie-therese-temple",
     "s-1883-tourzel-memoires",
-    "s-1899-elisabeth-life-letters-en"
+    "s-1899-elisabeth-life-letters-en",
+    "s-2026-mensch-reine-morte",
+    "s-2013-chatenet-becquet-review",
+    "s-1990-boutry-roi-martyr"
    ],
    "updated": "2026-11-16",
-   "body": "## 一句話說明\n\n瑪麗．安東尼和路易十六的四個孩子裡，只有長女瑪麗－泰蕾茲（Marie-Thérèse，宮中稱「王室長公主」Madame Royale）活過了革命。她十三歲進聖殿塔，父親、母親、姑姑、弟弟一個接一個離開；1795 年底，她被拿去跟奧地利交換戰俘，在國外又活了五十六年。她寫下的聖殿塔回憶，是本站許多故事的重要來源（見 [[t-temple]]）。\n\n## 故事是這樣的\n\n### 塔裡的最後一年\n\n1794 年 5 月，姑姑伊莉莎白夫人被帶走後，塔裡只剩她一個人；弟弟關在樓下，姊弟見不到面（見 [[t-elisabeth]]、[[t-louis17]]）。她的回憶錄寫到 1795 年春天，看守開始讓她上塔頂透氣；弟弟的病一天比一天重，外科醫師德索（Desault）來看過，後來換成佩勒坦（Pelletan）等人，都沒有把握（[[s-1852-marie-therese-temple]] pp. 102–103）。\n\n{{photo:t-madame-royale-kucharski.jpg|庫哈爾斯基（Aleksander Kucharski）所畫的少女瑪麗－泰蕾茲；Commons 標為 1794 年，圖片由華沙王宮提供。|Wikimedia Commons，Public domain}}\n\n她寫道，弟弟在 1795 年 6 月 9 日下午三點過世，十歲又兩個月；「他不是被毒死的，像有些人以為的那樣；唯一縮短他生命的毒藥，是骯髒，加上前所未有的惡劣對待和殘酷」（本站譯）（[[s-1852-marie-therese-temple]] p. 103）。她的回憶錄就寫到這裡為止，書的編者在註裡說：「我們的回憶錄到此結束。」（本站譯）（[[s-1852-marie-therese-temple]] p. 103 註）\n\n（推論）她寫的是自己的家人，卻在這段裡用第三人稱稱自己「長公主」，像是刻意拉開一點距離來寫。\n\n### 「沒有宗教，我撐不下去」\n\n弟弟死後，國民公會終於同意派一位女士陪她。王室子女的前家庭教師圖澤爾夫人（Madame de Tourzel）也出獄了，她和女兒寶琳一再奔走，最後拿到許可，每十天可以進聖殿塔探望三次（[[s-1883-tourzel-memoires]] 第 2 冊第 24 章）。圖澤爾夫人說，三年不見，原本瘦弱的小公主長得「美麗、高大、健壯」，臉上看得出國王、王后，甚至伊莉莎白夫人的影子（本站譯）（[[s-1883-tourzel-memoires]] 第 2 冊第 24 章）。\n\n圖澤爾夫人問她，那麼孤單，怎麼撐過來的？她回答：「沒有宗教，那是不可能的。」她說，姑姑留下的祈禱書她一直在讀；姑姑早就預見她會落單，教她自己鋪床、梳頭、穿衣，把一天的時間分成整理房間、祈禱、讀書、做針線，還要她每天看著錶快走一個小時，保持健康（本站譯）（[[s-1883-tourzel-memoires]] 第 2 冊第 24 章）。\n\n圖澤爾夫人勸她早點離開法國，她說：「住在埋著我最愛的人的國家，我還能得到一點安慰。」接著又哭著說：「如果能和我親愛的父母同一個命運，我會比現在被判留下來哭他們更幸福。」（本站譯）（[[s-1883-tourzel-memoires]] 第 2 冊第 24 章）\n\n### 十七歲生日的夜晚\n\n那年夏天，國民公會同意拿她去交換被奧地利扣押的幾位法國議員（[[s-1852-marie-therese-temple]] p. 14）。負責護送的憲兵上尉接到的指示很奇怪：要護送「兩女一男」到邊境，年輕的那位叫「蘇菲」，要好好照顧。「蘇菲」就是瑪麗－泰蕾茲，陪她的是前副家庭教師的女兒蘇西夫人（Madame de Soucy）；奧地利原本指名要圖澤爾夫人陪同，督政府不放人（[[s-1852-marie-therese-temple]] p. 15 及註）。\n\n1795 年 12 月 19 日，她的十七歲生日，內政部長貝內澤克（Benezech）半夜到聖殿塔接她。據 1852 年版回憶錄的編者說，雪夜裡只有幾支火把，部長單膝跪下，請她伸手讓他親吻：「去吧，夫人，願您早日回到祖國。」（本站譯）（[[s-1852-marie-therese-temple]] p. 16）\n\n12 月 24 日深夜，車隊到了瑞士巴塞爾城外。法國外交官巴歇（Bâcher）在給巴黎的報告裡寫，蘇西夫人說她到了維也納也許會嫁給一位大公，她天真地回答：「你沒想過嗎？我們在打仗啊！」蘇西夫人說：「那您也許能當和平天使。」她說：「如果是這樣，我願意為祖國做這個犧牲。」（本站譯）（[[s-1852-marie-therese-temple]] p. 17）交接前，她一直說：「法國！法國！我不能在法國的土地上再過一夜嗎？」交換因此延到 12 月 26 日（[[s-1852-marie-therese-temple]] p. 17）。交換用的是一張「收據」：奧地利的親王簽字證明，從法國專員手中「收到」了路易十六的女兒（[[s-1852-marie-therese-temple]] p. 16 註）。\n\n### 米陶的婚禮與漫長的流亡\n\n1796 年 1 月，她已經在維也納，穿著喪服出現在皇帝和皇后身邊（[[s-1852-marie-therese-temple]] pp. 17–18）。幾年後，她到了俄國沙皇讓流亡的路易十八暫住的米陶（Mitau，今屬拉脫維亞），在舊宮殿長廊改成的小禮拜堂裡，嫁給堂兄昂古萊姆公爵（duc d'Angoulême）。為她父親送終的神父埃奇沃斯也在場，叔叔路易十八送她的第一份禮物，是路易十六的錶和戒指（[[s-1852-marie-therese-temple]] p. 18 及註；另見 [[t-execution]]）。\n\n她的晚年在奧地利的弗羅斯多夫（Frohsdorf）度過。1851 年 10 月，她對來訪的法國人說：「親愛的法國……我太老了，再也見不到它了。」10 月 19 日上午十一點十七分，她過世了；記錄這段的蒙貝爾伯爵（Montbel）說，她的床邊圍著聖殿塔裡那些親人的畫像（本站譯）（[[s-1852-marie-therese-temple]] pp. 105–106）。\n\n## 研究者怎麼看\n\n- 這篇幾乎全部來自 1852 年出版的一本紀念文集：裡面有她自己的聖殿塔回憶、帕斯托雷侯爵（Pastoret）寫的生平、蒙貝爾伯爵的臨終記述，以及幾篇悼文。編者和作者都是王室的支持者，交換經過雖然引了外交公文，公文原件本站沒有看到（[[s-1852-marie-therese-temple]]）。\n- 日期有幾處對不上：\n  - 弟弟的死期：她自己的回憶錄寫 6 月 9 日，同一本書裡勒莫安（Lemoine）的悼文寫 6 月 8 日（[[s-1852-marie-therese-temple]] pp. 103、約 131）。\n  - 交換：1899 年英譯書的附註說她「1795 年 10 月」被交換、12 月 18 日夜裡離開聖殿塔，帕斯托雷則寫 12 月 19 日離開、12 月 26 日在巴塞爾交換（[[s-1899-elisabeth-life-letters-en]] 附註；[[s-1852-marie-therese-temple]] pp. 16–17）。（推論）10 月可能是指兩國談妥交換的時間。\n  - 婚禮：帕斯托雷註明是 1799 年 6 月 10 日，勒莫安的悼文卻說她 1798 年 5 月到米陶、「次月 10 日」成婚（[[s-1852-marie-therese-temple]] pp. 18、約 131）。\n- 本站還沒有讀到研究她的學術著作。\n\n## 延伸閱讀\n\n- [[s-1852-marie-therese-temple]]\n- [[s-1883-tourzel-memoires]]\n- 相關故事：[[t-children]]、[[t-temple]]、[[t-louis17]]、[[t-elisabeth]]、[[t-reburial]]\n\n## 還不知道的事\n\n- 她在 1814 年隨波旁王朝回到法國、1815 年參與尋找父母遺骸的事（見 [[t-reburial]]），本站還沒讀到她自己的記述。\n- 國王的侍從于埃（Hue）寫過她在聖殿塔最後幾個月的經過，本站還沒讀到。\n- 19 世紀以來一直有人說，被交換出去的並不是真的瑪麗－泰蕾茲（所謂「黑暗伯爵夫人」的傳說），本站還沒查過。\n",
+   "body": "## 一句話說明\n\n瑪麗．安東尼和路易十六的四個孩子裡，只有長女瑪麗－泰蕾茲（Marie-Thérèse，宮中稱「王室長公主」Madame Royale）活過了革命。她十三歲進聖殿塔，父親、母親、姑姑、弟弟一個接一個離開；1795 年底，她被拿去跟奧地利交換戰俘，在國外又活了五十六年。她寫下的聖殿塔回憶，是本站許多故事的重要來源（見 [[t-temple]]）。\n\n## 故事是這樣的\n\n### 塔裡的最後一年\n\n1794 年 5 月，姑姑伊莉莎白夫人被帶走後，塔裡只剩她一個人；弟弟關在樓下，姊弟見不到面（見 [[t-elisabeth]]、[[t-louis17]]）。她的回憶錄寫到 1795 年春天，看守開始讓她上塔頂透氣；弟弟的病一天比一天重，外科醫師德索（Desault）來看過，後來換成佩勒坦（Pelletan）等人，都沒有把握（[[s-1852-marie-therese-temple]] pp. 102–103）。\n\n{{photo:t-madame-royale-kucharski.jpg|庫哈爾斯基（Aleksander Kucharski）所畫的少女瑪麗－泰蕾茲；Commons 標為 1794 年，圖片由華沙王宮提供。|Wikimedia Commons，Public domain}}\n\n她寫道，弟弟在 1795 年 6 月 9 日下午三點過世，十歲又兩個月；「他不是被毒死的，像有些人以為的那樣；唯一縮短他生命的毒藥，是骯髒，加上前所未有的惡劣對待和殘酷」（本站譯）（[[s-1852-marie-therese-temple]] p. 103）。她的回憶錄就寫到這裡為止，書的編者在註裡說：「我們的回憶錄到此結束。」（本站譯）（[[s-1852-marie-therese-temple]] p. 103 註）\n\n（推論）她寫的是自己的家人，卻在這段裡用第三人稱稱自己「長公主」，像是刻意拉開一點距離來寫。\n\n### 「沒有宗教，我撐不下去」\n\n弟弟死後，國民公會終於同意派一位女士陪她。王室子女的前家庭教師圖澤爾夫人（Madame de Tourzel）也出獄了，她和女兒寶琳一再奔走，最後拿到許可，每十天可以進聖殿塔探望三次（[[s-1883-tourzel-memoires]] 第 2 冊第 24 章）。圖澤爾夫人說，三年不見，原本瘦弱的小公主長得「美麗、高大、健壯」，臉上看得出國王、王后，甚至伊莉莎白夫人的影子（本站譯）（[[s-1883-tourzel-memoires]] 第 2 冊第 24 章）。\n\n圖澤爾夫人問她，那麼孤單，怎麼撐過來的？她回答：「沒有宗教，那是不可能的。」她說，姑姑留下的祈禱書她一直在讀；姑姑早就預見她會落單，教她自己鋪床、梳頭、穿衣，把一天的時間分成整理房間、祈禱、讀書、做針線，還要她每天看著錶快走一個小時，保持健康（本站譯）（[[s-1883-tourzel-memoires]] 第 2 冊第 24 章）。\n\n圖澤爾夫人勸她早點離開法國，她說：「住在埋著我最愛的人的國家，我還能得到一點安慰。」接著又哭著說：「如果能和我親愛的父母同一個命運，我會比現在被判留下來哭他們更幸福。」（本站譯）（[[s-1883-tourzel-memoires]] 第 2 冊第 24 章）\n\n### 十七歲生日的夜晚\n\n那年夏天，國民公會同意拿她去交換被奧地利扣押的幾位法國議員（[[s-1852-marie-therese-temple]] p. 14）。負責護送的憲兵上尉接到的指示很奇怪：要護送「兩女一男」到邊境，年輕的那位叫「蘇菲」，要好好照顧。「蘇菲」就是瑪麗－泰蕾茲，陪她的是前副家庭教師的女兒蘇西夫人（Madame de Soucy）；奧地利原本指名要圖澤爾夫人陪同，督政府不放人（[[s-1852-marie-therese-temple]] p. 15 及註）。\n\n1795 年 12 月 19 日，她的十七歲生日，內政部長貝內澤克（Benezech）半夜到聖殿塔接她。據 1852 年版回憶錄的編者說，雪夜裡只有幾支火把，部長單膝跪下，請她伸手讓他親吻：「去吧，夫人，願您早日回到祖國。」（本站譯）（[[s-1852-marie-therese-temple]] p. 16）\n\n12 月 24 日深夜，車隊到了瑞士巴塞爾城外。法國外交官巴歇（Bâcher）在給巴黎的報告裡寫，蘇西夫人說她到了維也納也許會嫁給一位大公，她天真地回答：「你沒想過嗎？我們在打仗啊！」蘇西夫人說：「那您也許能當和平天使。」她說：「如果是這樣，我願意為祖國做這個犧牲。」（本站譯）（[[s-1852-marie-therese-temple]] p. 17）交接前，她一直說：「法國！法國！我不能在法國的土地上再過一夜嗎？」交換因此延到 12 月 26 日（[[s-1852-marie-therese-temple]] p. 17）。交換用的是一張「收據」：奧地利的親王簽字證明，從法國專員手中「收到」了路易十六的女兒（[[s-1852-marie-therese-temple]] p. 16 註）。\n\n### 米陶的婚禮與漫長的流亡\n\n1796 年 1 月，她已經在維也納，穿著喪服出現在皇帝和皇后身邊（[[s-1852-marie-therese-temple]] pp. 17–18）。幾年後，她到了俄國沙皇讓流亡的路易十八暫住的米陶（Mitau，今屬拉脫維亞），在舊宮殿長廊改成的小禮拜堂裡，嫁給堂兄昂古萊姆公爵（duc d'Angoulême）。為她父親送終的神父埃奇沃斯也在場，叔叔路易十八送她的第一份禮物，是路易十六的錶和戒指（[[s-1852-marie-therese-temple]] p. 18 及註；另見 [[t-execution]]）。\n\n這樁婚事其實是一步政治棋。她還關在塔裡時，1795 到 1796 年間，王黨作家就接連出小冊子要求放她出來，把她寫成「像剛綻放的玫瑰一樣美」的可憐公主（本站譯）（[[s-2026-mensch-reine-morte]] § 23）。到了維也納，皇帝請宮廷畫家替她畫像，身邊擺著繡滿百合花的藍色貂皮斗篷，活脫脫是「法國國王的繼承人」；路易十八看了很緊張，怕奧地利拿她來爭法國王位（[[s-2026-mensch-reine-morte]] § 30）。她自己拒絕嫁給奧地利的表哥，1799 年到米陶嫁給昂古萊姆公爵，路易十八就這樣把路易十六的女兒和自己這一支綁在一起（[[s-2026-mensch-reine-morte]] § 31）。1814 年波旁王朝復辟，路易十八沒有王后，她就在宮廷和畫像裡「當起王后」：官方甚至仿照國王與王后的成對肖像，替叔叔和她畫成一對（[[s-2026-mensch-reine-morte]] §§ 44、50）。\n\n她的晚年在奧地利的弗羅斯多夫（Frohsdorf）度過。1851 年 10 月，她對來訪的法國人說：「親愛的法國……我太老了，再也見不到它了。」10 月 19 日上午十一點十七分，她過世了；記錄這段的蒙貝爾伯爵（Montbel）說，她的床邊圍著聖殿塔裡那些親人的畫像（本站譯）（[[s-1852-marie-therese-temple]] pp. 105–106）。\n\n## 研究者怎麼看\n\n- 這篇幾乎全部來自 1852 年出版的一本紀念文集：裡面有她自己的聖殿塔回憶、帕斯托雷侯爵（Pastoret）寫的生平、蒙貝爾伯爵的臨終記述，以及幾篇悼文。編者和作者都是王室的支持者，交換經過雖然引了外交公文，公文原件本站沒有看到（[[s-1852-marie-therese-temple]]）。\n- 日期有幾處對不上：\n  - 弟弟的死期：她自己的回憶錄寫 6 月 9 日，同一本書裡勒莫安（Lemoine）的悼文寫 6 月 8 日（[[s-1852-marie-therese-temple]] pp. 103、約 131）。\n  - 交換：1899 年英譯書的附註說她「1795 年 10 月」被交換、12 月 18 日夜裡離開聖殿塔，帕斯托雷則寫 12 月 19 日離開、12 月 26 日在巴塞爾交換（[[s-1899-elisabeth-life-letters-en]] 附註；[[s-1852-marie-therese-temple]] pp. 16–17）。（推論）10 月可能是指兩國談妥交換的時間。\n  - 婚禮：帕斯托雷註明是 1799 年 6 月 10 日，勒莫安的悼文卻說她 1798 年 5 月到米陶、「次月 10 日」成婚（[[s-1852-marie-therese-temple]] pp. 18、約 131）。\n- 歷史學者門施（Matthieu Mensch）2026 年在凡爾賽宮研究中心期刊發表的論文，談 1795 到 1825 年間大家怎麼「重新想像王后」。他指出，法國的繼承法排除女性，她不可能繼承父親的王位；可是 1820 年貝里公爵遇刺、王室眼看要絕後時，極端王黨又有人提出讓女性繼承。門施認為那不是想改革，而是怕王位落到自由派的奧爾良家手裡（[[s-2026-mensch-reine-morte]] §§ 19、33–34）。他的結論是：她始終守著波旁家的規矩，沒有想走自己的政治路線，卻一直被各派拿來投射期待（[[s-2026-mensch-reine-morte]] § 53）。\n- 她也想讓父親被封為聖人。法國歷史學者布特里（Philippe Boutry）1990 年的論文指出，1820 年 6 月，教廷駐巴黎大使寫信回羅馬，說是「為了回應昂古萊姆公爵夫人殿下的殷切請求」（本站譯），轉達她希望替路易十六開啟封聖程序；9 月，羅馬寄回一份祕密意見書，要大使只能轉述內容，不能把文件交給她（[[s-1990-boutry-roi-martyr]] pp. 57–58）。教廷最後怎麼判斷、理由是什麼，本站還沒讀到論文後半。\n- 法國歷史學者貝凱（Hélène Becquet）2012 年替她寫了一本學術傳記《法國的瑪麗－泰蕾茲：聖殿塔的孤女》。本站還沒讀到原書，只讀到學術期刊的書評。據書評介紹，貝凱認為弟弟死後，她「成了一個虛構的英雄，跟真實的她愈離愈遠」（本站譯）；百日王朝時，王黨稱她「戰爭的王后」，拿破崙派則罵她「不像女人」；她死後，正統派把她的苦難講成救贖（[[s-2013-chatenet-becquet-review]]，引原書 pp. 97、291）。\n\n## 延伸閱讀\n\n- [[s-1852-marie-therese-temple]]\n- [[s-1883-tourzel-memoires]]\n- [[s-2026-mensch-reine-morte]]\n- [[s-2013-chatenet-becquet-review]]\n- [[s-1990-boutry-roi-martyr]]\n- 相關故事：[[t-children]]、[[t-temple]]、[[t-louis17]]、[[t-elisabeth]]、[[t-reburial]]\n\n## 還不知道的事\n\n- 她在 1814 年隨波旁王朝回到法國、1815 年參與尋找父母遺骸的事（見 [[t-reburial]]），本站還沒讀到她自己的記述。\n- 國王的侍從于埃（Hue）寫過她在聖殿塔最後幾個月的經過，本站還沒讀到。\n- 19 世紀以來一直有人說，被交換出去的並不是真的瑪麗－泰蕾茲，真正的她隱居在德國，就是所謂的「黑暗伯爵夫人」。據報導，2013 年曾開棺做 DNA 檢驗，結果不支持這個說法，但本站還沒讀到原始研究論文，所以暫時不寫進故事。\n- 貝凱 2012 年的傳記原書，本站還沒讀到。\n",
    "links": [
     "s-1852-marie-therese-temple",
     "s-1883-tourzel-memoires",
     "s-1899-elisabeth-life-letters-en",
+    "s-1990-boutry-roi-martyr",
+    "s-2013-chatenet-becquet-review",
+    "s-2026-mensch-reine-morte",
     "t-children",
     "t-elisabeth",
     "t-execution",
@@ -2991,10 +3388,12 @@
     "s-1822-weber-memoires-v2",
     "s-1866-arneth-marie-antoinette",
     "s-1883-tourzel-memoires",
-    "s-1877-klinckowstrom-fersen"
+    "s-1877-klinckowstrom-fersen",
+    "s-1992-wolf-duport-mercy",
+    "s-1989-wolf-lameth-mercy"
    ],
    "updated": "2026-11-16",
-   "body": "## 一句話說明\n\n1789 年以後，王后最怕的人，都在國民議會的講台上。可是在杜樂麗宮的那兩年，她先後和其中兩位最有名的演說家暗中往來：一位是收了宮廷錢的米拉波（Mirabeau），一位是在瓦雷納回程馬車上被她打動的年輕律師巴納夫（Barnave）。兩條線都沒有救回王室，兩個人的下場也都不好。\n\n## 迷思與史料\n\n「米拉波吻了王后的手，說『這一吻救了君主制』」是很有名的場面，常被放在 1790 年 7 月兩人在聖克盧的會面。史料裡這句話有兩個版本。王后的貼身女官康龐夫人說，那次會面結束時，米拉波對王后說的是：「夫人，君主制得救了！」她沒有提到吻手（[[s-1823-campan-memoires]] 第 2 冊約 p. 127）。吻手的故事出自王后的奶兄弟韋伯（Weber）1822 年的回憶錄註腳：他說是聽米拉波身邊的人轉述的，時間是米拉波「第一次」求見王后、要告辭時，米拉波說「您的母親女皇接見臣民，從來不會不讓人親吻她的手」，王后便主動伸出手，米拉波大喊：「這一吻救了君主制！」（本站譯）（[[s-1822-weber-memoires-v2]] 約 p. 37 註）\n\n所以，這句話有出處，但只是二手傳聞，場合也不一定是聖克盧。有趣的是，康龐夫人筆下真正請求親吻王后的手、而且如願以償的人，是巴納夫（見下文）。判定為「半真半假」。\n\n## 故事是這樣的\n\n### 欠了二十萬法郎的演說家\n\n米拉波是國民議會最有名的演說家，也是出了名的負債累累。他的朋友拉馬克伯爵（comte de La Marck）後來寫下宮廷收買他的經過：米拉波交出一份債務清單，總數 208,000 法郎，連結婚禮服的錢都還沒付；他說債太多了不指望全部還清，只求「每月能拿到一百路易」（本站譯）（[[s-1851-mirabeau-lamarck]] 第 1 冊 pp. 113–114）。\n\n國王最後的決定比他要的還多：先替他還債，每月給六千里弗爾，再開四張各 25 萬里弗爾、共一百萬的票據，等議會會期結束時交給他（[[s-1851-mirabeau-lamarck]] 第 1 冊 pp. 116–117）。1790 年 6 月，王后寫信給奧地利大使梅西，說和米拉波的談判還在進行，「如果他是誠懇的」，她很滿意（[[s-1866-arneth-marie-antoinette]] 第 71 封，p. 129）。\n\n{{photo:t-secret-mirabeau.jpg|博茲（Joseph Boze）所畫的米拉波肖像，現藏巴黎卡納瓦雷博物館。|Wikimedia Commons，Public domain}}\n\n### 聖克盧的早晨\n\n會面安排在 1790 年 7 月初，王室在巴黎郊外的聖克盧（Saint-Cloud）度夏。拉馬克的書在正文說原訂 7 月 5 日，編者的註腳則說實際是 7 月 3 日早上八點（[[s-1851-mirabeau-lamarck]] 第 1 冊 p. 154 及註）。為了掩人耳目，米拉波前一晚住在巴黎城外外甥女家（[[s-1851-mirabeau-lamarck]] 第 1 冊 p. 154）。\n\n會面的經過有兩個版本。康龐夫人說，王后獨自在私人花園最高處的一個圓環等他，因為米拉波的長相太有名，不能讓他進房間；她特別在註腳裡反駁別的作者說的「在王后房間裡」（[[s-1823-campan-memoires]] 第 2 冊約 p. 126 及註）。拉馬克的書卻說，就是在王后的房間，國王也在場（[[s-1851-mirabeau-lamarck]] 第 1 冊 p. 154）。\n\n王后後來得意地向康龐夫人轉述自己的開場白：面對一個普通的敵人，她這樣做會很不得體，「但是面對一個米拉波……」康龐夫人說，王后很高興自己用這句話把他捧到了所有人之上（[[s-1823-campan-memoires]] 第 2 冊約 pp. 126–127）。不過拉馬克記下的，是王后私下對他說的另一面：第一眼看到米拉波時，她感到一陣「恐懼與厭惡」，事後還不舒服了好一陣子（本站譯）（[[s-1851-mirabeau-lamarck]] 第 1 冊 pp. 154–155）。米拉波則說他離開時興奮極了：「我寧可死，也不會違背我的承諾。」（本站譯）（[[s-1851-mirabeau-lamarck]] 第 1 冊 p. 155）\n\n兩天後，巴黎街頭就有人在喊「米拉波大叛國」，報紙登出他去了聖克盧；國民議會的調查委員會查不出證據，事情不了了之（[[s-1851-mirabeau-lamarck]] 第 1 冊 p. 155）。\n\n### 「我們失去的比妳想的多」\n\n這條線並不順。1790 年 10 月，王后寫信告訴梅西，米拉波堅持要當議會主席，「好能見到我們、跟我們說話」；但她查過，國王接見議長時門是開著的，這個位子能做的事有限（[[s-1866-arneth-marie-antoinette]] 第 77 封，p. 138）。1791 年 3 月，費爾森寫信給瑞典的朋友：米拉波「還在拿宮廷的錢」，可是他得披著民主派的外衣，能做的好事沒有以前多了（本站譯）（[[s-1877-klinckowstrom-fersen]] 1791 年 3 月 8 日信；另見 [[t-fersen]]）。\n\n1791 年 4 月 2 日，米拉波病逝，才四十二歲。王室子女的家庭教師圖澤爾夫人說，她親耳聽到國王對王后說：「夫人，別因為米拉波死了就高興，我們失去的比妳想的還多。」（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊）她也記下，王后問參與解剖的醫生，能不能保證他不是被毒死的，醫生的回答含糊其詞（[[s-1883-tourzel-memoires]] 第 1 冊）。梅西從布魯塞爾回信說，這個消息「在好幾方面」都讓他不安（本站譯）（[[s-1866-arneth-marie-antoinette]] 第 88 封）。\n\n### 回程馬車上的巴納夫\n\n兩個多月後，王室逃往瓦雷納失敗，國民議會派了三位代表去押他們回來，二十九歲的巴納夫是其中之一。圖澤爾夫人說，回巴黎的馬車裡，巴納夫坐在後座，夾在國王和王后中間（[[s-1883-tourzel-memoires]] 第 1 冊；另見 [[t-varennes]]）。\n\n{{photo:t-secret-barnave.jpg|約 1789 年的巴納夫肖像版畫，庫爾布（Courbe）刻；現藏巴黎卡納瓦雷博物館。|Wikimedia Commons，CC0}}\n\n路上，一位鄉下神父被群眾押著，眼看要被打死。圖澤爾夫人說是國王請巴納夫救人，巴納夫照做了；康龐夫人書後的附錄則說，是巴納夫自己探出車窗大喊：「我們是被老虎包圍了嗎？」伊莉莎白夫人怕他摔出去，還抓住了他的衣角（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊；[[s-1823-campan-memoires]] 第 2 冊附錄 pp. 334–335；另見 [[t-elisabeth]]）。\n\n國王的妹妹伊莉莎白夫人在車上跟他講了一個多小時，一條一條列出國王這幾年的讓步。圖澤爾夫人說，那次談話之後，巴納夫的態度就變了（[[s-1883-tourzel-memoires]] 第 1 冊）。在布魯塞爾等消息的費爾森，只在日記裡寫：「巴納夫和佩蒂翁坐在馬車裡，太可怕了！」（本站譯）（[[s-1877-klinckowstrom-fersen]] 1791 年 6 月 28 日日記）\n\n### 杜樂麗宮的小門\n\n1791 年 8 月，王后寫信給梅西，說她現在和巴納夫、拉梅特（Lameth）秘密通信，「連他們的朋友都不知道」；她說這兩人是「唯一可以談判的人」，她在他們身上看到的只有坦率，他們真心想恢復秩序，也就想恢復王權（本站譯）（[[s-1866-arneth-marie-antoinette]] 第 114 封，p. 194）。\n\n康龐夫人說，巴納夫只能從杜樂麗宮一扇小門進來，常常得在走廊上等兩個小時；她就守在夾層的小門旁接他，國王則一直跑來問有沒有人經過。國王怕事情被揭穿，說「這個可憐人就完了」，王后乾脆自己接手守門（[[s-1823-campan-memoires]] 第 2 冊約 pp. 187–188）。巴納夫還要求王后寫的每一封信都先給他看，怕她的私人通信打亂他的計畫（[[s-1823-campan-memoires]] 第 2 冊約 p. 200）。\n\n### 「我只求親吻您的手」\n\n1791 年 9 月，新憲法送到國王手上。巴納夫勸王后接受，並組一個合乎憲法的新宮廷；他在信裡把她比作傳說中混在少女堆裡、卻一眼挑中寶劍的少年阿基里斯（[[s-1823-campan-memoires]] 第 2 冊約 p. 165）。王后不肯，她說，真那樣做，身邊就不會再有一個貴族了（[[s-1823-campan-memoires]] 第 2 冊約 pp. 165–166）。\n\n康龐夫人說，巴納夫最後一次見王后時，對她說，他看不出王后現在照著走的計畫有什麼勝算，「我很確定要用我的頭，來償還您的不幸在我心裡引起的關切」；他只求一個報償：「親吻您的手的榮幸」。王后含著眼淚答應了（本站譯）（[[s-1823-campan-memoires]] 第 2 冊約 p. 209）。\n\n他說中了。1792 年 8 月，議會下令起訴他，他在家鄉格勒諾布爾被捕，關了十五個月，再押到巴黎受審，1793 年秋天被送上斷頭台。康龐夫人書中的註腳說，他在台上說：「這就是我為自由做的一切所換來的報償！」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊約 pp. 206–207 註）\n\n## 研究者怎麼看\n\n- 米拉波收錢這件事，1792 年在杜樂麗宮的「鐵櫃」裡被翻出證據之後就公開了；1851 年出版的拉馬克通信集，提供了最完整的內情。拉馬克是中間人，他的記述會替自己和米拉波說話（[[s-1851-mirabeau-lamarck]]）。\n- 王后對兩人的真實態度很難判斷：她對梅西說米拉波「如果誠懇」就好，對拉馬克說見到他時又恐懼又厭惡；她說巴納夫坦率，但同一時期，她也透過費爾森寫信給外國宮廷（[[s-1866-arneth-marie-antoinette]]；[[s-1851-mirabeau-lamarck]]；另見 [[t-fersen]]）。（推論）對她來說，這些談判更像是爭取時間。\n- 王后與巴納夫之間的往來信件，1912 年才在瑞典一座城堡的檔案裡被找到，後來出版；有人認為那些信是在巴納夫口述下寫成的，真偽和寫法都有爭議。本站只讀到一篇 1937 年的書評轉述，還沒讀到信件本身。\n\n## 延伸閱讀\n\n- [[s-1851-mirabeau-lamarck]]\n- [[s-1823-campan-memoires]]\n- [[s-1822-weber-memoires-v2]]\n- [[s-1866-arneth-marie-antoinette]]\n- 相關故事：[[t-varennes]]、[[t-fersen]]、[[t-elisabeth]]、[[t-august10]]\n\n## 還不知道的事\n\n- 巴納夫被處決的日期：康龐夫人書中的註腳寫 1793 年 10 月 29 日，本站還沒找到其他可靠出處核對。\n- 聖克盧會面的確切日期（7 月 3 日還是 5 日）、地點（花園還是房間）、國王在不在場，各家說法不同。\n- 王后與巴納夫的通信全文（1934 年出版），以及英國歷史學者哈德曼（John Hardman）2023 年的巴納夫傳記，本站都還沒讀到。\n",
+   "body": "## 一句話說明\n\n1789 年以後，王后最怕的人，都在國民議會的講台上。可是在杜樂麗宮的那兩年，她先後和其中兩位最有名的演說家暗中往來：一位是收了宮廷錢的米拉波（Mirabeau），一位是在瓦雷納回程馬車上被她打動的年輕律師巴納夫（Barnave）。兩條線都沒有救回王室，兩個人的下場也都不好。\n\n## 迷思與史料\n\n「米拉波吻了王后的手，說『這一吻救了君主制』」是很有名的場面，常被放在 1790 年 7 月兩人在聖克盧的會面。史料裡這句話有兩個版本。王后的貼身女官康龐夫人說，那次會面結束時，米拉波對王后說的是：「夫人，君主制得救了！」她沒有提到吻手（[[s-1823-campan-memoires]] 第 2 冊約 p. 127）。吻手的故事出自王后的奶兄弟韋伯（Weber）1822 年的回憶錄註腳：他說是聽米拉波身邊的人轉述的，時間是米拉波「第一次」求見王后、要告辭時，米拉波說「您的母親女皇接見臣民，從來不會不讓人親吻她的手」，王后便主動伸出手，米拉波大喊：「這一吻救了君主制！」（本站譯）（[[s-1822-weber-memoires-v2]] 約 p. 37 註）\n\n所以，這句話有出處，但只是二手傳聞，場合也不一定是聖克盧。有趣的是，康龐夫人筆下真正請求親吻王后的手、而且如願以償的人，是巴納夫（見下文）。判定為「半真半假」。\n\n## 故事是這樣的\n\n### 欠了二十萬法郎的演說家\n\n米拉波是國民議會最有名的演說家，也是出了名的負債累累。他的朋友拉馬克伯爵（comte de La Marck）後來寫下宮廷收買他的經過：米拉波交出一份債務清單，總數 208,000 法郎，連結婚禮服的錢都還沒付；他說債太多了不指望全部還清，只求「每月能拿到一百路易」（本站譯）（[[s-1851-mirabeau-lamarck]] 第 1 冊 pp. 113–114）。\n\n國王最後的決定比他要的還多：先替他還債，每月給六千里弗爾，再開四張各 25 萬里弗爾、共一百萬的票據，等議會會期結束時交給他（[[s-1851-mirabeau-lamarck]] 第 1 冊 pp. 116–117）。1790 年 6 月，王后寫信給奧地利大使梅西，說和米拉波的談判還在進行，「如果他是誠懇的」，她很滿意（[[s-1866-arneth-marie-antoinette]] 第 71 封，p. 129）。\n\n{{photo:t-secret-mirabeau.jpg|博茲（Joseph Boze）所畫的米拉波肖像，現藏巴黎卡納瓦雷博物館。|Wikimedia Commons，Public domain}}\n\n### 聖克盧的早晨\n\n會面安排在 1790 年 7 月初，王室在巴黎郊外的聖克盧（Saint-Cloud）度夏。拉馬克的書在正文說原訂 7 月 5 日，編者的註腳則說實際是 7 月 3 日早上八點（[[s-1851-mirabeau-lamarck]] 第 1 冊 p. 154 及註）。為了掩人耳目，米拉波前一晚住在巴黎城外外甥女家（[[s-1851-mirabeau-lamarck]] 第 1 冊 p. 154）。\n\n會面的經過有兩個版本。康龐夫人說，王后獨自在私人花園最高處的一個圓環等他，因為米拉波的長相太有名，不能讓他進房間；她特別在註腳裡反駁別的作者說的「在王后房間裡」（[[s-1823-campan-memoires]] 第 2 冊約 p. 126 及註）。拉馬克的書卻說，就是在王后的房間，國王也在場（[[s-1851-mirabeau-lamarck]] 第 1 冊 p. 154）。\n\n王后後來得意地向康龐夫人轉述自己的開場白：面對一個普通的敵人，她這樣做會很不得體，「但是面對一個米拉波……」康龐夫人說，王后很高興自己用這句話把他捧到了所有人之上（[[s-1823-campan-memoires]] 第 2 冊約 pp. 126–127）。不過拉馬克記下的，是王后私下對他說的另一面：第一眼看到米拉波時，她感到一陣「恐懼與厭惡」，事後還不舒服了好一陣子（本站譯）（[[s-1851-mirabeau-lamarck]] 第 1 冊 pp. 154–155）。米拉波則說他離開時興奮極了：「我寧可死，也不會違背我的承諾。」（本站譯）（[[s-1851-mirabeau-lamarck]] 第 1 冊 p. 155）\n\n兩天後，巴黎街頭就有人在喊「米拉波大叛國」，報紙登出他去了聖克盧；國民議會的調查委員會查不出證據，事情不了了之（[[s-1851-mirabeau-lamarck]] 第 1 冊 p. 155）。\n\n### 「我們失去的比妳想的多」\n\n這條線並不順。1790 年 10 月，王后寫信告訴梅西，米拉波堅持要當議會主席，「好能見到我們、跟我們說話」；但她查過，國王接見議長時門是開著的，這個位子能做的事有限（[[s-1866-arneth-marie-antoinette]] 第 77 封，p. 138）。1791 年 3 月，費爾森寫信給瑞典的朋友：米拉波「還在拿宮廷的錢」，可是他得披著民主派的外衣，能做的好事沒有以前多了（本站譯）（[[s-1877-klinckowstrom-fersen]] 1791 年 3 月 8 日信；另見 [[t-fersen]]）。\n\n1791 年 4 月 2 日，米拉波病逝，才四十二歲。王室子女的家庭教師圖澤爾夫人說，她親耳聽到國王對王后說：「夫人，別因為米拉波死了就高興，我們失去的比妳想的還多。」（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊）她也記下，王后問參與解剖的醫生，能不能保證他不是被毒死的，醫生的回答含糊其詞（[[s-1883-tourzel-memoires]] 第 1 冊）。梅西從布魯塞爾回信說，這個消息「在好幾方面」都讓他不安（本站譯）（[[s-1866-arneth-marie-antoinette]] 第 88 封）。\n\n### 回程馬車上的巴納夫\n\n兩個多月後，王室逃往瓦雷納失敗，國民議會派了三位代表去押他們回來，二十九歲的巴納夫是其中之一。圖澤爾夫人說，回巴黎的馬車裡，巴納夫坐在後座，夾在國王和王后中間（[[s-1883-tourzel-memoires]] 第 1 冊；另見 [[t-varennes]]）。\n\n{{photo:t-secret-barnave.jpg|約 1789 年的巴納夫肖像版畫，庫爾布（Courbe）刻；現藏巴黎卡納瓦雷博物館。|Wikimedia Commons，CC0}}\n\n路上，一位鄉下神父被群眾押著，眼看要被打死。圖澤爾夫人說是國王請巴納夫救人，巴納夫照做了；康龐夫人書後的附錄則說，是巴納夫自己探出車窗大喊：「我們是被老虎包圍了嗎？」伊莉莎白夫人怕他摔出去，還抓住了他的衣角（本站譯）（[[s-1883-tourzel-memoires]] 第 1 冊；[[s-1823-campan-memoires]] 第 2 冊附錄 pp. 334–335；另見 [[t-elisabeth]]）。\n\n國王的妹妹伊莉莎白夫人在車上跟他講了一個多小時，一條一條列出國王這幾年的讓步。圖澤爾夫人說，那次談話之後，巴納夫的態度就變了（[[s-1883-tourzel-memoires]] 第 1 冊）。在布魯塞爾等消息的費爾森，只在日記裡寫：「巴納夫和佩蒂翁坐在馬車裡，太可怕了！」（本站譯）（[[s-1877-klinckowstrom-fersen]] 1791 年 6 月 28 日日記）\n\n### 杜樂麗宮的小門\n\n1791 年 8 月，王后寫信給梅西，說她現在和巴納夫、拉梅特（Lameth）秘密通信，「連他們的朋友都不知道」；她說這兩人是「唯一可以談判的人」，她在他們身上看到的只有坦率，他們真心想恢復秩序，也就想恢復王權（本站譯）（[[s-1866-arneth-marie-antoinette]] 第 114 封，p. 194）。\n\n康龐夫人說，巴納夫只能從杜樂麗宮一扇小門進來，常常得在走廊上等兩個小時；她就守在夾層的小門旁接他，國王則一直跑來問有沒有人經過。國王怕事情被揭穿，說「這個可憐人就完了」，王后乾脆自己接手守門（[[s-1823-campan-memoires]] 第 2 冊約 pp. 187–188）。巴納夫還要求王后寫的每一封信都先給他看，怕她的私人通信打亂他的計畫（[[s-1823-campan-memoires]] 第 2 冊約 p. 200）。\n\n### 「我只求親吻您的手」\n\n1791 年 9 月，新憲法送到國王手上。巴納夫勸王后接受，並組一個合乎憲法的新宮廷；他在信裡把她比作傳說中混在少女堆裡、卻一眼挑中寶劍的少年阿基里斯（[[s-1823-campan-memoires]] 第 2 冊約 p. 165）。王后不肯，她說，真那樣做，身邊就不會再有一個貴族了（[[s-1823-campan-memoires]] 第 2 冊約 pp. 165–166）。\n\n康龐夫人說，巴納夫最後一次見王后時，對她說，他看不出王后現在照著走的計畫有什麼勝算，「我很確定要用我的頭，來償還您的不幸在我心裡引起的關切」；他只求一個報償：「親吻您的手的榮幸」。王后含著眼淚答應了（本站譯）（[[s-1823-campan-memoires]] 第 2 冊約 p. 209）。\n\n他說中了。1792 年 8 月，議會下令起訴他，他在家鄉格勒諾布爾被捕，關了十五個月，再押到巴黎受審，1793 年秋天被送上斷頭台。康龐夫人書中的註腳說，他在台上說：「這就是我為自由做的一切所換來的報償！」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊約 pp. 206–207 註）\n\n## 研究者怎麼看\n\n- 米拉波收錢這件事，1792 年在杜樂麗宮的「鐵櫃」裡被翻出證據之後就公開了；1851 年出版的拉馬克通信集，提供了最完整的內情。拉馬克是中間人，他的記述會替自己和米拉波說話（[[s-1851-mirabeau-lamarck]]）。\n- 王后對兩人的真實態度很難判斷：她對梅西說米拉波「如果誠懇」就好，對拉馬克說見到他時又恐懼又厭惡；她說巴納夫坦率，但同一時期，她也透過費爾森寫信給外國宮廷（[[s-1866-arneth-marie-antoinette]]；[[s-1851-mirabeau-lamarck]]；另見 [[t-fersen]]）。（推論）對她來說，這些談判更像是爭取時間。\n- 1792 年春天對奧地利宣戰後，立憲派還有沒有透過梅西偷偷跟維也納談和？法國歷史學者沃爾夫（Wolf）1992 年翻查維也納檔案後認為「幾乎可以確定」沒有：當時傳說有個叫「杜爾哥」的密使跑去維也納談判，檔案裡卻完全找不到這個人；拉梅特在王政倒台後寫給梅西的三封信，整整八頁，對祕密談判也隻字未提（本站譯）（[[s-1992-wolf-duport-mercy]] p. 224）。這三封信是 1792 年 8 月，拉梅特跟著拉法葉逃出法國、在比利時被奧軍扣留時寫的，他在信裡說「我們只能暫時屈服於情勢」（本站譯）（[[s-1989-wolf-lameth-mercy]] p. 307；另見 [[t-lafayette]]）。\n- 王后與巴納夫之間的往來信件，1912 年才在瑞典一座城堡的檔案裡被找到，後來出版；有人認為那些信是在巴納夫口述下寫成的，真偽和寫法都有爭議。本站只讀到一篇 1937 年的書評轉述，還沒讀到信件本身。\n\n## 延伸閱讀\n\n- [[s-1992-wolf-duport-mercy]]\n- [[s-1989-wolf-lameth-mercy]]\n- [[s-1851-mirabeau-lamarck]]\n- [[s-1823-campan-memoires]]\n- [[s-1822-weber-memoires-v2]]\n- [[s-1866-arneth-marie-antoinette]]\n- 相關故事：[[t-varennes]]、[[t-fersen]]、[[t-elisabeth]]、[[t-august10]]\n\n## 還不知道的事\n\n- 巴納夫被處決的日期：康龐夫人書中的註腳寫 1793 年 10 月 29 日，本站還沒找到其他可靠出處核對。\n- 聖克盧會面的確切日期（7 月 3 日還是 5 日）、地點（花園還是房間）、國王在不在場，各家說法不同。\n- 王后與巴納夫的通信全文（1934 年出版），以及英國歷史學者哈德曼（John Hardman）2023 年的巴納夫傳記，本站都還沒讀到。\n",
    "links": [
     "s-1822-weber-memoires-v2",
     "s-1823-campan-memoires",
@@ -3002,9 +3401,12 @@
     "s-1866-arneth-marie-antoinette",
     "s-1877-klinckowstrom-fersen",
     "s-1883-tourzel-memoires",
+    "s-1989-wolf-lameth-mercy",
+    "s-1992-wolf-duport-mercy",
     "t-august10",
     "t-elisabeth",
     "t-fersen",
+    "t-lafayette",
     "t-varennes"
    ]
   },
@@ -3240,14 +3642,20 @@
    "imageAlt": "粉彩畫風插畫：明亮的小書房裡，一位穿粉紅小禮服的少女坐在寫字桌前，身旁穿黑袍的神父正指著書頁講解。",
    "sources": [
     "s-1874-arneth-mercy-correspondance",
-    "s-1823-campan-memoires"
+    "s-1823-campan-memoires",
+    "s-2025-seth-antoine",
+    "s-1879-goncourt-marie-antoinette",
+    "s-1903-funck-brentano-collier"
    ],
    "updated": "2026-11-16",
-   "body": "## 一句話說明\n\n韋爾蒙神父（abbé de Vermond）是 1769 年被派去維也納、教小公主法文的老師。她嫁到法國後，他也跟著來，一待就是二十年：替她讀信、改信，也把她的私事告訴奧地利大使梅西。兩份主要史料對他的評價完全相反，康龐夫人說他害了王后，梅西書信集的編者則說他忠心又有用。\n\n## 故事是這樣的\n\n### 從圖書館到維也納\n\n梅西書信集的編者在註解裡介紹他：1735 年出生，出身低微，原本是巴黎馬薩林學院（collège Mazarin）的圖書館員；1769 年，法國首相舒瓦瑟爾派他到維也納，負責已經許婚給王太子的小公主的教育。瑪麗亞．特蕾莎很信任他，希望他以「讀書侍從」的身分一直跟著女兒（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 7 註）。\n\n康龐夫人講的版本比較曲折：好幾位有名望的神職人員都不肯接這份棘手的差事，女皇提名的人選又各有派系背景；正當舒瓦瑟爾為難時，圖盧茲大主教（後來的桑斯大主教）走進他的辦公室，推薦了「四國學院」（collège des Quatre-Nations）的圖書館員韋爾蒙，舒瓦瑟爾當天就答應了（[[s-1823-campan-memoires]] 第 1 冊 pp. 41–42）。（推論）馬薩林學院和四國學院其實是同一所學校的兩個名字，兩份史料在這一點上不算矛盾；真正不同的是推薦的過程。\n\n### 女皇晚上的小圈子\n\n康龐夫人說，韋爾蒙後來很愛炫耀他在維也納怎麼擠進皇室的私人圈子。女皇在女兒房裡遇見他，問他在維也納交了什麼朋友，他回答：「沒有，夫人。公主的房間和法國大使的官邸，是負責教育公主的人唯一該去的地方。」一個月後女皇又問了一次，他的回答一字不差。第二天，他就接到命令，每晚都去參加皇室家人的聚會，約瑟夫二世和幾位大公主都在那裡（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 pp. 43–44）。\n\n### 他到底教了什麼？\n\n康龐夫人對他非常不客氣。她說，韋爾蒙在學生最容易受影響的年紀建立了自己的影響力，「一心只想讓學生喜歡他，很少花心思教她」，甚至可以懷疑他是故意讓她保持無知；結果王后法文說得很好，寫得卻差一些，而她寄回維也納的每一封信，韋爾蒙都要先看過（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 42）。\n\n梅西書信集的編者也不怎麼欣賞他。編者說，維也納檔案館裡有很多他的信，但他們沒有全部出版，因為韋爾蒙「寫得很差、很囉嗦，常常沒有有用的資訊」；整體來看，他是個平庸的人，似乎不太懂得引起年輕人的興趣（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊導言 pp. XXV–XXVI）。編者也說，女皇一再要求女兒固定讀書，韋爾蒙花了很長時間努力，卻一直沒成功（[[s-1874-arneth-mercy-correspondance]] 第 1 冊導言 p. LXIII；另見 [[t-deficit]]）。\n\n### 大使的耳目\n\n但同一位編者強調了他真正的角色：他是梅西的親信和代理人，梅西靠他知道王后身邊的私密細節，再傳回維也納（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 7 註）。康龐夫人也看出這一點。她在註腳裡記下一段對話：有人在梅西家和韋爾蒙吃過飯後，問大使怎麼受得了「這個無聊的話匣子」；梅西回答：「您自己就答得出來：因為我需要他。」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 44 註）\n\n康龐夫人筆下的韋爾蒙，是個性格矛盾的人：出身小資產階級，滿腦子新式哲學，卻比誰都在乎教會的階級；愛說話又精明，長得很醜，喜歡裝特立獨行；把地位最高的人當成平輩，有時甚至當成下屬，還會在洗澡時接見大臣和主教（[[s-1823-campan-memoires]] 第 1 冊 p. 44）。她還說，他是鄉下外科醫生的兒子，哥哥後來當了王后的接生醫生；在王后房裡，他從不叫哥哥的名字，只叫他「那個接生的」（[[s-1823-campan-memoires]] 第 1 冊 p. 44 註）。\n\n### 1773 年：差點辭職\n\n1773 年夏天，韋爾蒙寫了一封長信要求退休。梅西書信集的編者整理了信的內容：他覺得王太子不喜歡他，因為王太子從來沒跟他說過一句話；太子妃似乎也厭煩他，不理會他的勸告；至於讀書侍從的工作，一個侍女就可以代替（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 39 註）。\n\n梅西說，信裡有好幾條理由確實很難反駁，尤其是王太子的態度；但他認為王太子不是討厭他，只是在一個公認有學問的人面前害羞（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 pp. 39–40）。梅西把信交給太子妃，第二天早上她就派人來找他，看起來很不安，說無論如何都不准他走，最擔心的是母親會因此不放心（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 40）。韋爾蒙留了下來。\n\n### 十七年的耐心\n\n康龐夫人說，韋爾蒙對當年推薦他的大主教一直心存感激，花了十七年，終於讓這位大主教當上財政首長（[[s-1823-campan-memoires]] 第 1 冊 p. 42）。1787 年大主教上任時，她好幾次聽到韋爾蒙說：在宮廷裡，十七年的耐心不算太久，現在大主教終於坐到了他該坐的位子；從那以後，他在王后的內室裡再也不掩飾自己的影響力（[[s-1823-campan-memoires]] 第 2 冊 p. 27）。\n\n### 1789 年：第一個被送走的人\n\n1789 年 7 月，攻占巴士底之後，王后的閨蜜波利尼亞克夫人出走流亡。康龐夫人說，這一來所有的怨恨都落到了韋爾蒙身上，大家已經在說他是「有害人民幸福的顧問」；王后很害怕，勸他先到瓦朗謝訥去，他在那裡只待了幾天，就去了維也納，從此沒有回來（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 p. 65；另見 [[t-polignac]]）。\n\n7 月 17 日夜裡，王后睡不著，要康龐夫人陪到凌晨三點。王后說，就算危機過去，韋爾蒙也要很久才能回宮，因為大家很難原諒他跟那位大主教的關係，而她失去了一個非常忠心的僕人。康龐夫人說，那晚她批評韋爾蒙「天生多嘴又不謹慎，才故意裝出古怪粗魯的樣子來掩飾」，王后打斷她：「啊，說得真對！」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 pp. 66–67）她後來也發現，王后雖然非常信任韋爾蒙，卻也悄悄留了一手，以防自己被他左右得太深（[[s-1823-campan-memoires]] 第 2 冊 p. 67）。\n\n## 研究者怎麼看\n\n- 兩份史料對他的評價截然相反。康龐夫人說他對王后影響「致命」，害她無知、讓她做出看不清後果的事；梅西書信集的編者明白反駁，說他們的書信會顯示他是「對王后既忠心又有用的僕人」（[[s-1823-campan-memoires]] 第 1 冊 pp. 42–44；[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 7 註）。\n- 康龐夫人的敵意有私人原因：王后告訴她，韋爾蒙不能忍受康龐夫人的公公擔任王后的內廷秘書（[[s-1823-campan-memoires]] 第 2 冊 p. 66）。\n- 推薦他的人是誰，兩份史料說法不同：梅西書信集說是舒瓦瑟爾派他去，康龐夫人說是圖盧茲大主教向舒瓦瑟爾推薦（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 7 註；[[s-1823-campan-memoires]] 第 1 冊 pp. 41–42）。\n- 本站還沒讀到研究韋爾蒙的學術著作。\n\n## 延伸閱讀\n\n- [[s-1874-arneth-mercy-correspondance]]\n- [[s-1823-campan-memoires]]\n- 相關故事：[[t-handover]]、[[t-mesdames]]、[[t-deficit]]、[[t-polignac]]\n- 人物：[[e-mercy]]\n\n## 還不知道的事\n\n- 韋爾蒙 1789 年以後在維也納的生活與死亡年份，本站讀到的史料都沒有寫。\n- 他寫給梅西的信，收在阿內特另一本書《瑪麗亞．特蕾莎與瑪麗．安東尼》的附錄，本站還沒讀到。\n- 1785 年後鑽石項鍊案期間，他扮演什麼角色（康龐夫人第 2 冊提到王后曾找他和布勒特伊男爵商量）。\n",
+   "body": "## 一句話說明\n\n韋爾蒙神父（abbé de Vermond）是 1769 年被派去維也納、教小公主法文的老師。她嫁到法國後，他也跟著來，一待就是二十年：替她讀信、改信，也把她的私事告訴奧地利大使梅西。兩份主要史料對他的評價完全相反，康龐夫人說他害了王后，梅西書信集的編者則說他忠心又有用。\n\n## 故事是這樣的\n\n### 從圖書館到維也納\n\n梅西書信集的編者在註解裡介紹他：1735 年出生，出身低微，原本是巴黎馬薩林學院（collège Mazarin）的圖書館員；1769 年，法國首相舒瓦瑟爾派他到維也納，負責已經許婚給王太子的小公主的教育。瑪麗亞．特蕾莎很信任他，希望他以「讀書侍從」的身分一直跟著女兒（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 7 註）。\n\n康龐夫人講的版本比較曲折：好幾位有名望的神職人員都不肯接這份棘手的差事，女皇提名的人選又各有派系背景；正當舒瓦瑟爾為難時，圖盧茲大主教（後來的桑斯大主教）走進他的辦公室，推薦了「四國學院」（collège des Quatre-Nations）的圖書館員韋爾蒙，舒瓦瑟爾當天就答應了（[[s-1823-campan-memoires]] 第 1 冊 pp. 41–42）。（推論）馬薩林學院和四國學院其實是同一所學校的兩個名字，兩份史料在這一點上不算矛盾；真正不同的是推薦的過程。\n\n### 女皇晚上的小圈子\n\n康龐夫人說，韋爾蒙後來很愛炫耀他在維也納怎麼擠進皇室的私人圈子。女皇在女兒房裡遇見他，問他在維也納交了什麼朋友，他回答：「沒有，夫人。公主的房間和法國大使的官邸，是負責教育公主的人唯一該去的地方。」一個月後女皇又問了一次，他的回答一字不差。第二天，他就接到命令，每晚都去參加皇室家人的聚會，約瑟夫二世和幾位大公主都在那裡（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 pp. 43–44）。\n\n### 他到底教了什麼？\n\n康龐夫人對他非常不客氣。她說，韋爾蒙在學生最容易受影響的年紀建立了自己的影響力，「一心只想讓學生喜歡他，很少花心思教她」，甚至可以懷疑他是故意讓她保持無知；結果王后法文說得很好，寫得卻差一些，而她寄回維也納的每一封信，韋爾蒙都要先看過（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 42）。\n\n梅西書信集的編者也不怎麼欣賞他。編者說，維也納檔案館裡有很多他的信，但他們沒有全部出版，因為韋爾蒙「寫得很差、很囉嗦，常常沒有有用的資訊」；整體來看，他是個平庸的人，似乎不太懂得引起年輕人的興趣（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊導言 pp. XXV–XXVI）。編者也說，女皇一再要求女兒固定讀書，韋爾蒙花了很長時間努力，卻一直沒成功（[[s-1874-arneth-mercy-correspondance]] 第 1 冊導言 p. LXIII；另見 [[t-deficit]]）。\n\n### 大使的耳目\n\n但同一位編者強調了他真正的角色：他是梅西的親信和代理人，梅西靠他知道王后身邊的私密細節，再傳回維也納（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 7 註）。康龐夫人也看出這一點。她在註腳裡記下一段對話：有人在梅西家和韋爾蒙吃過飯後，問大使怎麼受得了「這個無聊的話匣子」；梅西回答：「您自己就答得出來：因為我需要他。」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 44 註）\n\n康龐夫人筆下的韋爾蒙，是個性格矛盾的人：出身小資產階級，滿腦子新式哲學，卻比誰都在乎教會的階級；愛說話又精明，長得很醜，喜歡裝特立獨行；把地位最高的人當成平輩，有時甚至當成下屬，還會在洗澡時接見大臣和主教（[[s-1823-campan-memoires]] 第 1 冊 p. 44）。她還說，他是鄉下外科醫生的兒子，哥哥後來當了王后的接生醫生；在王后房裡，他從不叫哥哥的名字，只叫他「那個接生的」（[[s-1823-campan-memoires]] 第 1 冊 p. 44 註）。\n\n### 1773 年：差點辭職\n\n1773 年夏天，韋爾蒙寫了一封長信要求退休。梅西書信集的編者整理了信的內容：他覺得王太子不喜歡他，因為王太子從來沒跟他說過一句話；太子妃似乎也厭煩他，不理會他的勸告；至於讀書侍從的工作，一個侍女就可以代替（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 39 註）。\n\n梅西說，信裡有好幾條理由確實很難反駁，尤其是王太子的態度；但他認為王太子不是討厭他，只是在一個公認有學問的人面前害羞（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 pp. 39–40）。梅西把信交給太子妃，第二天早上她就派人來找他，看起來很不安，說無論如何都不准他走，最擔心的是母親會因此不放心（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 40）。韋爾蒙留了下來。\n\n### 十七年的耐心\n\n康龐夫人說，韋爾蒙對當年推薦他的大主教一直心存感激，花了十七年，終於讓這位大主教當上財政首長（[[s-1823-campan-memoires]] 第 1 冊 p. 42）。1787 年大主教上任時，她好幾次聽到韋爾蒙說：在宮廷裡，十七年的耐心不算太久，現在大主教終於坐到了他該坐的位子；從那以後，他在王后的內室裡再也不掩飾自己的影響力（[[s-1823-campan-memoires]] 第 2 冊 p. 27）。\n\n### 1789 年：第一個被送走的人\n\n1789 年 7 月，攻占巴士底之後，王后的閨蜜波利尼亞克夫人出走流亡。康龐夫人說，這一來所有的怨恨都落到了韋爾蒙身上，大家已經在說他是「有害人民幸福的顧問」；王后很害怕，勸他先到瓦朗謝訥去，他在那裡只待了幾天，就去了維也納，從此沒有回來（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 p. 65；另見 [[t-polignac]]）。\n\n7 月 17 日夜裡，王后睡不著，要康龐夫人陪到凌晨三點。王后說，就算危機過去，韋爾蒙也要很久才能回宮，因為大家很難原諒他跟那位大主教的關係，而她失去了一個非常忠心的僕人。康龐夫人說，那晚她批評韋爾蒙「天生多嘴又不謹慎，才故意裝出古怪粗魯的樣子來掩飾」，王后打斷她：「啊，說得真對！」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 pp. 66–67）她後來也發現，王后雖然非常信任韋爾蒙，卻也悄悄留了一手，以防自己被他左右得太深（[[s-1823-campan-memoires]] 第 2 冊 p. 67）。\n\n## 研究者怎麼看\n\n- 兩份史料對他的評價截然相反。康龐夫人說他對王后影響「致命」，害她無知、讓她做出看不清後果的事；梅西書信集的編者明白反駁，說他們的書信會顯示他是「對王后既忠心又有用的僕人」（[[s-1823-campan-memoires]] 第 1 冊 pp. 42–44；[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 7 註）。\n- 康龐夫人的敵意有私人原因：王后告訴她，韋爾蒙不能忍受康龐夫人的公公擔任王后的內廷秘書（[[s-1823-campan-memoires]] 第 2 冊 p. 66）。\n- 推薦他的人是誰，兩份史料說法不同：梅西書信集說是舒瓦瑟爾派他去，康龐夫人說是圖盧茲大主教向舒瓦瑟爾推薦（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 7 註；[[s-1823-campan-memoires]] 第 1 冊 pp. 41–42）。\n- 牛津大學的塞斯（Catriona Seth）2025 年的論文，引了韋爾蒙 1769 年 1 月 21 日寫給梅西的信：要讓小公主「只說、只聽純正的法語」，在一個「人人都說三種語言」的宮廷裡根本不可能（本站譯）（[[s-2025-seth-antoine]] p. 207 注 1）。（推論）這封信證明他從一開始就直接寫信給大使；但信裡談的是語言課，不能拿來證明他在「監視」王后。\n- 19 世紀的龔古爾兄弟（Goncourt）在 1879 年的王后傳記裡專門寫了一章給他。他們說，他不是革命小冊子畫的那種頑固反動派，早年還欣賞內克的計畫；但也說他野心很大，十七年來一直想當「沒有部長頭銜的杜布瓦」（本站譯，杜布瓦是攝政時期掌權的樞機主教），1787 年把當年推薦他的布里安送進了內閣（[[s-1879-goncourt-marie-antoinette]] 第 2 部第 7 章）。他們也在註裡自我修正：梅西對韋爾蒙評價不錯，但別忘了韋爾蒙本來就是「瑪麗亞．特蕾莎和她大臣的人」（本站譯）（[[s-1879-goncourt-marie-antoinette]] 注 48）。\n- 1903 年研究項鍊案的芬克－布倫塔諾（Funck-Brentano）延續龔古爾的看法：韋爾蒙的教育沒有收斂王后的個性，反而放大了它；女皇則靠著「忠心的助手梅西伯爵與韋爾蒙神父」（本站譯），讓王后跟羅昂樞機主教保持距離（[[s-1903-funck-brentano-collier]] pp. 39–40、130）。\n- 本站目前讀到的史料和研究，沒有人用「間諜」形容他；比較接近的說法是「女皇的人」「梅西的通信對象」。專門研究韋爾蒙的現代學術著作，本站還沒找到。\n\n## 延伸閱讀\n\n- [[s-1874-arneth-mercy-correspondance]]\n- [[s-1823-campan-memoires]]\n- [[s-2025-seth-antoine]]\n- [[s-1879-goncourt-marie-antoinette]]\n- [[s-1903-funck-brentano-collier]]\n- 相關故事：[[t-handover]]、[[t-mesdames]]、[[t-deficit]]、[[t-polignac]]\n- 人物：[[e-mercy]]\n\n## 還不知道的事\n\n- 韋爾蒙 1789 年以後在維也納的生活與死亡年份，本站讀到的史料都沒有寫。\n- 他寫給梅西的信，收在阿內特另一本書《瑪麗亞．特蕾莎與瑪麗．安東尼》的附錄，本站還沒讀到。\n- 1785 年後鑽石項鍊案期間，他扮演什麼角色。康龐夫人第 2 冊提到王后曾找他和布勒特伊男爵商量；龔古爾兄弟說，主張把案子公開審理的就是這兩人，事後也因此挨罵（[[s-1879-goncourt-marie-antoinette]] 第 2 部第 6 章），但沒有附出處。\n- 龔古爾兄弟引的一封信說他「對你發號施令」、背後有「看不見的力量」（指王后）在操縱（本站譯），註明出自韋伯（Weber）回憶錄第 2 冊，但本站存的韋伯回憶錄裡找不到這段。\n",
    "links": [
     "e-mercy",
     "s-1823-campan-memoires",
     "s-1874-arneth-mercy-correspondance",
+    "s-1879-goncourt-marie-antoinette",
+    "s-1903-funck-brentano-collier",
+    "s-2025-seth-antoine",
     "t-deficit",
     "t-handover",
     "t-mesdames",
@@ -3383,11 +3791,19 @@
    ],
    "summary": "奧地利駐法大使，每個月替瑪麗亞．特蕾莎寫報告，是王后前十年生活最密集的紀錄者。",
    "sources": [
-    "s-1874-arneth-mercy-correspondance"
+    "s-1874-arneth-mercy-correspondance",
+    "s-1994-neuhaus-mercy-ndb",
+    "s-1989-wolf-lameth-mercy",
+    "s-1992-wolf-duport-mercy",
+    "s-1919-hubert-mercy-dispatches"
    ],
-   "body": "## 是什麼\n\n梅西（Florimond-Claude, comte de Mercy-Argenteau）是奧地利駐凡爾賽的大使。瑪麗．安東尼 1770 年嫁到法國後，他每個月寫一份像日記一樣的報告寄回維也納，記下宮裡當月發生的事（[[s-1874-arneth-mercy-correspondance]] 第 1 冊導言 p. IV）。另外還有一份「私密報告」，只給女皇一個人看；女皇 1774 年寫信告訴他，兒子約瑟夫二世想看信時，她只給公開的那些，「祕密的只留給自己」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊導言 pp. III–IV）。\n\n他最重要的眼線，是王后的讀書老師韋爾蒙神父：神父天天見得到王后，大使自己不敢跑得那麼勤（[[s-1874-arneth-mercy-correspondance]] 第 1 冊導言 p. IV；另見 [[t-vermond]]）。書信集的編者阿爾內特（Arneth）說，除了韋爾蒙，當時在法國沒有人比梅西更清楚王后的私事（[[s-1874-arneth-mercy-correspondance]] 第 1 冊導言 pp. IV–V）。\n\n## 在故事裡的角色\n\n本站很多 1770–1780 年的細節都出自他的報告：交接與婚禮、圓房的拖延、他一再安排太子妃開口跟杜巴利夫人說話、豎琴課和歌劇院裡的歡呼、波利尼亞克家拿到的巨額賞賜（[[s-1874-arneth-mercy-correspondance]]）。（推論）讀他的報告要記得兩件事：他的工作就是替女皇盯著女兒、把女兒往奧地利的利益推，所以常常放大王后的「輕率」；編者也說，女皇寫給女兒的信有時幾乎是照梅西的建議寫的（[[s-1874-arneth-mercy-correspondance]] 第 1 冊導言 pp. IV–V）。\n\n本站讀到的三冊書信集只到 1780 年。項鍊案時他的角色、1790 年以後他去布魯塞爾的經過，本站還沒有讀到史料；連他死於 1794 年的倫敦，編者自己都打了問號（[[s-1874-arneth-mercy-correspondance]] 第 1 冊導言 p. III）。\n\n## 出現在哪些主題\n\n- [[t-handover]]、[[t-consummation]]、[[t-dubarry]]、[[t-coronation]]\n- [[t-theatre]]、[[t-pouf]]、[[t-bertin]]、[[t-hameau]]、[[t-table]]\n- [[t-polignac]]、[[t-lamballe]]、[[t-mesdames]]、[[t-vermond]]、[[t-joseph]]\n- [[t-children]]、[[t-deficit]]、[[t-louis]]、[[t-mops]]、[[t-cake]]\n- [[t-secret]]、[[t-lafayette]]、[[t-varennes]]\n",
+   "body": "## 是什麼\n\n梅西（Florimond-Claude, comte de Mercy-Argenteau）是奧地利駐凡爾賽的大使。瑪麗．安東尼 1770 年嫁到法國後，他每個月寫一份像日記一樣的報告寄回維也納，記下宮裡當月發生的事（[[s-1874-arneth-mercy-correspondance]] 第 1 冊導言 p. IV）。另外還有一份「私密報告」，只給女皇一個人看；女皇 1774 年寫信告訴他，兒子約瑟夫二世想看信時，她只給公開的那些，「祕密的只留給自己」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊導言 pp. III–IV）。\n\n他最重要的眼線，是王后的讀書老師韋爾蒙神父：神父天天見得到王后，大使自己不敢跑得那麼勤（[[s-1874-arneth-mercy-correspondance]] 第 1 冊導言 p. IV；另見 [[t-vermond]]）。書信集的編者阿爾內特（Arneth）說，除了韋爾蒙，當時在法國沒有人比梅西更清楚王后的私事（[[s-1874-arneth-mercy-correspondance]] 第 1 冊導言 pp. IV–V）。\n\n他出生在列日（今屬比利時），1766 年起駐巴黎，1790 年 9 月才離開，1794 年死在倫敦；德國的傳記辭典在 1994 年還說，他缺一本現代傳記（[[s-1994-neuhaus-mercy-ndb]]）。他離開巴黎後仍是王后和立憲派傳話的對象：1792 年 8 月王政倒台後，拉梅特逃到比利時，還寫了三封信給他（[[s-1989-wolf-lameth-mercy]] p. 307；另見 [[t-secret]]）。他 1792 年寄回維也納的未刊急件，1919 年由比利時學者胡伯（Hubert）整理出版，本站還沒讀到內文（[[s-1919-hubert-mercy-dispatches]]）。\n\n## 在故事裡的角色\n\n本站很多 1770–1780 年的細節都出自他的報告：交接與婚禮、圓房的拖延、他一再安排太子妃開口跟杜巴利夫人說話、豎琴課和歌劇院裡的歡呼、波利尼亞克家拿到的巨額賞賜（[[s-1874-arneth-mercy-correspondance]]）。（推論）讀他的報告要記得兩件事：他的工作就是替女皇盯著女兒、把女兒往奧地利的利益推，所以常常放大王后的「輕率」；編者也說，女皇寫給女兒的信有時幾乎是照梅西的建議寫的（[[s-1874-arneth-mercy-correspondance]] 第 1 冊導言 pp. IV–V）。\n\n本站讀到的三冊書信集只到 1780 年。項鍊案時他的角色、1790 年以後他去布魯塞爾的經過，本站還沒有讀到史料；連他死於 1794 年的倫敦，編者自己都打了問號（[[s-1874-arneth-mercy-correspondance]] 第 1 冊導言 p. III）。\n\n## 出現在哪些主題\n\n- [[t-handover]]、[[t-consummation]]、[[t-dubarry]]、[[t-coronation]]\n- [[t-theatre]]、[[t-pouf]]、[[t-bertin]]、[[t-hameau]]、[[t-table]]\n- [[t-polignac]]、[[t-lamballe]]、[[t-mesdames]]、[[t-vermond]]、[[t-joseph]]\n- [[t-children]]、[[t-deficit]]、[[t-louis]]、[[t-mops]]、[[t-cake]]\n- [[t-secret]]、[[t-lafayette]]、[[t-varennes]]\n",
    "links": [
     "s-1874-arneth-mercy-correspondance",
+    "s-1919-hubert-mercy-dispatches",
+    "s-1989-wolf-lameth-mercy",
+    "s-1992-wolf-duport-mercy",
+    "s-1994-neuhaus-mercy-ndb",
     "t-bertin",
     "t-cake",
     "t-children",
@@ -3646,6 +4062,18 @@
    "t-fersen"
   ],
   [
+   "s-1879-goncourt-marie-antoinette",
+   "s-1823-campan-memoires"
+  ],
+  [
+   "s-1879-goncourt-marie-antoinette",
+   "s-1874-arneth-mercy-correspondance"
+  ],
+  [
+   "s-1879-goncourt-marie-antoinette",
+   "t-vermond"
+  ],
+  [
    "s-1881-vizetelly-diamond-necklace",
    "t-necklace"
   ],
@@ -3738,6 +4166,22 @@
    "t-elisabeth"
   ],
   [
+   "s-1903-funck-brentano-collier",
+   "s-1823-campan-memoires"
+  ],
+  [
+   "s-1903-funck-brentano-collier",
+   "s-1879-goncourt-marie-antoinette"
+  ],
+  [
+   "s-1903-funck-brentano-collier",
+   "s-2025-seth-antoine"
+  ],
+  [
+   "s-1903-funck-brentano-collier",
+   "t-vermond"
+  ],
+  [
    "s-1907-lenotre-last-days-marie-antoinette",
    "s-1824-lafont-daussonne-memoires"
   ],
@@ -3758,6 +4202,26 @@
    "t-ghost"
   ],
   [
+   "s-1919-hubert-mercy-dispatches",
+   "e-mercy"
+  ],
+  [
+   "s-1919-hubert-mercy-dispatches",
+   "s-1874-arneth-mercy-correspondance"
+  ],
+  [
+   "s-1919-hubert-mercy-dispatches",
+   "s-1989-wolf-lameth-mercy"
+  ],
+  [
+   "s-1919-hubert-mercy-dispatches",
+   "s-1992-wolf-duport-mercy"
+  ],
+  [
+   "s-1919-hubert-mercy-dispatches",
+   "t-secret"
+  ],
+  [
    "s-1989-colwill-citoyenne",
    "t-cake"
   ],
@@ -3770,8 +4234,48 @@
    "t-deficit"
   ],
   [
+   "s-1989-wolf-lameth-mercy",
+   "e-mercy"
+  ],
+  [
+   "s-1989-wolf-lameth-mercy",
+   "s-1919-hubert-mercy-dispatches"
+  ],
+  [
+   "s-1989-wolf-lameth-mercy",
+   "s-1992-wolf-duport-mercy"
+  ],
+  [
+   "s-1989-wolf-lameth-mercy",
+   "t-secret"
+  ],
+  [
+   "s-1990-boutry-roi-martyr",
+   "s-1798-clery-journal"
+  ],
+  [
+   "s-1990-boutry-roi-martyr",
+   "t-madame-royale"
+  ],
+  [
    "s-1992-price-vies-privees",
    "t-libels"
+  ],
+  [
+   "s-1992-wolf-duport-mercy",
+   "e-mercy"
+  ],
+  [
+   "s-1992-wolf-duport-mercy",
+   "s-1919-hubert-mercy-dispatches"
+  ],
+  [
+   "s-1992-wolf-duport-mercy",
+   "s-1989-wolf-lameth-mercy"
+  ],
+  [
+   "s-1992-wolf-duport-mercy",
+   "t-secret"
   ],
   [
    "s-1993-barker-cake",
@@ -3784,6 +4288,14 @@
   [
    "s-1993-barker-cake",
    "t-necklace"
+  ],
+  [
+   "s-1994-neuhaus-mercy-ndb",
+   "e-mercy"
+  ],
+  [
+   "s-1994-neuhaus-mercy-ndb",
+   "s-1874-arneth-mercy-correspondance"
   ],
   [
    "s-1995-sargent-macroeconomic",
@@ -3862,12 +4374,24 @@
    "t-white-hair"
   ],
   [
+   "s-2010-varadi-verbum-memoires",
+   "t-clery"
+  ],
+  [
    "s-2011-andersson-queen-fashion",
    "t-coppola"
   ],
   [
    "s-2012-backman-rogers-threshold",
    "t-coppola"
+  ],
+  [
+   "s-2013-chatenet-becquet-review",
+   "s-2026-mensch-reine-morte"
+  ],
+  [
+   "s-2013-chatenet-becquet-review",
+   "t-madame-royale"
   ],
   [
    "s-2013-nahm-canities-subita",
@@ -3888,6 +4412,26 @@
   [
    "s-2016-versailles-queens-hamlet",
    "t-hameau"
+  ],
+  [
+   "s-2017-niedziela-joseph-ii-paris",
+   "s-1823-campan-memoires"
+  ],
+  [
+   "s-2017-niedziela-joseph-ii-paris",
+   "s-1866-arneth-marie-antoinette"
+  ],
+  [
+   "s-2017-niedziela-joseph-ii-paris",
+   "s-1874-arneth-mercy-correspondance"
+  ],
+  [
+   "s-2017-niedziela-joseph-ii-paris",
+   "t-consummation"
+  ],
+  [
+   "s-2017-niedziela-joseph-ii-paris",
+   "t-joseph"
   ],
   [
    "s-2021-archives-nationales-xray",
@@ -3958,8 +4502,32 @@
    "t-theatre"
   ],
   [
+   "s-2025-seth-antoine",
+   "s-1823-campan-memoires"
+  ],
+  [
+   "s-2025-seth-antoine",
+   "s-1874-arneth-mercy-correspondance"
+  ],
+  [
+   "s-2025-seth-antoine",
+   "t-vermond"
+  ],
+  [
    "s-2026-harvard-gazette-coppola",
    "t-coppola"
+  ],
+  [
+   "s-2026-mensch-reine-morte",
+   "s-2013-chatenet-becquet-review"
+  ],
+  [
+   "s-2026-mensch-reine-morte",
+   "t-madame-royale"
+  ],
+  [
+   "s-2026-varadi-temoins-thesis",
+   "t-clery"
   ],
   [
    "s-2026-versailles-coppola-exhibition",
@@ -4187,6 +4755,14 @@
   ],
   [
    "t-clery",
+   "s-2010-varadi-verbum-memoires"
+  ],
+  [
+   "t-clery",
+   "s-2026-varadi-temoins-thesis"
+  ],
+  [
+   "t-clery",
    "t-august10"
   ],
   [
@@ -4268,6 +4844,10 @@
   [
    "t-consummation",
    "s-2006-stamberg-npr-fraser"
+  ],
+  [
+   "t-consummation",
+   "s-2017-niedziela-joseph-ii-paris"
   ],
   [
    "t-consummation",
@@ -4771,6 +5351,10 @@
   ],
   [
    "t-joseph",
+   "s-2017-niedziela-joseph-ii-paris"
+  ],
+  [
+   "t-joseph",
    "t-consummation"
   ],
   [
@@ -5055,6 +5639,18 @@
   ],
   [
    "t-madame-royale",
+   "s-1990-boutry-roi-martyr"
+  ],
+  [
+   "t-madame-royale",
+   "s-2013-chatenet-becquet-review"
+  ],
+  [
+   "t-madame-royale",
+   "s-2026-mensch-reine-morte"
+  ],
+  [
+   "t-madame-royale",
    "t-children"
   ],
   [
@@ -5323,6 +5919,14 @@
   ],
   [
    "t-secret",
+   "s-1989-wolf-lameth-mercy"
+  ],
+  [
+   "t-secret",
+   "s-1992-wolf-duport-mercy"
+  ],
+  [
+   "t-secret",
    "t-august10"
   ],
   [
@@ -5332,6 +5936,10 @@
   [
    "t-secret",
    "t-fersen"
+  ],
+  [
+   "t-secret",
+   "t-lafayette"
   ],
   [
    "t-secret",
@@ -5623,6 +6231,18 @@
   ],
   [
    "t-vermond",
+   "s-1879-goncourt-marie-antoinette"
+  ],
+  [
+   "t-vermond",
+   "s-1903-funck-brentano-collier"
+  ],
+  [
+   "t-vermond",
+   "s-2025-seth-antoine"
+  ],
+  [
+   "t-vermond",
    "t-deficit"
   ],
   [
@@ -5760,6 +6380,22 @@
   [
    "e-mercy",
    "s-1874-arneth-mercy-correspondance"
+  ],
+  [
+   "e-mercy",
+   "s-1919-hubert-mercy-dispatches"
+  ],
+  [
+   "e-mercy",
+   "s-1989-wolf-lameth-mercy"
+  ],
+  [
+   "e-mercy",
+   "s-1992-wolf-duport-mercy"
+  ],
+  [
+   "e-mercy",
+   "s-1994-neuhaus-mercy-ndb"
   ],
   [
    "e-mercy",
@@ -6045,6 +6681,16 @@
    "date": "2026-11-16",
    "kind": "ingest",
    "title": "收尾：人物頁、真實圖片、兩處修正"
+  },
+  {
+   "date": "2026-11-16",
+   "kind": "rule",
+   "title": "省 token：規則拆檔、引文自動核對"
+  },
+  {
+   "date": "2026-11-16",
+   "kind": "rule",
+   "title": "不用分身派工"
   }
  ],
  "timeline": [
@@ -7047,6 +7693,14 @@
     {
      "claim": "約瑟夫二世的信：國王活在「持續的冷漠」裡，王后對國王「毫無感覺」，信中沒有提到身體問題或手術。",
      "source": "s-1867-arneth-maria-theresia-joseph"
+    },
+    {
+     "claim": "涅杰拉整理：有研究者推測國王在約瑟夫鼓勵下動了包莖手術，但沒有證據證明手術做過；萊弗認為既不能證實也不能否定。",
+     "source": "s-2017-niedziela-joseph-ii-paris"
+    },
+    {
+     "claim": "珀蒂菲斯（涅杰拉轉述）：問題可能在王后，心理緊張造成痙攣，而不是國王的包莖。",
+     "source": "s-2017-niedziela-joseph-ii-paris"
     }
    ],
    "topic": "t-consummation"
