@@ -11,7 +11,7 @@ url: https://archive.org/details/lechteaudebaga00duch
 access: 公開
 depth: 部分
 period: [1715, 1908]
-topics: [t-artois]
+topics: [t-bagatelle]
 entities: []
 reliability: 中
 added: 2026-11-16

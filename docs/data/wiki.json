@@ -3,10 +3,10 @@
  "counts": {
   "sources": 106,
   "fulltext": 25,
-  "topics": 48,
+  "topics": 49,
   "entities": 5,
   "questions": 1,
-  "events": 113,
+  "events": 114,
   "places": 18
  },
  "pages": [
@@ -55,7 +55,7 @@
     1777
    ],
    "topics": [
-    "t-artois"
+    "t-bagatelle"
    ],
    "entities": [],
    "reliability": "中",
@@ -64,7 +64,7 @@
    "links": [
     "s-1874-arneth-mercy-correspondance",
     "s-1909-duchesne-bagatelle",
-    "t-artois"
+    "t-bagatelle"
    ]
   },
   {
@@ -1188,7 +1188,7 @@
     1908
    ],
    "topics": [
-    "t-artois"
+    "t-bagatelle"
    ],
    "entities": [],
    "reliability": "中",
@@ -1196,7 +1196,7 @@
    "body": "## 一句話\n\n一本根據國家檔案館、巴黎省檔案館等檔案寫成的 1909 年專書，把 1777 年阿圖瓦伯爵與王后的賭局、工程過程、花費與 1780 年的落成宴都引了檔案編號。\n\n## 三個重點\n\n1. 作者寫：阿圖瓦伯爵在王后面前打賭，要在 64 天內蓋好，「château fut achevé le 26 novembre」，也就是 1777 年 11 月 26 日完工，他說「élevé en 64 jours」（頁 124 附近，OCR 頁碼推定）。但同一本書也說「到 1777 年底，工程還沒有完成」，後來還一直做到 1780 年代（頁 124–125 附近）。所以 64 天指的是主體建築的完工，不是全部工程。\n2. 工人數：作者引梅西 1777 年 11 月 19 日的信，說「neuf cents ouvriers de tout genre」，日夜趕工（頁 121–122 附近）。Bachaumont 那邊的 800 人在前面已經記下。\n3. 花費：作者寫 Bagatelle「花費超過 300 萬里弗爾」（頁 128 附近），又寫「1778 年 2 月 8 日，阿圖瓦向國王借了一百萬」（頁 125–126 附近）。作者說王后「被迫付出的十萬法郎」（頁 128 附近），但這句話沒有附出處，只能當作作者的說法。\n\n## 用了什麼史料\n\n以巴黎與凡爾賽的檔案（Archives nationales、Archives de la Seine 等）為主，引用的檔案編號很多。也引用 Bachaumont 1777 年 10 月 22 日的條目、梅西的信，以及 Gaston Maugras 與 Ch. Yriarte 的著作。作者是地方史與檔案工作者，不是學院派史家，寫作口吻偏向「趣味」。\n\n## 跟其他資料的關係\n\n- 1780 年落成宴：作者把王后在 Bagatelle 演出的喜歌劇《玫瑰與科拉》（Rose et Colas）的場次定在 1780 年 5 月 15 日（註 2，OCR 讀作 \"15 mai 1780\"，需核對）。這跟 Bachaumont 1781 年版第 15 冊 1780 年 5 月 26 日的描寫時間吻合（見 [[s-1781-bachaumont-memoires-secrets-v10]] 的延伸說明）。\n- 作者說 1777 年原定的落成宴被延後，理由是「維也納來信，說王后的父親（皇帝）去世」（頁 142 附近）。但王后的父親法蘭茨一世在 1765 年就去世了，所以這個理由跟史實不符，本站不採用，需要另找證據。\n- 作者的賭金說法與 Bachaumont 的「十萬法郎」相同；至於王后是否真的付了錢，作者只寫「被迫」，沒有出處，需要再查。\n\n## 值得記住的一句話\n\n\"Ainsi, M. le comte d'Artois avait gagné son pari.\"（頁 142 附近）\n中譯：所以阿圖瓦伯爵贏了他的賭注。（本站譯）\n\n## 還不確定的地方\n\n- 這次只讀了書中談 1777 年賭局、工程、花費、1780 年落成宴的幾段（約頁 120–128 與 142–143，都是 OCR 推定的頁碼），沒有讀完全書，depth 填「部分」。頁碼需要對照原書掃描本再確認。\n- 作者引用的檔案編號（Arch. nat. IV 379、IV 388 等）沒有逐一核對，只能當作作者自己的出處。\n- 「王后被迫付出十萬法郎」「花費超過三百萬里弗爾」兩個數字，前者沒有出處，後者的計算方式不明。\n- 1777 年落成宴延後的原因（作者寫的「皇帝去世」）跟史實不合，需要另找當時的報導或梅西的信來確認。\n",
    "links": [
     "s-1781-bachaumont-memoires-secrets-v10",
-    "t-artois"
+    "t-bagatelle"
    ]
   },
   {
@@ -1364,7 +1364,7 @@
     1780
    ],
    "topics": [
-    "t-artois"
+    "t-bagatelle"
    ],
    "entities": [],
    "reliability": "高",
@@ -1372,7 +1372,7 @@
    "body": "## 一句話\n\n一篇談建築師 François-Joseph Bélanger 三次赴英國考察「英式花園」的學術論文，他的英國速寫本後來用在 Bagatelle 的設計上。\n\n## 三個重點\n\n1. 摘要寫：Bélanger 是「Bagatelle 的『Folie d'Artois』的年輕建築師」，1774 至 1780 年間三次到英國，特別研究英式庭園（摘要段）。\n2. 摘要說，Kenneth Woodbridge 認為 Bélanger 在 1778 年又用了這本速寫本，Barrier 則主張他「用同一本速寫本進行了三次不同的旅行」（摘要段）。\n3. 這篇文章的重點是 Bélanger 的旅行與速寫，不是 1777 年的賭局，對 t-artois 的用處主要在「Bagatelle 的園林為什麼是英式的」這一點。\n\n## 用了什麼史料\n\nBélanger 的英國速寫本（藏巴黎國立高等美術學院圖書館）、Woodbridge 的研究。本站只讀到 Persée 的摘要與書目，沒有讀到全文。\n\n## 跟其他資料的關係\n\n與 Duchesne 1909 的描寫（英式彎曲小徑、池塘與假山）方向一致（見 [[s-1909-duchesne-bagatelle]]），但 Duchesne 把園林設計歸給 Thomas Blaikie，本文則強調 Bélanger 的英國考察。兩者對園林設計者的分工，還需要對照全文。\n\n## 值得記住的一句話\n\n摘要原文（未讀到原文引文，不做引用）。\n\n## 還不確定的地方\n\n- depth 只能填「摘要」。Persée 的全文 PDF 需要先經過下載表單，這次的程式下載被擋下，沒有取得全文。需要由主 session 用瀏覽器或台大資料庫取得後再補讀。\n- 摘要提到「Folie d'Artois」與 Bagatelle，但沒有提到 1777 年的賭局、工期或花費。\n- 對園林設計者的分工（Bélanger 與 Blaikie）沒有資訊，需要全文。\n",
    "links": [
     "s-1909-duchesne-bagatelle",
-    "t-artois"
+    "t-bagatelle"
    ]
   },
   {
@@ -2531,14 +2531,14 @@
     1777
    ],
    "topics": [
-    "t-artois"
+    "t-bagatelle"
    ],
    "entities": [],
    "reliability": "高",
    "added": "2026-11-16",
    "body": "## 一句話\n\n2021 年一本 Bélanger 研究論文集裡的一章，篇名直接把 Bagatelle 的 1777 年賭局稱為「瘋狂的賭局」，是目前找到最直接談這個賭局的學術篇章。\n\n## 三個重點\n\n1. 書目資訊：HAL 上的記錄顯示，這是 Bélanger 論文集中的第 64–70 頁（Lebeurre 與 Ollagnier 合寫）。\n2. 篇名說明作者把這次打賭定位為「放蕩者（libertin）」的賭局，屬於研究者對阿圖瓦伯爵的評價，本站還沒讀到內容。\n3. 這份資料還沒有讀到全文，所以本卡只能當作「之後要讀」的線索。\n\n## 用了什麼史料\n\n未知。HAL 頁面受 Anubis 防爬蟲保護，用程式無法讀到 PDF，所以只拿到書目與篇名。\n\n## 跟其他資料的關係\n\n這篇專門談 1777 年的賭局，應該會跟 Duchesne 1909（64 天、十萬法郎）及 Bachaumont 的說法互相對照。在沒有讀到全文以前，不能判斷它的結論是否與這兩份一致。\n\n## 值得記住的一句話\n\n沒有讀到原文，不做引用。\n\n## 還不確定的地方\n\n- 只有書目與篇名，沒有讀到內容。\n- HAL 的 PDF 下載被 Anubis 擋下，需要主 session 用 Claude in Chrome 開啟頁面讀取，或改從出版社取得。\n- 論文集的其他章節（例如 Bélanger 的生平與作品）可能也談到 Bagatelle，應一併查找。\n",
    "links": [
-    "t-artois"
+    "t-bagatelle"
    ]
   },
   {
@@ -3045,6 +3045,40 @@
     "t-october-days",
     "t-temple",
     "t-white-hair"
+   ]
+  },
+  {
+   "id": "t-bagatelle",
+   "type": "topic",
+   "title": "巴加泰勒：小叔和王后的十萬法郎賭局",
+   "category": "宮廷",
+   "period": [
+    1776,
+    1780
+   ],
+   "summary": "阿圖瓦伯爵要在宮廷出遊的幾週內蓋好一座別墅，還在路上搶建材。",
+   "myth": "阿圖瓦伯爵跟王后打賭十萬法郎，在 64 天內蓋好巴加泰勒別墅，而且贏了。",
+   "verdict": "半真半假",
+   "sources": [
+    "s-1874-arneth-mercy-correspondance",
+    "s-1781-bachaumont-memoires-secrets-v10",
+    "s-1909-duchesne-bagatelle",
+    "s-1990-barrier-belanger-voyages",
+    "s-2021-lebeurre-bagatelle-pari"
+   ],
+   "updated": "2026-11-16",
+   "body": "## 一句話說明\n\n1777 年秋天，國王的小弟阿圖瓦伯爵決定把巴黎西邊布洛涅森林裡的一座小屋拆掉重蓋，要趕在宮廷從楓丹白露回來之前完工，請王后來玩。九百個工人日夜趕工，他還派衛兵在大路上攔別人的建材車。「跟王后打賭」這個說法，當時的八卦週報就有；「64 天」則是一百多年後的書才算出來的。\n\n## 迷思與史料\n\n「打賭」最早見於巴黎的地下八卦紀錄《祕密回憶錄》（*Mémoires secrets*，通稱巴紹蒙）。1777 年 10 月 22 日那一條說：阿圖瓦伯爵「跟王后賭十萬法郎」，說這座「仙宮」會在宮廷去楓丹白露的這趟旅程中開工、完工，好讓他在王后回來時辦一場宴會；工地上有八百個工人（本站譯）（[[s-1781-bachaumont-memoires-secrets-v10]] 1777 年 10 月 22 日條）。這是當時人寫的，但這份刊物專門收集巴黎的流言，並不可靠。\n\n奧地利大使梅西 11 月 19 日給女皇的報告最可信，因為他就在宮廷裡。他寫了趕工、寫了九百個工人、寫了是為了替王后辦宴會，卻沒有提到打賭（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 135）。至於「64 天」，出自杜歇納（Duchesne）1909 年寫的巴加泰勒史：他說別墅 11 月 26 日完工，「也就是 64 天蓋好」；可是他在同一頁也承認「完成了，卻沒完美」，房子和花園一直施工到 1780 年代（本站譯）（[[s-1909-duchesne-bagatelle]] p. 124）。\n\n所以本站判定「半真半假」：幾週內趕出一座別墅、為了王后辦宴會，是真的；打賭只有八卦刊物一家說，梅西沒提；「64 天完工」是後人的算法，房子其實沒有真正蓋完。\n\n## 故事是這樣的\n\n### 森林裡的一座小屋\n\n巴加泰勒（Bagatelle）這個名字，法文的意思就是「小玩意兒、不值錢的東西」。它原本是布洛涅森林裡的一座小亭子，1758 年以前屬於夏洛萊小姐（Mlle de Charolais），後來落到阿圖瓦伯爵手上（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 427 註）。1776 年 2 月，那年冬天下了大雪，王后坐著雪橇出遊，有一次一路滑到布洛涅森林，就在這座「阿圖瓦伯爵買下的、叫巴加泰勒的房子」裡吃午餐（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 pp. 426–427）。\n\n阿圖瓦伯爵是路易十六最小的弟弟，愛玩、愛賭、愛蓋房子。《祕密回憶錄》說，他對「泥水匠的鏝刀」興趣濃厚，手上同時在蓋的房子已經有四、五棟，現在又想把巴加泰勒「整個改掉，變得配得上他」（本站譯）（[[s-1781-bachaumont-memoires-secrets-v10]] 1777 年 10 月 22 日條）。梅西也提到，他同時在邁松（Maisons）的城堡大興土木（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 135）。\n\n### 六、七週\n\n每年秋天，宮廷都要搬去楓丹白露住幾個星期。梅西說，幾乎就在出發前，阿圖瓦伯爵想到要把巴加泰勒拆掉，「照新的設計從頭重蓋、布置、擺好家具」，等宮廷從舒瓦西回凡爾賽時，在這裡替王后辦一場宴會。「一開始大家都覺得，要在六、七週內完成這樣的工程，根本是胡鬧」；結果真的做到了，靠的是「九百個各行各業的工人，日夜不停地趕工」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 135）。\n\n設計的人是阿圖瓦伯爵的年輕建築師貝朗傑（François-Joseph Bélanger）。杜歇納在檔案裡找到，他 9 月 21 日就開單子要了紙張、數學儀器，準備畫平面圖、草圖和水彩（[[s-1909-duchesne-bagatelle]] pp. 122–123）。貝朗傑在 1774 到 1780 年間去過英國三次，專門研究英式庭園（[[s-1990-barrier-belanger-voyages]] 摘要）；（推論）這也是巴加泰勒後來那片彎曲小徑、自然風格花園的來歷。\n\n### 搶建材的衛兵\n\n這麼趕，材料一定不夠。梅西寫下了他覺得「最離譜」的事：石料、石灰、石膏都缺，阿圖瓦伯爵又不想浪費時間去找，就命令瑞士衛隊的巡邏兵到大路上去，看到載著這些材料的車就攔下來。錢是當場付了，可是那些材料早就有私人買主，「這就成了一種暴力，讓大家很憤怒」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 pp. 135–136）。\n\n《祕密回憶錄》11 月 18 日也記了同一件事：工程催得很急，必要時就把要運去私人工地的石頭、石膏車攔下來、改道拉到巴加泰勒；作者說這只能怪工頭太心急，「但大家罵得很兇，也罵得有理」（本站譯）（[[s-1781-bachaumont-memoires-secrets-v10]] 1777 年 11 月 18 日條）。\n\n### 王后被拖下水\n\n梅西接著寫：大家不懂國王為什麼容忍這種胡鬧，「更糟的是，有人認定，要不是王后撐腰，這種事不會被容許」。王后常對他說，她一點也不贊成小叔的冒失，「可是她沒有任何辦法阻止他」。梅西不客氣地告訴女皇：前半句是真的，後半句不是，因為最好的辦法就是不要去參加那些玩樂（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 136）。\n\n（推論）這就是「打賭」這個說法最傷王后的地方：不管有沒有真的賭，只要大家相信這座房子是為了王后蓋的，攔路搶建材的帳，也就會算一份到她頭上。\n\n### 帳單\n\n杜歇納翻過一箱箱承包商的帳單和收據，例如 1779 年 6 月的一張，記著從阿圖瓦伯爵另一處被拆的房子運來的舊石板，拿去巴加泰勒再用（[[s-1909-duchesne-bagatelle]] p. 124）。他估計，這座「阿圖瓦的瘋狂」（Folie d'Artois）花了超過三百萬里弗爾；1778 年 2 月 8 日，阿圖瓦伯爵已經不得不向國王借一百萬，去付供應商、承包商和工人的錢（[[s-1909-duchesne-bagatelle]] p. 126）。工程到 1777 年底其實還沒完，1780 年 6 月貝朗傑還在處理後續的事（[[s-1909-duchesne-bagatelle]] p. 126）。\n\n杜歇納還寫了一場 1780 年 5 月在巴加泰勒辦的宴會：由王后親自安排，大家要演塞丹的喜歌劇《玫瑰與科拉》，王后演俏皮的侍女，阿圖瓦伯爵演男主角，波利尼亞克夫人等人也都有角色（[[s-1909-duchesne-bagatelle]] pp. 142–143）。不過這一段寫得像小說，本站沒有找到其他資料證實（推論）。\n\n### 後來\n\n梅西在 1874 年出版的書信集註裡說，巴加泰勒「到今天還在」，後來被英國的赫特福德勳爵買下，1872 年遺贈給理查．華勒斯爵士（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 135 註）。（推論）華勒斯家族後來收藏了很多法國王室的家具，倫敦的華勒斯典藏館就是這樣來的（見 [[q-where-did-the-furniture-go]]）。\n\n## 研究者怎麼看\n\n- **有沒有打賭：** 當時的八卦刊物說有，賭注十萬法郎（[[s-1781-bachaumont-memoires-secrets-v10]] 1777 年 10 月 22 日條）；在宮裡的梅西只說是為了替王后辦宴會（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 135）。杜歇納把打賭當成事實，還說王后「被迫付出」十萬法郎，但沒有給出處（[[s-1909-duchesne-bagatelle]] p. 128）。\n- **花了多少天：** 梅西說六、七週，杜歇納說 64 天（9 月下旬到 11 月 26 日），網路上也流傳「63 天」；（推論）幾種說法差不多，問題在「完工」的定義：杜歇納自己說工程拖到 1780 年代。\n- **工人多少：** 巴紹蒙說八百，梅西說九百（[[s-1781-bachaumont-memoires-secrets-v10]]；[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 135）。\n- 法國藝術史學者勒伯爾（Lebeurre）與奧拉尼耶（Ollagnier）2021 年有一篇專文〈巴加泰勒：一個放蕩者的瘋狂賭局〉，從題目看是接受打賭的說法，本站還沒讀到內文（[[s-2021-lebeurre-bagatelle-pari]]）。\n\n## 延伸閱讀\n\n- [[t-polignac]]：王后身邊的小圈子，阿圖瓦伯爵也在裡面。\n- [[t-hameau]]：同一時期，王后在小特里亞儂蓋她的農莊。\n- [[t-deficit]]：「赤字夫人」的名聲是怎麼來的。\n- [[t-theatre]]：王后愛演戲。\n\n## 還不知道的事\n\n- 打賭有沒有真的發生，需要阿圖瓦伯爵或王后自己的信，本站沒有找到。\n- 《祕密回憶錄》1777 年條目的印刷頁碼，OCR 看不清楚，本站用日期標示。\n- 杜歇納「三百萬里弗爾」「王后被迫付十萬法郎」的檔案依據，本站還沒查到。\n- 勒伯爾與奧拉尼耶 2021 年的專文、《Res》期刊 2005 年談巴加泰勒的論文，本站都還沒讀到全文。\n",
+   "links": [
+    "q-where-did-the-furniture-go",
+    "s-1781-bachaumont-memoires-secrets-v10",
+    "s-1874-arneth-mercy-correspondance",
+    "s-1909-duchesne-bagatelle",
+    "s-1990-barrier-belanger-voyages",
+    "s-2021-lebeurre-bagatelle-pari",
+    "t-deficit",
+    "t-hameau",
+    "t-polignac",
+    "t-theatre"
    ]
   },
   {
@@ -4928,6 +4962,10 @@
    "s-1909-duchesne-bagatelle"
   ],
   [
+   "s-1781-bachaumont-memoires-secrets-v10",
+   "t-bagatelle"
+  ],
+  [
    "s-1781-necker-compte-rendu",
    "t-deficit"
   ],
@@ -5260,6 +5298,10 @@
    "s-1781-bachaumont-memoires-secrets-v10"
   ],
   [
+   "s-1909-duchesne-bagatelle",
+   "t-bagatelle"
+  ],
+  [
    "s-1913-moberly-jourdain-adventure",
    "t-ghost"
   ],
@@ -5314,6 +5356,10 @@
   [
    "s-1990-barrier-belanger-voyages",
    "s-1909-duchesne-bagatelle"
+  ],
+  [
+   "s-1990-barrier-belanger-voyages",
+   "t-bagatelle"
   ],
   [
    "s-1990-boutry-roi-martyr",
@@ -5580,6 +5626,10 @@
    "t-fersen"
   ],
   [
+   "s-2021-lebeurre-bagatelle-pari",
+   "t-bagatelle"
+  ],
+  [
    "s-2021-michelin-xrf",
    "s-1877-klinckowstrom-fersen"
   ],
@@ -5738,6 +5788,46 @@
   [
    "t-august10",
    "t-white-hair"
+  ],
+  [
+   "t-bagatelle",
+   "q-where-did-the-furniture-go"
+  ],
+  [
+   "t-bagatelle",
+   "s-1781-bachaumont-memoires-secrets-v10"
+  ],
+  [
+   "t-bagatelle",
+   "s-1874-arneth-mercy-correspondance"
+  ],
+  [
+   "t-bagatelle",
+   "s-1909-duchesne-bagatelle"
+  ],
+  [
+   "t-bagatelle",
+   "s-1990-barrier-belanger-voyages"
+  ],
+  [
+   "t-bagatelle",
+   "s-2021-lebeurre-bagatelle-pari"
+  ],
+  [
+   "t-bagatelle",
+   "t-deficit"
+  ],
+  [
+   "t-bagatelle",
+   "t-hameau"
+  ],
+  [
+   "t-bagatelle",
+   "t-polignac"
+  ],
+  [
+   "t-bagatelle",
+   "t-theatre"
   ],
   [
    "t-balloon",
@@ -9045,6 +9135,14 @@
    "category": "革命",
    "topic": "t-hameau",
    "source": "s-1877-davillier-vente-mobilier"
+  },
+  {
+   "date": "1777-11",
+   "title": "九百個工人趕蓋巴加泰勒",
+   "desc": "阿圖瓦伯爵要在宮廷出遊的幾週內蓋好別墅請王后，還派衛兵在路上攔建材車。",
+   "category": "宮廷",
+   "topic": "t-bagatelle",
+   "source": "s-1874-arneth-mercy-correspondance"
   }
  ],
  "stats": [],
