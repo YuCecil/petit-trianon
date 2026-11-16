@@ -7,6 +7,8 @@ period: [1783, 1783]
 summary: 人類第一次飛上天之前，先上去的是三隻動物，地點就在國王的庭院。
 myth: 第一批搭氣球的動物摔傷了，公雞落地時摔斷了頭。
 verdict: 半真半假
+image: t-balloon.jpg
+imageAlt: 粉彩畫風插畫：凡爾賽宮前，一顆藍底金飾的熱氣球從八角形平台升起，吊籃裡有羊、鴨和公雞，四周擠滿揮手的人群。
 sources: [s-1783-faujas-description, s-2020-theobald-soaring, s-2026-versailles-chateau-first-balloon, s-2005-degardin-montgolfier]
 updated: 2026-11-16
 ---

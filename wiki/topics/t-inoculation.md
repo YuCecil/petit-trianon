@@ -7,6 +7,8 @@ period: [1774, 1775]
 summary: 祖父死於天花一個月後，年輕的國王決定拿自己冒險。
 myth: 是瑪麗．安東尼說服路易十六接種人痘的。
 verdict: 查無實據
+image: t-inoculation.jpg
+imageAlt: 粉彩畫風插畫：清晨的宮廷花園，水池與樹籬延伸到遠方，平台欄杆邊幾位宮廷男女背對畫面看日出。
 sources: [s-1874-arneth-mercy-correspondance, s-1823-campan-memoires, s-2024-berche-variole, s-2022-doe-bagatelle, s-2007-kantor-antonieta]
 updated: 2026-11-16
 ---

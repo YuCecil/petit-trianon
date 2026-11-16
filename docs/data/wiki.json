@@ -1,12 +1,12 @@
 {
  "built": "2026-11-17",
  "counts": {
-  "sources": 115,
-  "fulltext": 25,
-  "topics": 50,
+  "sources": 119,
+  "fulltext": 26,
+  "topics": 51,
   "entities": 5,
   "questions": 1,
-  "events": 116,
+  "events": 117,
   "places": 18
  },
  "pages": [
@@ -257,6 +257,33 @@
    ]
   },
   {
+   "id": "s-1789-parmentier-traite",
+   "type": "source",
+   "title": "《馬鈴薯栽培與用途專論》（Traité sur la culture et les usages des pommes de terre，1789）",
+   "author": "Antoine Augustin Parmentier",
+   "year": 1789,
+   "kind": "專書",
+   "lang": "fr",
+   "venue": "Paris, Barrois, 1789（viii + 389 頁）",
+   "url": "https://iiif.wellcomecollection.org/pdf/b28767329",
+   "access": "公開",
+   "depth": "摘要",
+   "period": [
+    1786,
+    1789
+   ],
+   "topics": [
+    "t-potato"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n帕門蒂耶本人 1789 年的農學專書；本站只 OCR 了前約 86 頁（序與緒論），沒有看到他寫國王、王后、花或守衛的字句。其餘頁數未讀，所以結論只能是「已讀範圍內沒有」。\n\n## 三個重點\n\n1. 版本：Wellcome 掃描本（409 個掃描頁），是 1789 年 Barrois 版。\n2. 讀到哪裡：掃描頁 1–86（序、緒論與第一章前段），OCR 文字在 raw/books/s-1789-parmentier-traite.ocr-partial.txt。\n3. 結果：在這段範圍內，搜尋 roi、Louis、reine、fleur、boutonnière、gardes、Sablons 等詞，沒有找到與國王、王后有關的段落。\n\n## 用了什麼史料\n\n本人著作，是他對馬鈴薯栽培與用途的整理。\n\n## 跟其他資料的關係\n\n- 與 s-1814-cadet-eloge-parmentier 相比：如果 1789 年的序或緒論沒有提到國王的花，那麼這個故事在 1789 年的作者自述裡也找不到，只能依靠後人的敘述。這一點還需要把後面的頁數讀完才能確定。\n\n## 還不確定的地方\n\n- 掃描頁 87–409 未讀；法文 OCR 只用英文模型，錯字多。\n- 要把「本人有沒有提到」講清楚，需要看完全部頁數，或者找人讀 Avertissement 與 Introduction 的原頁。\n",
+   "links": [
+    "t-potato"
+   ]
+  },
+  {
    "id": "s-1790-detail-general-confederation",
    "type": "source",
    "title": "Détail général de ce qui s'est passé à la Confédération du 14 juillet au Champ de Mars（1790 年小冊）",
@@ -500,6 +527,33 @@
    ]
   },
   {
+   "id": "s-1814-cadet-eloge-parmentier",
+   "type": "source",
+   "title": "《Éloge d'A.-A. Parmentier》（帕門蒂耶頌詞，1814）",
+   "author": "C.-L. Cadet de Gassicourt",
+   "year": 1814,
+   "kind": "傳記",
+   "lang": "fr",
+   "venue": "Paris, Fain, 1814（1814 年 5 月 16 日在巴黎藥學會公開會議宣讀）；本站讀的是 Wellcome 掃描 PDF（raw/books/s-1814-cadet-eloge-parmentier.pdf）與 OCR 文字（raw/books/s-1814-cadet-eloge-parmentier.ocr.txt）",
+   "url": "https://iiif.wellcomecollection.org/pdf/b29299809",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1737,
+    1813
+   ],
+   "topics": [
+    "t-potato"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n帕門蒂耶去世一年後，同行的藥劑師寫的頌詞，是目前找到「國王衣扣孔插馬鈴薯花」最早的文字；它只寫國王，沒有王后，也沒有「夜裡故意讓人偷」的說法（只說白天派守衛，夜裡等於放任）。\n\n## 三個重點\n\n1. 國王：演說說路易十六在「一個盛大典禮（fête solennelle）」上，「在全體朝臣面前，衣扣孔上別著一束馬鈴薯花」（p. 17）。在另一處又說「在一個慶典日（un jour de cérémonie）」（p. 14）。兩處都沒有寫日期，也沒有寫年份。\n2. 守衛：演說寫大臣或警察「白天」派守衛看田（gendarmes en feront la garde pendant le jour seulement），而且「本意是讓人夜裡偷」（p. 14）；另一處寫守衛「只保護一半收成」（p. 16，OCR 讀出）。\n3. 年代：演說把 Sablons 種植放在「1785 年」前後（作者寫「L'année 1785 survient, le blé manque」，OCR 段落，約 p. 15–16）。\n\n## 用了什麼史料\n\n這是頌詞，不是檔案。作者沒有註明故事的來源（只有一條注釋說國王對帕門蒂耶「一直很仁慈」，p. 17 注）。作者本人與帕門蒂耶同在醫藥與農學圈，所以他的說法比後來的傳記更接近當時人的口述。\n\n## 跟其他資料的關係\n\n- 與 s-2025-collart-pomme-de-terre-journaux 相比：Collart 指出 1786 年的 *Esprit des Journaux* 沒有提花與扣眼。\n- 與 s-1826-payen-pomme-de-terre 相比：1826 年版也只寫國王，沒有王后，而且把守衛寫成「gendarmes」。\n- 1814 年的演說是「國王插花」文字可查的最早一份（就目前找到的範圍而言，且本站還未核對 1814 年以前的所有頌詞與回憶錄）。\n\n## 值得記住的一句話\n\nLouis XVI parut devant toute sa cour portant à sa boutonnière un bouquet de fleurs de pommes-de-terre.（路易十六在全體朝臣面前，衣扣孔上別著一束馬鈴薯花）（p. 17，本站譯）\n\n## 還不確定的地方\n\n- 只讀了正文中與花和守衛有關的段落（pp. 14、16、17，外加 OCR 全文），其他章節未逐頁讀。\n- OCR 用的是英文模型，法文原文以目視核對過的段落為準；p. 16 只靠 OCR。\n- 頁碼 (14) 與 17 的排版不同，這份 PDF 的編排需要再確認（見 raw/notes/s-1814-cadet-eloge-parmentier.md）。\n- 演說沒有王后戴花的說法，這點重要；但演說沒有寫日期，「1786 年 8 月 24 日」這個日期不見於本份演說。\n",
+   "links": [
+    "t-potato"
+   ]
+  },
+  {
    "id": "s-1815-edgeworth-memoirs",
    "type": "source",
    "title": "埃奇沃斯神父回憶錄：路易十六最後幾小時的敘述（Memoirs of the Abbé Edgeworth, containing his narrative of the last hours of Louis XVI）",
@@ -673,6 +727,33 @@
    "body": "## 一句話\n\n王黨立場的彙編，收錄了王后在古監獄最後一晚寫給小姑伊莉莎白的信全文，以及 Rosalie Lamorlière、Larivière 等當事人的回憶；史料價值在於這些一手的記述，但編者的立場與事後回憶都需要小心。\n\n## 三個重點\n\n1. 信件：寫於 1793 年 10 月 16 日凌晨四點半（書中印為 1798，應為 OCR 或印刷錯誤）；信的開頭是「C'est à vous, ma sœur, que j'écris, pour la dernière fois」（行號 13300–13305）。\n2. 信的去向：看守長 Lebeau 答應設法轉交，但信被「執政人員」搶走，交給 Fouquier-Tinville（行號 13500–13525）。書中說法互相矛盾：正文說 1816 年才發現（行號 15629），註腳說 Courtois 在熱月從 Robespierre 處找到，二十年後歸還（行號 13530–13540）。\n3. 行刑日的細節：Rosalie 說八點換衣、一名憲兵不肯迴避；她說王后藏好染血的襯衣；Lafont 說 11 點剪髮、11 點 10 分上「charrette」（行號 13734–13746、14815–14870）。這些說法與 1793 紀錄不完全一致。\n\n## 用了什麼史料\n\n- 信件全文（書中說有原件）。\n- 證詞：Rosalie Lamorlière（看守長家的廚娘，約寫於 1823 年）、Boze（畫家，獄中共同被囚者）、Larivière（看守的回憶）。\n- 編者註腳。\n\n## 跟其他資料的關係\n\n- 與 s-1793-tribunal-proces-criminel-testament：行刑車的說法不同（charrette 對 voiture de l'exécuteur）；Lafont 的 Hébert 原話（「你腐化了你自己的兒子」）在 1793 紀錄中沒有找到。\n- 與 s-1865-prevost-proces-recueil：1793 原刊的註記說流傳的「遺囑」是假的（行號 5430–5445），與 Lafont 說信件是王后的原件之間，需要核對兩者是否指同一份文件。\n\n## 值得記住的一句話\n\n<!-- 原文（40 字以內）＋中譯，附行號 -->\n原文：「Je suis calme, comme on l'est quand la conscience ne reproche rien」／中譯：「我很平靜，像良心沒有責備時那樣」（行號 13300–13320，信件，約）。\n\n## 還不確定的地方\n\n- 信件原件是否存在、是否與本書文字一致，本書只說「原件長期公開展示」（行號 13450 註腳），沒有提供影像或館藏號。\n- 「頭髮被剪、被綁手」等行刑細節來自 Lafont 與 Rosalie，1793 紀錄沒有記載。\n- 1836 年版未讀。\n",
    "links": [
     "t-trial"
+   ]
+  },
+  {
+   "id": "s-1826-payen-pomme-de-terre",
+   "type": "source",
+   "title": "《馬鈴薯專論》（Traité de la pomme de terre，1826）",
+   "author": "Anselme Payen 與 Chevallier",
+   "year": 1826,
+   "kind": "專書",
+   "lang": "fr",
+   "venue": "Paris, Thomine, 1826；本站讀的是 Internet Archive 文字檔（識別碼 traitdelapomme00paye）",
+   "url": "https://www.archive.org/download/traitdelapomme00paye/traitdelapomme00paye_djvu.txt",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1785,
+    1786
+   ],
+   "topics": [
+    "t-potato"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n19 世紀中期的農業化學手冊，序言稱帕門蒂耶為「哲人」，講到 1785–1786 年時寫「國王收下那束花」，並說「大家都記得」派「gendarmes」守田的事，還把國王收花說成是「一種奉承」，但沒有寫王后。\n\n## 三個重點\n\n1. 國王：「Louis XVI accueillit avec bonté le bouquet si simple que lui présenta Parmentier」（路易十六親切地收下帕門蒂耶獻上的那束花）；沒有寫扣眼，也沒有王后。\n2. 守衛：作者寫「on se rappelle」（大家都記得）帕門蒂耶派「gendarmes」守著 Sablons 的田，「afin de donner l'envie d'en dérober : son but fut atteint」（為了引人偷），但沒有註明來源。\n3. 作者的判斷：「C'est donc à la flatterie que nous devons une partie du bienfait」（這是奉承的功勞）。這是 1826 年作者的評論，不是當時的證據。\n\n## 用了什麼史料\n\n沒有註明來源。序言說這是 Payen 與 Chevallier 先前在 Société royale d'agriculture 獲獎論文的擴充版；它是技術手冊，不是史學著作。\n\n## 跟其他資料的關係\n\n- 與 s-1814-cadet-eloge-parmentier 相比：兩者都只寫國王，都提到守衛；1826 年版把守衛寫成 gendarmes，比 1814 年的「gardes」更具體。\n- 與 s-2025-collart-pomme-de-terre-journaux 相比：Collart 認為守衛與偷竊是「傳說與教科書」的敘事，1826 年的寫法正是這種敘事的早期版本之一（推論）。\n\n## 值得記住的一句話\n\nLouis XVI accueillit avec bonté le bouquet si simple que lui présenta Parmentier.（路易十六親切地收下帕門蒂耶獻上的那束簡單的花）（本站譯）\n\n## 還不確定的地方\n\n- djvu 文字檔沒有頁碼，段落頁碼未填，需看掃描原頁後補上（「depth: 部分」因為只讀了第 I 段）。\n- 作者的說法沒有來源，無法判斷「大家都記得」是否指當時的報導。\n- OCR 文字有錯字，引文以後需逐字對照掃描頁。\n",
+   "links": [
+    "t-potato"
    ]
   },
   {
@@ -2985,6 +3066,33 @@
    ]
   },
   {
+   "id": "s-2025-collart-pomme-de-terre-journaux",
+   "type": "source",
+   "title": "〈ONU、馬鈴薯與《Esprit des Journaux》〉（L'ONU, la pomme de terre et l'Esprit des Journaux）",
+   "author": "Muriel Collart",
+   "year": 2025,
+   "kind": "期刊論文",
+   "lang": "fr",
+   "venue": "2025 年 8 月上傳於 gedler.uliege.be（刊名與卷期待核）",
+   "url": "https://www.gedler.uliege.be/upload/docs/application/pdf/2025-08/collart-muriel-l-onu-la-pomme-de-terre-et-l-esprit-des-journaux.pdf",
+   "access": "公開",
+   "depth": "全文",
+   "period": [
+    1775,
+    1790
+   ],
+   "topics": [
+    "t-potato"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n研究 18 世紀報刊 *Esprit des Journaux* 怎樣報導馬鈴薯；作者明說：1786 年的報刊不提馬鈴薯花與扣眼，也不提 Sablons 的被偷，那兩件事屬於「傳說與教科書」。\n\n## 三個重點\n\n1. 報刊沒寫的事：「l'EdJ ne soufflera mot des fleurs de pommes de terre affichées à la boutonnière de Louis XVI et à la perruque de Marie-Antoinette」（p. 1）。作者把花與扣眼、王后的假髮都列為報刊未載的內容。\n2. Sablons 首次見報：1786 年 10 月的 *Esprit des Journaux* 報導 Sablons 試種，是「société royale d'agriculture」的試驗，但沒有提守衛（p. 13）。\n3. 守衛的說法：作者的注釋 34 寫帕門蒂耶「aurait fait garder par des soldats」（據說派士兵守田），把守衛當成傳說（p. 13）。\n\n## 用了什麼史料\n\n以 *Esprit des Journaux*（1786 年 10、11 月，作者注 33、35）與 Anne Muratori-Philip 的帕門蒂耶傳記（2006，作者注）為主。作者的論點是：報刊沒有記載的細節，不應當成當時的事實。\n\n## 跟其他資料的關係\n\n- 與 s-1814-cadet-eloge-parmentier、s-1826-payen-pomme-de-terre 相比：這兩份資料都寫了花與守衛；Collart 指出 1786 年的報刊沒寫，因此這兩份資料是 1814 年之後才有的說法。\n- 與 1786 年的 *Esprit des Journaux* 原刊：本站還沒核對原刊，只能依作者引文。\n\n## 值得記住的一句話\n\nl'EdJ ne soufflera mot des fleurs de pommes de terre affichées à la boutonnière de Louis XVI.（報刊一字不提路易十六扣眼上的馬鈴薯花）（p. 1，本站譯）\n\n## 還不確定的地方\n\n- 刊名、卷期與頁碼只根據作者注釋，本站沒有核對原刊。\n- 作者沒有查 *Journal de Paris* 與其他 1786 年報刊，所以只能說「*Esprit des Journaux* 沒提」，不能說「當時沒有人提」。\n- 作者認為花與守衛是「傳說」，但論文沒有列出最早的文字來源（1814 年頌詞是本站找到的最早一份）。\n",
+   "links": [
+    "t-potato"
+   ]
+  },
+  {
    "id": "s-2025-dati-culture-sevres-rambouillet",
    "type": "source",
    "title": "Rachida Dati 宣布 Sèvres 國立陶瓷博物館將收藏兩件 Rambouillet 乳品室瓷器（政府新聞稿）",
@@ -3302,6 +3410,8 @@
    "summary": "阿圖瓦伯爵要在宮廷出遊的幾週內蓋好一座別墅，還在路上搶建材。",
    "myth": "阿圖瓦伯爵跟王后打賭十萬法郎，在 64 天內蓋好巴加泰勒別墅，而且贏了。",
    "verdict": "半真半假",
+   "image": "t-bagatelle.jpg",
+   "imageAlt": "粉彩畫風插畫：夜晚森林裡，一座搭著鷹架的小巧白色別墅，火把照亮推車搬石的工人，路邊停著一輛載滿石塊的馬車。",
    "sources": [
     "s-1874-arneth-mercy-correspondance",
     "s-1781-bachaumont-memoires-secrets-v10",
@@ -3336,6 +3446,8 @@
    "summary": "人類第一次飛上天之前，先上去的是三隻動物，地點就在國王的庭院。",
    "myth": "第一批搭氣球的動物摔傷了，公雞落地時摔斷了頭。",
    "verdict": "半真半假",
+   "image": "t-balloon.jpg",
+   "imageAlt": "粉彩畫風插畫：凡爾賽宮前，一顆藍底金飾的熱氣球從八角形平台升起，吊籃裡有羊、鴨和公雞，四周擠滿揮手的人群。",
    "sources": [
     "s-1783-faujas-description",
     "s-2020-theobald-soaring",
@@ -3847,6 +3959,8 @@
     1790
    ],
    "summary": "攻占巴士底一週年，全國代表擠進戰神廣場，王后舉起兒子給大家看。",
+   "image": "t-federation.jpg",
+   "imageAlt": "粉彩畫風插畫：從高處俯瞰下雨的戰神廣場，橢圓看台上撐滿彩色雨傘，中央祭壇冒著煙，場上排著整齊的隊伍。",
    "sources": [
     "s-1883-tourzel-memoires",
     "s-1823-campan-memoires",
@@ -4046,6 +4160,8 @@
    "summary": "祖父死於天花一個月後，年輕的國王決定拿自己冒險。",
    "myth": "是瑪麗．安東尼說服路易十六接種人痘的。",
    "verdict": "查無實據",
+   "image": "t-inoculation.jpg",
+   "imageAlt": "粉彩畫風插畫：清晨的宮廷花園，水池與樹籬延伸到遠方，平台欄杆邊幾位宮廷男女背對畫面看日出。",
    "sources": [
     "s-1874-arneth-mercy-correspondance",
     "s-1823-campan-memoires",
@@ -4555,6 +4671,36 @@
    ]
   },
   {
+   "id": "t-potato",
+   "type": "topic",
+   "title": "馬鈴薯花：國王插在扣眼，王后戴在頭上？",
+   "category": "飲食",
+   "period": [
+    1771,
+    1789
+   ],
+   "summary": "帕門蒂耶推廣馬鈴薯的傳說，最早出現在他死後的悼詞裡。",
+   "myth": "路易十六把馬鈴薯花插在扣眼裡，瑪麗．安東尼把它戴在頭髮上，宮廷跟風，馬鈴薯從此在法國流行。",
+   "verdict": "查無實據",
+   "sources": [
+    "s-1814-cadet-eloge-parmentier",
+    "s-1826-payen-pomme-de-terre",
+    "s-2025-collart-pomme-de-terre-journaux",
+    "s-1789-parmentier-traite"
+   ],
+   "updated": "2026-11-17",
+   "body": "## 一句話說明\n\n法國藥劑師帕門蒂耶（Antoine-Augustin Parmentier）一輩子推廣馬鈴薯，這是真的。但「國王扣眼插著馬鈴薯花」最早出現在 1814 年他的悼詞裡，離事發快三十年；「王后頭戴馬鈴薯花」更晚，本站讀到的早期文字裡都沒有。\n\n## 迷思與史料\n\n本站找到最早的記載，是帕門蒂耶死後一年（1814 年），他的同事卡代．德加西庫爾（Cadet de Gassicourt）在巴黎藥學會宣讀的悼詞：「在一個盛大節日那天，路易十六出現在整個宮廷面前，扣眼上插著一束馬鈴薯花。」（本站譯）（[[s-1814-cadet-eloge-parmentier]] p. 17）悼詞沒有寫是哪一年、哪個節日，也沒有提到王后。卡代自己在註裡說，這篇悼詞的材料幾乎都是帕門蒂耶的密友布代（Boudet）提供的（[[s-1814-cadet-eloge-parmentier]] p. 5 註）。\n\n1826 年的一本馬鈴薯專書也只說：「路易十六親切地收下帕門蒂耶獻上的那束簡單的花」，同樣沒有王后（本站譯）（[[s-1826-payen-pomme-de-terre]] 第 1 節）。帕門蒂耶自己 1789 年出版的馬鈴薯專論，本站讀了前面八十多頁，沒有看到國王、王后或花的事（[[s-1789-parmentier-traite]]）。\n\n比利時列日大學的研究者科拉（Muriel Collart）翻查 1786 年的《報刊精華》（*Esprit des Journaux*），發現當年報導馬鈴薯試種的文章，對國王扣眼上的花、王后假髮上的花、群眾搶田的事都「隻字未提」；她把這兩件事歸為「傳說和教科書」說的故事（本站譯）（[[s-2025-collart-pomme-de-terre-journaux]] p. 1）。所以本站判定「查無實據」：國王那束花只有事後近三十年的悼詞為證，王后戴花在早期文字裡完全找不到。\n\n## 故事是這樣的\n\n### 吃過戰俘營的馬鈴薯\n\n帕門蒂耶 1737 年生在法國北部的蒙迪迪耶（[[s-1814-cadet-eloge-parmentier]] p. 5）。七年戰爭時，他在法軍醫院當藥劑師，悼詞說他「五次被俘，五次被普魯士驃騎兵剝光」；被關在法蘭克福時，他住在當地一位藥劑師家裡，跟他學德國的製藥方法和德語（本站譯）（[[s-1814-cadet-eloge-parmentier]] pp. 8–9）。（推論）一般認為他就是在德國見識到馬鈴薯可以當主食；但本站讀到的悼詞沒有直接這樣寫。\n\n當時法國常常鬧糧荒。貝桑松學院懸賞徵求「在饑荒時最能代替穀物的植物」，帕門蒂耶寫的論文得了獎；他看過各種根莖和果實，最看好的就是馬鈴薯，因為它幾乎不受天候變化影響，又不像小麥那樣容易被運出產地，荒年時可以留下來給種田的人吃（[[s-1814-cadet-eloge-parmentier]] pp. 11, 13–14）。\n\n### 從豬吃的到人吃的\n\n那時候很多法國人只拿馬鈴薯餵牲口。悼詞說，帕門蒂耶把當時能找到的品種都種過一遍，又透過海軍大臣拿到美洲的品種；收成夠多以後，說服內政大臣把種薯分給各省的地方長官，交給最好的農夫去種，再回報收成。消息傳回來：各地都種成了，農夫拿來餵牲口，後來看到孩子們從豬那裡偷煮熟的馬鈴薯吃，自己也開始吃了（[[s-1814-cadet-eloge-parmentier]] pp. 15–16）。\n\n### 薩布隆平原\n\n帕門蒂耶接著請大臣向國王要一大片地，在巴黎城外的薩布隆平原（plaine des Sablons）種馬鈴薯；他甚至希望國王親手犁第一道溝，這個願望沒有實現，國王只撥了地。他對大臣說，要在一塊公認貧瘠的地上「大規模、高調地」種，讓最不相信的人也看到馬鈴薯在最差的田裡也長得好，而且「種在巴黎人眼前」，他們就會自己決定吃它（本站譯）（[[s-1814-cadet-eloge-parmentier]] p. 16）。\n\n悼詞說，薩布隆第一次被犁開時，大家都笑這個新農夫瘋了，可是也都在談；苗長出來、開了花，大家就不那麼笑了，只說要看根長得怎樣（[[s-1814-cadet-eloge-parmentier]] p. 16）。科拉查到，《報刊精華》第一次提到薩布隆，是在 1786 年 10 月，說那裡的試種是由王家農業協會在一部分土地上做的（[[s-2025-collart-pomme-de-terre-journaux]] p. 13）。\n\n### 守衛與小偷\n\n最有名的一段來了。悼詞說，為了讓大家更好奇，帕門蒂耶在田邊派了守衛，可是「命令他們只保護一半的收成」；結果正如他所願，一部分馬鈴薯被偷了，偷的人覺得值得種，留下來的也夠大臣拿去各省推廣（本站譯）（[[s-1814-cadet-eloge-parmentier]] pp. 16–17）。1826 年的專書版本是：帕門蒂耶派憲兵看守，「好讓人想偷」，「他的目的達到了」（本站譯）（[[s-1826-payen-pomme-de-terre]] 第 1 節）。\n\n今天常聽到的版本是「白天派兵看守、晚上故意撤走」。（推論）這是兩個早期版本揉在一起的結果；本站讀到的 1814、1826 年文字都沒有寫到「晚上撤走」。科拉則在註裡用了條件式「據說」（aurait），表示她也只把它當傳說（[[s-2025-collart-pomme-de-terre-journaux]] p. 13 註 34）。\n\n### 扣眼上的花\n\n悼詞說，帕門蒂耶沒能讓國王親手扶犁，「至少得到了國王一個鮮明的表態」：節日那天國王插著馬鈴薯花出現。這束花在貴族之間引起好印象，大家紛紛跑到帕門蒂耶家要種薯，種了端上自己的餐桌。他教這些貴族學生時說：「這些根莖會在冬天救濟窮人。」（本站譯）（[[s-1814-cadet-eloge-parmentier]] p. 17）1826 年的作者評論得很直白：馬鈴薯能普及，有一部分「要歸功於奉承」，因為廷臣搶著種國王看得上的植物（本站譯）（[[s-1826-payen-pomme-de-terre]] 第 1 節）。\n\n（推論）從 1814 年的「國王扣眼一束花」，到後來的「王后把花插在頭髮上、貴婦們跟著戴」，故事愈講愈熱鬧。王后愛花、愛跟流行，這樣的畫面很容易被加進去；但本站沒有找到 1780 年代任何一份提到她戴馬鈴薯花的文字。\n\n## 研究者怎麼看\n\n- 科拉認為，國王的花和薩布隆被搶，是「傳說和教科書」裡帕門蒂耶的「公關操作」；她不否認這兩件事的影響，但指出 1786 年的報刊完全沒提（[[s-2025-collart-pomme-de-terre-journaux]] p. 1）。\n- 1826 年的作者把國王收花看成「奉承」的力量，而不是國王真的推動了什麼（[[s-1826-payen-pomme-de-terre]] 第 1 節）。\n- 年代也不一致：悼詞和 1826 年的書把這些事放在 1785 年前後，報刊的第一次報導是 1786 年 10 月（[[s-1814-cadet-eloge-parmentier]]；[[s-1826-payen-pomme-de-terre]]；[[s-2025-collart-pomme-de-terre-journaux]] p. 13）。網路上常見的「1786 年 8 月 24 日獻花」，本站沒有找到出處。\n\n## 延伸閱讀\n\n- [[t-cake]]：另一句跟食物有關、被安到王后頭上的話。\n- [[t-table]]：王室的餐桌。\n- [[t-louis]]：對農業、地理有興趣的國王。\n\n## 還不知道的事\n\n- 1780 年代的《巴黎日報》等報紙，有沒有報導國王插馬鈴薯花；本站還沒查。\n- 帕門蒂耶 1789 年專論的後三百頁本站沒讀。\n- 「王后戴馬鈴薯花」第一次出現在哪本書，本站還沒找到。\n- 1826 年專書的印刷頁碼還要對照掃描本，目前用節次標示。\n",
+   "links": [
+    "s-1789-parmentier-traite",
+    "s-1814-cadet-eloge-parmentier",
+    "s-1826-payen-pomme-de-terre",
+    "s-2025-collart-pomme-de-terre-journaux",
+    "t-cake",
+    "t-louis",
+    "t-table"
+   ]
+  },
+  {
    "id": "t-pouf",
    "type": "topic",
    "title": "三十六吋高的頭髮：王后與高髮髻",
@@ -4962,6 +5108,8 @@
    "summary": "法庭拿不出證據，但七十年後出版的一封密碼信，證明她確實做了。",
    "myth": "瑪麗．安東尼把法軍的作戰計畫偷偷寄給了奧地利。",
    "verdict": "確有其事",
+   "image": "t-war-plans.jpg",
+   "imageAlt": "粉彩畫風插畫：燭光下的書桌，攤著一封寫滿潦草符號的信，旁邊有羽毛筆、墨水瓶、紅色封蠟、印章和一張折起的地圖。",
    "sources": [
     "s-1866-arneth-marie-antoinette",
     "s-2008-kaiser-renversement-alliances",
@@ -5276,6 +5424,10 @@
    "t-necklace"
   ],
   [
+   "s-1789-parmentier-traite",
+   "t-potato"
+  ],
+  [
    "s-1790-detail-general-confederation",
    "t-federation"
   ],
@@ -5306,6 +5458,10 @@
   [
    "s-1798-clery-journal",
    "t-temple"
+  ],
+  [
+   "s-1814-cadet-eloge-parmentier",
+   "t-potato"
   ],
   [
    "s-1815-edgeworth-memoirs",
@@ -5358,6 +5514,10 @@
   [
    "s-1824-lafont-daussonne-memoires",
    "t-trial"
+  ],
+  [
+   "s-1826-payen-pomme-de-terre",
+   "t-potato"
   ],
   [
    "s-1835-vigee-le-brun-souvenirs",
@@ -5998,6 +6158,10 @@
   [
    "s-2024-pearce-creole",
    "t-chemise"
+  ],
+  [
+   "s-2025-collart-pomme-de-terre-journaux",
+   "t-potato"
   ],
   [
    "s-2025-dati-culture-sevres-rambouillet",
@@ -7582,6 +7746,34 @@
   [
    "t-polignac",
    "t-vigee"
+  ],
+  [
+   "t-potato",
+   "s-1789-parmentier-traite"
+  ],
+  [
+   "t-potato",
+   "s-1814-cadet-eloge-parmentier"
+  ],
+  [
+   "t-potato",
+   "s-1826-payen-pomme-de-terre"
+  ],
+  [
+   "t-potato",
+   "s-2025-collart-pomme-de-terre-journaux"
+  ],
+  [
+   "t-potato",
+   "t-cake"
+  ],
+  [
+   "t-potato",
+   "t-louis"
+  ],
+  [
+   "t-potato",
+   "t-table"
   ],
   [
    "t-pouf",
@@ -9526,6 +9718,14 @@
    "category": "宮廷",
    "topic": "t-mesmer",
    "source": "s-1784-commissaires-rapport-magnetisme"
+  },
+  {
+   "date": "1786-10",
+   "title": "報刊第一次提到薩布隆的馬鈴薯田",
+   "desc": "《報刊精華》報導王家農業協會在巴黎城外試種馬鈴薯，沒提國王插花或田被偷。",
+   "category": "飲食",
+   "topic": "t-potato",
+   "source": "s-2025-collart-pomme-de-terre-journaux"
   }
  ],
  "stats": [],

@@ -2,7 +2,7 @@
 
 > 由 `tools/build.py` 自動產生於 2026-11-17，不要手改。
 
-資料卡 115 張（全文 25）｜主題 50｜實體 5｜問答 1
+資料卡 119 張（全文 26）｜主題 51｜實體 5｜問答 1
 
 ## 主題頁
 
@@ -43,6 +43,7 @@
 - [[t-necklace]] 鑽石項鍊事件：被騙的人輸掉了名聲 — 一條她沒買、沒戴過的項鍊，卻讓全法國相信她是共犯。
 - [[t-october-days]] 麵包師一家：1789 年 10 月，巴黎走到凡爾賽 — 兩天之內，王室一家永遠離開了凡爾賽。
 - [[t-polignac]] 波利尼亞克夫人：王后的閨蜜，和一整個家族 — 一個窮貴族家的少婦，成了王后最親的朋友；她的家人則成了全宮廷的眼中釘。
+- [[t-potato]] 馬鈴薯花：國王插在扣眼，王后戴在頭上？ — 帕門蒂耶推廣馬鈴薯的傳說，最早出現在他死後的悼詞裡。
 - [[t-pouf]] 三十六吋高的頭髮：王后與高髮髻 — 母親從維也納寫信抱怨：報紙說你的頭髮有三十六吋高。
 - [[t-reburial]] 一塊種滿花的墓地：國王與王后的遺骸 — 一位律師在亂葬崗上種花守護了二十年，直到新國王來把他們接走。
 - [[t-secret]] 跟敵人談判：王后、米拉波與巴納夫 — 革命最有名的兩位演說家，先後成了王后的秘密顧問。
@@ -80,6 +81,7 @@
 - [[s-1784-commissaires-rapport-magnetisme]] 《國王委員會關於動物磁性的報告》（Rapport des commissaires chargés par le roi, de l'examen du magnétisme animal，1784） — 國王任命的委員會（署名：Franklin、Majault、Le Roy、Sallin、Bailly、d'Arcet、de Bory、Guillotin、Lavoisier）（1784）｜檔案｜部分
 - [[s-1785-beaumarchais-figaro-preface]] La Folle Journée, ou Le Mariage de Figaro（1785 年 Ruault 版，含作者序言與審查核准文件） — Pierre-Augustin Caron de Beaumarchais（博馬舍，1732–1799）（1785）｜專書｜部分
 - [[s-1789-la-motte-justification]] Memoirs of the Countess de Valois de La Motte（拉莫特夫人回憶錄，英譯本） — Jeanne de Saint-Rémy de Valois, comtesse de La Motte（1789）｜回憶錄｜部分
+- [[s-1789-parmentier-traite]] 《馬鈴薯栽培與用途專論》（Traité sur la culture et les usages des pommes de terre，1789） — Antoine Augustin Parmentier（1789）｜專書｜摘要
 - [[s-1790-detail-general-confederation]] Détail général de ce qui s'est passé à la Confédération du 14 juillet au Champ de Mars（1790 年小冊） — 無署名（1790）｜報刊｜全文
 - [[s-1790-details-fete-14-juillet]] Détails de la fête nationale du 14 juillet 1790（典禮前的程序表，標題注明「arrêtés par le roi」） — 無署名（典禮前的官方程序公告）（1790）｜檔案｜全文
 - [[s-1793-tribunal-proces-criminel-testament]] Procès criminel de Marie-Antoinette de Lorraine（Denné 版） — 革命法庭（書記紀錄，無署名）（1793）｜檔案｜部分
@@ -89,12 +91,14 @@
 - [[s-1797-laperouse-voyage]] 拉佩魯茲《環球航海記》第一卷（Voyage de La Pérouse autour du monde，1797 年版） — 拉佩魯茲（Jean-François de Galaup, comte de La Pérouse）；編者 Louis-Antoine Milet-Mureau（1797）｜專書｜部分
 - [[s-1798-clery-journal]] 聖殿塔日記（Journal de ce qui s'est passé à la tour du Temple pendant la captivité de Louis XVI） — 克萊里（Jean-Baptiste Cléry，1759–1809）（1798）｜日記｜部分
 - [[s-1801-fargeon-art-parfumeur]] L'Art du parfumeur, ou Traité complet de la préparation des parfums, cosmétiques, pommades, pastilles, odeurs, huiles antiques, essences, bains aromatiques et des gants de senteur — Jean-Louis Fargeon（署名「D. J. F. ci-devant Parfumeur de la Cour」）（1801）｜專書｜部分
+- [[s-1814-cadet-eloge-parmentier]] 《Éloge d'A.-A. Parmentier》（帕門蒂耶頌詞，1814） — C.-L. Cadet de Gassicourt（1814）｜傳記｜部分
 - [[s-1815-edgeworth-memoirs]] 埃奇沃斯神父回憶錄：路易十六最後幾小時的敘述（Memoirs of the Abbé Edgeworth, containing his narrative of the last hours of Louis XVI） — 埃奇沃斯神父（Henry Essex Edgeworth de Firmont，1745–1807）；1815 年編者 C. Sneyd Edgeworth（1815）｜回憶錄｜部分
 - [[s-1822-choiseul-relation]] Relation du départ de Louis XVI, le 20 juin 1791 — Choiseul（Claude Antoine Gabriel, duc de）（1822）｜回憶錄｜部分
 - [[s-1822-weber-memoires-v2]] Mémoires de Weber concernant Marie-Antoinette, archiduchesse d'Autriche et reine de France et de Navarre（第二卷，Berville 與 Barrière 整理，1822） — Weber（回憶）；編者 Berville 與 Barrière（1822）｜回憶錄｜部分
 - [[s-1823-campan-memoires]] Mémoires sur la vie privée de Marie-Antoinette, reine de France et de Navarre（三卷本，1823） — Jeanne-Louise-Henriette Campan（康龐夫人，1752–1822）；編者 F. Barrière（1823）｜回憶錄｜部分
 - [[s-1823-goguelat-memoire]] Mémoire sur les événemens relatifs au voyage de Louis XVI à Varennes — Goguelat（François, baron de）（1823）｜回憶錄｜部分
 - [[s-1824-lafont-daussonne-memoires]] Mémoires secrets et universels des malheurs et de la mort de la reine de France — Gaspard Louis Lafont d'Aussonne（1824）｜回憶錄｜部分
+- [[s-1826-payen-pomme-de-terre]] 《馬鈴薯專論》（Traité de la pomme de terre，1826） — Anselme Payen 與 Chevallier（1826）｜專書｜部分
 - [[s-1835-vigee-le-brun-souvenirs]] Souvenirs de Madame Louise-Élisabeth Vigée-Lebrun（三卷，1835–1837） — Louise-Élisabeth Vigée Le Brun（1755–1842）（1835）｜回憶錄｜部分
 - [[s-1838-tussaud-memoirs]] Madame Tussaud's Memoirs and Reminiscences of France, Forming an Abridged History of the French Revolution（1838） — Marie Tussaud（瑪麗．杜莎，原名 Marie Grosholtz）；編者 Francis Hervé（1838）｜回憶錄｜部分
 - [[s-1841-karr-guepes]] Les Guêpes（《黃蜂》），1841 年 11 月號 — Alphonse Karr（1841）｜報刊｜部分
@@ -176,6 +180,7 @@
 - [[s-2024-kesterton-artificial-flowers]] Artificial Flowers in the Credit Records of an Eighteenth-Century French Fashion Merchant — Zara Kesterton（2024）｜期刊論文｜部分
 - [[s-2024-nordin-hameau]] Le Hameau – drottningens låtsasby（王后的假村莊） — Jonas Nordin（2024）｜期刊論文｜全文
 - [[s-2024-pearce-creole]] Creole Creations: Unraveling Caribbean origins, makers and wearers of the robe à la creole c.1780-1815 — Emma Pearce（2024）｜期刊論文｜部分
+- [[s-2025-collart-pomme-de-terre-journaux]] 〈ONU、馬鈴薯與《Esprit des Journaux》〉（L'ONU, la pomme de terre et l'Esprit des Journaux） — Muriel Collart（2025）｜期刊論文｜全文
 - [[s-2025-dati-culture-sevres-rambouillet]] Rachida Dati 宣布 Sèvres 國立陶瓷博物館將收藏兩件 Rambouillet 乳品室瓷器（政府新聞稿） — 法國文化部（Ministère de la Culture）（2025）｜網頁｜全文
 - [[s-2025-masson-theatre-reine]] Les décors historiques du théâtre de la Reine à Versailles — Raphaël Masson（2025）｜專書論文｜部分
 - [[s-2025-seth-antoine]] 「從安托瓦到瑪麗．安東尼：（重新）閱讀大公夫人的信」 — Catriona Seth（2025）｜專書論文｜部分

@@ -7,6 +7,8 @@ period: [1790, 1793]
 summary: 法庭拿不出證據，但七十年後出版的一封密碼信，證明她確實做了。
 myth: 瑪麗．安東尼把法軍的作戰計畫偷偷寄給了奧地利。
 verdict: 確有其事
+image: t-war-plans.jpg
+imageAlt: 粉彩畫風插畫：燭光下的書桌，攤著一封寫滿潦草符號的信，旁邊有羽毛筆、墨水瓶、紅色封蠟、印章和一張折起的地圖。
 sources: [s-1866-arneth-marie-antoinette, s-2008-kaiser-renversement-alliances, s-1793-tribunal-proces-marie-antoinette, s-1823-campan-memoires, s-1851-mirabeau-lamarck]
 updated: 2026-11-16
 ---

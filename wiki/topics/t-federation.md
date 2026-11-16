@@ -5,6 +5,8 @@ title: 聯盟節：雨中的三十萬聲「我發誓」
 category: 革命
 period: [1790, 1790]
 summary: 攻占巴士底一週年，全國代表擠進戰神廣場，王后舉起兒子給大家看。
+image: t-federation.jpg
+imageAlt: 粉彩畫風插畫：從高處俯瞰下雨的戰神廣場，橢圓看台上撐滿彩色雨傘，中央祭壇冒著煙，場上排著整齊的隊伍。
 sources: [s-1883-tourzel-memoires, s-1823-campan-memoires, s-1868-feuillet-elisabeth-correspondance, s-2012-ritz-pluie, s-1790-detail-general-confederation, s-1790-details-fete-14-juillet]
 updated: 2026-11-16
 ---

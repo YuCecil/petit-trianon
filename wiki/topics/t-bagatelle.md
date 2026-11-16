@@ -7,6 +7,8 @@ period: [1776, 1780]
 summary: 阿圖瓦伯爵要在宮廷出遊的幾週內蓋好一座別墅，還在路上搶建材。
 myth: 阿圖瓦伯爵跟王后打賭十萬法郎，在 64 天內蓋好巴加泰勒別墅，而且贏了。
 verdict: 半真半假
+image: t-bagatelle.jpg
+imageAlt: 粉彩畫風插畫：夜晚森林裡，一座搭著鷹架的小巧白色別墅，火把照亮推車搬石的工人，路邊停著一輛載滿石塊的馬車。
 sources: [s-1874-arneth-mercy-correspondance, s-1781-bachaumont-memoires-secrets-v10, s-1909-duchesne-bagatelle, s-1990-barrier-belanger-voyages, s-2021-lebeurre-bagatelle-pari]
 updated: 2026-11-16
 ---
