@@ -2,7 +2,7 @@
 
 > 由 `tools/build.py` 自動產生於 2026-11-17，不要手改。
 
-資料卡 145 張（全文 27）｜主題 57｜實體 5｜問答 7
+資料卡 148 張（全文 28）｜主題 57｜實體 5｜問答 8
 
 ## 主題頁
 
@@ -76,6 +76,7 @@
 
 - [[q-cold-chemise]] 王后真的光著身子在冬天發抖，等貴婦們輪流遞襯衣？「禮儀夫人」的綽號是她取的嗎？ — 
 - [[q-did-she-compose]] 浪漫曲〈他是我的朋友〉（C'est mon ami）真的是王后作的嗎？ — 
+- [[q-hope-diamond]] 「希望鑽石」是瑪麗．安東尼的嗎？她是被鑽石詛咒的嗎？ — 
 - [[q-mercy-spies]] 母親真的派人監視她嗎？大使梅西的「眼線」是誰？ — 
 - [[q-mozart-proposal]] 六歲的莫札特真的向小瑪麗．安東尼求過婚嗎？ — 
 - [[q-no-fathers]] 王太子死的那幾天，路易十六真的說過「難道第三等級裡沒有人當父親嗎」？ — 
@@ -146,6 +147,7 @@
 - [[s-1887-ap-varennes-reward]] Décret accordant des récompenses à l'occasion de l'arrestation du roi（1791 年 8 月 18 日，Archives parlementaires，第 29 卷） — Archives parlementaires（集體紀錄）（1887）｜檔案｜部分
 - [[s-1887-drouet-barre]] Admission de M. Drouet à la barre, lors de la séance du 24 juin 1791（Archives parlementaires，第 27 卷） — Jean-Baptiste Drouet（陳述人）；Archives parlementaires（1887 年版）（1887）｜檔案｜部分
 - [[s-1889-arneth-mercy-secrete]] Correspondance secrète du comte de Mercy-Argenteau avec l'empereur Joseph II et le prince de Kaunitz（第一、二卷，1889 起） — 梅西－阿讓托（書信作者）；編者 Alfred d'Arneth、Jules Flammermont（1889）｜書信｜部分
+- [[s-1889-bapst-joyaux]] 法國王冠珠寶的歷史（Bapst 1889，依未發表的檔案寫成） — Germain Bapst（1889）｜專書｜部分
 - [[s-1890-weckerlin-nouveau-musiciana]] Nouveau Musiciana：extraits d'ouvrages rares ou bizarres（新音樂逸聞，1890） — Jean-Baptiste Weckerlin（1821–1910）（1890）｜專書｜部分
 - [[s-1899-elisabeth-life-letters-en]] The Life and Letters of Madame Elisabeth de France, Sister of Louis XVI（英譯本，附〈聖殿日記〉選段） — 不詳（英譯者未具名；底本為法文傳記與書信集，註腳提到「Vie de Madame Élisabeth」）（1899）｜傳記｜部分
 - [[s-1900-nolhac-dauphine]] 《瑪麗．安東尼，太子妃》（Marie-Antoinette Dauphine） — Pierre de Nolhac（1900）｜傳記｜部分
@@ -181,6 +183,7 @@
 - [[s-2007-kantor-antonieta]] 瑪麗．安東尼與天花疫苗（阿根廷醫學期刊社論） — Isabel N. Kantor（2007）｜期刊論文｜全文
 - [[s-2008-kaiser-renversement-alliances]] 「La fin du renversement des alliances」：法國、奧地利與 1792 年 4 月 20 日的宣戰 — Thomas E. Kaiser（2008）｜期刊論文｜全文
 - [[s-2008-skellett-sudden-whitening]] Sudden whitening of the hair: an historical fiction? — Anne-Marie Skellett, George W. M. Millington, Nick J. Levell（2008）｜期刊論文｜書目
+- [[s-2009-farges-french-blue]] 法國藍鑽與希望鑽石：一個歷史鉛模的新資料（Farges 等人 2009） — François Farges, Scott Sucher, Herbert Horovitz, Jean-Marc Fourcault（2009）｜期刊論文｜摘要
 - [[s-2009-navarini-marie-antoinette]] Marie Antoinette Syndrome — Alexander A. Navarini, Stephan Nobbe（2009）｜期刊論文｜摘要
 - [[s-2010-navarini-henry-iii-hair]] Why Henry III of Navarre's Hair Probably did not Turn White Overnight — Alexander A. Navarini（2010）｜期刊論文｜全文
 - [[s-2010-varadi-verbum-memoires]] 十八世紀法國的回憶錄與回憶錄作者：論僕人出身的克萊里與康龐夫人的回憶錄 — Márta Váradi（瓦拉迪）（2010）｜期刊論文｜部分
@@ -202,6 +205,7 @@
 - [[s-2017-niedziela-joseph-ii-paris]] 皇帝約瑟夫二世在巴黎與凡爾賽（1777） — Rafał Niedziela（2017）｜期刊論文｜部分
 - [[s-2017-ruimi-curtius-cabinet]] Spectacles de cire. Le cabinet de Curtius（2017） — Jennifer Ruimi（2017）｜期刊論文｜書目
 - [[s-2017-triquenaux-messaline]] 《Messaline française, louve de Barbarie et Ganymède femelle》：波利尼亞克夫人的諷刺小冊子與仇恨的傳染 — Maxime Triquenaux（2017）｜期刊論文｜部分
+- [[s-2018-cohn-sidedoor-curse]] 希望鑽石的詛咒（Smithsonian Sidedoor 第 3 季第 1 集，2018） — Tony Cohn（Smithsonian Sidedoor 節目主持人）（2018）｜網頁｜全文
 - [[s-2019-barao-corps-corsets]] 「Corps et corsets, du milieu du XVIIIe siècle à la fin des années 1820」（碩士論文，〈束身衣與胸衣：十八世紀中到 1820 年代末〉） — Laurie Barao（2019）｜學位論文｜部分
 - [[s-2019-schechter-secret-library]] The Secret Library of Marie Antoinette: Revealing the Inner Life of a Conflicted Queen（Tack Faculty Lecture 摘要） — Ronald Schechter（2019）｜網頁｜摘要
 - [[s-2020-lanoe-gallois-huet]] Une dynastie de parfumeurs du roi : les Gallois/Huet et la fabrique des apparences de la cour à la ville, 1686-1789 — Catherine Lanoë（2020）｜期刊論文｜部分

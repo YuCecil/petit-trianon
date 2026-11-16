@@ -79,6 +79,7 @@ updated: 2026-11-15
 
 ## 延伸閱讀
 
+- [[q-hope-diamond]]：「希望鑽石」是王后的嗎？
 - [[s-1881-vizetelly-diamond-necklace]]
 - [[s-1823-campan-memoires]]
 - [[s-1789-la-motte-justification]]
