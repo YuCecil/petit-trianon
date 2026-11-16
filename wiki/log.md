@@ -91,3 +91,8 @@
 
 ## [2026-11-16] query | 台大資料庫試查
 - ScienceDirect 出現驗證碼，停；JSTOR 只找到約瑟夫二世史學回顧（不相關）；MUSE 上 Hosford 2004、Kaiser 2003 都是杜克大學出版社期刊，台大無權限。
+
+## [2026-11-16] ingest | 黑暗伯爵夫人 DNA 研究（Parson 等 2015）
+- 新增：s-2015-parson-dark-countess（台大資料庫，ScienceDirect；書目以 Crossref 核對）
+- 更新：t-madame-royale（研究者怎麼看：遺骨 mtDNA 與王室母系不符，替身說站不住）
+- 全文因著作權未存 raw，只存書目與結構摘要。
