@@ -11,7 +11,7 @@ url: https://orages.eu/wp-content/uploads/2021/03/Messaline-francaise-louve-de-B
 access: 公開
 depth: 部分
 period: [1774, 1793]
-topics: [t-provence]
+topics: [t-libels]
 entities: []
 reliability: 中
 added: 2026-11-16

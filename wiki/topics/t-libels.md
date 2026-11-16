@@ -7,7 +7,7 @@ period: [1770, 1794]
 summary: 從受人歡迎的新娘，到報紙上的「奧地利母狼」，只用了二十年。
 image: t-libels.jpg
 imageAlt: 粉彩畫風插畫：巴黎街角的咖啡館外，木桌上堆著薄薄的小冊子，一位穿工作服的男子拿著報紙向圍觀的人朗讀。
-sources: [s-1993-barker-cake, s-1989-colwill-citoyenne, s-1992-price-vies-privees, s-1874-arneth-mercy-correspondance, s-1835-vigee-le-brun-souvenirs, s-2002-campion-vincent-marie-antoinette]
+sources: [s-2017-triquenaux-messaline, s-1993-barker-cake, s-1989-colwill-citoyenne, s-1992-price-vies-privees, s-1874-arneth-mercy-correspondance, s-1835-vigee-le-brun-souvenirs, s-2002-campion-vincent-marie-antoinette]
 updated: 2026-11-16
 ---
 
@@ -71,6 +71,7 @@ updated: 2026-11-16
 - 科爾威爾認為，研究王后的「神話」，比研究王后本人的性格，更能說明當時社會的轉變；攻擊王后的修辭，是在界定革命時代女性「應有的本分」（[[s-1989-colwill-citoyenne]] pp. 64、74）。
 - 普萊斯認為，小冊子同時用兩套互相衝突的道德來攻擊王后：一套說「秘密就是性、公開才是清白」，另一套說「女人應該待在家裡、不該被看見」；她的結論是，革命建立了一個屬於男人的公共領域，卻沒有因此給女人一個受尊重的私人領域（[[s-1992-price-vies-privees]] pp. 177、189）。
 - 研究「讓他們吃蛋糕」的學者在結論中說，王后在世時被叫做「赤字夫人」和「否決夫人」，她的奢侈與私生活是無數歌謠、諷刺文和小冊子的目標，而這些複雜的恩怨後來被濃縮成一句好記的話（[[s-2002-campion-vincent-marie-antoinette]] 結論；另見 [[t-cake]]）。
+- **國王的弟弟普羅旺斯伯爵是不是幕後黑手？** 常有人這樣說。研究者特里克諾（Triquenaux）在註釋裡引法國學者尚塔爾．托馬（Chantal Thomas）的看法：最早那批質疑王位繼承的小冊子，出自凡爾賽的朝臣，「可能」就出自普羅旺斯伯爵身邊，因為從 1774 年到 1781 年王太子出生前，他是王位繼承人，最有理由懷疑哥哥孩子的合法性（本站譯）（[[s-2017-triquenaux-messaline]] p. 34 註 6）。但這只是推測。本站翻過梅西大使的通信和康龐夫人的回憶錄，都沒有找到當時有人指控他寫或資助誹謗王后的小冊子。梅西 1778 年 5 月寫道，很多人以為普羅旺斯伯爵虛偽，他卻覺得這位親王「本性只是冷淡、懦弱」，只管自己的小錢（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 208）。
 
 ## 延伸閱讀
 

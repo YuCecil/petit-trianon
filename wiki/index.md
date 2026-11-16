@@ -2,7 +2,7 @@
 
 > 由 `tools/build.py` 自動產生於 2026-11-16，不要手改。
 
-資料卡 103 張（全文 25）｜主題 48｜實體 5｜問答 1
+資料卡 106 張（全文 25）｜主題 48｜實體 5｜問答 1
 
 ## 主題頁
 
@@ -109,11 +109,13 @@
 - [[s-1900-nolhac-dauphine]] 《瑪麗．安東尼，太子妃》（Marie-Antoinette Dauphine） — Pierre de Nolhac（1900）｜傳記｜部分
 - [[s-1903-funck-brentano-collier]] 《項鍊案》 — Frantz Funck-Brentano（1903）｜專書｜部分
 - [[s-1907-lenotre-last-days-marie-antoinette]] The Last Days of Marie Antoinette — G. Lenôtre（1907）｜傳記｜部分
+- [[s-1909-duchesne-bagatelle]] 《巴加泰勒城堡，1715–1908》（Le Château de Bagatelle, 1715–1908），依檔案寫成的地方史專書 — Henri-Gaston Duchesne（1909）｜專書｜部分
 - [[s-1913-moberly-jourdain-adventure]] An Adventure（第二版，附 Appendix 與地圖） — Charlotte Anne Elizabeth Moberly；Eleanor Frances Jourdain（以筆名 Elizabeth Morison、Frances Lamont 發表）（1913）｜回憶錄｜部分
 - [[s-1919-hubert-mercy-dispatches]] Le comte de Mercy-Argenteau et Blumendorf. Dépêches inédites tirées des archives impériales de Vienne. 5 janvier-23 septembre 1792 — Eugène Hubert（1919）｜專書論文｜書目
 - [[s-1989-colwill-citoyenne]] Just Another "Citoyenne?" Marie-Antoinette on Trial, 1790-1793 — Elizabeth Colwill（1989）｜期刊論文｜全文
 - [[s-1989-white-solution]] Was There a Solution to the Ancien Régime's Financial Dilemma? — Eugene Nelson White（1989）｜期刊論文｜全文
 - [[s-1989-wolf-lameth-mercy]] La correspondance d'Alexandre de Lameth avec Mercy-Argenteau après le 10 août 1792 — Gerhard Wolf, Jean-René Suratteau（1989）｜期刊論文｜全文
+- [[s-1990-barrier-belanger-voyages]] 〈Les voyages outre-Manche de François-Joseph Bélanger〉（布紐阿、英國之旅） — Janine Barrier（1990）｜期刊論文｜摘要
 - [[s-1990-boutry-roi-martyr]] « Le Roi martyr ». La cause de Louis XVI devant la Cour de Rome (1820) — Philippe Boutry（1990）｜期刊論文｜部分
 - [[s-1992-price-vies-privees]] Vies privées et scandaleuses: Marie-Antoinette and the Public Eye — Leah Price（1992）｜期刊論文｜全文
 - [[s-1992-wolf-duport-mercy]] Quelques remarques concernant la politique étrangère de Vienne, de Paris et de la faction Duport-Lameth après le 20 avril 1792 — Gerhard Wolf（1992）｜期刊論文｜部分
@@ -155,6 +157,7 @@
 - [[s-2017-triquenaux-messaline]] 《Messaline française, louve de Barbarie et Ganymède femelle》：波利尼亞克夫人的諷刺小冊子與仇恨的傳染 — Maxime Triquenaux（2017）｜期刊論文｜部分
 - [[s-2020-theobald-soaring]] 〈飛升的想像：凡爾賽第一次孟格菲氣球表演的文字與圖像〉（Soaring Imaginations: The First Montgolfier Ballooning Spectacle at Versailles in Word and Image） — Catherine J. Lewis Theobald（2020）｜期刊論文｜全文
 - [[s-2021-archives-nationales-xray]] Marie-Antoinette's Correspondence under X-Ray（法國國家檔案館說明頁） — Archives nationales（2021）｜網頁｜摘要
+- [[s-2021-lebeurre-bagatelle-pari]] 〈Bagatelle：一個放蕩者的瘋狂賭局〉（Bagatelle : le pari fou d'un libertin） — Alexia Lebeurre、Claire Ollagnier（2021）｜專書論文｜書目
 - [[s-2021-michelin-xrf]] 2D macro-XRF to reveal redacted sections of French queen Marie-Antoinette secret correspondence with Swedish count Axel von Fersen — Anne Michelin, Fabien Pottier, Christine Andraud（2021）｜期刊論文｜部分
 - [[s-2022-doe-bagatelle]] 巴黎歌劇評論《城堡節》與 1774 年王室接種：王后的宣傳角色 — Julia Doe（2022）｜期刊論文｜部分
 - [[s-2022-hassler-strasbourg]] « Lien de deux États, ornement de deux Cours » : Marie-Antoinette à Strasbourg en mai 1770 — Éric Hassler（2022）｜期刊論文｜摘要
