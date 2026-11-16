@@ -1,12 +1,12 @@
 {
  "built": "2026-11-16",
  "counts": {
-  "sources": 106,
+  "sources": 109,
   "fulltext": 25,
-  "topics": 49,
+  "topics": 50,
   "entities": 5,
   "questions": 1,
-  "events": 114,
+  "events": 116,
   "places": 18
  },
  "pages": [
@@ -65,6 +65,33 @@
     "s-1874-arneth-mercy-correspondance",
     "s-1909-duchesne-bagatelle",
     "t-bagatelle"
+   ]
+  },
+  {
+   "id": "s-1781-bachaumont-memoires-secrets-v15",
+   "type": "source",
+   "title": "《祕密回憶錄》（Mémoires secrets）1781 年版第 15 冊（1780 年條目）",
+   "author": "Louis Petit de Bachaumont（題名頁署名；實際為多人續寫的逐日巴黎見聞）",
+   "year": 1781,
+   "kind": "報刊",
+   "lang": "fr",
+   "venue": "1781 年版第 15 冊（Internet Archive 識別碼 bim_eighteenth-century_mmoires-secrets-pour-se_1781_15；本站讀的是 OCR 文字檔 raw/letters/s-1781-bachaumont-memoires-secrets-v15.txt）",
+   "url": "https://archive.org/details/bim_eighteenth-century_mmoires-secrets-pour-se_1781_15",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1780,
+    1780
+   ],
+   "topics": [
+    "t-mesmer"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n1780 年的巴黎逐日見聞裡，梅斯梅爾已經是人人談論的人物：有人說他是「江湖郎中」，見聞作者則轉述醫生的質疑，說他的做法沒有可靠的事實根據。\n\n## 三個重點\n\n1. 1780 年 1 月 11 日條目：作者說梅斯梅爾「在巴黎待了一段時間」，他聲稱有「動物磁性」，而這個地方「是所有江湖郎中的劇場」（頁碼 OCR 不清楚，見下）。\n2. 1780 年 7 月 13 日條目：描述梅斯梅爾宣稱只要用手指碰觸，就能讓人感到「熱、冷、痛」，還能讓舊病復發，他的「萬能醫術」只靠一次接觸就能治病；並轉述醫學院的醫生說，他的做法背後「沒有一件事實是穩定可靠的」。\n3. 兩則都是當時的旁觀者記錄，立場偏向嘲諷，不是支持者的說法。\n\n## 用了什麼史料\n\n- 只讀了 1780 年兩則與 Mesmer 有關的條目，其餘卷次未讀。OCR 文字的長 s 與拼字錯誤多，引文需以原書影像核對。\n\n## 跟其他資料的關係\n\n- 與 Darnton（1968）描述的 1780 年代巴黎「梅斯梅爾熱」相符（見 s-1968-darnton-mesmerism）。\n- 這裡沒有提到王后，也沒有提到年金。\n\n## 值得記住的一句話\n\n原文（1780 年 7 月 13 日條目，OCR 節錄）：「il n'y a pas un fait, un seul fait constant」（中譯：沒有一件事實是穩定可靠的）（本站譯）。OCR 可能有錯，需以影像核對。\n\n## 還不確定的地方\n\n- 頁碼：OCR 文字裡頁碼標記不清，本站無法確定這兩則在第 15 冊的印刷頁碼，需要以影像或 Internet Archive 原檔核對。\n- 1780 年 1 月條目裡的「江湖郎中」「劇場」等語氣，是作者的評論，不是史實。\n",
+   "links": [
+    "t-mesmer"
    ]
   },
   {
@@ -146,6 +173,33 @@
    "body": "## 一句話\n\n科學院會員 Faujas de Saint-Fond 在 1783 年出版的熱氣球實驗記述。作者本人在凡爾賽宮庭院目睹 9 月 19 日的實驗，是現存最詳細的同時代現場紀錄之一；但他是蒙哥爾菲兄弟的支持者，文字有替他們辯護的成分。\n\n## 三個重點\n\n1. 9 月 19 日的實驗（頁 36–44）：國王與王室在場，氣球載了羊、公雞、鴨，充氣 11 分鐘，升空停留 8 分鐘，降落在瓦克雷松（Vaucresson）森林，離起點約 1700 托阿斯。\n2. 作者明確駁斥「公雞頭被摔斷」的報導，說公雞只有右翅皮擦傷，是羊在升空前約半小時踢的，有十多名證人（頁 43）。\n3. 作者也駁斥報紙說氣球充的是氫氣（「air inflammable」）的說法；實際只用燃燒的乾草與羊毛（頁 44）。書後的補編附有 11 月 21 日 Muette 實驗的 procès-verbal（簽署人包括 Duc de Polignac 等人）。\n\n## 用了什麼史料\n\n作者本人在場，引用了 Le Gentil 與 Jeaurat 兩位天文學家在天文台測得的高度（280 與 293 托阿斯，頁 44），並附上科學院委員簽署的文件（頁 36 附近註腳）。作者沒有提供報紙原文，也沒有列出證人的名字。\n\n## 跟其他資料的關係\n\n- 與 Degardin（s-2005-degardin-montgolfier）衝突：Degardin 說鴨子斷喙，Faujas 沒有提到鴨子受傷，只說公雞翅膀皮擦傷。\n- 與 Château 網頁（s-2026-versailles-chateau-first-balloon）：高度數字不同。Faujas 的天文台估計約 280–293 托阿斯（約 550–570 公尺，推論換算），網頁寫約 600 公尺；距離 1700 托阿斯（約 3.3 公里，推論換算）與網頁的 3.5 公里也有些差距。\n\n## 值得記住的一句話\n\n原文：「Il faut donc absolument rejetter le récit qui annonça que le coq s'étoit rompu la tête」（頁 43）\n中譯：「因此必須完全駁斥那則說公雞頭被摔斷的報導」（本站譯）\n\n## 還不確定的地方\n\n- 只讀了印刷頁約 36–44 的 Versailles 章節與補編的 Muette procès-verbal；全書其餘部分未讀。\n- OCR 檔的氣球尺寸（高度、直徑）辨識不清，不能採用。\n- 本書沒有寫國王或王后的個人反應（只說「leurs Majestés」在場並走近氣球，頁 40）。\n- 本書沒有提到氣球名字「Le Réveillon」、動物之後的去向，也沒有提到犯人試飛的說法。\n- 《Mémoires secrets》與《Journal de Paris》的同日報導尚未取得原文，無法確認作者說的「報紙」是哪幾份。\n",
    "links": [
     "t-balloon"
+   ]
+  },
+  {
+   "id": "s-1784-commissaires-rapport-magnetisme",
+   "type": "source",
+   "title": "《國王委員會關於動物磁性的報告》（Rapport des commissaires chargés par le roi, de l'examen du magnétisme animal，1784）",
+   "author": "國王任命的委員會（署名：Franklin、Majault、Le Roy、Sallin、Bailly、d'Arcet、de Bory、Guillotin、Lavoisier）",
+   "year": 1784,
+   "kind": "檔案",
+   "lang": "fr",
+   "venue": "Imprimerie royale, Paris, 1784（Internet Archive 識別碼 b22324665；本站讀的是 raw/papers/s-1784-commissaires-rapport-magnetisme.txt 與 .pdf）",
+   "url": "https://archive.org/details/b22324665",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1784,
+    1784
+   ],
+   "topics": [
+    "t-mesmer"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n1784 年國王任命的委員會報告，調查的是梅斯梅爾的學生德聖（Deslon）的治療做法，結論是「磁性流體不存在」，而治療時看到的抽搐與昏厥，來自接觸、想像和模仿。\n\n## 三個重點\n\n1. 委員會是 1784 年 3 月 12 日由國王任命（報告開頭）。起因是巴黎醫學院的四位醫生（Borie、Sallin、d'Arcet、Guillotin）請求調查，國王再加派五位科學院院士，包括富蘭克林、拉瓦節、巴伊（Bailly）；Borie 中途去世，改由 Majault 接替（報告開頭，pdf 第 3 頁）。\n2. 委員會測試的對象是德聖，不是梅斯梅爾本人。報告自己也說，梅斯梅爾的理論「在此無關緊要」，委員只看「做法與效果」；並指出德聖曾長期當梅斯梅爾的學生，做法相同（印刷頁 63–64）。\n3. 結論（簽於 1784 年 8 月 11 日）：「磁性流體不存在」；看到的效果屬於「接觸、被引發的想像，以及模仿」；而且公開的磁性治療會引起抽搐、可能有害（印刷頁 63–64）。\n\n## 用了什麼史料\n\n- 委員會報告本文（法文，1784 年印刷）。本站讀了開頭、中段的實驗敘述，以及結論與署名段（印刷頁 63–64，pdf 第 65–66 頁）；其餘實驗細節未逐頁讀完。\n- 同一年另有巴黎醫學會（Société royale de médecine）的獨立報告，本站未讀（Darnton 在註 10 提到）。\n\n## 跟其他資料的關係\n\n- Darnton（1968）把這份報告當成「梅斯梅爾運動」轉向的關鍵，並指出委員會沒有檢驗梅斯梅爾本人的正統學說（見 s-1968-darnton-mesmerism）。\n- 報告發表後，支持者出版大量辯駁小冊子（Darnton 第 63 頁）。\n\n## 值得記住的一句話\n\n原文（結論，節錄）：「que l’imagination sans Magnétisme produit des convulsions, & que le Magnétisme sans l’imagination ne produit rien」（結論原文，印刷頁 63–64；中譯：委員會以實驗證明，沒有磁性的想像會產生抽搐，沒有想像的磁性什麼也不產生）（本站譯）。OCR 原文有斷字與長 s 誤讀，逐字引用時以 pdf 為準。\n\n## 還不確定的地方\n\n- 報告沒有提到王后，也沒有提到任何年金。「王后要求為梅斯梅爾撥年金」這個說法，這份報告無法證實或否定。\n- 結論的 \"fluide n'existe pas\" 是否包含梅斯梅爾的整套理論，委員會自己在註（g）裡有回應（印刷頁 64），支持者的批評見 Darnton。\n- 「效果來自想像」的說法要加限定：報告的原話是「想像」「接觸」「模仿」三者並列，並非單指想像。\n",
+   "links": [
+    "t-mesmer"
    ]
   },
   {
@@ -1257,6 +1311,33 @@
     "s-1989-wolf-lameth-mercy",
     "s-1992-wolf-duport-mercy",
     "t-secret"
+   ]
+  },
+  {
+   "id": "s-1968-darnton-mesmerism",
+   "type": "source",
+   "title": "Mesmerism and the End of the Enlightenment in France（《梅斯梅爾主義與法國啟蒙的終結》）",
+   "author": "Robert Darnton",
+   "year": 1968,
+   "kind": "專書",
+   "lang": "en",
+   "venue": "Harvard University Press, Cambridge, MA, 1968（Internet Archive 識別碼 MesmerismRobertDarnton_201507，授權 CC BY-NC 3.0；本站讀的是 raw/books/s-1968-darnton-mesmerism.txt 的 OCR 文字檔）",
+   "url": "https://archive.org/details/MesmerismRobertDarnton_201507",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1775,
+    1786
+   ],
+   "topics": [
+    "t-mesmer"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n社會史學者 Darnton 的研究專書，把梅斯梅爾的動物磁性放進 1780 年代的巴黎社會：學會、沙龍、祕密互助會，以及政府與科學院的衝突，並說明 1784 年委員會報告如何被支持者反擊。\n\n## 三個重點\n\n1. 1781 年 3 至 4 月，政府（由莫爾帕〔Maurepas〕出面）與梅斯梅爾談判，提出終身年金 20,000 利弗爾、另加每年 10,000 利弗爾作為診所經費，條件是接受政府派來的三名「學生」監督；梅斯梅爾拒絕，並寫公開信給王后（第 54 頁）。\n2. 報告發表後，支持者出版大量小冊子，他們的批評是委員會「拒絕檢驗梅斯梅爾正統的學說」，並且忽略了數百例治癒的紀錄（第 63 頁）。\n3. Darnton 自己的結論：委員會的實驗顯示，流體「不存在」，抽搐等效果可以用「過熱的想像」來解釋（第 63 頁，依委員會的論證改寫）。\n\n## 用了什麼史料\n\n- 全書以法國當時的報刊、小冊子、祕密手抄新聞與學會紀錄為主（書前註釋列出 Mémoires secrets、Grimm 的通訊、Hardy 手稿日記等）。\n- 本站讀的是與子題相關的部分：談 1781 年政府與梅斯梅爾談判的段落（第 54 頁，註 2 引 d'Onglée 與梅斯梅爾自己的 Précis historique），以及 1784 年委員會段落（第 62–63 頁，註 10–11）。其他章節未讀。\n\n## 跟其他資料的關係\n\n- 談王后的部分，Darnton 寫的是「apparently」（似乎）：王后「可能受到 Ségur 伯爵等親梅斯梅爾的宮廷人士影響」而介入。這是他的判斷，書中沒有列出王后本人的書信作為依據。\n- 1784 年委員會的實驗描述與本站讀到的報告原文一致（見 s-1784-commissaires-rapport-magnetisme），但 Darnton 把它當作「委員會偏向」的論證來源，這是他的立場。\n\n## 值得記住的一句話\n\n原文：「Marie-Antoinette, apparently influenced by mesmerist courtiers like the Comte de Segur, intervened to rescue her people by having Maurepas and other government officials negotiate with Mesmer in March and April 1781.」（第 54 頁；中譯：瑪麗．安東尼「似乎受到 Ségur 伯爵等親梅斯梅爾的宮廷人士影響」，介入後由莫爾帕等人於 1781 年 3 至 4 月與梅斯梅爾談判）（本站譯）。\n\n## 還不確定的地方\n\n- 「王后介入」的依據，Darnton 沒有指明來源；本站沒有找到王后本人要求為梅斯梅爾撥年金的書信或紀錄。\n- 年金數字（20,000 與 10,000 利弗爾）出自 Darnton 轉述的梅斯梅爾陣營小冊子，原始數字未經本站核對原書。\n- 書中頁碼由 OCR 文字的頁首推算（第 54、62–63 頁），需要以實體書或 pdf 再核對一次。\n",
+   "links": [
+    "t-mesmer"
    ]
   },
   {
@@ -4157,6 +4238,37 @@
    ]
   },
   {
+   "id": "t-mesmer",
+   "type": "topic",
+   "title": "梅斯梅爾的磁鐵桶：王后信過「動物磁性」嗎？",
+   "category": "宮廷",
+   "period": [
+    1778,
+    1784
+   ],
+   "summary": "維也納來的醫生在巴黎爆紅，王后替他說過話，國王派富蘭克林去查。",
+   "myth": "瑪麗．安東尼是梅斯梅爾的信徒，替他向國王要了一大筆年金。",
+   "verdict": "半真半假",
+   "sources": [
+    "s-1866-arneth-marie-antoinette",
+    "s-1968-darnton-mesmerism",
+    "s-1784-commissaires-rapport-magnetisme",
+    "s-1781-bachaumont-memoires-secrets-v15"
+   ],
+   "updated": "2026-11-16",
+   "body": "## 一句話說明\n\n1778 年，維也納醫生梅斯梅爾（Franz Anton Mesmer）來到巴黎，說他發現了一種看不見、充滿宇宙的「磁性流體」，可以治百病。上流社會為之瘋狂。王后確實替這位同鄉向哥哥約瑟夫二世說過情，政府也開價要留住他；但 1784 年國王派出的調查委員會（成員包括富蘭克林和化學家拉瓦節）判定：這種流體根本不存在。\n\n## 迷思與史料\n\n王后跟梅斯梅爾扯上關係，有一份她親筆的證據。1780 年 12 月 20 日，母親瑪麗亞．特蕾莎剛過世不久，她寫信給約瑟夫二世：「你真好，回覆了我為梅斯梅爾的種種糾纏。」接著一句：「除了少數狂熱的人，這裡大家的想法都跟你一樣。」（本站譯）（[[s-1866-arneth-marie-antoinette]] pp. 25–26）（推論）「為梅斯梅爾」的糾纏，表示她確實替梅斯梅爾向哥哥開過口；但她說「大家都跟你一樣想」，口氣又像是接受了哥哥的保留，不像一個狂熱的信徒。約瑟夫的回信，本站沒有讀到。\n\n至於年金，美國歷史學者丹屯（Robert Darnton）寫道：1781 年 3、4 月，王后「似乎受到宮裡支持磁療的朝臣影響，例如塞居爾伯爵」，出面讓首相莫爾帕等官員和梅斯梅爾談條件；政府開出終身年金兩萬里弗爾，外加每年一萬里弗爾開診所，條件是接受政府派三個「學生」監督（本站譯）（[[s-1968-darnton-mesmerism]] 第 2 章，約 p. 54）。丹屯用的是「似乎」，依據是梅斯梅爾陣營自己印的小冊子，不是宮廷的檔案。\n\n所以本站判定「半真半假」：王后替梅斯梅爾說過話，是她自己信裡寫的；政府也真的開了價。但「王后是信徒」沒有證據，她自己的信反而透露懷疑；年金是不是她要的，只有丹屯的推測。\n\n## 故事是這樣的\n\n### 維也納來的醫生\n\n丹屯說，梅斯梅爾 1778 年 2 月到巴黎，宣稱發現了一種極細的流體，穿透、包圍所有物體；他自己也沒看過這種流體，只是推論：行星之間如果是真空，就不可能互相吸引，所以一定有某種東西在中間傳遞（[[s-1968-darnton-mesmerism]] 第 1 章，約 pp. 3–4）。人生病，是因為身體裡的流體受阻；只要把流體疏通，病就會好。\n\n兩年後，巴黎的八卦紀錄《祕密回憶錄》寫得很不客氣：「這裡來了一個叫梅斯梅爾的醫生，是維也納醫學院出身的。這個國家是所有江湖術士的舞台。」它說他用手指在病人身上移動，碰到病處時，病人會像被電到一樣；他紅了一陣子、賺了不少錢，但這股風潮已經退了（本站譯）（[[s-1781-bachaumont-memoires-secrets-v15]] 1780 年 1 月 11 日條）。\n\n### 磁鐵桶\n\n它其實沒有退。梅斯梅爾和他的學生德隆（Deslon）在巴黎開了集體治療室。1784 年的調查報告描述了場面：大廳中央放一個橡木做的圓桶，叫「巴蓋」（baquet），高一尺到一尺半，桶蓋上鑽滿了洞，伸出一根根可以彎曲的鐵桿；病人圍著桶坐好幾圈，每人拿一根鐵桿抵住自己生病的部位，再用繩子把大家的身體綁在一起，有時還手拉手、拇指扣著拇指，連成一條「鏈」（[[s-1784-commissaires-rapport-magnetisme]] pp. 3–4）。\n\n治療師用手或棒子對著病人比劃、按壓肚子，病人有的打嗝、有的嘔吐，有的全身抽搐、哭喊，這叫「危象」（crise），被當成病要好轉的徵兆（[[s-1784-commissaires-rapport-magnetisme]] pp. 48–49）。丹屯引當時的報刊說，到了 1784 年，「首都所有談話的大題目，還是動物磁性」；這個運動「被警察調查、受王后庇護、在舞台上被嘲笑好幾次」（本站譯）（[[s-1968-darnton-mesmerism]] 第 1 章）。\n\n### 王后的同鄉\n\n梅斯梅爾和王后一樣來自維也納。他在巴黎的支持者裡，有不少大貴族：洛贊公爵、夸尼公爵、塔列朗的堂兄……丹屯說，他們常拿會員裡有多少朝臣來證明這門學問體面，塞居爾伯爵甚至在王后面前替它辯護（[[s-1968-darnton-mesmerism]] 第 2 章）。1780 年底，王后寫信給哥哥，為梅斯梅爾的事「糾纏」他（[[s-1866-arneth-marie-antoinette]] pp. 25–26）。\n\n1781 年春，梅斯梅爾揚言要離開法國，去比利時的溫泉療養，「把忘恩負義的法國人丟給他們的病」。政府開出年金和診所經費留他，他卻拒絕了，還寫了一封公開信給王后，大談「我原則的嚴正」；他嫌條件像賄賂、又嫌不夠大方，要求一座鄉間莊園，還說對王后陛下來說，「多四、五十萬法郎、少四、五十萬法郎」又算什麼（本站譯）（[[s-1968-darnton-mesmerism]] 第 2 章，約 p. 54）。（推論）對一個已經被叫做「赤字夫人」的王后來說，這種話傳出去很難聽。\n\n### 國王派人調查\n\n1784 年 3 月 12 日，國王指派巴黎醫學院的四位醫生調查德隆的磁療，其中一位就是後來斷頭台以他為名的吉約坦（Guillotin）；醫生們又請國王加派五位科學院院士：富蘭克林、勒魯瓦、巴伊、德博里、拉瓦節（[[s-1784-commissaires-rapport-magnetisme]] p. 1）。富蘭克林當時是美國駐法公使，身體不好，沒去巴黎，德隆就到他在帕西（Passy）的家替他和家人做磁療；結果病人們照常出現反應，富蘭克林、他的親戚、祕書和一位美國軍官，「什麼也沒感覺到」（本站譯）（[[s-1784-commissaires-rapport-magnetisme]] pp. 22–23）。\n\n最有名的是一棵杏樹。德隆說，被磁化過的樹，敏感的人靠近就會有反應。委員會在帕西富蘭克林家的果園裡挑了一棵杏樹，讓德隆一個人去磁化它，再把德隆自己挑的一個十二歲男孩蒙上眼睛帶來，讓他輪流抱四棵**沒有**磁化的樹，每棵兩分鐘。抱第一棵就說滿身大汗、頭痛；抱到第四棵，離那棵杏樹還有二十四尺，他就「發作」了，失去知覺、四肢僵硬，被抬到草地上（[[s-1784-commissaires-rapport-magnetisme]] pp. 35–37）。委員們寫道：「這個實驗的結果，完全不利於磁性。」（本站譯）（[[s-1784-commissaires-rapport-magnetisme]] p. 37）\n\n8 月 11 日，九位委員簽字。結論是：沒有磁性的想像會產生抽搐，沒有想像的磁性什麼也不產生；「沒有任何東西證明動物磁性流體存在」，在公開治療中看到的激烈反應，來自觸摸、被激發的想像，以及人們會不由自主模仿別人的本能；這種公開治療長久下去「只會帶來有害的後果」（本站譯）（[[s-1784-commissaires-rapport-magnetisme]] pp. 63–64）。\n\n## 研究者怎麼看\n\n- **王后的角色：** 丹屯認為王后在 1781 年出面讓政府和梅斯梅爾談判，但用了「似乎」，依據是梅斯梅爾陣營的小冊子（[[s-1968-darnton-mesmerism]] 第 2 章，約 p. 54 及註 2）。本站讀到王后自己唯一提到梅斯梅爾的信，只能證明她替他向約瑟夫二世說過話（[[s-1866-arneth-marie-antoinette]] pp. 25–26）。\n- **為什麼重要：** 丹屯的整本書主張，磁療運動雖然被科學界否定，卻吸引了一批後來的革命人物，成了革命前「激進思想」的一個出口（[[s-1968-darnton-mesmerism]]）。\n- **委員會的結論：** 委員們說他們不管梅斯梅爾的理論，只看效果；結論把效果歸給想像、觸摸和模仿（[[s-1784-commissaires-rapport-magnetisme]] pp. 63–64）。（推論）今天有人把這份報告看成最早的「安慰劑對照實驗」之一，蒙眼和假樹就是對照組。\n\n## 延伸閱讀\n\n- [[t-execution]]：委員會裡的吉約坦醫生，和以他為名的斷頭台。\n- [[t-balloon]]：同一年代，凡爾賽也在看另一種新科學。\n- [[t-inoculation]]：另一次科學、醫學和王室的相遇。\n- [[t-joseph]]：王后的哥哥約瑟夫二世。\n\n## 還不知道的事\n\n- 約瑟夫二世怎麼回覆王后為梅斯梅爾說的情，本站沒有讀到他的信。\n- 1781 年莫爾帕和梅斯梅爾談判的政府檔案；梅西大使 1781 年的報告裡有沒有提到這件事。\n- 委員會另外交給國王的祕密報告（警告磁療有傷風化），本站沒有讀到原文。\n- 丹屯書的頁碼由 OCR 推算，還要對照實體書。\n",
+   "links": [
+    "s-1781-bachaumont-memoires-secrets-v15",
+    "s-1784-commissaires-rapport-magnetisme",
+    "s-1866-arneth-marie-antoinette",
+    "s-1968-darnton-mesmerism",
+    "t-balloon",
+    "t-execution",
+    "t-inoculation",
+    "t-joseph"
+   ]
+  },
+  {
    "id": "t-mops",
    "type": "topic",
    "title": "王后的小狗：一隻從維也納來的巴哥犬？",
@@ -4966,6 +5078,10 @@
    "t-bagatelle"
   ],
   [
+   "s-1781-bachaumont-memoires-secrets-v15",
+   "t-mesmer"
+  ],
+  [
    "s-1781-necker-compte-rendu",
    "t-deficit"
   ],
@@ -4976,6 +5092,10 @@
   [
    "s-1783-faujas-description",
    "t-balloon"
+  ],
+  [
+   "s-1784-commissaires-rapport-magnetisme",
+   "t-mesmer"
   ],
   [
    "s-1785-beaumarchais-figaro-preface",
@@ -5324,6 +5444,10 @@
   [
    "s-1919-hubert-mercy-dispatches",
    "t-secret"
+  ],
+  [
+   "s-1968-darnton-mesmerism",
+   "t-mesmer"
   ],
   [
    "s-1989-colwill-citoyenne",
@@ -7128,6 +7252,38 @@
   [
    "t-mesdames",
    "t-varennes"
+  ],
+  [
+   "t-mesmer",
+   "s-1781-bachaumont-memoires-secrets-v15"
+  ],
+  [
+   "t-mesmer",
+   "s-1784-commissaires-rapport-magnetisme"
+  ],
+  [
+   "t-mesmer",
+   "s-1866-arneth-marie-antoinette"
+  ],
+  [
+   "t-mesmer",
+   "s-1968-darnton-mesmerism"
+  ],
+  [
+   "t-mesmer",
+   "t-balloon"
+  ],
+  [
+   "t-mesmer",
+   "t-execution"
+  ],
+  [
+   "t-mesmer",
+   "t-inoculation"
+  ],
+  [
+   "t-mesmer",
+   "t-joseph"
   ],
   [
    "t-mops",
@@ -9143,6 +9299,22 @@
    "category": "宮廷",
    "topic": "t-bagatelle",
    "source": "s-1874-arneth-mercy-correspondance"
+  },
+  {
+   "date": "1778-02",
+   "title": "梅斯梅爾來到巴黎",
+   "desc": "維也納醫生宣稱發現了看不見的「動物磁性」，治療室裡擺著鐵桿伸出的大木桶。",
+   "category": "宮廷",
+   "topic": "t-mesmer",
+   "source": "s-1968-darnton-mesmerism"
+  },
+  {
+   "date": "1784-08-11",
+   "title": "富蘭克林等人判定磁性流體不存在",
+   "desc": "國王派的委員會用蒙眼與「假樹」實驗，結論是效果來自想像、觸摸與模仿。",
+   "category": "宮廷",
+   "topic": "t-mesmer",
+   "source": "s-1784-commissaires-rapport-magnetisme"
   }
  ],
  "stats": [],

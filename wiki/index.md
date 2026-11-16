@@ -2,7 +2,7 @@
 
 > 由 `tools/build.py` 自動產生於 2026-11-16，不要手改。
 
-資料卡 106 張（全文 25）｜主題 49｜實體 5｜問答 1
+資料卡 109 張（全文 25）｜主題 50｜實體 5｜問答 1
 
 ## 主題頁
 
@@ -38,6 +38,7 @@
 - [[t-louis17]] 路易十七之謎：一顆心臟，兩百年後的 DNA — 王后的兒子死在塔裡了嗎？幾十個人說自己就是他。
 - [[t-madame-royale]] 瑪麗－泰蕾茲：唯一活下來的孩子 — 全家只剩她走出聖殿塔，在十七歲生日那天被換到國外。
 - [[t-mesdames]] 姑姑們：凡爾賽最難纏的老公主 — 新嫁娘的第一批朋友，後來成了她最早的對手。
+- [[t-mesmer]] 梅斯梅爾的磁鐵桶：王后信過「動物磁性」嗎？ — 維也納來的醫生在巴黎爆紅，王后替他說過話，國王派富蘭克林去查。
 - [[t-mops]] 王后的小狗：一隻從維也納來的巴哥犬？ — 本站吉祥物的由來：一封 1770 年的密報裡，藏著一隻叫 Mops 的狗。
 - [[t-necklace]] 鑽石項鍊事件：被騙的人輸掉了名聲 — 一條她沒買、沒戴過的項鍊，卻讓全法國相信她是共犯。
 - [[t-october-days]] 麵包師一家：1789 年 10 月，巴黎走到凡爾賽 — 兩天之內，王室一家永遠離開了凡爾賽。
@@ -72,9 +73,11 @@
 
 - [[s-1777-bachaumont-memoires-secrets-v5]] 《祕密回憶錄》（Mémoires secrets）1777 年版第 5 冊（1770 年條目） — Louis Petit de Bachaumont（題名頁署名；實際為多人續寫的逐日巴黎見聞）（1777）｜報刊｜部分
 - [[s-1781-bachaumont-memoires-secrets-v10]] 《祕密回憶錄》（Mémoires secrets）1781 年版第 10 冊（1777 年 9 月至 12 月條目） — Louis Petit de Bachaumont（題名頁署名；實際為多人續寫的逐日巴黎見聞）（1781）｜報刊｜部分
+- [[s-1781-bachaumont-memoires-secrets-v15]] 《祕密回憶錄》（Mémoires secrets）1781 年版第 15 冊（1780 年條目） — Louis Petit de Bachaumont（題名頁署名；實際為多人續寫的逐日巴黎見聞）（1781）｜報刊｜部分
 - [[s-1781-necker-compte-rendu]] Compte rendu au Roi（國王財政報告） — Jacques Necker（1781）｜檔案｜部分
 - [[s-1782-rousseau-confessions]] Les Confessions（卷六，「大公主」段落） — Jean-Jacques Rousseau（1782）｜回憶錄｜部分
 - [[s-1783-faujas-description]] 《蒙哥爾菲機器氣球實驗描述》（Description des expériences de la machine aérostatique de MM. de Montgolfier） — Barthélemy Faujas de Saint-Fond（1783）｜專書｜部分
+- [[s-1784-commissaires-rapport-magnetisme]] 《國王委員會關於動物磁性的報告》（Rapport des commissaires chargés par le roi, de l'examen du magnétisme animal，1784） — 國王任命的委員會（署名：Franklin、Majault、Le Roy、Sallin、Bailly、d'Arcet、de Bory、Guillotin、Lavoisier）（1784）｜檔案｜部分
 - [[s-1785-beaumarchais-figaro-preface]] La Folle Journée, ou Le Mariage de Figaro（1785 年 Ruault 版，含作者序言與審查核准文件） — Pierre-Augustin Caron de Beaumarchais（博馬舍，1732–1799）（1785）｜專書｜部分
 - [[s-1789-la-motte-justification]] Memoirs of the Countess de Valois de La Motte（拉莫特夫人回憶錄，英譯本） — Jeanne de Saint-Rémy de Valois, comtesse de La Motte（1789）｜回憶錄｜部分
 - [[s-1790-detail-general-confederation]] Détail général de ce qui s'est passé à la Confédération du 14 juillet au Champ de Mars（1790 年小冊） — 無署名（1790）｜報刊｜全文
@@ -113,6 +116,7 @@
 - [[s-1909-duchesne-bagatelle]] 《巴加泰勒城堡，1715–1908》（Le Château de Bagatelle, 1715–1908），依檔案寫成的地方史專書 — Henri-Gaston Duchesne（1909）｜專書｜部分
 - [[s-1913-moberly-jourdain-adventure]] An Adventure（第二版，附 Appendix 與地圖） — Charlotte Anne Elizabeth Moberly；Eleanor Frances Jourdain（以筆名 Elizabeth Morison、Frances Lamont 發表）（1913）｜回憶錄｜部分
 - [[s-1919-hubert-mercy-dispatches]] Le comte de Mercy-Argenteau et Blumendorf. Dépêches inédites tirées des archives impériales de Vienne. 5 janvier-23 septembre 1792 — Eugène Hubert（1919）｜專書論文｜書目
+- [[s-1968-darnton-mesmerism]] Mesmerism and the End of the Enlightenment in France（《梅斯梅爾主義與法國啟蒙的終結》） — Robert Darnton（1968）｜專書｜部分
 - [[s-1989-colwill-citoyenne]] Just Another "Citoyenne?" Marie-Antoinette on Trial, 1790-1793 — Elizabeth Colwill（1989）｜期刊論文｜全文
 - [[s-1989-white-solution]] Was There a Solution to the Ancien Régime's Financial Dilemma? — Eugene Nelson White（1989）｜期刊論文｜全文
 - [[s-1989-wolf-lameth-mercy]] La correspondance d'Alexandre de Lameth avec Mercy-Argenteau après le 10 août 1792 — Gerhard Wolf, Jean-René Suratteau（1989）｜期刊論文｜全文

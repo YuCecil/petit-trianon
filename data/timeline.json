@@ -910,5 +910,21 @@
   "category": "宮廷",
   "topic": "t-bagatelle",
   "source": "s-1874-arneth-mercy-correspondance"
+ },
+ {
+  "date": "1778-02",
+  "title": "梅斯梅爾來到巴黎",
+  "desc": "維也納醫生宣稱發現了看不見的「動物磁性」，治療室裡擺著鐵桿伸出的大木桶。",
+  "category": "宮廷",
+  "topic": "t-mesmer",
+  "source": "s-1968-darnton-mesmerism"
+ },
+ {
+  "date": "1784-08-11",
+  "title": "富蘭克林等人判定磁性流體不存在",
+  "desc": "國王派的委員會用蒙眼與「假樹」實驗，結論是效果來自想像、觸摸與模仿。",
+  "category": "宮廷",
+  "topic": "t-mesmer",
+  "source": "s-1784-commissaires-rapport-magnetisme"
  }
 ]
