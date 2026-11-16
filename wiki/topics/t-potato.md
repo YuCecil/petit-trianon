@@ -7,6 +7,8 @@ period: [1771, 1789]
 summary: 帕門蒂耶推廣馬鈴薯的傳說，最早出現在他死後的悼詞裡。
 myth: 路易十六把馬鈴薯花插在扣眼裡，瑪麗．安東尼把它戴在頭髮上，宮廷跟風，馬鈴薯從此在法國流行。
 verdict: 查無實據
+image: t-potato.jpg
+imageAlt: 粉彩畫風插畫：鋪白布的桌上有一束用藍緞帶綁著的淡紫色馬鈴薯花、一顆馬鈴薯、一把小鏟子和一件深藍外套，窗外是開著白花的田。
 sources: [s-1814-cadet-eloge-parmentier, s-1826-payen-pomme-de-terre, s-2025-collart-pomme-de-terre-journaux, s-1789-parmentier-traite]
 updated: 2026-11-17
 ---

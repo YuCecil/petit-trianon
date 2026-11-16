@@ -135,3 +135,7 @@
 - 發現：種痘「王后說服國王」被梅西與女皇的信直接否定；作戰計畫有 1792 年 3 月 20 日的密碼信為證；康龐夫人說煙火後捐出「一整年收入」，當時紀錄是每月 2000 埃居；巴加泰勒「打賭」只見於八卦刊物，梅西沒提；王后自己的信說她為梅斯梅爾「糾纏」過約瑟夫二世
 - 修正：Haiku 誤覆蓋的 raw/notes/s-1862-sanson-sept-generations.md 已從對話紀錄還原，新內容附在後面
 - 缺插圖：上述 6 篇新故事
+
+## [2026-11-17] art | 八篇新故事的頁首插圖
+- t-inoculation、t-balloon、t-war-plans、t-federation、t-bagatelle、t-mesmer、t-potato、t-perfume（Gemini，提示詞由主 session 寫，Haiku 操作，主 session 逐張看過）
+- t-mesmer 第一版的木桶畫得太高（報告說只有一尺到一尺半），重畫後採用第二版；兩版原圖都留在 raw/images/

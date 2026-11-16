@@ -7,6 +7,8 @@ period: [1774, 1793]
 summary: 王后真的有御用香水師，但「香水害逃亡露餡」找不到證據。
 myth: 王后叫香水師法爾容把旅行梳妝盒裝滿香水帶著逃亡，這個梳妝盒讓逃亡露了餡。
 verdict: 查無實據
+image: t-perfume.jpg
+imageAlt: 粉彩畫風插畫：梳妝台上打開的木製旅行梳妝盒，裡面有水晶香水瓶、銀梳和小銀碗，旁邊散放玫瑰、紫羅蘭和半顆柑橘。
 sources: [s-1823-campan-memoires, s-2013-briot-fargeon-fournisseur, s-2020-lanoe-gallois-huet, s-1801-fargeon-art-parfumeur, s-1852-marie-therese-temple]
 updated: 2026-11-17
 ---

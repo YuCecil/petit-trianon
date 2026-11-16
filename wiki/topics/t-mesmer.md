@@ -7,6 +7,8 @@ period: [1778, 1784]
 summary: 維也納來的醫生在巴黎爆紅，王后替他說過話，國王派富蘭克林去查。
 myth: 瑪麗．安東尼是梅斯梅爾的信徒，替他向國王要了一大筆年金。
 verdict: 半真半假
+image: t-mesmer.jpg
+imageAlt: 粉彩畫風插畫：沙龍裡一群穿 18 世紀服裝的人圍坐在一個矮圓木桶旁，桶蓋伸出彎曲的鐵桿抵著每個人，一條繩子把大家連在一起。
 sources: [s-1866-arneth-marie-antoinette, s-1968-darnton-mesmerism, s-1784-commissaires-rapport-magnetisme, s-1781-bachaumont-memoires-secrets-v15]
 updated: 2026-11-16
 ---
