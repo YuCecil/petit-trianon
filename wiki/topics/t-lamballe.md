@@ -76,6 +76,7 @@ updated: 2026-11-16
 - [[s-1823-campan-memoires]]
 - [[s-1835-vigee-le-brun-souvenirs]]
 - 相關故事：[[t-august10]]
+- 人物：[[e-tourzel]]
 
 ## 還不知道的事
 

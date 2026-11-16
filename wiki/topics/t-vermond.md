@@ -5,6 +5,8 @@ title: 韋爾蒙神父：站在王后身後的老師
 category: 人物
 period: [1769, 1789]
 summary: 從維也納一路跟到凡爾賽的家庭教師，是王后的心腹，也是大使的耳目。
+image: t-vermond.jpg
+imageAlt: 粉彩畫風插畫：明亮的小書房裡，一位穿粉紅小禮服的少女坐在寫字桌前，身旁穿黑袍的神父正指著書頁講解。
 sources: [s-1874-arneth-mercy-correspondance, s-1823-campan-memoires]
 updated: 2026-11-16
 ---
@@ -65,6 +67,7 @@ updated: 2026-11-16
 - [[s-1874-arneth-mercy-correspondance]]
 - [[s-1823-campan-memoires]]
 - 相關故事：[[t-handover]]、[[t-mesdames]]、[[t-deficit]]、[[t-polignac]]
+- 人物：[[e-mercy]]
 
 ## 還不知道的事
 

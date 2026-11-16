@@ -5,6 +5,8 @@ title: 法爾肯施泰因伯爵：哥哥來凡爾賽挑毛病
 category: 人物
 period: [1777, 1778]
 summary: 皇帝化名來訪，住旅館、罵禮儀，臨走留下一封長長的訓誡信。
+image: t-joseph.jpg
+imageAlt: 粉彩畫風插畫：鄉間路旁的樸素小旅館，一輛簡樸的馬車停在門前，一位穿棕色外套的男子背影走向門口。
 sources: [s-1823-campan-memoires, s-1866-arneth-marie-antoinette, s-1874-arneth-mercy-correspondance, s-1867-arneth-maria-theresia-joseph]
 updated: 2026-11-16
 ---
@@ -18,6 +20,8 @@ updated: 2026-11-16
 ### 化名的皇帝
 
 約瑟夫原本打算用最嚴格的方式隱姓埋名，母親瑪麗亞．特蕾莎則希望他稍微通融一點（[[s-1874-arneth-mercy-correspondance]] 第 3 冊註）。女皇對這趟旅行不太樂觀。1777 年 1 月，她寫信給大使梅西：結果只有兩種，要不是女兒用體貼和魅力把哥哥收服，就是哥哥一直想教訓她，把她惹煩了；她覺得前者比較可能，但無論如何，都別指望靠皇帝來一趟就扭轉局面（[[s-1874-arneth-mercy-correspondance]] 第 3 冊，1777 年 1 月信）。
+
+{{photo:t-joseph-hickel.jpg|希克爾（Joseph Hickel）1771 年所畫、穿著盔甲的約瑟夫二世。|Wikimedia Commons，Yelkrokoyade 攝，CC BY-SA 3.0}}
 
 王后自己倒是很期待。貼身女官康龐夫人說，王后常在閒談裡誇哥哥聰明、勤勞、懂軍事、生活極其簡樸，身邊的人都很想見見這位皇帝。兄妹在凡爾賽第一次擁抱時，王后的整個內廷都在場，康龐夫人說那一幕「非常動人」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 pp. 174–175）。坊間有一則軼事說，王后坐著輕便馬車出城去迎接他；康龐夫人特別加註說，這是假的，王后是在凡爾賽接見他的（[[s-1823-campan-memoires]] 第 1 冊 p. 175 註）。
 
@@ -68,6 +72,7 @@ updated: 2026-11-16
 - [[s-1823-campan-memoires]]
 - [[s-1874-arneth-mercy-correspondance]]
 - 相關故事：[[t-consummation]]、[[t-theatre]]、[[t-deficit]]、[[t-elisabeth]]
+- 人物：[[e-mercy]]
 
 ## 還不知道的事
 

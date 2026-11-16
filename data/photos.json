@@ -702,5 +702,68 @@
   "source": "https://commons.wikimedia.org/wiki/File:Ad%C3%A9la%C3%AFde_Labille-Guiard,_Marie-Th%C3%A9r%C3%A8se-Victoire_de_France,_dite_Madame_Victoire_(1787).jpg",
   "license": "Public domain",
   "topic": "t-mesdames"
+ },
+ {
+  "file": "t-conciergerie-cell.jpg",
+  "title": "Marie Antoinette's Cell at Conciergerie（重建）",
+  "creator": "André Lage Freitas",
+  "date": "2011",
+  "source": "https://commons.wikimedia.org/wiki/File:Marie_Antoinette's_Cell_at_Conciergerie.jpg",
+  "license": "CC BY-SA 3.0",
+  "topic": "t-conciergerie"
+ },
+ {
+  "file": "t-madame-royale-kucharski.jpg",
+  "title": "Madame Royale",
+  "creator": "Aleksander Kucharski",
+  "date": "1794（Commons 標示）",
+  "source": "https://commons.wikimedia.org/wiki/File:Aleksander_Kucharski_-_Maria_Teresa_Karolina_de_Bourbon_(Madame_Royale).jpg",
+  "license": "Public domain",
+  "topic": "t-madame-royale"
+ },
+ {
+  "file": "t-figaro-1785.jpg",
+  "title": "La Folle journée ou Le Mariage de Figaro，第一幕插圖",
+  "creator": "Saint-Quentin 畫、Liénard 刻",
+  "date": "1785",
+  "source": "https://commons.wikimedia.org/wiki/File:Illustrations_de_La_Folle_journée_ou_Le_Mariage_de_Figaro_-_Saint-Quentin,_dess._;_Lienard,_Halbou,_Lingé,_grav._;_Pierre-Auguste_Caron_de_Beaumarchais,_aut._du_texte_-_btv1b2200085f_(1_of_5).jpg",
+  "license": "Public domain",
+  "topic": "t-figaro"
+ },
+ {
+  "file": "t-joseph-hickel.jpg",
+  "title": "Emperor Joseph II",
+  "creator": "Joseph Hickel",
+  "date": "1771",
+  "source": "https://commons.wikimedia.org/wiki/File:Emperor_Joseph_II_by_Joseph_Hickel_1771.jpg",
+  "license": "CC BY-SA 3.0",
+  "topic": "t-joseph"
+ },
+ {
+  "file": "t-clery-portrait.jpg",
+  "title": "Cléry (J.-B. Canthanet)",
+  "creator": "Neurdein Frères（翻印）",
+  "date": "不詳",
+  "source": "https://commons.wikimedia.org/wiki/File:Cléry_(J.-B._Canthanet),_PA02704.jpg",
+  "license": "Public domain",
+  "topic": "t-clery"
+ },
+ {
+  "file": "t-june20-tuileries.jpg",
+  "title": "Journée du 20 Juin 1792 au château des Tuileries",
+  "creator": "Pierre Bouillon、Jean-Baptiste Vérité",
+  "date": "約 1796",
+  "source": "https://commons.wikimedia.org/wiki/File:Journée_du_20_Juin_1792_Au_château_des_Tuileries._G.29493.jpg",
+  "license": "CC0",
+  "topic": "t-june20"
+ },
+ {
+  "file": "t-lafayette-portrait.jpg",
+  "title": "Gilbert du Motier, marquis de Lafayette",
+  "creator": "Joseph-Désiré Court",
+  "date": "1834",
+  "source": "https://commons.wikimedia.org/wiki/File:Gilbert_du_Motier_Marquis_de_Lafayette.jpg",
+  "license": "Public domain",
+  "topic": "t-lafayette"
  }
 ]

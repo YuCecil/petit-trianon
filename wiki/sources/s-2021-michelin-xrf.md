@@ -43,6 +43,6 @@ To read under the censorship does not make it possible to know the truth about t
 
 ## 還不確定的地方
 
-- 摘要寫八封信，但有媒體報導寫 15 封信的塗黑段落，文中未見 15 的說法，需看補充材料。
+- 「八封」與「15 封」不矛盾：內文說塗黑的信一共 15 封，目前讀出其中 8 封，其餘 7 封各種方法都失敗（正文 Results 一節；Conclusion 段「8 of 15 redacted documents」）。媒體報導的「15 封」指的是分析的總數。
 - 塗黑者為費爾森的結論是假設，依賴墨水分組；1791 年 12 月後的墨水成分幾乎相同，最後幾封信因此無法讀出。
 - 本卡只讀了摘要、引言、圖說、censor 節與結論段，方法段的逐字讀法未核對。

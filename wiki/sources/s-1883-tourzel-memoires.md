@@ -1,8 +1,8 @@
 ---
 id: s-1883-tourzel-memoires
 type: source
-title: Mémoires de Madame la duchesse de Tourzel（第一卷，1791 年「Voyage de Varennes」一節）
-author: 杜爾澤夫人（Duchesse de Tourzel，名字全稱待核）
+title: Mémoires de Madame la duchesse de Tourzel（兩冊）
+author: 圖澤爾夫人（Duchesse de Tourzel，本名 de Croÿ-Havré）
 year: 1883
 kind: 回憶錄
 lang: fr
@@ -10,9 +10,9 @@ venue: Paris, E. Plon et Cie（1883，Duc des Cars 編）
 url: https://www.gutenberg.org/ebooks/33258
 access: 公開
 depth: 部分
-period: [1791, 1791]
-topics: [t-varennes]
-entities: []
+period: [1789, 1795]
+topics: [t-august10, t-children, t-elisabeth, t-june20, t-lafayette, t-lamballe, t-louis, t-madame-royale, t-mesdames, t-mops, t-october-days, t-polignac, t-secret, t-table, t-temple, t-tuileries, t-varennes, t-white-hair]
+entities: [e-tourzel]
 reliability: 低
 added: 2026-11-15
 ---

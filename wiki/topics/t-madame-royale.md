@@ -5,6 +5,8 @@ title: 瑪麗－泰蕾茲：唯一活下來的孩子
 category: 人物
 period: [1778, 1851]
 summary: 全家只剩她走出聖殿塔，在十七歲生日那天被換到國外。
+image: t-madame-royale.jpg
+imageAlt: 粉彩畫風插畫：石塔房間的窄窗前，一位穿白色長裙的少女背影望著窗外的灰色塔樓，桌上有一本書和一團毛線。
 sources: [s-1852-marie-therese-temple, s-1883-tourzel-memoires, s-1899-elisabeth-life-letters-en]
 updated: 2026-11-16
 ---
@@ -18,6 +20,8 @@ updated: 2026-11-16
 ### 塔裡的最後一年
 
 1794 年 5 月，姑姑伊莉莎白夫人被帶走後，塔裡只剩她一個人；弟弟關在樓下，姊弟見不到面（見 [[t-elisabeth]]、[[t-louis17]]）。她的回憶錄寫到 1795 年春天，看守開始讓她上塔頂透氣；弟弟的病一天比一天重，外科醫師德索（Desault）來看過，後來換成佩勒坦（Pelletan）等人，都沒有把握（[[s-1852-marie-therese-temple]] pp. 102–103）。
+
+{{photo:t-madame-royale-kucharski.jpg|庫哈爾斯基（Aleksander Kucharski）所畫的少女瑪麗－泰蕾茲；Commons 標為 1794 年，圖片由華沙王宮提供。|Wikimedia Commons，Public domain}}
 
 她寫道，弟弟在 1795 年 6 月 9 日下午三點過世，十歲又兩個月；「他不是被毒死的，像有些人以為的那樣；唯一縮短他生命的毒藥，是骯髒，加上前所未有的惡劣對待和殘酷」（本站譯）（[[s-1852-marie-therese-temple]] p. 103）。她的回憶錄就寫到這裡為止，書的編者在註裡說：「我們的回憶錄到此結束。」（本站譯）（[[s-1852-marie-therese-temple]] p. 103 註）
 

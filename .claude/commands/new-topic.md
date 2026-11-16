@@ -29,7 +29,7 @@ argument-hint: "<主題，例如：王后的熱巧克力>"
 - 「研究者怎麼看」：看法不同時各方並陳；有明確分歧就加 `data/debates.json`。
 - 「還不知道的事」列出缺口。
 
-## 5. 頁首插圖（選做，見 CLAUDE.md 8.2 與 `/illustrate`）
+## 5. 頁首插圖（選做，見 `rules/site.md` 8.2 與 `/illustrate`）
 沒有圖也算完成；回報時寫「缺插圖」並附上主 session 寫好的提示詞。
 
 ## 6. 接上整個網站

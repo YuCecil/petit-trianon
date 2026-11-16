@@ -75,6 +75,7 @@ updated: 2026-11-16
 - [[s-1823-campan-memoires]]
 - [[s-1798-clery-journal]]
 - 相關故事：[[t-temple]]、[[t-lamballe]]、[[t-october-days]]、[[t-june20]]
+- 人物：[[e-tourzel]]
 
 ## 還不知道的事
 

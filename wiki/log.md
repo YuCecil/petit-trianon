@@ -58,3 +58,14 @@
 ## [2026-11-16] rule | 手機檢查改為只測 iPhone 17（WebKit）
 - 使用者決定：平常與大改版都只測 iPhone 17；改用 WebKit 核心，比 Chrome 模擬更接近 Safari
 - site：WebKit 抓到故事頁可左右滑動 8px（資料卡長外文標題不換行），已修正；段落導覽連結與註碼點擊範圍加大；手機檢查 0 錯誤 0 提醒
+
+## [2026-11-16] ingest | 收尾：人物頁、真實圖片、兩處修正
+- 新增：e-mercy（梅西大使）、e-tourzel（圖澤爾夫人）。原本打算各寫一篇故事，但兩人都只有一份資料（Arneth 1874 書信集、Tourzel 1883 回憶錄），不夠開新故事（規則 4.4），改建人物頁；勒布倫的流亡已寫在 t-vigee，不另開。
+- 更新：s-1883-tourzel-memoires（標題、作者本名、period、topics 補齊為 18 篇）；s-1874-arneth-mercy-correspondance（entities）；s-2021-michelin-xrf（「八封」與「15 封」不矛盾：15 封塗黑、讀出 8 封）；t-theatre 刪掉已由 t-figaro 回答的缺口。
+- 真實圖片（Wikimedia Commons／Paris Musées）：t-conciergerie、t-madame-royale、t-figaro、t-joseph、t-clery、t-june20、t-lafayette 各一張，記入 data/photos.json。t-vermond 找不到合適的公有領域圖。
+- 插圖：t-conciergerie、t-madame-royale、t-figaro、t-joseph、t-clery、t-june20、t-lafayette、t-vermond 各一張頁首插圖（Gemini，提示詞見 log 同日；Haiku 操作，主 session 看過）。
+
+## [2026-11-16] rule | 省 token：規則拆檔、引文自動核對
+- CLAUDE.md 第 8、9 節（網站風格、網站程式、插圖、真實圖片、手機檢查）搬到 rules/site.md，CLAUDE.md 只留語氣、用字、出處與圖片語法，並寫明哪些工作要先讀 rules/site.md；4.1 的 frontmatter 範例改成精簡的可填值清單（欄位以 templates/ 為準）。CLAUDE.md 從約 3.3 萬字元減到約 2.3 萬。
+- 新增 tools/check_quotes.py：把全文筆記與資料卡的外文引文拿去 raw/ 全文比對（容許 OCR 錯字、長 s、跨頁頁眉；只換一個字的假引文擋得住）。6.4 抽查、haiku-brief、haiku-expand-brief 改成先跑它。第一次全站掃描：2,220 句外文引文，143 句待人工對照（抽看的樣本多為 OCR 太差），16 句出處可能標錯，105 句的資料沒有存全文。
+- 使用者同意（「34都做」）。

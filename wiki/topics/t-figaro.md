@@ -7,6 +7,8 @@ period: [1778, 1785]
 summary: 國王說「永遠不會上演」，巴黎卻排隊去看了七十二場。
 myth: 路易十六讀完《費加洛的婚禮》後說，要演這齣戲，得先拆了巴士底獄；五年後巴士底獄真的倒了。
 verdict: 半真半假
+image: t-figaro.jpg
+imageAlt: 粉彩畫風插畫：從觀眾席後方望向明亮的舞台，滿場撲粉假髮與羽毛帽的背影，包廂層層疊疊，吊燈點著蠟燭。
 sources: [s-1823-campan-memoires, s-1785-beaumarchais-figaro-preface, s-1835-vigee-le-brun-souvenirs]
 updated: 2026-11-16
 ---
@@ -54,6 +56,8 @@ updated: 2026-11-16
 ### 七十二場
 
 1784 年 2 月和 3 月，兩位審查官先後簽字，說劇本裡沒有任何應該阻止印刷和演出的東西；3 月 29 日，警察總監勒諾瓦批准「准予印刷與演出」（[[s-1785-beaumarchais-figaro-preface]] 卷末審查文件）。
+
+{{photo:t-figaro-1785.jpg|《費加洛的婚禮》1785 年初版的第一幕插圖，聖康坦（Saint-Quentin）畫、利埃納爾（Liénard）刻；法國國家圖書館藏。|Wikimedia Commons（BnF），Public domain}}
 
 康龐夫人說，王后以為巴黎人會「上當」：諷刺都刪光了，剩下一齣沒內容的戲，一定很無聊。書的編者在註裡引了另一則記載：國王問一位要去看首演的侯爵覺得會怎樣，侯爵說「希望它垮台」，國王說：「我也是。」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 281 及編者註）國王的弟弟普羅旺斯伯爵相信劇本已經沒有冒犯之處，坐在大包廂看首演，結果非常不高興（[[s-1823-campan-memoires]] 第 1 冊 p. 281）。
 

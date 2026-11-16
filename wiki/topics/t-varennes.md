@@ -83,6 +83,7 @@ updated: 2026-11-15
 - [[s-2005-ozouf-varennes]]
 - 名詞：[[e-fersen]]
 - 相關故事：[[t-october-days]]、[[t-temple]]、[[t-table]]、[[t-august10]]、[[t-secret]]、[[t-tuileries]]
+- 人物：[[e-tourzel]]
 
 ## 還不知道的事
 

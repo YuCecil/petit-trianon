@@ -2,7 +2,7 @@
 
 > 由 `tools/build.py` 自動產生於 2026-11-16，不要手改。
 
-資料卡 63 張（全文 14）｜主題 44｜實體 3｜問答 0
+資料卡 63 張（全文 14）｜主題 44｜實體 5｜問答 0
 
 ## 主題頁
 
@@ -55,7 +55,9 @@
 
 - [[e-campan]] 康龐夫人（Madame Campan） — 王后的貼身女官，她的回憶錄是本站最常引用、也最需要小心讀的史料。
 - [[e-fersen]] 費爾森（Axel von Fersen） — 瑞典伯爵，王后最信任的人之一；駕車幫王室出逃，也和王后通了大量密信。
+- [[e-mercy]] 梅西大使（Comte de Mercy-Argenteau） — 奧地利駐法大使，每個月替瑪麗亞．特蕾莎寫報告，是王后前十年生活最密集的紀錄者。
 - [[e-petit-trianon]] 小特里亞儂（Petit Trianon） — 路易十六送給王后的小宮殿，她躲開宮廷禮儀的地方，也是本站的名字。
+- [[e-tourzel]] 圖澤爾夫人（Madame de Tourzel） — 1789 年接替波利尼亞克夫人的王室子女家庭教師，瓦雷納、杜樂麗宮、8 月 10 日的第一手證人。
 
 ## 資料卡
 
@@ -84,7 +86,7 @@
 - [[s-1874-arneth-mercy-correspondance]] Marie-Antoinette. Correspondance secrète entre Marie-Thérèse et le comte de Mercy-Argenteau（三卷，1874） — 瑪麗亞．特蕾莎、瑪麗．安東尼、梅西－阿爾讓托（書信作者）；編者 Alfred von Arneth（導論與註）、Auguste Geffroy（評註）（1874）｜書信｜部分
 - [[s-1877-klinckowstrom-fersen]] Le comte de Fersen et la cour de France. Extraits des papiers du grand maréchal de Suède, comte Jean Axel de Fersen（第一卷） — R. M. de Klinckowström（編）（1877）｜書信｜部分
 - [[s-1881-vizetelly-diamond-necklace]] The Story of the Diamond Necklace — Henry Vizetelly（1881）｜專書｜部分
-- [[s-1883-tourzel-memoires]] Mémoires de Madame la duchesse de Tourzel（第一卷，1791 年「Voyage de Varennes」一節） — 杜爾澤夫人（Duchesse de Tourzel，名字全稱待核）（1883）｜回憶錄｜部分
+- [[s-1883-tourzel-memoires]] Mémoires de Madame la duchesse de Tourzel（兩冊） — 圖澤爾夫人（Duchesse de Tourzel，本名 de Croÿ-Havré）（1883）｜回憶錄｜部分
 - [[s-1887-ap-varennes-reward]] Décret accordant des récompenses à l'occasion de l'arrestation du roi（1791 年 8 月 18 日，Archives parlementaires，第 29 卷） — Archives parlementaires（集體紀錄）（1887）｜檔案｜部分
 - [[s-1887-drouet-barre]] Admission de M. Drouet à la barre, lors de la séance du 24 juin 1791（Archives parlementaires，第 27 卷） — Jean-Baptiste Drouet（陳述人）；Archives parlementaires（1887 年版）（1887）｜檔案｜部分
 - [[s-1899-elisabeth-life-letters-en]] The Life and Letters of Madame Elisabeth de France, Sister of Louis XVI（英譯本，附〈聖殿日記〉選段） — 不詳（英譯者未具名；底本為法文傳記與書信集，註腳提到「Vie de Madame Élisabeth」）（1899）｜傳記｜部分

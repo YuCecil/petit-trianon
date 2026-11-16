@@ -12,7 +12,7 @@ access: 公開
 depth: 部分
 period: [1770, 1780]
 topics: [t-consummation, t-deficit, t-hameau]
-entities: []
+entities: [e-mercy]
 reliability: 高
 added: 2026-11-15
 ---

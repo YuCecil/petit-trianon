@@ -5,6 +5,8 @@ title: 古監獄：最後的七十六天
 category: 革命
 period: [1793, 1793]
 summary: 從聖殿塔的深夜移監，到康乃馨裡的紙條，再到法庭的判決。
+image: t-conciergerie.jpg
+imageAlt: 粉彩畫風插畫：低矮的石頭牢房，一張窄床、一把草編椅、小桌上一杯水和一朵粉紅康乃馨，舊屏風後站著守衛的剪影。
 sources: [s-1907-lenotre-last-days-marie-antoinette, s-1852-marie-therese-temple, s-1793-tribunal-proces-marie-antoinette, s-1824-lafont-daussonne-memoires]
 updated: 2026-11-16
 ---
@@ -26,6 +28,8 @@ updated: 2026-11-16
 ### 牢房裡的日常
 
 房裡日夜都有兩名憲兵看守，只隔著一道布簾和屏風（[[s-1907-lenotre-last-days-marie-antoinette]] p. 207；另見 [[t-white-hair]]）。勒諾特也提醒，看守的憲兵並不是同一批人，羅莎莉說的「一直是那兩個人」不完全對（[[s-1907-lenotre-last-days-marie-antoinette]] p. 157 註）。王后在這裡吃什麼，見 [[t-table]]。
+
+{{photo:t-conciergerie-cell.jpg|古監獄博物館裡依史料重建的王后牢房；2011 年拍攝。|Wikimedia Commons，André Lage Freitas，CC BY-SA 3.0}}
 
 羅莎莉記得一個早上：王后摘下睡帽，坐下來說：「羅莎莉，今天你來幫我盤頭髮。」新來的獄卒一聽，衝過來搶走梳子，把她推開，大聲說：「放著，放著，這是我的事。」王后吃驚地看著他，說：「謝謝，不用了。」然後站起來，自己梳好頭，戴上帽子（本站譯）（[[s-1907-lenotre-last-days-marie-antoinette]] p. 158）。
 
