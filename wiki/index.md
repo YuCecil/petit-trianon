@@ -2,7 +2,7 @@
 
 > 由 `tools/build.py` 自動產生於 2026-11-16，不要手改。
 
-資料卡 90 張（全文 22）｜主題 46｜實體 5｜問答 0
+資料卡 97 張（全文 25）｜主題 47｜實體 5｜問答 0
 
 ## 主題頁
 
@@ -51,6 +51,7 @@
 - [[t-varennes]] 瓦雷納：差一點就逃出去的那一夜 — 一輛遲到一個半小時的馬車，和一張鈔票上的國王頭像。
 - [[t-vermond]] 韋爾蒙神父：站在王后身後的老師 — 從維也納一路跟到凡爾賽的家庭教師，是王后的心腹，也是大使的耳目。
 - [[t-vigee]] 王后的畫家：維傑．勒布倫與一幅被撤下的家庭像 — 她畫了王后三十多次，最後一幅大畫還沒進宮就被叫做「赤字」。
+- [[t-war-plans]] 密碼信裡的作戰計畫：王后真的通敵嗎？ — 法庭拿不出證據，但七十年後出版的一封密碼信，證明她確實做了。
 - [[t-white-hair]] 一夜白頭：瑪麗．安東尼症候群 — 她的頭髮真的一夜變白了嗎？醫生為這件事爭論了一百多年。
 
 ## 機構、法令、人物、地點
@@ -69,6 +70,8 @@
 - [[s-1783-faujas-description]] 《蒙哥爾菲機器氣球實驗描述》（Description des expériences de la machine aérostatique de MM. de Montgolfier） — Barthélemy Faujas de Saint-Fond（1783）｜專書｜部分
 - [[s-1785-beaumarchais-figaro-preface]] La Folle Journée, ou Le Mariage de Figaro（1785 年 Ruault 版，含作者序言與審查核准文件） — Pierre-Augustin Caron de Beaumarchais（博馬舍，1732–1799）（1785）｜專書｜部分
 - [[s-1789-la-motte-justification]] Memoirs of the Countess de Valois de La Motte（拉莫特夫人回憶錄，英譯本） — Jeanne de Saint-Rémy de Valois, comtesse de La Motte（1789）｜回憶錄｜部分
+- [[s-1790-detail-general-confederation]] Détail général de ce qui s'est passé à la Confédération du 14 juillet au Champ de Mars（1790 年小冊） — 無署名（1790）｜報刊｜全文
+- [[s-1790-details-fete-14-juillet]] Détails de la fête nationale du 14 juillet 1790（典禮前的程序表，標題注明「arrêtés par le roi」） — 無署名（典禮前的官方程序公告）（1790）｜檔案｜全文
 - [[s-1793-tribunal-proces-criminel-testament]] Procès criminel de Marie-Antoinette de Lorraine（Denné 版） — 革命法庭（書記紀錄，無署名）（1793）｜檔案｜部分
 - [[s-1793-tribunal-proces-marie-antoinette]] Procès de Marie-Antoinette: dite de Lorraine d'Autriche, veuve de Louis Capet（通行版） — 革命法庭（書記紀錄，無署名）（1793）｜檔案｜部分
 - [[s-1795-poncelin-proces-louis-xvi]] 路易十六的審判：國民公會的演說、表決與文件彙編（Le procès de Louis XVI, ou collection complète des opinions, discours et …，第 1 冊） — 讓－夏爾．龐塞林．德拉羅什－蒂拉克（Jean-Charles Poncelin de La Roche-Tilhac，據 Internet Archive 元資料，待核）（1795）｜檔案｜部分
@@ -79,6 +82,7 @@
 - [[s-1823-campan-memoires]] Mémoires sur la vie privée de Marie-Antoinette, reine de France et de Navarre（三卷本，1823） — Jeanne-Louise-Henriette Campan（康龐夫人，1752–1822）；編者 F. Barrière（1823）｜回憶錄｜部分
 - [[s-1824-lafont-daussonne-memoires]] Mémoires secrets et universels des malheurs et de la mort de la reine de France — Gaspard Louis Lafont d'Aussonne（1824）｜回憶錄｜部分
 - [[s-1835-vigee-le-brun-souvenirs]] Souvenirs de Madame Louise-Élisabeth Vigée-Lebrun（三卷，1835–1837） — Louise-Élisabeth Vigée Le Brun（1755–1842）（1835）｜回憶錄｜部分
+- [[s-1838-tussaud-memoirs]] Madame Tussaud's Memoirs and Reminiscences of France, Forming an Abridged History of the French Revolution（1838） — Marie Tussaud（瑪麗．杜莎，原名 Marie Grosholtz）；編者 Francis Hervé（1838）｜回憶錄｜部分
 - [[s-1841-karr-guepes]] Les Guêpes（《黃蜂》），1841 年 11 月號 — Alphonse Karr（1841）｜報刊｜部分
 - [[s-1851-mirabeau-lamarck]] Correspondance entre le comte de Mirabeau et le comte de La Marck pendant les années 1789, 1790 et 1791（兩卷） — Honoré-Gabriel de Riquetti, comte de Mirabeau（信件）；Adolphe de Bacourt（編）；La Marck 為收信人（1851）｜書信｜部分
 - [[s-1852-marie-therese-temple]] 瑪麗－泰蕾茲回憶錄：「王室在聖殿塔的囚禁」（收於 1852 年版《Relation du voyage de Varennes》） — 瑪麗－泰蕾茲－夏綠蒂（Marie-Thérèse-Charlotte de France，王后的女兒，後來的昂古萊姆公爵夫人，1778–1851）（1852）｜回憶錄｜部分
@@ -118,6 +122,7 @@
 - [[s-2003-tackett-king]] When the King Took Flight — Timothy Tackett（2003）｜專書｜書目
 - [[s-2005-degardin-montgolfier]] Les frères Montgolfier（蒙哥爾菲兄弟） — Alain Degardin（2005）｜網頁｜全文
 - [[s-2005-ozouf-varennes]] Varennes. La mort de la royauté (21 juin 1791) — Mona Ozouf（2005）｜專書｜書目
+- [[s-2006-berridge-waxing-mythical]] Waxing Mythical: The Life and Legend of Madame Tussaud（2006；另有 2007 年的版本） — Kate Berridge（2006）｜傳記｜書目
 - [[s-2006-kaiser-nursery]] Scandal in the Royal Nursery: Marie-Antoinette and the "Gouvernantes des Enfants de France — Thomas E. Kaiser（2006）｜期刊論文｜全文
 - [[s-2006-stamberg-npr-fraser]] The Misunderstood Marie Antoinette? — Susan Stamberg（2006）｜報刊｜全文
 - [[s-2007-kantor-antonieta]] 瑪麗．安東尼與天花疫苗（阿根廷醫學期刊社論） — Isabel N. Kantor（2007）｜期刊論文｜全文
@@ -129,13 +134,16 @@
 - [[s-2011-andersson-queen-fashion]] Marie Antoinette: Queen of Fashion – Queen of Decadence — Therése Andersson（2011）｜期刊論文｜全文
 - [[s-2011-martin-dairy-queens]] Dairy Queens：從凱瑟琳．德．美第奇到瑪麗．安東尼的田園建築政治（Dairy Queens: The Politics of Pastoral Architecture from Catherine de' Medici to Marie-Antoinette） — Meredith Martin（2011）｜專書｜書目
 - [[s-2012-backman-rogers-threshold]] The Historical Threshold: Crisis, Ritual and Liminality in Sofia Coppola's Marie-Antoinette (2006) — Anna Backman Rogers（2012）｜期刊論文｜全文
+- [[s-2012-ritz-pluie]] Un 14 juillet sous la pluie（1790 年聯盟節的雨在革命文學中的書寫） — Olivier Ritz（2012）｜專書論文｜全文
 - [[s-2013-chatenet-becquet-review]] 書評：Hélène Becquet，《瑪麗－泰蕾茲．德．法蘭西：聖殿塔的孤兒》（Perrin, 2012） — Aurélie Chatenet-Calyste（2013）｜期刊論文｜全文
 - [[s-2013-nahm-canities-subita]] Canities Subita: A Reappraisal of Evidence Based on 196 Case Reports Published in the Medical Literature — Michael Nahm, Alexander A. Navarini, Emily Williams Kelly（2013）｜期刊論文｜全文
+- [[s-2014-leuwers-tussaud-masque]] Madame Tussaud et le masque de Robespierre. Exercices d'histoire autour de la médiatique reconstitution d'un visage（2014） — Hervé Leuwers；Guillaume Mazeau（2014）｜期刊論文｜書目
 - [[s-2014-olalde-louis-xvi-blood]] Genomic analysis of the blood attributed to Louis XVI (1754–1793), king of France — Olalde I.（與 Lalueza-Fox C. 等 19 位作者）（2014）｜期刊論文｜部分
 - [[s-2015-parson-dark-countess]] Molecular genetic analysis on the remains of the Dark Countess: Revisiting the French Royal family — Walther Parson, Cordula Berger, Timo Sänger, Sabine Lutz-Bonengel（2015）｜期刊論文｜全文
 - [[s-2016-maes-laiterie-rambouillet]] La laiterie de Marie-Antoinette à Rambouillet. Un temple pastoral pour le plaisir de la reine — Antoine Maës（2016）｜專書｜書目
 - [[s-2016-versailles-queens-hamlet]] 凡爾賽宮官網「Queen's Hamlet」頁面與長文（英文） — 凡爾賽宮（Château de Versailles）（2016）｜網頁｜全文
 - [[s-2017-niedziela-joseph-ii-paris]] 皇帝約瑟夫二世在巴黎與凡爾賽（1777） — Rafał Niedziela（2017）｜期刊論文｜部分
+- [[s-2017-ruimi-curtius-cabinet]] Spectacles de cire. Le cabinet de Curtius（2017） — Jennifer Ruimi（2017）｜期刊論文｜書目
 - [[s-2020-theobald-soaring]] 〈飛升的想像：凡爾賽第一次孟格菲氣球表演的文字與圖像〉（Soaring Imaginations: The First Montgolfier Ballooning Spectacle at Versailles in Word and Image） — Catherine J. Lewis Theobald（2020）｜期刊論文｜全文
 - [[s-2021-archives-nationales-xray]] Marie-Antoinette's Correspondence under X-Ray（法國國家檔案館說明頁） — Archives nationales（2021）｜網頁｜摘要
 - [[s-2021-michelin-xrf]] 2D macro-XRF to reveal redacted sections of French queen Marie-Antoinette secret correspondence with Swedish count Axel von Fersen — Anne Michelin, Fabien Pottier, Christine Andraud（2021）｜期刊論文｜部分

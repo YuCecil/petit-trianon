@@ -870,5 +870,29 @@
   "category": "宮廷",
   "topic": "t-balloon",
   "source": "s-1783-faujas-description"
+ },
+ {
+  "date": "1792-03-20",
+  "title": "王后用密碼把出兵計畫告訴梅西",
+  "desc": "信中寫法軍準備先攻薩伏依和列日，「這是昨天會議的結果」。",
+  "category": "革命",
+  "topic": "t-war-plans",
+  "source": "s-1866-arneth-marie-antoinette"
+ },
+ {
+  "date": "1792-04-20",
+  "title": "法國宣戰",
+  "desc": "對象是「波希米亞和匈牙利國王」，也就是王后的姪子法蘭茲。",
+  "category": "革命",
+  "topic": "t-war-plans",
+  "source": "s-2008-kaiser-renversement-alliances"
+ },
+ {
+  "date": "1792-05-30",
+  "title": "塞夫爾瓷器廠的一把火",
+  "desc": "國王派人燒掉一車印刷品，議會指控燒的是「奧地利委員會」的通信。",
+  "category": "革命",
+  "topic": "t-war-plans",
+  "source": "s-1823-campan-memoires"
  }
 ]

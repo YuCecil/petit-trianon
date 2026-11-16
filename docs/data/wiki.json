@@ -1,12 +1,12 @@
 {
  "built": "2026-11-16",
  "counts": {
-  "sources": 90,
-  "fulltext": 22,
-  "topics": 46,
+  "sources": 97,
+  "fulltext": 25,
+  "topics": 47,
   "entities": 5,
   "questions": 0,
-  "events": 107,
+  "events": 112,
   "places": 18
  },
  "pages": [
@@ -171,6 +171,60 @@
    "body": "## 一句話\n\n案件被告拉莫特夫人為自己辯護的回憶錄，宣稱自己與王后有交情、樞機主教是受害者；判決已查禁此書，內容不可作為證據。\n\n## 三個重點\n\n1. 作者自述與王后有接觸、王后曾委託樞機主教購買項鍊，並說王后當著國王的面否認認識她（OCR 段落，頁碼未確認）。\n2. 這是當事人單一說法，寫作目的是辯護與攻擊對手；判決（1786 年 5 月 31 日）已下令查禁她的「回憶錄」，理由是內容虛假、誹謗（見 s-1881-vizetelly-diamond-necklace p. 271）。\n3. 英譯本出版於倫敦（1789），與判決後的倫敦誹謗活動相關（見 s-1881-vizetelly-diamond-necklace Ch. XXXIX–XL）。\n\n## 用了什麼史料\n\n作者自己的記憶與書信，以及選錄的王后與樞機主教信件（本次未讀信件部分）。這些信件是否真實，判決與後來的研究均有質疑，本次未核對。\n\n## 跟其他資料的關係\n\n與 s-1881-vizetelly-diamond-necklace 直接對照：Vizetelly 逐點指出本書說法的矛盾（pp. 373–374）。本次只讀序文與兩段敘事，未與近期學術研究比對。\n\n## 值得記住的一句話\n\n原文（OCR 校正）：「I had access to the Queen」／中譯：「我可以接觸到王后」（頁碼未確認，需對照掃描本）\n\n## 還不確定的地方\n\n- OCR 品質差，引文與頁碼均需對照掃描本，目前標「未確認」。\n- 法文原版（1788 年前後）與英譯本的差異未核對。\n- 信件選錄與結尾請願書未讀。\n",
    "links": [
     "t-necklace"
+   ]
+  },
+  {
+   "id": "s-1790-detail-general-confederation",
+   "type": "source",
+   "title": "Détail général de ce qui s'est passé à la Confédération du 14 juillet au Champ de Mars（1790 年小冊）",
+   "author": "無署名",
+   "year": 1790,
+   "kind": "報刊",
+   "lang": "fr",
+   "venue": "Paris, 1790（印刷者 Société littéraire 相關印刷所；無作者）",
+   "url": "https://archive.org/details/detailgeneraldec00unse",
+   "access": "公開",
+   "depth": "全文",
+   "period": [
+    1790,
+    1790
+   ],
+   "topics": [
+    "t-federation"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n1790 年 7 月 14 日當天或次日出版的無名小冊，用幾頁寫完典禮：國王三到四點抵達，主教做彌撒，拉法葉、議長、國王依序宣誓，王太子與王室家人跟著重複誓言，人群同聲說「我發誓」。\n\n## 三個重點\n\n1. 宣誓順序是本文最具體的紀錄：拉法葉先為全體聯盟兵宣誓，議長為議會宣誓，國王最後宣誓；約三十萬人同聲重複。（頁碼未確定）\n2. 王室家人在場並宣誓：王太子伸手向天，王后、Monsieur、Madame、Madame Élisabeth 同時重複。本文沒有寫王后抱起王太子。\n3. 全文不提雨。與 s-2012-ritz-pluie 所說的「刪雨」寫法一致，但本文篇幅短，不能單獨證明什麼。\n\n## 用了什麼史料\n\n小冊本身是事後紀事（同日或次日出版），無作者，立場偏向支持革命（如讚頌拉法葉、寫「真正的國王是人民之父」）。原文 OCR 品質差，需與原書核對。\n\n## 跟其他資料的關係\n\n- 與 s-1790-details-fete-14-juillet（典禮前的程序表）相比：程序表寫國王「單獨」乘馬車前往，本文寫王后與家人在場。\n- 與 s-1883-tourzel-memoires 相比：Tourzel 也寫王后抱起王太子「好幾次」，寫國王最後到場。兩者都是當天記述，時間與細節一致處多，但 Tourzel 寫大雨，本文不寫。\n- 與 s-1868-feuillet-elisabeth-correspondance 相比：伊利莎白 7 月 10 日（典禮前）預測家人會在軍校窗前，本文寫家人在台上宣誓，兩者不一致。\n\n## 值得記住的一句話\n\n大意（OCR 讀法，需對照原書）：人民不停為這個尊貴家庭鼓掌。／中譯：「人民不停地為這個尊貴的家庭鼓掌。」（本站譯）\n\n## 還不確定的地方\n\n- 頁碼：OCR 文字檔沒有可靠的頁碼，本站沒寫頁碼；需要在原書（IA 掃描本）確認後補上。\n- 作者與印刷者：無署名。「Société littéraire」印刷所的身份未查證。\n- 小冊的立場與可信度：支持革命、無署名，只能當當天的一種說法，不能當定論。\n",
+   "links": [
+    "t-federation"
+   ]
+  },
+  {
+   "id": "s-1790-details-fete-14-juillet",
+   "type": "source",
+   "title": "Détails de la fête nationale du 14 juillet 1790（典禮前的程序表，標題注明「arrêtés par le roi」）",
+   "author": "無署名（典禮前的官方程序公告）",
+   "year": 1790,
+   "kind": "檔案",
+   "lang": "fr",
+   "venue": "Paris, Garnéry, 1790",
+   "url": "https://archive.org/details/dtailsdelaftenat00unse",
+   "access": "公開",
+   "depth": "全文",
+   "period": [
+    1790,
+    1790
+   ],
+   "topics": [
+    "t-federation"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n典禮前一個多月發布的程序表：國王坐在議會中央的座椅上，王后與王室家人另有座位，典禮當天有彌撒、宣誓、禮炮與宴會。其中寫明國王因健康緣故「單獨」乘馬車前往。\n\n## 三個重點\n\n1. 座位與程序：國王在議會中央的座椅，王后與王室家人在另外的看台，預定 11 點彌撒、12 點宣誓、12 點半 Te Deum、2 點野餐。（頁碼未確定）\n2. 國王不步行隨行：「pour cause de santé」（因健康緣故），國王會單獨乘馬車前往，並表示「遺憾要獨自參加典禮」。這與 Tourzel 寫的「國王最後到場，偕同家人」不同。\n3. 規模與治安：預估超過三十五萬人；巴黎當天由一萬二千名國民兵看守。\n\n## 用了什麼史料\n\n這是典禮前的預定程序，不是事後記述；寫的是「計畫」，不一定是實際發生的事。文件由巴黎印刷商 Garnéry 出版，標題寫「arrêtés par le roi」，但文內看不出國王本人簽署，效力需以原書確認。OCR 品質差，頁碼與數字需核對。\n\n## 跟其他資料的關係\n\n- 與 s-1868-feuillet-elisabeth-correspondance（7 月 10 日信）相比：伊利莎白預測國王獨自在議會，其餘家人在軍校窗前；程序表寫王后與家人有座位。事前的三種說法不一致。\n- 與 s-1790-detail-general-confederation 相比：事後小冊寫王室家人在台上宣誓，與程序表的座位安排不完全一致，實際安排要以事後記述為準。\n- 與 s-1883-tourzel-memoires 相比：Tourzel 寫國王最後到場，王后在「為王后和家人準備的露台」（estrade）。\n\n## 值得記住的一句話\n\n大意（OCR 讀法，需對照原書）：國王會單獨乘馬車前往戰神廣場。／中譯：「他會單獨乘馬車前往戰神廣場。」（本站譯，頁碼未確定）\n\n## 還不確定的地方\n\n- 「arrêtés par le roi」的實際效力與發布者，需看原書。\n- 程序表是事前計畫，實際的座位與行程要以事後記述（Tourzel、Détail général）對照。\n- 頁碼未確定；需在原書核對後補上。\n",
+   "links": [
+    "t-federation"
    ]
   },
   {
@@ -459,6 +513,33 @@
     "t-chemise",
     "t-hameau",
     "t-varennes"
+   ]
+  },
+  {
+   "id": "s-1838-tussaud-memoirs",
+   "type": "source",
+   "title": "Madame Tussaud's Memoirs and Reminiscences of France, Forming an Abridged History of the French Revolution（1838）",
+   "author": "Marie Tussaud（瑪麗．杜莎，原名 Marie Grosholtz）；編者 Francis Hervé",
+   "year": 1838,
+   "kind": "回憶錄",
+   "lang": "en",
+   "venue": "London: Saunders and Otley（印刷 G. Cole）",
+   "url": "https://archive.org/details/b29336739",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1770,
+    1795
+   ],
+   "topics": [
+    "t-tussaud"
+   ],
+   "entities": [],
+   "reliability": "低",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n杜莎自己寫的回憶錄，是「杜莎說自己在凡爾賽教伊莉莎白做蠟像」和「她在革命中替馬拉、羅伯斯庇爾等人取翻模」的最早出處；但書中寫到王后的部分，只說她在王后被押去刑場時昏倒，沒有說她替王后取過死後翻模。\n\n## 三個重點\n\n1. 出版背景：1838 年倫敦出版，編者 Francis Hervé 在前言說書的目的是「記錄見證者的回憶」並提供法國大革命的簡史（前言，全文未引）。書中以第一人稱寫成，是否杜莎本人口述、Hervé 寫成，序言沒有說清楚（raw/notes 待核）。\n2. 跟子題有關的段落：伊莉莎白與凡爾賽（p. 21）；1789 年 7 月 12 日 Curtius 館的半身像遊行（p. 85–86）；馬拉、柯黛、羅伯斯庇爾、蘭巴勒公主、卡里耶的翻模（p. 254–424，部分待核）；王后處決（p. 361–362）。\n3. 關於王后：書中說杜莎聽說王后頭髮白了，於是到朋友家去看王后被押往刑場，「她看到馬車出現就昏倒，什麼也沒看到」（p. 362）。書中沒有提到王后的翻模或面具，也沒有提到瑪德蓮墓地與王后。\n\n## 用了什麼史料\n\n作者的回憶，沒有引用檔案或書信。書中提到蠟像館的老闆是 John Christopher Curtius（p. 5），通行名稱是 Philippe Curtius，本站要註明書中寫法不同。\n\n## 跟其他資料的關係\n\n- 與 `s-1823-campan-memoires`（康龐夫人，王后身邊的女官）的關係：兩本回憶錄都寫王后最後的時候，但杜莎沒有目睹處決，康龐的敘述是從內部寫的，兩者各有立場，不要混用。\n- 本書是目前能查到的最早、有全文的杜莎回憶錄。「王后死後翻模」這個說法，在本書找不到，之後的傳記（如 Berridge 2006）是否有來源，還要查。\n\n## 值得記住的一句話\n\n<!-- 原文（40 字以內）＋中譯，附頁碼 -->\n「Madame Tussaud fainted, and saw no more.」／中譯：杜莎昏倒了，什麼也沒看到（p. 362，本站譯）\n\n## 還不確定的地方\n\n- 只讀了與子題有關的段落（蠟像館、伊莉莎白、1789 年 7 月、馬拉等人的翻模、王后處決）；其餘章節（革命前的宮廷生活、獄中生活）沒有讀。\n- 頁碼由 OCR 的頁首標記推定；p. 199、p. 424 附近的段落頁碼待對照掃描本。\n- 伊莉莎白的教學年份書中沒有寫。\n- 書中 Curtius 的名字（John Christopher）與通行的 Philippe Curtius 不同，需要查證。\n- 書中是否由杜莎本人口述，待核。\n",
+   "links": [
+    "t-tussaud"
    ]
   },
   {
@@ -1600,6 +1681,33 @@
    ]
   },
   {
+   "id": "s-2006-berridge-waxing-mythical",
+   "type": "source",
+   "title": "Waxing Mythical: The Life and Legend of Madame Tussaud（2006；另有 2007 年的版本）",
+   "author": "Kate Berridge",
+   "year": 2006,
+   "kind": "傳記",
+   "lang": "en",
+   "venue": "London: John Murray",
+   "url": "https://archive.org/details/waxingmythicalli0000berr",
+   "access": "公開",
+   "depth": "書目",
+   "period": [
+    1770,
+    1795
+   ],
+   "topics": [
+    "t-tussaud"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n英文的杜莎傳記，書名「Waxing Mythical」正是在談她的傳說與神話化；本次沒有讀到內文，它是研究者怎麼看杜莎自我敘述的候選資料。\n\n## 三個重點\n\n1. 書目：Kate Berridge，*Waxing Mythical: The Life and Legend of Madame Tussaud*，London: John Murray, 2006。OpenAlex 另有 2007 年的紀錄，版本待核。\n2. 讀取狀況：Internet Archive 的 waxingmythicalli0000berr 是借閱版，全文下載回應 401，無法讀取。\n3. 可能的用途：書名直接處理「傳說」，應該會討論杜莎回憶錄的可靠性與王后翻模的說法，但這是推測，要讀過才能確定。\n\n## 用了什麼史料\n\n（未讀到內文，無法列出。）\n\n## 跟其他資料的關係\n\n- 與 `s-1838-tussaud-memoirs`：如果讀到，可以比對 Berridge 怎麼看杜莎 1838 年的自述，尤其是凡爾賽與王后的部分。\n\n## 值得記住的一句話\n\n未讀到原文，不填。\n\n## 還不確定的地方\n\n- 全文需要借閱（Internet Archive 借閱或圖書館）。本次沒有取得。\n- 2006 與 2007 年版本是否內容相同，未核對。\n",
+   "links": [
+    "t-tussaud"
+   ]
+  },
+  {
    "id": "s-2006-kaiser-nursery",
    "type": "source",
    "title": "Scandal in the Royal Nursery: Marie-Antoinette and the \"Gouvernantes des Enfants de France",
@@ -1907,6 +2015,33 @@
    ]
   },
   {
+   "id": "s-2012-ritz-pluie",
+   "type": "source",
+   "title": "Un 14 juillet sous la pluie（1790 年聯盟節的雨在革命文學中的書寫）",
+   "author": "Olivier Ritz",
+   "year": 2012,
+   "kind": "專書論文",
+   "lang": "fr",
+   "venue": "Karin Becker (dir.), La pluie et le beau temps dans la littérature française, Paris, Hermann（Collection Météos），2012，p. 195–212",
+   "url": "https://hal.science/hal-01502551/document",
+   "access": "公開",
+   "depth": "全文",
+   "period": [
+    1790,
+    1790
+   ],
+   "topics": [
+    "t-federation"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n巴黎 1790 年 7 月 14 日的聯盟節下了大雨，但當時的文字對這場雨怎麼寫各有立場：官方把雨寫成通往太陽的過程，保王派寫成「天也站在貴族那邊」，私人信件寫成狼狽與混亂。\n\n## 三個重點\n\n1. 官方象徵與諷刺同時存在：祭壇上的女神「驅散雲」，Rivarol 卻寫「天是貴族」。（Ritz，HAL p. 3–7）\n2. 最關鍵的細節：《Journal de Paris》的氣象觀測記錄 13 日「全天下雨」，14 日「晚上五、六點之間特別是個好天」。同一份報紙，前一天與當天的寫法不同。（HAL p. 14–15）\n3. 路易十六在雨中的表現被拿來諷刺：《Révolutions de Paris》寫國王「下雨就不走到代表之中」，這是諷刺文字，不是官方記錄。（HAL p. 8）\n\n## 用了什麼史料\n\n作者引用的原典包括：*Description fidelle*（1790）、*Récit exact*（Garnéry，1790）、《Révolutions de Paris》n° 53（1790）、《Journal de Paris》1790 年 7 月 15、16 日、Rivarol《Les Actes des Apôtres》n° 139、《La Joyeuse semaine》（1790）、Félix Faulcon《Anniversaire》（1790）、d'Escherny《Correspondance d'un habitant de Paris》（1791）、Collot d'Herbois《La Famille patriote》（1790）。本站沒有直接看到這些原典，全部是透過作者轉引（見 `raw/notes/s-2012-ritz-pluie.md`）。\n\n## 跟其他資料的關係\n\n- 與 s-1790-detail-general-confederation 相比：後者同樣寫典禮，但完全不提雨。作者提到的 *Description fidelle* 也是刪掉雨的版本，這樣的「刪雨」現象在 1790 年已經存在。\n- 與 s-1883-tourzel-memoires 相比：Tourzel 在 1883 年出版，寫的是大雨與「À bas les parapluies!」，與官方象徵的寫法不同。\n- 作者引用 Mona Ozouf 的「神聖轉移」概念（*La fête révolutionnaire*, 1976）。Ozouf 原書本站還沒讀到。\n\n## 值得記住的一句話\n\n原文：「Il ne saurait y avoir de description impartiale du temps qu'il a fait ce jour-là」（那天的天氣，不可能有公正的描述）（HAL p. 15）／中譯：「那天的天氣，不可能有公正的描述。」（本站譯）\n\n## 還不確定的地方\n\n- 作者引用的報紙與小冊，本站沒有直接核對原文。Gallica 網站無法從本站直接下載，需要在瀏覽器確認。\n- 本文是文學與修辭研究，不是氣象或政治史。它說明「雨怎麼被寫」，不能直接當作當天的實際天氣；但《Journal de Paris》的觀測仍是當時的紀錄（報社寫，立場未知）。\n- 書本頁碼（p. 195–212）已知，但本站只讀到 HAL 版 PDF，頁碼寫 HAL 頁碼。\n",
+   "links": [
+    "t-federation"
+   ]
+  },
+  {
    "id": "s-2013-chatenet-becquet-review",
    "type": "source",
    "title": "書評：Hélène Becquet，《瑪麗－泰蕾茲．德．法蘭西：聖殿塔的孤兒》（Perrin, 2012）",
@@ -1959,6 +2094,33 @@
    "body": "## 一句話\n\n回顧 196 篇醫學文獻中的突然白髮個案，結論是「突然變白」有一些可靠的觀察，但是否能在頭髮生長前就完全失去顏色，仍然沒有定論。\n\n## 三個重點\n\n1. 196 篇個案依證據分為：44 篇可認證（authenticated，作者親眼見到變色）、82 篇未認證（作者看到時已經變色）、37 篇軼事（只是聽人說）、33 篇不清楚（Introduction）。全文沒有統計「一夜」「數天」「數週」各有幾篇。\n2. 最常被引用的「一夜」來源是 19 世紀個案：Brown-Séquard 自己的鬍鬚白毛「apparently overnight」變白（Studies concerning color changes of single hairs）；Landois 1866 的病人在住院第 4 天早上「overnight」由金髮變灰，作者在毛髮中發現空氣包，用水、醚或松節油浸泡後顏色恢復（psychiatric disorders 段）。Raymond 個案約 5 小時變色；Parry 個案約半小時變灰（emotional stress 段）。\n3. 作者不主張已有確定證據。斑禿只能解釋 44 篇可認證個案中的 6 篇，以及 82 篇未認證個案中的 16 篇（Discussion）。結論是「在沒有斑禿的情況下快速變白，仍然沒有決定性證據」，並呼籲系統性研究。\n\n## 用了什麼史料\n\n以 1800 年代到 2000 年代的醫學個案報告為主，涵蓋荷、英、法、德、義、西班牙文獻（Introduction）。全文沒有直接討論瑪麗．安東尼或康龐夫人。\n\n## 跟其他資料的關係\n\n- 參考文獻第 3 條是 Navarini, Nobbe & Trüeb 2009 的「Marie Antoinette syndrome」短文，作者群與 s-2009-navarini-marie-antoinette 有重疊，承接其「斑禿變體」框架。\n- 參考文獻第 49 條是 s-2008-skellett-sudden-whitening（Skellett et al. 2008），在 Discussion 的「其他假說」段被引用。\n- 全文沒有提到康龐夫人，也沒有提到瑪麗．安東尼的傳說內容。\n\n## 值得記住的一句話\n\n「the observation of viable hair losing color along the axis within a timespan shorter than its growth rate remain as yet unexplained」（活著的毛髮沿著軸向在比生長速度還短的時間內失去顏色，目前仍然無法解釋）（Abstract）。\n\n## 還不確定的地方\n\n- PMC 全文 XML 沒有頁碼，只能用章節名稱標示。\n- 論文本身是「個案回顧」，作者自己承認 44 篇可認證個案的時間跨度從數小時到數週，並不都是「一夜」。\n- 數字（44 / 82 / 37 / 33、斑禿 6 與 16）只來自本文的 Introduction 與 Discussion，沒有交叉驗證。\n",
    "links": [
     "t-white-hair"
+   ]
+  },
+  {
+   "id": "s-2014-leuwers-tussaud-masque",
+   "type": "source",
+   "title": "Madame Tussaud et le masque de Robespierre. Exercices d'histoire autour de la médiatique reconstitution d'un visage（2014）",
+   "author": "Hervé Leuwers；Guillaume Mazeau",
+   "year": 2014,
+   "kind": "期刊論文",
+   "lang": "fr",
+   "venue": "Annales historiques de la Révolution française, no. 375（AHRF_375_0187）",
+   "url": "https://shs.cairn.info/article/AHRF_375_0187",
+   "access": "公開",
+   "depth": "書目",
+   "period": [
+    1794,
+    2014
+   ],
+   "topics": [
+    "t-tussaud"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n這篇法國大革命史期刊的論文，討論杜莎做的羅伯斯庇爾翻模與現代「重建面容」的做法，與本站子題（杜莎的翻模說法）直接相關；但本次沒有讀到全文，內容尚未確認。\n\n## 三個重點\n\n1. 書目來源：OpenAlex 與 HAL 的紀錄都列出此篇（HAL 的記錄 halshs-03798154 只有書目，沒有檔案）。OpenAlex 標為開放取用，網址指向 Cairn。\n2. 讀取狀況：curl 取得的 Cairn 頁面是 DataDome 的防爬蟲驗證（captcha），HTTP 403，本次沒有讀到任何內文。\n3. 可能的用途：標題指出它討論「杜莎與羅伯斯庇爾的面容重建」，應與「研究者怎麼看杜莎的翻模」有關，但是否涉及王后翻模，本次無法確認。\n\n## 用了什麼史料\n\n（未讀到全文，無法列出。）\n\n## 跟其他資料的關係\n\n- 與 `s-1838-tussaud-memoirs`：杜莎自己寫的羅伯斯庇爾翻模（p. 254）是這篇討論的對象之一（依標題判斷，待確認）。\n\n## 值得記住的一句話\n\n未讀到原文，不填。\n\n## 還不確定的地方\n\n- 全文沒有讀到。需要由主 session 請使用者用瀏覽器（Cairn 或台大資料庫）開啟，或由 Claude in Chrome 讀取；本 agent 不使用瀏覽器工具。\n- 這是目前最相關的學術研究，優先處理。\n",
+   "links": [
+    "t-tussaud"
    ]
   },
   {
@@ -2100,6 +2262,33 @@
     "s-1874-arneth-mercy-correspondance",
     "t-consummation",
     "t-joseph"
+   ]
+  },
+  {
+   "id": "s-2017-ruimi-curtius-cabinet",
+   "type": "source",
+   "title": "Spectacles de cire. Le cabinet de Curtius（2017）",
+   "author": "Jennifer Ruimi",
+   "year": 2017,
+   "kind": "期刊論文",
+   "lang": "fr",
+   "venue": "Dix-huitième siècle, no. 49（DHS_049_0319）",
+   "url": "https://shs.cairn.info/article/DHS_049_0319",
+   "access": "公開",
+   "depth": "書目",
+   "period": [
+    1770,
+    1795
+   ],
+   "topics": [
+    "t-tussaud"
+   ],
+   "entities": [],
+   "reliability": "高",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n這篇十八世紀研究論文討論 Curtius 的蠟像館（cabinet de Curtius），是理解杜莎叔父的展覽、以及 1789 年群眾借走蠟像事件背景的候選資料；本次沒有讀到全文。\n\n## 三個重點\n\n1. 書目來源：OpenAlex 列出此篇，標為開放取用，網址指向 Cairn（DHS_049_0319）。\n2. 讀取狀況：curl 取得的 Cairn 頁面是 DataDome 的防爬蟲驗證（captcha），HTTP 403，沒有讀到內文。\n3. 可能的用途：標題指向「Curtius 的蠟像館」，應可用來核對杜莎回憶錄裡的 Curtius 館、1789 年 7 月的半身像遊行（`s-1838-tussaud-memoirs` p. 85–86）。\n\n## 用了什麼史料\n\n（未讀到全文，無法列出。）\n\n## 跟其他資料的關係\n\n- 與 `s-1838-tussaud-memoirs`：如果讀到，可以用來核對杜莎書中寫的 Curtius 館規模、展品與 1789 年事件。\n\n## 值得記住的一句話\n\n未讀到原文，不填。\n\n## 還不確定的地方\n\n- 全文沒有讀到。同樣被 Cairn 的防爬蟲擋住，需要使用者或主 session 用瀏覽器開啟。\n",
+   "links": [
+    "t-tussaud"
    ]
   },
   {
@@ -3260,15 +3449,19 @@
    "imageAlt": "粉彩畫風插畫：萊茵河中小島上的臨時木亭，兩側停著奧地利和法國的馬車隊，一位穿淺色長裙的少女從中間走過。",
    "sources": [
     "s-1823-campan-memoires",
+    "s-1777-bachaumont-memoires-secrets-v5",
+    "s-1900-nolhac-dauphine",
     "s-1874-arneth-mercy-correspondance",
     "s-2022-hassler-strasbourg"
    ],
    "updated": "2026-11-16",
-   "body": "## 一句話說明\n\n1770 年春天，奧地利公主瑪麗亞．安東妮亞在萊茵河中一座小島的亭子裡被「交接」給法國：她脫下所有奧地利的衣物，連襯衣和襪子都不留，換上法國的衣服，從另一扇門走出去，就成了法國的太子妃。\n\n## 故事是這樣的\n\n### 出發之前\n\n這門婚事從一開始就有人不贊成。康龐夫人回憶，她的公公準備隨迎親隊伍到邊境去接新娘，出發前去向國王的女兒阿德萊德夫人辭行；阿德萊德直接說，她不贊成王太子娶奧地利公主，如果由她作主，「絕不會派人去接一個奧地利女人」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊約 p. 3）。\n\n維也納這邊，母親瑪麗亞．特蕾莎替女兒寫好了一長串叮嚀。其中一條是：從斯特拉斯堡開始，不准再收任何東西，有人來託她向國王推薦什麼，就推給負責照顧她的諾瓦耶夫婦，只說自己是外國人，不能替人向國王開口（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 4）。\n\n### 河中的亭子\n\n交接的地點選在國界上。康龐夫人說，人們在靠近德國小鎮凱爾（Kehl）的邊境上搭了一座華麗的亭子，裡面分成兩間大廳，一間給維也納來的宮廷男女，一間給法國派來的隨員（[[s-1823-campan-memoires]] 第 1 冊約 p. 49）。法國這邊來的有：負責管理太子妃宮務的諾瓦耶伯爵夫人、管服飾的卡塞公爵夫人、四位宮女，還有騎士、馬廄總管和主教（[[s-1823-campan-memoires]] 第 1 冊約 p. 49）。\n\n當時在斯特拉斯堡讀書的年輕歌德也溜進去看過這座亭子。康龐夫人回憶錄的編者引用了歌德的回憶：他一走進去，就被主廳掛的掛毯嚇了一跳，上面畫的是希臘神話裡傑森、克瑞烏莎和美狄亞的故事，「人們記憶中最不祥的一場婚姻」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊編者序 pp. XIV–XV）。在那個故事裡，新娘被毒死，孩子被殺。編者寫這段時，王后已經死了，難免帶著後見之明。\n\n{{photo:t-handover-strasbourg-1770.jpg|1770 年的法國版畫，紀念奧地利大公女瑪麗．安東尼 5 月 7 日抵達斯特拉斯堡、準備前往凡爾賽的場面。|Wikimedia Commons，Public domain}}\n\n### 什麼都不能帶走\n\n真正的交接儀式，康龐夫人是這樣寫的：人們把太子妃的衣服全部脫掉，「連襯衣和長襪都不留」，好讓她身上不保有任何外國宮廷的東西，這是這種場合一向遵守的禮儀（本站譯）。門一打開，這個十四歲的女孩四處張望，找到了諾瓦耶伯爵夫人，撲進她懷裡，含著眼淚、真心地請她指導她、給她建議，做她的引路人和依靠（[[s-1823-campan-memoires]] 第 1 冊 pp. 49–50）。\n\n{{photo:t-handover-ducreux-1769.jpg|杜克勞（Ducreux）1769 年所畫的瑪麗．安東尼，當時她還是奧地利的大公女，現藏凡爾賽宮。|Wikimedia Commons，Public domain}}\n\n這個擁抱是一段關係的開始，卻不是好的開始。諾瓦耶伯爵夫人以嚴守禮儀出名，新太子妃很快就受不了她的規矩，替她取了個綽號叫「禮儀夫人」，這個綽號還傳到了巴黎（[[s-1823-campan-memoires]] 第 1 冊 pp. 50–51）。康龐夫人說，太子妃身邊的韋爾蒙神父還鼓勵她嘲笑這位女官和那些禮儀，而她「聽玩笑多過聽道理」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 pp. 50–51）。\n\n### 第一次見面\n\n過了斯特拉斯堡，大使梅西寫信回報維也納：太子妃在斯特拉斯堡的表現「超過了我所有的期望」，舉止和談吐都很得體；下午在貢比涅森林與國王、王太子的會面，讓一切「圓滿完成」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 p. 10 註 2）。\n\n同一封信裡，梅西也聽到了一個讓人不安的消息：宮裡有人放話，說國王的情婦杜巴利夫人明天要跟王室一起在拉米埃特吃晚飯。梅西不太相信，但說無論如何，太子妃都會保持得體（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 p. 10 註 2）。結果那頓晚飯真的發生了，康龐夫人說太子妃私下很不高興，在公開場合卻表現得無懈可擊（[[s-1823-campan-memoires]] 第 1 冊 p. 52；另見 [[t-dubarry]]）。\n\n國王本人怎麼看這對新人？梅西 1770 年 6 月的信裡記了一段：諾瓦耶伯爵夫人在國王面前替太子妃說好話，說她非常想討國王歡心，很想跟著國王去「小旅行」；國王笑了笑，沒有回答，倒是說起了王太子的冷淡，說「還得讓他慢慢來」，說他極為「害羞又怕生」，「不是一個跟別人一樣的人」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 p. 12；另見 [[t-consummation]]）。\n\n### 婚禮與煙火\n\n到了凡爾賽，新娘剛好趕上梳妝的時間，接著就是一連串盛大的婚禮慶典（[[s-1823-campan-memoires]] 第 1 冊約 p. 52）。她暫住在一樓，就在已故王后房間的正下方；正式的寢宮要到婚後六個月才整修好（[[s-1823-campan-memoires]] 第 1 冊約 p. 53）。康龐夫人說，路易十五很喜歡這個活潑、反應快的孫媳婦；婚禮頭幾天她戴滿鑽石，之後換上輕薄的紗或塔夫綢長裙，人們拿她比作古典雕像「美第奇的維納斯」（[[s-1823-campan-memoires]] 第 1 冊約 p. 53）。\n\n巴黎為婚禮放的煙火卻變成了慘劇。在路易十五廣場（今天的協和廣場），煙火架起火，官員事前沒有規劃，人群互相推擠，馬車橫衝直撞，死傷慘重。太子妃本來正從凡爾賽沿著王后大道進城，滿心歡喜、盛裝打扮，要來和巴黎人一起慶祝，聽到消息後含著眼淚逃了回去（[[s-1823-campan-memoires]] 第 1 冊編者序 p. XV）。編者說，如果要找一個不祥的預兆，這就夠了（[[s-1823-campan-memoires]] 第 1 冊編者序 p. XV）。\n\n事後，王太子和太子妃把一整年的收入捐出來，救濟在那天失去親人的家庭。康龐夫人很老實地說，這種引人注目的救濟，出自王族的政治考量，至少和出自同情一樣多；但她也說，太子妃的難過是真的，好幾天都無法釋懷，一說起來就哭（[[s-1823-campan-memoires]] 第 1 冊 p. 55）。\n\n有一位女官大概想讓她分心，說死者當中找到很多扒手，口袋裡塞滿了手錶和首飾，「至少他們受到了懲罰」。太子妃回答：「噢，不，不，夫人，他們是和好人死在一起的。」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 pp. 55–56）\n\n## 研究者怎麼看\n\n- 大使梅西 1770 年 5、6 月寫給女皇的信，沒有一封描寫婚禮本身或煙火事故；這些場面目前主要靠康龐夫人的回憶錄和編者序（[[s-1874-arneth-mercy-correspondance]] 第 1 冊；[[s-1823-campan-memoires]] 第 1 冊）。\n- 「交接時把衣服全部脫掉」來自康龐夫人的回憶錄，她本人當時不在場，是聽在場的人說的（[[s-1823-campan-memoires]]）。\n- 歌德的掛毯和巴黎的煙火被編者當成「不祥的預兆」，這是寫在王后死後的後見之明（[[s-1823-campan-memoires]] 第 1 冊編者序 p. XV）。\n- 法國學者哈斯勒（Éric Hassler）2022 年的專文指出，太子妃 1770 年 5 月 7 日抵達斯特拉斯堡，城裡歡天喜地，王室卻把這次交接當成一件不能出錯的外交大事來辦：自從 1756 年法奧兩國從宿敵變成盟友，兩個王朝第一次這樣直接接觸，交接儀式和「隱姓」的安排，都是為了避開誰先向誰行禮的爭議（[[s-2022-hassler-strasbourg]]）。本站只讀到這篇論文的摘要。\n\n## 延伸閱讀\n\n- [[s-2022-hassler-strasbourg]]\n- [[s-1823-campan-memoires]]\n- [[s-1874-arneth-mercy-correspondance]]\n- 相關故事：[[t-coronation]]、[[t-vermond]]\n- 人物：[[e-mercy]]\n\n## 還不知道的事\n\n- 交接的確切地點與流程、婚禮日期（常見說法是 5 月 16 日），以及煙火慘劇的死亡人數，本站還沒在原典裡核對到。\n- 常說「婚禮當天下大雨」，兩部原典裡都找不到。\n- 她有沒有在邊境被迫留下自己的狗？見 [[t-mops]]。\n",
+   "body": "## 一句話說明\n\n1770 年春天，奧地利公主瑪麗亞．安東妮亞在萊茵河中一座小島的亭子裡被「交接」給法國：她脫下所有奧地利的衣物，連襯衣和襪子都不留，換上法國的衣服，從另一扇門走出去，就成了法國的太子妃。\n\n## 故事是這樣的\n\n### 出發之前\n\n這門婚事從一開始就有人不贊成。康龐夫人回憶，她的公公準備隨迎親隊伍到邊境去接新娘，出發前去向國王的女兒阿德萊德夫人辭行；阿德萊德直接說，她不贊成王太子娶奧地利公主，如果由她作主，「絕不會派人去接一個奧地利女人」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊約 p. 3）。\n\n維也納這邊，母親瑪麗亞．特蕾莎替女兒寫好了一長串叮嚀。其中一條是：從斯特拉斯堡開始，不准再收任何東西，有人來託她向國王推薦什麼，就推給負責照顧她的諾瓦耶夫婦，只說自己是外國人，不能替人向國王開口（[[s-1874-arneth-mercy-correspondance]] 第 1 冊 p. 4）。\n\n### 河中的亭子\n\n交接的地點選在國界上。康龐夫人說，人們在靠近德國小鎮凱爾（Kehl）的邊境上搭了一座華麗的亭子，裡面分成兩間大廳，一間給維也納來的宮廷男女，一間給法國派來的隨員（[[s-1823-campan-memoires]] 第 1 冊約 p. 49）。法國這邊來的有：負責管理太子妃宮務的諾瓦耶伯爵夫人、管服飾的卡塞公爵夫人、四位宮女，還有騎士、馬廄總管和主教（[[s-1823-campan-memoires]] 第 1 冊約 p. 49）。\n\n當時在斯特拉斯堡讀書的年輕歌德也溜進去看過這座亭子。康龐夫人回憶錄的編者引用了歌德的回憶：他一走進去，就被主廳掛的掛毯嚇了一跳，上面畫的是希臘神話裡傑森、克瑞烏莎和美狄亞的故事，「人們記憶中最不祥的一場婚姻」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊編者序 pp. XIV–XV）。在那個故事裡，新娘被毒死，孩子被殺。編者寫這段時，王后已經死了，難免帶著後見之明。\n\n{{photo:t-handover-strasbourg-1770.jpg|1770 年的法國版畫，紀念奧地利大公女瑪麗．安東尼 5 月 7 日抵達斯特拉斯堡、準備前往凡爾賽的場面。|Wikimedia Commons，Public domain}}\n\n### 什麼都不能帶走\n\n真正的交接儀式，康龐夫人是這樣寫的：人們把太子妃的衣服全部脫掉，「連襯衣和長襪都不留」，好讓她身上不保有任何外國宮廷的東西，這是這種場合一向遵守的禮儀（本站譯）。門一打開，這個十四歲的女孩四處張望，找到了諾瓦耶伯爵夫人，撲進她懷裡，含著眼淚、真心地請她指導她、給她建議，做她的引路人和依靠（[[s-1823-campan-memoires]] 第 1 冊 pp. 49–50）。\n\n{{photo:t-handover-ducreux-1769.jpg|杜克勞（Ducreux）1769 年所畫的瑪麗．安東尼，當時她還是奧地利的大公女，現藏凡爾賽宮。|Wikimedia Commons，Public domain}}\n\n這個擁抱是一段關係的開始，卻不是好的開始。諾瓦耶伯爵夫人以嚴守禮儀出名，新太子妃很快就受不了她的規矩，替她取了個綽號叫「禮儀夫人」，這個綽號還傳到了巴黎（[[s-1823-campan-memoires]] 第 1 冊 pp. 50–51）。康龐夫人說，太子妃身邊的韋爾蒙神父還鼓勵她嘲笑這位女官和那些禮儀，而她「聽玩笑多過聽道理」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 pp. 50–51）。\n\n### 第一次見面\n\n過了斯特拉斯堡，大使梅西寫信回報維也納：太子妃在斯特拉斯堡的表現「超過了我所有的期望」，舉止和談吐都很得體；下午在貢比涅森林與國王、王太子的會面，讓一切「圓滿完成」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 p. 10 註 2）。\n\n同一封信裡，梅西也聽到了一個讓人不安的消息：宮裡有人放話，說國王的情婦杜巴利夫人明天要跟王室一起在拉米埃特吃晚飯。梅西不太相信，但說無論如何，太子妃都會保持得體（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 p. 10 註 2）。結果那頓晚飯真的發生了，康龐夫人說太子妃私下很不高興，在公開場合卻表現得無懈可擊（[[s-1823-campan-memoires]] 第 1 冊 p. 52；另見 [[t-dubarry]]）。\n\n國王本人怎麼看這對新人？梅西 1770 年 6 月的信裡記了一段：諾瓦耶伯爵夫人在國王面前替太子妃說好話，說她非常想討國王歡心，很想跟著國王去「小旅行」；國王笑了笑，沒有回答，倒是說起了王太子的冷淡，說「還得讓他慢慢來」，說他極為「害羞又怕生」，「不是一個跟別人一樣的人」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 1 冊約 p. 12；另見 [[t-consummation]]）。\n\n### 婚禮與煙火\n\n到了凡爾賽，新娘剛好趕上梳妝的時間，接著就是一連串盛大的婚禮慶典（[[s-1823-campan-memoires]] 第 1 冊約 p. 52）。她暫住在一樓，就在已故王后房間的正下方；正式的寢宮要到婚後六個月才整修好（[[s-1823-campan-memoires]] 第 1 冊約 p. 53）。康龐夫人說，路易十五很喜歡這個活潑、反應快的孫媳婦；婚禮頭幾天她戴滿鑽石，之後換上輕薄的紗或塔夫綢長裙，人們拿她比作古典雕像「美第奇的維納斯」（[[s-1823-campan-memoires]] 第 1 冊約 p. 53）。\n\n婚禮在 5 月 16 日舉行。諾拉克根據宮廷紀錄寫道：在凡爾賽的王室禮拜堂，太子和太子妃走到祭壇台階前，一百年來王室新人都在這個位置下跪，1745 年的上一對太子夫婦也是；蘭斯大主教祝福了十三枚金幣和婚戒，太子把戒指戴到新娘手上；唸天主經時，兩位主教在兩人頭上撐開一頂銀色錦緞的華蓋。彌撒結束，國王第一個在婚姻登記簿上簽名，然後是新娘、新郎的兩個弟弟和其他王族（[[s-1900-nolhac-dauphine]] pp. 94–95）。當晚，國王親自把太子送上床，帳幔照禮儀拉開，王族和女官們向新人行禮（[[s-1900-nolhac-dauphine]] p. 101）。第二天，太子遺憾不能去打獵，在私人日記裡寫下他平常的那一個字：「無事」（Rien）（[[s-1900-nolhac-dauphine]] p. 101）。\n\n巴黎為婚禮放的煙火卻變成了慘劇。煙火在 5 月 30 日晚上施放，地點是路易十五廣場（今天的協和廣場），由煙火師盧吉耶里（Ruggieri）設計，中央是一座巨大的「婚姻之神殿」（[[s-1900-nolhac-dauphine]] pp. 114–115；[[s-1777-bachaumont-memoires-secrets-v5]] 1770 年 5 月 30 日條）。傳記作者諾拉克（Nolhac）估計，廣場上擠了十萬人；國王路易十五沒有來，他和杜巴利夫人在貝勒維城堡的露台遠遠看；太子妃則打算晚一點和姑姑們坐車進城，只看燈飾（[[s-1900-nolhac-dauphine]] p. 115）。\n\n巴黎人的逐日見聞錄《祕密回憶錄》第二天記下了經過：一枚火箭掉進備用煙火堆，把整座布景點燃；很久都沒有人去救火，不少人還以為是新的表演。廣場只有一個出口通往城裡，一條沒填平的溝把人絆倒，後面的人往前推，來接客人的馬車又同時擠進來，有人甚至拔劍開路，演變成「可怕的屠宰場」（本站譯）（[[s-1777-bachaumont-memoires-secrets-v5]] 1770 年 5 月 31 日條）。死者被送到瑪德蓮墓園，諾拉克說第二天清點出 132 具屍體；《祕密回憶錄》那天記的是 133（[[s-1900-nolhac-dauphine]] p. 116；[[s-1777-bachaumont-memoires-secrets-v5]] 1770 年 5 月 31 日條）。受傷的人數沒有人知道。\n\n太子妃的馬車正沿著塞納河邊的王后大道進城，她遠遠看見煙火，滿心期待第一次不被認出來、好好看一看巴黎。快到廣場時，傳來奇怪的嘈雜聲，逃出來的人喊著出事了，馬車只好掉頭（[[s-1900-nolhac-dauphine]] pp. 116–117）。康龐夫人回憶錄的編者也說，她「含著眼淚」回到凡爾賽；他說，如果要找一個不祥的預兆，這就夠了（[[s-1823-campan-memoires]] 第 1 冊編者序 p. XV）。\n\n事後，十五歲的王太子寫信給巴黎警察總長：「我聽說了巴黎因為我而發生的不幸，非常難過。國王每個月給我零用的錢送來了，我能支配的只有這些，現在都寄給您，請救助最不幸的人。」署名「路易－奧古斯特」（本站譯）（[[s-1900-nolhac-dauphine]] p. 117；[[s-1777-bachaumont-memoires-secrets-v5]] 1770 年 6 月 1 日條）。《祕密回憶錄》說，這筆錢是每月兩千埃居；太子妃也把自己的錢包交了出去，國王的女兒們和親王們跟著照做（[[s-1777-bachaumont-memoires-secrets-v5]] 1770 年 6 月 1 日條）。康龐夫人的回憶錄則說，兩人捐出了「一整年的收入」（[[s-1823-campan-memoires]] 第 1 冊 p. 55）；（推論）當時的信寫的是一個月的零用錢，「一整年」可能是幾十年後的記憶放大了。康龐夫人很老實地說，這種引人注目的救濟，出自王族的政治考量，至少和出自同情一樣多；但她也說，太子妃的難過是真的，好幾天都無法釋懷，一說起來就哭（[[s-1823-campan-memoires]] 第 1 冊 p. 55）。\n\n有一位女官大概想讓她分心，說死者當中找到很多扒手，口袋裡塞滿了手錶和首飾，「至少他們受到了懲罰」。太子妃回答：「噢，不，不，夫人，他們是和好人死在一起的。」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 pp. 55–56）\n\n## 研究者怎麼看\n\n- 大使梅西 1770 年 5、6 月寫給女皇的信，沒有一封描寫婚禮本身或煙火事故；這些場面目前主要靠康龐夫人的回憶錄和編者序（[[s-1874-arneth-mercy-correspondance]] 第 1 冊；[[s-1823-campan-memoires]] 第 1 冊）。\n- 「交接時把衣服全部脫掉」來自康龐夫人的回憶錄，她本人當時不在場，是聽在場的人說的（[[s-1823-campan-memoires]]）。\n- 「新婚之夜國王在日記裡寫了『無事』」常被拿來笑話這段婚姻。諾拉克說，這個字寫在婚禮第二天，是太子沒去打獵時的「平常記法」（[[s-1900-nolhac-dauphine]] p. 101）；（推論）這本日記主要是狩獵紀錄，「無事」指的是沒有打獵。\n- 歌德的掛毯和巴黎的煙火被編者當成「不祥的預兆」，這是寫在王后死後的後見之明（[[s-1823-campan-memoires]] 第 1 冊編者序 p. XV）。\n- 法國學者哈斯勒（Éric Hassler）2022 年的專文指出，太子妃 1770 年 5 月 7 日抵達斯特拉斯堡，城裡歡天喜地，王室卻把這次交接當成一件不能出錯的外交大事來辦：自從 1756 年法奧兩國從宿敵變成盟友，兩個王朝第一次這樣直接接觸，交接儀式和「隱姓」的安排，都是為了避開誰先向誰行禮的爭議（[[s-2022-hassler-strasbourg]]）。本站只讀到這篇論文的摘要。\n\n## 延伸閱讀\n\n- [[s-2022-hassler-strasbourg]]\n- [[s-1823-campan-memoires]]\n- [[s-1874-arneth-mercy-correspondance]]\n- 相關故事：[[t-coronation]]、[[t-vermond]]\n- 人物：[[e-mercy]]\n\n## 還不知道的事\n\n- 交接的確切地點與流程，本站還沒在原典裡核對到。煙火慘劇的死亡人數，本站讀到的是 132（諾拉克）和 133（《祕密回憶錄》的 OCR），都還沒對照掃描本；受傷人數沒有紀錄。\n- 《祕密回憶錄》5 月 21 日條說煙火定在 31 日，30、31 日兩條卻說是 30 日晚上放的，以 30 日為準（[[s-1777-bachaumont-memoires-secrets-v5]]）。\n- 常聽說「婚書上有王后滴下的墨漬」，本站讀到的資料都沒有提到。\n- 常說「婚禮當天下大雨」，兩部原典裡都找不到。\n- 她有沒有在邊境被迫留下自己的狗？見 [[t-mops]]。\n",
    "links": [
     "e-mercy",
+    "s-1777-bachaumont-memoires-secrets-v5",
     "s-1823-campan-memoires",
     "s-1874-arneth-mercy-correspondance",
+    "s-1900-nolhac-dauphine",
     "s-2022-hassler-strasbourg",
     "t-consummation",
     "t-coronation",
@@ -4150,6 +4343,40 @@
    ]
   },
   {
+   "id": "t-war-plans",
+   "type": "topic",
+   "title": "密碼信裡的作戰計畫：王后真的通敵嗎？",
+   "category": "革命",
+   "period": [
+    1790,
+    1793
+   ],
+   "summary": "法庭拿不出證據，但七十年後出版的一封密碼信，證明她確實做了。",
+   "myth": "瑪麗．安東尼把法軍的作戰計畫偷偷寄給了奧地利。",
+   "verdict": "確有其事",
+   "sources": [
+    "s-1866-arneth-marie-antoinette",
+    "s-2008-kaiser-renversement-alliances",
+    "s-1793-tribunal-proces-marie-antoinette",
+    "s-1823-campan-memoires",
+    "s-1851-mirabeau-lamarck"
+   ],
+   "updated": "2026-11-16",
+   "body": "## 一句話說明\n\n1793 年審判王后時，起訴書說她把作戰計畫送給敵人，法庭卻拿不出一份證據。可是 1866 年在維也納出版的書信集裡，有一封她 1792 年 3 月用密碼寫給奧地利大使梅西的信，信裡就寫著法軍準備先打哪裡。\n\n## 迷思與史料\n\n這個指控在王后生前就有了，最後寫進了起訴書：說她「把國務會議上商定的作戰和進攻計畫，送到外國勢力手上」，所以敵人總是事先知道法軍的動向，法軍的敗仗都要怪她（本站譯）（[[s-1793-tribunal-proces-marie-antoinette]] 起訴書）。\n\n法庭上唯一沾得上邊的證詞，是前議員瓦拉澤（Valazé）說，他在查國王案時看過一封部長的信，請國王把一份作戰計畫轉給王后看。王后回答她不知道這封信；庭長問那封信在哪裡，瓦拉澤說應該在保安委員會，沒有拿出來（[[s-1793-tribunal-proces-marie-antoinette]] pp. 32–33）。（推論）就算有這封信，它也只證明王后看過計畫，不證明她送出去。\n\n真正的證據，要等到 1866 年。奧地利檔案學者阿爾內特（Arneth）出版了王后和梅西的通信，其中一封註明「全部用密碼寫成，解碼是梅西的親筆」。日期是 1792 年 3 月 20 日，王后寫道：「杜木里埃先生……打算先由我們這邊開始，攻擊薩伏依，另一路攻打列日地區，後一路要用拉法葉的軍隊。這是昨天會議的結果；知道這個計畫，好有所防備、採取一切適當的措施。看樣子很快就會動手。」（本站譯）（[[s-1866-arneth-marie-antoinette]] pp. 259–260）\n\n研究法奧外交的美國歷史學者凱瑟（Kaiser）2008 年的結論也很直接：「就在開戰前夕，瑪麗．安東尼確實把軍事情報傳給了奧地利人。」（本站譯）他引的是 3 月 26 日給梅西、3 月 30 日給費爾森的信（[[s-2008-kaiser-renversement-alliances]] 第 26 段及註 70）。所以本站判定「確有其事」。不過，起訴書說的「法軍敗仗都要怪她」，本站讀到的資料都沒有證據。\n\n## 故事是這樣的\n\n### 「奧地利委員會」\n\n王后是奧地利公主，這件事從她嫁進來那天起就是把柄。凱瑟說，早在 1780 年代中期，就有人懷疑她把法國國庫的錢偷偷送去給哥哥約瑟夫二世；1790 年 5 月，又傳說她領導一個神祕的「奧地利委員會」，要替娘家推翻革命（[[s-2008-kaiser-renversement-alliances]] 第 9、24 段）。他說這些傳言「細節大多是幻想，卻也不是一點真實都沒有」（本站譯）（[[s-2008-kaiser-renversement-alliances]] 第 24 段）。\n\n真實的部分是：瓦雷納逃亡失敗以後，王室被困在杜樂麗宮，王后確實越來越寄望外國出手。1792 年 3 月 2 日，她寫信給梅西說，法國國內沒有一派敢站出來替國王說話，「只有外部的力量」能讓他們有勇氣；皇帝的想法很好，「可是這一切要是六個月前做就好了」（本站譯）（[[s-1866-arneth-marie-antoinette]] pp. 253–254）。\n\n### 一封密碼信\n\n1792 年 3 月，國王被迫任命了主戰的新內閣，外交大臣是杜木里埃（Dumouriez）。19 日開了一次會，第二天，王后就把會議的結論用密碼寫給梅西：法軍要搶先出手，一路攻薩伏依，一路攻列日，拉法葉的軍隊負責後者（[[s-1866-arneth-marie-antoinette]] pp. 259–260）。梅西當時在布魯塞爾，是奧地利在尼德蘭的代表。\n\n這封信在阿爾內特的書裡和另一份文件印在一起：一份寫給新皇帝法蘭茲二世的備忘錄，說「控制王國的派系」決心宣戰，要同時攻打帝國和薩丁尼亞國王的領土，還打算暫停國王的職權、把王后和國王分開；備忘錄請皇帝和普魯士國王盡快在萊茵河集結軍隊（[[s-1866-arneth-marie-antoinette]] pp. 259–260）。阿爾內特在註裡說，這份備忘錄因為奧地利首相考尼茨的建議，最後沒有送出去（[[s-1866-arneth-marie-antoinette]] p. 260 註）。\n\n4 月 16 日，梅西回信給王后：派往布賴斯高的部隊這個月就到，更大的兵力也已經準備好；「如果法國人從列日進攻，普魯士人就會過去，他們在附近有一萬人」（本站譯）（[[s-1866-arneth-marie-antoinette]] pp. 261–262）。（推論）這句話看起來就是在回應王后三週前的情報。四天後，1792 年 4 月 20 日，法國宣戰（[[s-2008-kaiser-renversement-alliances]] 引言）；對象是「波希米亞和匈牙利國王」，也就是王后的姪子法蘭茲（[[s-1793-tribunal-proces-marie-antoinette]] 起訴書）。\n\n### 塞夫爾的一把火\n\n戰爭開打後，「奧地利委員會」成了議會裡最響亮的指控。1792 年 5 月 22 日，前外交大臣蒙莫蘭（Montmorin）寫信給人在布魯塞爾的拉馬克伯爵：「我有理由相信，王后星期三會在議會被告發，有人會想辦法起訴她。布里索保證要證明的那個奧地利委員會，就是藉口。」（本站譯）（[[s-1851-mirabeau-lamarck]] 第 3 冊 pp. 363–364）\n\n一週後發生了一件事，讓謠言火上加油。康龐夫人回憶錄的編者引當事人的記述說：5 月 30 日早上十點，國王的管家拉波特派人把一車印刷品運到塞夫爾瓷器廠，當著所有工人的面燒掉，卻不准任何人靠近。這麼神祕，當晚就被告到議會；布里索和雅各賓派一口咬定，燒掉的「只可能是奧地利委員會的通信紀錄」。拉波特到議會說明，那其實是別的東西，但議會的騷動並沒有平息（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 pp. 199–201 編者註）。康龐夫人說，那年有人拿拉莫特伯爵夫人（項鍊案的主角）寫的新誹謗書來兜售，國王把它買下了（[[s-1823-campan-memoires]] 第 2 冊第 20 章提要）；（推論）燒掉的很可能就是這批書，但編者沒有明說。\n\n### 法庭上的空白\n\n1793 年 10 月，王后受審。起訴書列了她的罪名，第二條就是和共和國的敵人通信，「把國務會議上商定的作戰和進攻計畫告訴敵人」（本站譯）（[[s-1793-tribunal-proces-marie-antoinette]] 起訴書）。可是兩天的審判裡，檢方拿不出任何一封她寄到國外的信。\n\n瓦拉澤的證詞是最接近的一次：他說看過一張王后簽名的收據，和一封部長請國王把作戰計畫轉給王后的信，兩份都不知去向。王后說她兩樣都不知道。檢察官接著說，這證明部長們都知道她對國王有多大的影響力；王后回答：「建議一件事，和讓人去做，差得很遠。」（本站譯）（[[s-1793-tribunal-proces-marie-antoinette]] pp. 32–33）\n\n（推論）真正的證據就藏在梅西的檔案裡，在維也納，革命法庭根本碰不到。王后被判死刑的時候，法官手上的是謠言和推論；七十多年後，歷史學者手上的卻是她親筆、用密碼寫的信。\n\n## 研究者怎麼看\n\n- **情報有沒有送出去：** 凱瑟認為確實有，引的是 1792 年 3 月 26 日給梅西、3 月 30 日給費爾森的信（收在 Lever 2005 年編的王后書信集 pp. 780–782）（[[s-2008-kaiser-renversement-alliances]] 註 70）。本站讀到的是 3 月 20 日那封（[[s-1866-arneth-marie-antoinette]] pp. 259–260）；三封是不是同一份情報的不同版本，本站還沒核對。\n- **「奧地利委員會」存不存在：** 凱瑟把它當成流言，不是一個真的組織，但說流言裡有「一點真實」：王后在 1790 年就提議過讓外國勢力聯手向革命政府施壓（[[s-2008-kaiser-renversement-alliances]] 第 24 段及註 64）。\n- **戰爭該怪誰：** 凱瑟認為 1792 年的戰爭不能只怪布里索派的煽動；奧地利的恫嚇、流亡貴族和王室的求援，都讓法國人更相信自己被包圍了（[[s-2008-kaiser-renversement-alliances]] 第 2–5、18–20、24–26 段）。\n- **有沒有造成法軍的敗仗：** 起訴書這樣說（[[s-1793-tribunal-proces-marie-antoinette]] 起訴書），但本站沒有讀到任何研究證明王后的情報改變了哪一場戰役。\n\n## 延伸閱讀\n\n- [[t-trial]]：王后受審的兩天。\n- [[t-secret]]：王后同時也在跟革命派的米拉波、巴納夫祕密談判。\n- [[t-fersen]]：費爾森和王后之間的密碼信。\n- [[t-libels]]：「奧地利女人」的名聲是怎麼被寫壞的。\n- [[t-lafayette]]：密碼信裡要攻打列日的那支軍隊的指揮官。\n\n## 還不知道的事\n\n- 3 月 26 日給梅西、3 月 30 日給費爾森的兩封信（Lever 2005，pp. 780–782）本站還沒讀到；費爾森文件集的 1792 年部分在第 2 冊，本站也還沒有。\n- 凱瑟 2003 年專談「奧地利委員會」的論文（*French Historical Studies* 26），本站沒有讀到。\n- 塞夫爾燒掉的到底是什麼：編者註說是印刷品，康龐夫人提到國王買下拉莫特夫人的新誹謗書，兩者是否同一批，本站還不能確定。\n- 瓦拉澤說的部長信是哪一位部長、哪一份計畫，本站沒找到。\n",
+   "links": [
+    "s-1793-tribunal-proces-marie-antoinette",
+    "s-1823-campan-memoires",
+    "s-1851-mirabeau-lamarck",
+    "s-1866-arneth-marie-antoinette",
+    "s-2008-kaiser-renversement-alliances",
+    "t-fersen",
+    "t-lafayette",
+    "t-libels",
+    "t-secret",
+    "t-trial"
+   ]
+  },
+  {
    "id": "t-white-hair",
    "type": "topic",
    "title": "一夜白頭：瑪麗．安東尼症候群",
@@ -4853,6 +5080,10 @@
   [
    "s-2007-kantor-antonieta",
    "t-inoculation"
+  ],
+  [
+   "s-2008-kaiser-renversement-alliances",
+   "t-war-plans"
   ],
   [
    "s-2008-skellett-sudden-whitening",
@@ -5876,11 +6107,19 @@
   ],
   [
    "t-handover",
+   "s-1777-bachaumont-memoires-secrets-v5"
+  ],
+  [
+   "t-handover",
    "s-1823-campan-memoires"
   ],
   [
    "t-handover",
    "s-1874-arneth-mercy-correspondance"
+  ],
+  [
+   "t-handover",
+   "s-1900-nolhac-dauphine"
   ],
   [
    "t-handover",
@@ -6905,6 +7144,46 @@
   [
    "t-vigee",
    "t-theatre"
+  ],
+  [
+   "t-war-plans",
+   "s-1793-tribunal-proces-marie-antoinette"
+  ],
+  [
+   "t-war-plans",
+   "s-1823-campan-memoires"
+  ],
+  [
+   "t-war-plans",
+   "s-1851-mirabeau-lamarck"
+  ],
+  [
+   "t-war-plans",
+   "s-1866-arneth-marie-antoinette"
+  ],
+  [
+   "t-war-plans",
+   "s-2008-kaiser-renversement-alliances"
+  ],
+  [
+   "t-war-plans",
+   "t-fersen"
+  ],
+  [
+   "t-war-plans",
+   "t-lafayette"
+  ],
+  [
+   "t-war-plans",
+   "t-libels"
+  ],
+  [
+   "t-war-plans",
+   "t-secret"
+  ],
+  [
+   "t-war-plans",
+   "t-trial"
   ],
   [
    "t-white-hair",
@@ -8216,6 +8495,46 @@
    "category": "生平",
    "topic": "t-inoculation",
    "source": "s-1874-arneth-mercy-correspondance"
+  },
+  {
+   "date": "1783-09-19",
+   "title": "熱氣球在凡爾賽宮庭院升空",
+   "desc": "孟格菲的氣球載著一隻羊、一隻鴨、一隻公雞，在國王一家面前飛了八分鐘，降落在瓦克雷松森林。",
+   "category": "宮廷",
+   "topic": "t-balloon",
+   "source": "s-1783-faujas-description"
+  },
+  {
+   "date": "1783-11-21",
+   "title": "人類第一次搭氣球自由飛行",
+   "desc": "皮拉特爾．德．羅齊耶與達爾朗德侯爵從穆埃特城堡升空，飛越巴黎。",
+   "category": "宮廷",
+   "topic": "t-balloon",
+   "source": "s-1783-faujas-description"
+  },
+  {
+   "date": "1792-03-20",
+   "title": "王后用密碼把出兵計畫告訴梅西",
+   "desc": "信中寫法軍準備先攻薩伏依和列日，「這是昨天會議的結果」。",
+   "category": "革命",
+   "topic": "t-war-plans",
+   "source": "s-1866-arneth-marie-antoinette"
+  },
+  {
+   "date": "1792-04-20",
+   "title": "法國宣戰",
+   "desc": "對象是「波希米亞和匈牙利國王」，也就是王后的姪子法蘭茲。",
+   "category": "革命",
+   "topic": "t-war-plans",
+   "source": "s-2008-kaiser-renversement-alliances"
+  },
+  {
+   "date": "1792-05-30",
+   "title": "塞夫爾瓷器廠的一把火",
+   "desc": "國王派人燒掉一車印刷品，議會指控燒的是「奧地利委員會」的通信。",
+   "category": "革命",
+   "topic": "t-war-plans",
+   "source": "s-1823-campan-memoires"
   }
  ],
  "stats": [],
