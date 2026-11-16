@@ -55,9 +55,12 @@ export async function mount(fig, opts = {}) {
   const lineMat = new THREE.LineBasicMaterial({ color: ink, transparent: true, opacity: 0.35 });
   const giltLine = new THREE.LineBasicMaterial({ color: gilt });
   const named = new Set(["Le Petit Trianon", "Théâtre de la Reine", "Temple de l'Amour", "Belvédère"]);
+  const hiMat = new THREE.MeshLambertMaterial({ color: 0xf2dfb4 });   /* 導覽到的建築：淡金 */
+  const meshById = {};
   data.buildings.forEach(b => {
     const key = named.has(b.name);
     const m = extrude(b.pts, b.h, key ? keyMat : wallMat);
+    m.userData.base = m.material; meshById[b.id] = m;
     scene.add(m);
     const e = new THREE.LineSegments(new THREE.EdgesGeometry(m.geometry, 30), key ? giltLine : lineMat);
     scene.add(e);
@@ -82,18 +85,49 @@ export async function mount(fig, opts = {}) {
   const spots = data.spots.map((s, i) => {
     const b = document.createElement("button");
     b.type = "button"; b.className = "s3d-pin"; b.innerHTML = `<span>${s.name}</span>`; b.setAttribute("aria-label", s.name);
-    b.onclick = () => show(i);
+    b.onclick = () => fly(i);
     layer.appendChild(b);
     return { ...s, el: b, v: new THREE.Vector3(s.pos[0], s.h + 6, s.pos[1]) };
   });
-  let sel = 0;
+  /* 導覽：照時間順序一站一站飛過去；沒有排進導覽的地點，點了也能看說明 */
+  const tour = spots.map((s, i) => s.tour ? i : -1).filter(i => i >= 0);
+  let sel = 0, lit = null;
   const show = i => {
     sel = i; touch();
     spots.forEach((s, j) => s.el.classList.toggle("on", i === j));
-    const s = spots[i], t = opts.title?.(s.topic) || "";
-    info.innerHTML = `<b>${s.name}</b><p>${s.note}</p>${t ? `<a href="#/p/${s.topic}">讀這個故事：${t}</a>` : ""}`;
+    if (lit) lit.material = lit.userData.base;
+    lit = meshById[spots[i].osm] || null;
+    if (lit) lit.material = hiMat;
+    const s = spots[i], t = opts.title?.(s.topic) || "", k = tour.indexOf(i);
+    const head = k >= 0 ? `第 ${k + 1} 站／共 ${tour.length} 站` : "自由逛逛";
+    info.innerHTML = `<div class="s3d-nav"><button type="button" class="pl-btn s3d-prev"${k <= 0 ? " disabled" : ""}>← 上一站</button><button type="button" class="pl-btn s3d-next">${k < 0 ? "回到導覽" : k === tour.length - 1 ? "看全景" : "下一站 →"}</button></div>
+      <p class="s3d-stop">${head}${s.year ? `<span>${s.year}</span>` : ""}</p><b>${s.name}</b><p>${s.note}</p>
+      <p class="s3d-src">出處：${opts.ref ? opts.ref(s.source) : s.source}${t ? `　·　<a href="#/p/${s.topic}">讀這個故事：${t}</a>` : ""}</p>`;
     info.hidden = false;
+    info.querySelector(".s3d-prev").onclick = () => fly(tour[k - 1]);
+    info.querySelector(".s3d-next").onclick = () => k < 0 ? fly(tour[0]) : k === tour.length - 1 ? overview() : fly(tour[k + 1]);
   };
+  /* 鏡頭飛行：1.4 秒的緩動；讀者設定「減少動態」就直接跳過去 */
+  let anim = null;
+  const tween = (to, ms = 1400) => {
+    const from = { r: cam.r, th: cam.th, ph: cam.ph, t: cam.t.clone() };
+    let dth = to.th - from.th; dth = Math.atan2(Math.sin(dth), Math.cos(dth));
+    if (matchMedia("(prefers-reduced-motion: reduce)").matches) ms = 1;
+    const t0 = performance.now();
+    anim = now => {
+      const u = Math.min(1, (now - t0) / ms), e = u < .5 ? 4 * u * u * u : 1 - Math.pow(-2 * u + 2, 3) / 2;
+      cam.r = from.r + (to.r - from.r) * e; cam.th = from.th + dth * e; cam.ph = from.ph + (to.ph - from.ph) * e;
+      cam.t.lerpVectors(from.t, to.t, e);
+      if (u >= 1) anim = null;
+    };
+    touch();
+  };
+  const fly = i => {
+    const s = spots[i];
+    show(i);
+    tween({ r: tall() ? 330 : 260, th: cam.th + 0.55, ph: 0.92, t: new THREE.Vector3(s.pos[0], 0, s.pos[1]) });
+  };
+  const overview = () => { tween({ ...home, t: home.t.clone() }); };
 
   const tmp = new THREE.Vector3();
   /* 地名互相擋住時，排在後面的縮成小圓點（放大之後就有空間顯示文字）；選中的永遠顯示 */
@@ -119,6 +153,7 @@ export async function mount(fig, opts = {}) {
   let dirty = true, raf = 0, alive = true;
   const loop = () => {
     if (!alive) return;
+    if (anim) { anim(performance.now()); dirty = true; }
     if (dirty) { place(); renderer.render(scene, camera); drawLabels(); dirty = false; }
     raf = requestAnimationFrame(loop);
   };
@@ -128,7 +163,7 @@ export async function mount(fig, opts = {}) {
   el.style.touchAction = "none";
   const pts = new Map();
   let last = null;
-  el.addEventListener("pointerdown", e => { el.setPointerCapture(e.pointerId); pts.set(e.pointerId, { x: e.clientX, y: e.clientY }); last = null; });
+  el.addEventListener("pointerdown", e => { anim = null; el.setPointerCapture(e.pointerId); pts.set(e.pointerId, { x: e.clientX, y: e.clientY }); last = null; });
   el.addEventListener("pointerup", e => { pts.delete(e.pointerId); last = null; });
   el.addEventListener("pointercancel", e => { pts.delete(e.pointerId); last = null; });
   el.addEventListener("contextmenu", e => e.preventDefault());
@@ -159,12 +194,13 @@ export async function mount(fig, opts = {}) {
 
   fig.querySelector(".s3d-zoom-in").onclick = () => { cam.r /= 1.3; touch(); };
   fig.querySelector(".s3d-zoom-out").onclick = () => { cam.r *= 1.3; touch(); };
-  fig.querySelector(".s3d-reset").onclick = () => { Object.assign(cam, { ...home, t: home.t.clone() }); touch(); };
+  fig.querySelector(".s3d-reset").onclick = overview;
 
-  const ro = new ResizeObserver(() => { renderer.setSize(W(), H()); camera.aspect = W() / H(); camera.updateProjectionMatrix(); touch(); });
+  const ro = new ResizeObserver(() => { if (!alive || !W() || !H()) return; renderer.setSize(W(), H()); camera.aspect = W() / H(); camera.updateProjectionMatrix(); touch(); });
   ro.observe(stage);
   loop();
-  show(0);
+  show(tour[0]);
+  setTimeout(() => alive && fly(tour[0]), 700);
 
   return () => { alive = false; cancelAnimationFrame(raf); ro.disconnect(); renderer.dispose(); scene.traverse(o => { o.geometry?.dispose?.(); }); };
 }

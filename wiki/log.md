@@ -101,3 +101,9 @@
 - 新增 tools/trianon3d.py、data/trianon3d-spots.json（10 個地點，各附故事與出處）、docs/assets/trianon3d.js、docs/assets/trianon3d.json；放進 t-hameau。
 - 建築與水域輪廓：OpenStreetMap（2026-11-16 擷取，ODbL），存 raw/maps/。高度為示意。
 - rules/site.md 加 3D 地圖規則。手機檢查 0 錯誤。
+
+## [2026-11-16] site | 互動改版：導覽、先猜再揭曉、聖殿塔時間軸
+- 使用者覺得只能轉的 3D 地圖很無聊。小特里亞儂改成 7 站導覽（1774–1901），鏡頭依序飛到各站，附出處。
+- 新增 docs/assets/play.js：t-deficit「你猜猜看」（White 1989 p. 552；梅西 1777 年 1 月 17 日信），t-temple「一家五口，一個一個被帶走」（克萊里、瑪麗－泰蕾茲、圖澤爾、Feuillet、Lafont d'Aussonne）。
+- 修正：3D 地圖劇場說明的出處改為康龐夫人回憶錄 p. 228；乳品室刪除無出處的一句。
+- 手機檢查 0 錯誤。

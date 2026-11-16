@@ -124,6 +124,7 @@ function renderMd(body, notes) {
   });
   t = t.replace(/\{\{img:([\w\-.]+)\|([^}]*)\}\}/g, (_, f, cap) =>
     `\n\n<figure class="inline-fig"><img src="assets/img/${esc(f)}" alt="${esc(cap)}" loading="lazy" decoding="async"><figcaption>${esc(cap)}</figcaption></figure>\n\n`);
+  t = t.replace(/\{\{play:(deficit|temple)\}\}/g, (_, id) => `\n\n<figure class="play" data-play="${id}"><p class="small">互動載入中…</p></figure>\n\n`);
   t = t.replace(/\{\{3d:(trianon)\}\}/g, () => "\n\n" + scene3d() + "\n\n");
   t = t.replace(/\{\{photo:([\w\-.]+)\|([^|}]*)(?:\|([^}]*))?\}\}/g, (_, f, cap, cr) => "\n\n" + photoFig(f, cap, cr) + "\n\n");
   t = t.replace(/\[\[([a-z0-9\-]+)(?:\|([^\]]*))?\]\]/g, (_, id, label) => refLink(id, label));
@@ -342,6 +343,7 @@ function page(p) {
   </div></div>`;
   mountCharts(app);
   mountScene3d(app);
+  mountPlays(app);
   /* 長文的段落導覽：故事裡有 3 個以上小標時，在「故事是這樣的」上方列出 */
   const hs = [...app.querySelectorAll("article.md h3")];
   if (p.type === "topic" && hs.length >= 3) {
@@ -358,12 +360,20 @@ function page(p) {
 }
 
 /* 3D 立體地圖（rules/site.md）：先只放海報與「開始互動」按鈕，按了才載入 three.js 與場景 */
-const S3D_V = 1;
+const S3D_V = 3;
 function scene3d() {
-  return `<figure class="s3d" data-scene="trianon"><div class="s3d-stage"><div class="s3d-poster"><div class="s3d-plate"><p class="s3d-t">立體地圖：<br>王后的小特里亞儂</p><p>轉一轉、放大縮小，點地名看它出現在哪個故事。</p><button type="button" class="s3d-go">開始互動</button></div></div></div>
+  return `<figure class="s3d" data-scene="trianon"><div class="s3d-stage"><div class="s3d-poster"><div class="s3d-plate"><p class="s3d-t">跟著王后<br>走一圈小特里亞儂</p><p>從 1774 年她拿到這座宮殿，到 1901 年的鬼故事，七站。</p><button type="button" class="s3d-go">開始導覽</button></div></div></div>
     <div class="s3d-tools" hidden><button type="button" class="s3d-zoom-in" aria-label="放大">＋</button><button type="button" class="s3d-zoom-out" aria-label="縮小">−</button><button type="button" class="s3d-reset">重設視角</button></div>
     <div class="s3d-info" hidden></div>
-    <figcaption>拖曳旋轉，雙指或滾輪縮放，雙指拖曳（電腦按住 Shift）平移。建築輪廓是今天的樣子，取自 OpenStreetMap（© OpenStreetMap contributors，ODbL）；高度是示意，不是實測。王后時代以後，有些建築拆掉或改建過。</figcaption></figure>`;
+    <figcaption>按「下一站」跟著走，也可以自己拖曳旋轉、雙指或滾輪縮放，雙指拖曳（電腦按住 Shift）平移。建築輪廓是今天的樣子，取自 OpenStreetMap（© OpenStreetMap contributors，ODbL）；高度是示意，不是實測。王后時代以後，有些建築拆掉或改建過。</figcaption></figure>`;
+}
+/* 故事裡的小互動（先猜再揭曉、時間軸），程式在 play.js */
+function mountPlays(root) {
+  const figs = root.querySelectorAll(".play");
+  if (!figs.length) return;
+  const ref = (id, page) => refLink(id) + (page ? " " + esc(page) : "");
+  import(`./play.js?v=${S3D_V}`).then(m => figs.forEach(f => m.mount(f, { ref })))
+    .catch(() => figs.forEach(f => f.innerHTML = `<p class="small">互動載入失敗，請重新整理。</p>`));
 }
 function mountScene3d(root) {
   root.querySelectorAll(".s3d").forEach(fig => {
@@ -373,9 +383,9 @@ function mountScene3d(root) {
         const mod = await import(`./trianon3d.js?v=${S3D_V}`);
         fig.querySelector(".s3d-tools").hidden = false;
         fig.classList.add("live");
-        live.s3d = await mod.mount(fig, { v: S3D_V, title: id => byId[id]?.title });
+        live.s3d = await mod.mount(fig, { v: S3D_V, title: id => byId[id]?.title, ref: id => refLink(id) });
       } catch (err) {
-        e.target.disabled = false; e.target.textContent = "開始互動";
+        e.target.disabled = false; e.target.textContent = "開始導覽";
         fig.querySelector(".s3d-poster").insertAdjacentHTML("beforeend", `<p class="small">載入失敗（${esc(err.message)}），這台裝置可能不支援 3D。</p>`);
       }
     };
@@ -406,7 +416,7 @@ function floatToc(hs) {
   const upd = () => {
     const art = app.querySelector("article.md");
     const show = (inline ? inline.getBoundingClientRect().bottom < 0 : scrollY > 400) && (!art || art.getBoundingClientRect().bottom > innerHeight * 0.6)
-      && ![...app.querySelectorAll(".s3d")].some(f => { const r = f.getBoundingClientRect(); return r.top < innerHeight && r.bottom > 0; });
+      && ![...app.querySelectorAll(".s3d, .play")].some(f => { const r = f.getBoundingClientRect(); return r.top < innerHeight && r.bottom > 0; });
     wrap.classList.toggle("on", show);
     if (!show) close();
     let cur = hs[0];

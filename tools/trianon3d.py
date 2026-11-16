@@ -109,7 +109,7 @@ for s in spots:
     if not c:
         print("找不到 OSM 物件：", s["osm"], s["name"]); continue
     b = next((x for x in feats["buildings"] if x["id"] == s["osm"]), None)
-    out_spots.append({**{k: s[k] for k in ("name", "note", "topic", "source")}, "pos": xy(*c), "h": b["h"] if b else 2})
+    out_spots.append({**{k: s[k] for k in ("name", "note", "topic", "source")}, "osm": s["osm"], "tour": bool(s.get("tour")), "year": s.get("year", ""), "pos": xy(*c), "h": b["h"] if b else 2})
 
 feats["spots"] = out_spots
 feats["size"] = [round((BBOX[3] - BBOX[1]) * MLNG), round((BBOX[2] - BBOX[0]) * MLAT)]
