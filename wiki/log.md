@@ -139,3 +139,12 @@
 ## [2026-11-17] art | 八篇新故事的頁首插圖
 - t-inoculation、t-balloon、t-war-plans、t-federation、t-bagatelle、t-mesmer、t-potato、t-perfume（Gemini，提示詞由主 session 寫，Haiku 操作，主 session 逐張看過）
 - t-mesmer 第一版的木桶畫得太高（報告說只有一尺到一尺半），重畫後採用第二版；兩版原圖都留在 raw/images/
+
+## [2026-11-17] ingest | 夜間擴寫第二批：馬鈴薯、香水、束腰與騎馬、國王日記、莫札特與作曲問答
+- 新增：t-potato（查無實據）、t-perfume（查無實據）、t-corset（半真半假，併入太子妃學騎馬）、t-diary（半真半假）、q-mozart-proposal、q-did-she-compose
+- 新增資料卡：s-1873-nicolardot-journal-louis-xvi、s-2020-pinoteau-chasses-louis-xvi、s-2026-zanetti-amazones、s-1871-weckerlin-c-est-mon-ami、s-1890-weckerlin-nouveau-musiciana、s-1839-anon-chateau-saint-cloud 等
+- 更新：t-deficit（聖克盧購買日期 1785-02-15；「六百萬」查無出處）、t-varennes（舒瓦瑟爾自己撤走驃騎兵，不是萊奧納爾）、t-louis（連到 t-diary；拉佩魯茲之問查無出處）、t-theatre（連到作曲問答）、timeline（+1 騎馬）
+- 發現：1789-07-14 的「rien」確實存在，但編者說它只表示沒打獵；〈C'est mon ami〉的王后作曲說，最早有年份的出處是 1871 年樂譜；女皇反對女兒騎馬的理由是皮膚、身材與生育，梅西報告她用女用馬鞍。
+
+## [2026-11-17] art | 束腰、國王日記插圖
+- 新增：docs/assets/img/t-corset.jpg、t-diary.jpg（Gemini 生成，原圖在 raw/images/）
