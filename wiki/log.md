@@ -83,3 +83,11 @@
 
 ## [2026-11-16] lint | 引文清查
 - check_quotes.py 全站 157 句待查，分 4 個 Haiku 逐條對原文：絕大多數是 OCR、斷行或沒存全文；實際修正 5 句、改出處 4 句、標【查無原文】2 句（"deux francs maladroits"、"nous sommes trop jeunes pour régner"），兩句故事頁原本就寫明查不到或是流傳版本，故事頁不用改。
+
+## [2026-11-16] site | 長文閱讀改版（參考新聞媒體）
+- Haiku 用背景瀏覽器截圖並量測報導者、端傳媒、BBC、The Guardian、NYT、The Pudding 等 10 篇長文（NHK、Reuters 擋掉）。
+- 改：手機頂欄一行＋選單按鈕、捲動時收起頂欄；註號移到句末標點後並不拆行；電腦內文 18px；手機首圖滿版；浮動「目錄」標出目前小節；故事結尾「接著讀」盤子；寬螢幕旁註欄（註釋、圖說）。rules/site.md 同步更新。
+- 手機檢查 0 錯誤。使用者另把「3D 互動」列入待做。
+
+## [2026-11-16] query | 台大資料庫試查
+- ScienceDirect 出現驗證碼，停；JSTOR 只找到約瑟夫二世史學回顧（不相關）；MUSE 上 Hosford 2004、Kaiser 2003 都是杜克大學出版社期刊，台大無權限。

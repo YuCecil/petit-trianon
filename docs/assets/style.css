@@ -263,3 +263,48 @@ code{font-size:.9em;background:var(--sheet);border:1px solid var(--line);padding
 .md h3{scroll-margin-top:90px}
 .progress{position:fixed;top:0;left:0;right:0;height:3px;background:var(--gilt);transform-origin:0 50%;transform:scaleX(0);z-index:1100;pointer-events:none}
 @media (max-width:720px){.toc ol{grid-template-columns:1fr}}
+
+/* ===== 2026-11-16 改版：參考報導者、端傳媒、BBC、The Guardian、NYT 的長文版面 ===== */
+/* 註碼緊貼句末標點，連同前一個字不拆行：標點、註碼都不會單獨落到行首 */
+.fn-w{white-space:nowrap}
+.fn-pop b{font-weight:600;color:var(--gilt-ink);margin-right:2px}
+/* 頂欄：往下捲收起、往上捲出現 */
+.topbar{transition:transform .25s ease}
+.topbar.hide{transform:translateY(-100%)}
+.menu-b{display:none}
+/* 故事結尾「接著讀」 */
+.next-read{margin-top:56px;padding-top:26px;border-top:1px solid var(--line)}
+.next-read h2{font-family:var(--serif-tc);font-size:23px;margin-bottom:26px}
+/* 長文目錄：右下角浮動按鈕，捲過文內目錄才出現 */
+.ftoc{position:fixed;right:16px;bottom:16px;z-index:900;display:flex;flex-direction:column;align-items:flex-end;gap:8px;opacity:0;visibility:hidden;transform:translateY(8px);transition:opacity .2s ease,transform .2s ease,visibility .2s}
+.ftoc.on{opacity:1;visibility:visible;transform:none}
+.ftoc-b{order:2;display:inline-flex;align-items:center;gap:6px;font:500 15px/1 var(--sans);color:var(--ink);background:var(--sheet);border:1px solid var(--ink);border-radius:999px;padding:10px 16px;min-height:42px;cursor:pointer}
+.ftoc-b:hover,.ftoc-b[aria-expanded="true"]{background:var(--ink);color:var(--sheet)}
+.ftoc-p{order:1;background:var(--sheet);border:1px solid var(--line);padding:14px 18px;width:min(320px,calc(100vw - 32px));max-height:60vh;overflow:auto}
+.ftoc-p b{display:block;font-family:var(--serif-tc);font-weight:500;font-size:14px;color:var(--muted);margin-bottom:6px}
+.ftoc-p ol{margin:0;padding-left:1.3em;font-size:15.5px;line-height:1.55}
+.ftoc-p a{display:block;padding:5px 0;color:var(--ink);text-decoration:none}
+.ftoc-p a.cur{color:var(--gilt-ink);font-weight:700}
+/* 電腦：內文 18px（每行約 37 字） */
+@media (min-width:721px){.md p,.md li{font-size:18px}}
+/* 寬螢幕：右側空白當旁註欄，註釋與圖說放在段落旁邊（The Guardian 的做法） */
+@media (min-width:1180px){
+  .page > div{position:relative}
+  .md .fn-pop,.myth .fn-pop{position:absolute;left:calc(var(--measure) + 48px);width:300px;margin-top:-1.9em;padding:0 0 0 14px;background:none;border:0;border-left:1px solid var(--gilt);font-size:14px;line-height:1.65}
+  .inline-fig,.photo{position:relative}
+  .inline-fig figcaption,.photo figcaption{position:absolute;left:calc(100% + 48px);bottom:0;width:260px;margin:0}
+}
+/* 手機：頂欄只留一行，選單收進按鈕；首圖與插圖貼齊螢幕左右 */
+@media (max-width:720px){
+  .bar{flex-wrap:nowrap;padding-top:10px;padding-bottom:10px}
+  .logo-icon{width:30px;height:30px}
+  .logo-t b{font-size:19px}
+  .logo-t small{display:none}
+  .menu-b{display:inline-flex;align-items:center;gap:6px;font:500 15px/1 var(--sans);color:var(--ink);background:none;border:1px solid var(--line);border-radius:999px;padding:8px 14px;min-height:38px;cursor:pointer}
+  .nav{display:none}
+  .topbar.open .nav{display:grid;grid-template-columns:1fr 1fr;gap:0 24px;position:absolute;top:100%;left:0;right:0;background:var(--paper);border-bottom:1px solid var(--line);padding:6px clamp(16px,4vw,48px) 14px}
+  .topbar.open .nav a{padding:10px 0;font-size:16px;border-bottom:1px solid var(--line)}
+  .art.lead-art,.inline-fig{margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw)}
+  .inline-fig figcaption{padding:0 clamp(16px,4vw,48px)}
+  .ftoc{right:12px;bottom:12px}
+}

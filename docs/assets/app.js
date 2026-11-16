@@ -53,6 +53,7 @@ function cleanup() {
   live.charts.forEach(c => c.destroy()); live.charts = [];
   if (live.map) { live.map.remove(); live.map = null; }
   if (live.graph) { live.graph.destroy(); live.graph = null; }
+  if (live.ftoc) { removeEventListener("scroll", live.ftoc.upd); live.ftoc.el.remove(); live.ftoc = null; }
 }
 function setNav(key) {
   document.querySelectorAll(".nav a").forEach(a => { const on = a.dataset.k === key; a.classList.toggle("on", on); on ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current"); });
@@ -100,10 +101,10 @@ function mountCharts(root) {
 /* 註釋（CLAUDE.md 8.4）：內文「（[[s-…]] 頁碼）」轉成上標註號，原文收進 notes，文末集中列出 */
 function footnotes(t, notes) {
   if (!notes) return t;
-  return t.replace(/（([^（）\n]*\[\[s-[^（）\n]*)）/g, (_, inner) => {
+  return t.replace(/([^\s*_<>（）])?（([^（）\n]*\[\[s-[^（）\n]*)）([。；，？！]?)/g, (_, prev, inner, punct) => {
     notes.push(inner);
     const n = notes.length;
-    return `<sup class="fn"><button type="button" class="fn-b" data-n="${n}" aria-expanded="false" aria-label="註釋 ${n}">${n}</button></sup>`;
+    return `<span class="fn-w">${prev || ""}${punct || ""}<sup class="fn"><button type="button" class="fn-b" data-n="${n}" aria-expanded="false" aria-label="註釋 ${n}">${n}</button></sup></span>`;
   });
 }
 function notesBlock(notes) {
@@ -128,13 +129,16 @@ function renderMd(body, notes) {
 }
 
 /* ---------- 首頁 ---------- */
+/* 故事盤子：首頁目錄與故事結尾「接著讀」共用 */
+const plateItem = (t, hx = "h4") => `<li><a class="plate" data-cat="${catKey(t.category)}" href="#/p/${t.id}">
+    <span class="dish">${t.image ? `<img src="assets/img/${esc(t.image)}" alt="" loading="lazy" decoding="async">` : t.verdict ? `<span class="cart"><small>判定</small>${esc(t.verdict)}</span>` : ROSETTE}</span>
+    <${hx} class="toc-t">${phrase(t.title)}</${hx}><p>${esc(t.summary)}</p>${t.verdict && t.image ? `<span class="verdict">判定：${esc(t.verdict)}</span>` : ""}</a></li>`;
+
 function home(anchor) {
   setNav("home");
   const topics = W.pages.filter(p => p.type === "topic").sort((a, b) => (a.period?.[0] || 0) - (b.period?.[0] || 0) || (a.period?.[1] || 0) - (b.period?.[1] || 0));
   const c = W.counts;
-  const plate = t => `<li><a class="plate" data-cat="${catKey(t.category)}" href="#/p/${t.id}">
-    <span class="dish">${t.image ? `<img src="assets/img/${esc(t.image)}" alt="" loading="lazy" decoding="async">` : t.verdict ? `<span class="cart"><small>判定</small>${esc(t.verdict)}</span>` : ROSETTE}</span>
-    <h4 class="toc-t">${phrase(t.title)}</h4><p>${esc(t.summary)}</p>${t.verdict && t.image ? `<span class="verdict">判定：${esc(t.verdict)}</span>` : ""}</a></li>`;
+  const plate = t => plateItem(t);
   const groups = Object.keys(CATS).map(k => [k, topics.filter(t => t.category === k)]).filter(g => g[1].length);
   const toc = groups.map(([k, list]) => `<div class="toc-group" data-cat="${catKey(k)}"><h3><i class="glaze-dot" aria-hidden="true"></i>${k}</h3><ol class="plates">${list.map(plate).join("")}</ol></div>`).join("")
     || `<p class="lead">第一批故事正在準備中。</p>`;
@@ -331,6 +335,7 @@ function page(p) {
     ${lede ? `<div class="lede">${renderMd(lede)}</div>` : ""}
     ${myth}
     <article class="md">${renderMd(body, notes)}${notes ? notesBlock(notes) : ""}</article>
+    ${p.type === "topic" ? nextRead(p, relT) : ""}
     ${aside ? `<aside class="page-info" aria-label="這一頁的相關資訊">${aside}</aside>` : ""}
   </div></div>`;
   mountCharts(app);
@@ -344,8 +349,44 @@ function page(p) {
     const story = [...app.querySelectorAll("article.md h2")].find(h => h.textContent.includes("故事是這樣的"));
     (story || app.querySelector("article.md")).before(nav);
     nav.addEventListener("click", e => { const a = e.target.closest("a[data-sec]"); if (a) { e.preventDefault(); document.getElementById(a.dataset.sec).scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" }); } });
+    floatToc(hs);
   }
   requestAnimationFrame(() => scrollTo(0, 0));
+}
+
+/* 故事結尾「接著讀」：先挑這篇提到的其他故事，不夠再補同分類的，最多 3 篇 */
+function nextRead(p, relT) {
+  const pick = [...relT.filter(id => byId[id].type === "topic"),
+    ...W.pages.filter(x => x.type === "topic" && x.category === p.category).map(x => x.id)]
+    .filter((id, i, a) => id !== p.id && a.indexOf(id) === i).slice(0, 3);
+  if (!pick.length) return "";
+  return `<section class="next-read" aria-label="接著讀"><h2>接著讀</h2><ol class="plates">${pick.map(id => plateItem(byId[id], "h3")).join("")}</ol></section>`;
+}
+
+/* 長文目錄：浮動按鈕＋面板，標出目前讀到的小節 */
+function floatToc(hs) {
+  const wrap = document.createElement("div");
+  wrap.className = "ftoc";
+  wrap.innerHTML = `<button type="button" class="ftoc-b" aria-expanded="false" aria-controls="ftoc-p"><svg viewBox="0 0 20 20" width="16" height="16" aria-hidden="true"><path d="M4 5.5h12M4 10h12M4 14.5h8" stroke="currentColor" stroke-width="1.6" fill="none" stroke-linecap="round"/></svg>目錄</button>
+    <nav class="ftoc-p" id="ftoc-p" aria-label="本文段落" hidden><b>本文段落</b><ol>${hs.map(h => `<li><a href="#${h.id}" data-sec="${h.id}">${esc(h.textContent)}</a></li>`).join("")}</ol></nav>`;
+  document.body.appendChild(wrap);
+  const btn = wrap.querySelector(".ftoc-b"), panel = wrap.querySelector(".ftoc-p");
+  const close = () => { panel.hidden = true; btn.setAttribute("aria-expanded", "false"); };
+  btn.onclick = () => { const o = panel.hidden; panel.hidden = !o; btn.setAttribute("aria-expanded", String(o)); };
+  panel.addEventListener("click", e => { const a = e.target.closest("a[data-sec]"); if (a) { e.preventDefault(); close(); document.getElementById(a.dataset.sec).scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" }); } });
+  const inline = app.querySelector("nav.toc");
+  const upd = () => {
+    const art = app.querySelector("article.md");
+    const show = (inline ? inline.getBoundingClientRect().bottom < 0 : scrollY > 400) && (!art || art.getBoundingClientRect().bottom > innerHeight * 0.6);
+    wrap.classList.toggle("on", show);
+    if (!show) close();
+    let cur = hs[0];
+    hs.forEach(h => { if (h.getBoundingClientRect().top < innerHeight * 0.35) cur = h; });
+    panel.querySelectorAll("a").forEach(a => a.classList.toggle("cur", a.dataset.sec === cur.id));
+  };
+  addEventListener("scroll", upd, { passive: true });
+  live.ftoc = { el: wrap, upd };
+  upd();
 }
 
 /* ---------- 資料庫、關於 ---------- */
@@ -427,6 +468,17 @@ fetch("data/wiki.json").then(r => r.json()).then(d => {
     bar.style.transform = `scaleX(${on && h > 0 ? Math.min(1, scrollY / h) : 0})`;
   };
   addEventListener("scroll", upd, { passive: true }); addEventListener("hashchange", () => setTimeout(upd, 50));
+  const top = document.querySelector(".topbar"), menu = document.querySelector(".menu-b"), nav = document.getElementById("nav");
+  const setMenu = o => { top.classList.toggle("open", o); menu.setAttribute("aria-expanded", String(o)); };
+  menu.onclick = () => setMenu(!top.classList.contains("open"));
+  nav.addEventListener("click", e => { if (e.target.closest("a")) setMenu(false); });
+  let lastY = scrollY;
+  addEventListener("scroll", () => {
+    const y = scrollY;
+    if (!top.classList.contains("open")) top.classList.toggle("hide", y > lastY && y > 160);
+    lastY = y;
+  }, { passive: true });
+  addEventListener("hashchange", () => { setMenu(false); top.classList.remove("hide"); });
   /* 已經在 #/#stories 時再按一次「故事」，hash 不變、不會觸發 hashchange，直接捲過去 */
   document.addEventListener("click", e => {
     const l = e.target.closest('a[href^="#/#"]');
@@ -436,13 +488,13 @@ fetch("data/wiki.json").then(r => r.json()).then(d => {
   app.addEventListener("click", e => {
     const b = e.target.closest(".fn-b");
     if (!b) return;
-    const sup = b.parentElement, open = sup.nextElementSibling?.classList.contains("fn-pop");
+    const sup = b.closest(".fn-w") || b.parentElement, open = sup.nextElementSibling?.classList.contains("fn-pop");
     document.querySelectorAll(".fn-pop").forEach(x => { x.previousElementSibling?.querySelector(".fn-b")?.setAttribute("aria-expanded", "false"); x.remove(); });
     if (open) return;
     const li = document.getElementById("fn-" + b.dataset.n);
     if (!li) return;
     const pop = document.createElement("span");
-    pop.className = "fn-pop"; pop.innerHTML = li.innerHTML;
+    pop.className = "fn-pop"; pop.innerHTML = `<b>${b.dataset.n}</b> ${li.innerHTML}`;
     sup.after(pop); b.setAttribute("aria-expanded", "true");
   });
   document.querySelector(".skip").onclick = e => { e.preventDefault(); app.setAttribute("tabindex", "-1"); app.focus(); };
