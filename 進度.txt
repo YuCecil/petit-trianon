@@ -3,7 +3,7 @@
 網站：https://yucecil.github.io/petit-trianon/
 
 已完成
-故事 39 篇，資料卡約 65 張。台大資料庫讀到全文的論文：White 1989、Colwill 1989、Barker 1993、Kaiser 2006、Price 1992。
+故事 36 篇，資料卡 60 張。台大資料庫讀到全文的論文：White 1989、Colwill 1989、Barker 1993、Kaiser 2006、Price 1992。
 
 下一步
 新故事 5 篇缺插圖：誹謗小冊子、米拉波與巴納夫、杜樂麗宮、王后劇場、姑姑們（一次派一個 Gemini agent）。

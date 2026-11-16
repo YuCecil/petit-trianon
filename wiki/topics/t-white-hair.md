@@ -9,7 +9,7 @@ myth: 王后在上斷頭台前一夜，頭髮全白了。
 verdict: 半真半假
 image: t-white-hair.jpg
 imageAlt: 粉彩畫風插畫：梳妝台上有白色睡帽和梳子，小絲絨盒裡是一枚嵌著白髮的金戒指，鏡中映出模糊的背影。
-sources: [s-1823-campan-memoires, s-1883-tourzel-memoires, s-2009-navarini-marie-antoinette, s-2013-nahm-canities-subita, s-2008-skellett-sudden-whitening]
+sources: [s-1823-campan-memoires, s-1883-tourzel-memoires, s-1865-prevost-proces-recueil, s-1835-vigee-le-brun-souvenirs, s-1907-lenotre-last-days-marie-antoinette, s-2010-navarini-henry-iii-hair, s-2009-navarini-marie-antoinette, s-2013-nahm-canities-subita, s-2008-skellett-sudden-whitening]
 updated: 2026-11-15
 ---
 
@@ -41,6 +41,20 @@ updated: 2026-11-15
 
 {{photo:t-white-hair-david.jpg|大衛 1793 年畫的王后坐囚車赴刑場素描，此為 1868 年 Dauban《1793 年的巴黎煽動》書中的刊印版。|Wikimedia Commons，Public domain}}
 
+### 1792 年 9 月：朗巴勒親王妃身上的戒指
+
+康龐夫人說的那枚戒指，後來真的出現在官方文件裡。1792 年 9 月 3 日，朗巴勒親王妃在監獄門口被殺，抬屍體的人把她衣服裡的東西交給區政府登記。勒諾特引用的這份清單裡有一枚金戒指，藍色寶石可以掀開，底下是一綹頭髮，上面刻著：「被悲傷染白」（[[s-1907-lenotre-last-days-marie-antoinette]] p. 55；另見 [[t-lamballe]]）。不過，這本英譯書把清單上的頭髮譯成「fair hair」（淡色的頭髮），法文原文到底寫什麼顏色，本站還沒查到。
+
+### 1793 年：「才開始變灰」
+
+最有意思的一份證詞，來自王后自己的審判。市政官員米什尼（Michonis）曾私下帶人進古監獄探望王后，他出庭作證時，被庭長追問帶過哪些人進去，他解釋：那年夏天在一場晚宴上，有人說「卡佩寡婦變了很多，聽說頭髮全白了」，他回答說，其實她的頭髮「才開始變灰」，身體還好；一位在座的客人想看看她，他就帶他去了（本站譯）（[[s-1865-prevost-proces-recueil]] pp. 99–100）。
+
+（推論）這段話很珍貴，因為它是 1793 年當時留下的紀錄：外面已經在傳「全白了」，見過她的人卻說「才開始變灰」。
+
+另外兩份證詞說得比較重。國王的僕人克萊里 1796 年寫信給畫家維傑．勒布倫，回答她為一幅畫提出的問題，描述 1793 年 1 月 20 日國王與家人訣別那晚每個人的穿著：王后的頭髮「幾乎全白了」，女兒的是漂亮的淺金色，伊莉莎白夫人的金髮顏色深一些（本站譯）（[[s-1835-vigee-le-brun-souvenirs]] 第 2 冊附錄）。1824 年的一份記述說，一位虔誠的女子在古監獄半夜見到王后，看見她的白髮、凹陷的臉頰和失去血色的臉，非常難過（[[s-1907-lenotre-last-days-marie-antoinette]] p. 207）。
+
+（推論）把這幾份證詞排在一起看，比較像是兩年之間慢慢變白，而不是一夜之間。
+
 ### 醫學怎麼說：頭髮會在一夜之間變白嗎？
 
 後來的醫學界借用了她的名字。頭髮在極短時間內變白的現象，醫學上叫 canities subita（突發性白髮），俗稱「瑪麗．安東尼症候群」（[[s-2009-navarini-marie-antoinette]]）。
@@ -51,15 +65,21 @@ updated: 2026-11-15
 
 醫生最大的疑問是：頭髮是死的組織，已經長出來的頭髮，怎麼可能褪色？目前最常見的解釋是一種斑禿（自體免疫造成的掉髮）：它會優先讓有顏色的頭髮掉落，原本混在裡面的白髮留下來，看起來就像「突然全白」（[[s-2009-navarini-marie-antoinette]]）。但納姆等人指出，在 44 篇可靠個案裡，只有 6 篇同時有斑禿，所以斑禿解釋不了全部（[[s-2013-nahm-canities-subita]] 討論）。19 世紀也有醫生在變白的頭髮裡發現空氣泡，把頭髮泡進水或松節油裡，顏色就恢復了，顯示有些「變白」可能是光線折射造成的（[[s-2013-nahm-canities-subita]] 精神疾病個案一節）。
 
+### 不只她一個
+
+「一夜白頭」的故事，不只發生在瑪麗．安東尼身上。皮膚科醫師納瓦里尼 2010 年整理過歷史上的例子：古代的猶太經師、1535 年被斬首前的英國大臣湯瑪斯．摩爾，以及 1572 年聖巴托羅繆大屠殺那晚的法王亨利四世。他查到，亨利四世一夜白頭的說法最早見於 1777 年一本醫書，比事件晚了兩百年，之後又冒出好幾個不同的版本（[[s-2010-navarini-henry-iii-hair]]）。他認為，這類歷史記載不能全信，「一夜白頭」是小說和史書愛用的戲劇手法（[[s-2010-navarini-henry-iii-hair]]）。
+
 ## 研究者怎麼看
 
 - 皮膚科醫師納瓦里尼（Alexander Navarini）等人認為，「一夜白頭」最可能是斑禿急性發作，讓有色頭髮選擇性脫落（[[s-2009-navarini-marie-antoinette]]）。
 - 納姆等人整理 196 篇報告後認為，現有證據不足以下定論，斑禿無法解釋大部分個案，這個現象值得用現代方法重新研究（[[s-2013-nahm-canities-subita]]）。
 - 斯凱利特（Skellett）等人 2008 年的論文標題就用問號，稱突然白髮是「歷史的虛構？」（本站譯）（[[s-2008-skellett-sudden-whitening]]）；本站還沒讀到全文。
+- 1793 年審判紀錄裡，米什尼的證詞說王后的頭髮「才開始變灰」，這是目前最接近當時的說法（[[s-1865-prevost-proces-recueil]] p. 100）。
 - （推論）歷史這一邊的關鍵證人只有康龐夫人，而且她的回憶錄是在事件過後三十多年才出版的。醫學上的「瑪麗．安東尼症候群」這個名字，其實是建立在一段回憶錄上。
 
 ## 延伸閱讀
 
+- [[s-2010-navarini-henry-iii-hair]]
 - [[s-1823-campan-memoires]]
 - [[s-1883-tourzel-memoires]]
 - [[s-2009-navarini-marie-antoinette]]

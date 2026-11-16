@@ -2,7 +2,7 @@
 
 > 由 `tools/build.py` 自動產生於 2026-11-16，不要手改。
 
-資料卡 60 張（全文 13）｜主題 36｜實體 3｜問答 0
+資料卡 62 張（全文 14）｜主題 36｜實體 3｜問答 0
 
 ## 主題頁
 
@@ -96,9 +96,11 @@
 - [[s-2006-stamberg-npr-fraser]] The Misunderstood Marie Antoinette? — Susan Stamberg（2006）｜報刊｜全文
 - [[s-2008-skellett-sudden-whitening]] Sudden whitening of the hair: an historical fiction? — Anne-Marie Skellett, George W. M. Millington, Nick J. Levell（2008）｜期刊論文｜書目
 - [[s-2009-navarini-marie-antoinette]] Marie Antoinette Syndrome — Alexander A. Navarini, Stephan Nobbe（2009）｜期刊論文｜摘要
+- [[s-2010-navarini-henry-iii-hair]] Why Henry III of Navarre's Hair Probably did not Turn White Overnight — Alexander A. Navarini（2010）｜期刊論文｜全文
 - [[s-2011-andersson-queen-fashion]] Marie Antoinette: Queen of Fashion – Queen of Decadence — Therése Andersson（2011）｜期刊論文｜全文
 - [[s-2012-backman-rogers-threshold]] The Historical Threshold: Crisis, Ritual and Liminality in Sofia Coppola's Marie-Antoinette (2006) — Anna Backman Rogers（2012）｜期刊論文｜全文
 - [[s-2013-nahm-canities-subita]] Canities Subita: A Reappraisal of Evidence Based on 196 Case Reports Published in the Medical Literature — Michael Nahm, Alexander A. Navarini, Emily Williams Kelly（2013）｜期刊論文｜全文
+- [[s-2014-olalde-louis-xvi-blood]] Genomic analysis of the blood attributed to Louis XVI (1754–1793), king of France — Olalde I.（與 Lalueza-Fox C. 等 19 位作者）（2014）｜期刊論文｜部分
 - [[s-2016-maes-laiterie-rambouillet]] La laiterie de Marie-Antoinette à Rambouillet. Un temple pastoral pour le plaisir de la reine — Antoine Maës（2016）｜專書｜書目
 - [[s-2016-versailles-queens-hamlet]] 凡爾賽宮官網「Queen's Hamlet」頁面與長文（英文） — 凡爾賽宮（Château de Versailles）（2016）｜網頁｜全文
 - [[s-2021-archives-nationales-xray]] Marie-Antoinette's Correspondence under X-Ray（法國國家檔案館說明頁） — Archives nationales（2021）｜網頁｜摘要

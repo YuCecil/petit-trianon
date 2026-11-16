@@ -630,5 +630,77 @@
   "source": "https://commons.wikimedia.org/wiki/File:Fa%C3%A7ade_de_la_Chapelle_Expiatoire,_Paris.jpg",
   "license": "CC0",
   "topic": "t-reburial"
+ },
+ {
+  "file": "t-secret-mirabeau.jpg",
+  "title": "Portrait d'Honoré Gabriel Riqueti, comte de Mirabeau",
+  "creator": "Joseph Boze",
+  "date": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Joseph_Boze_-_Portrait_d%27Honor%C3%A9_Gabriel_Riqueti,_comte_de_Mirabeau_(1749-1791),_orateur_et_homme_politique_-_P1506_-_Mus%C3%A9e_Carnavalet.jpg",
+  "license": "Public domain（巴黎卡納瓦雷博物館）",
+  "topic": "t-secret"
+ },
+ {
+  "file": "t-secret-barnave.jpg",
+  "title": "Portrait de M. Barnave",
+  "creator": "Wilbrode Magloire Courbe（版畫）",
+  "date": "約 1789",
+  "source": "https://commons.wikimedia.org/wiki/File:Portrait_de_M._Barnave,_G.20824-39.jpg",
+  "license": "CC0（巴黎博物館）",
+  "topic": "t-secret"
+ },
+ {
+  "file": "t-theatre-gluck.jpg",
+  "title": "Christoph Willibald Gluck",
+  "creator": "Joseph-Siffred Duplessis",
+  "date": "1775",
+  "source": "https://commons.wikimedia.org/wiki/File:Joseph_Siffred_Duplessis_-_Christoph_Willibald_Gluck_-_Google_Art_Project.jpg",
+  "license": "Public domain",
+  "topic": "t-theatre"
+ },
+ {
+  "file": "t-theatre-entree.jpg",
+  "title": "Petit Trianon, théâtre de la Reine, entrée",
+  "creator": "Coyau",
+  "date": "2011",
+  "source": "https://commons.wikimedia.org/wiki/File:Petit_Trianon,_th%C3%A9%C3%A2tre_de_la_Reine,_entr%C3%A9e.jpg",
+  "license": "CC BY-SA 3.0",
+  "topic": "t-theatre"
+ },
+ {
+  "file": "t-tuileries-federation.jpg",
+  "title": "La Fédération 1790, 14 juillet, fête de la Fédération au Champ de Mars",
+  "creator": "不詳（版畫）",
+  "date": "19 世紀",
+  "source": "https://commons.wikimedia.org/wiki/File:La_F%C3%A9d%C3%A9ration_1790,_14_juillet,_f%C3%AAte_de_la_F%C3%A9d%C3%A9ration_au_Champ_de_Mars,_G.28176.jpg",
+  "license": "CC0（巴黎博物館）",
+  "topic": "t-tuileries"
+ },
+ {
+  "file": "t-tuileries-palais.jpg",
+  "title": "Vue du palais des Tuileries",
+  "creator": "Johann Nepomuk Gibele",
+  "date": "1802",
+  "source": "https://commons.wikimedia.org/wiki/File:Vue_du_palais_des_Tuileries_dessin%C3%A9_sur_la_terrasse_au_coin_de_la_rue_de_Bourgogne_o%C3%B9_logeait_Mr_de_Cobentzel,_1802._Act,_D.6130.jpg",
+  "license": "CC0（巴黎博物館）",
+  "topic": "t-tuileries"
+ },
+ {
+  "file": "t-mesdames-adelaide.jpg",
+  "title": "Marie-Adélaïde de France",
+  "creator": "Adélaïde Labille-Guiard",
+  "date": "約 1786–1787",
+  "source": "https://commons.wikimedia.org/wiki/File:Labille-Guiard,_Ad%C3%A9la%C3%AFde_-_Marie_Ad%C3%A9la%C3%AFde_de_France_-_Versailles_MV5940.jpg",
+  "license": "Public domain（凡爾賽宮）",
+  "topic": "t-mesdames"
+ },
+ {
+  "file": "t-mesdames-victoire.jpg",
+  "title": "Madame Victoire",
+  "creator": "Adélaïde Labille-Guiard",
+  "date": "1787",
+  "source": "https://commons.wikimedia.org/wiki/File:Ad%C3%A9la%C3%AFde_Labille-Guiard,_Marie-Th%C3%A9r%C3%A8se-Victoire_de_France,_dite_Madame_Victoire_(1787).jpg",
+  "license": "Public domain",
+  "topic": "t-mesdames"
  }
 ]
