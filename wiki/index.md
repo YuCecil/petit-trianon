@@ -2,7 +2,7 @@
 
 > 由 `tools/build.py` 自動產生於 2026-11-17，不要手改。
 
-資料卡 135 張（全文 27）｜主題 55｜實體 5｜問答 3
+資料卡 136 張（全文 27）｜主題 55｜實體 5｜問答 3
 
 ## 主題頁
 
@@ -207,6 +207,7 @@
 - [[s-2025-seth-antoine]] 「從安托瓦到瑪麗．安東尼：（重新）閱讀大公夫人的信」 — Catriona Seth（2025）｜專書論文｜部分
 - [[s-2026-harvard-gazette-coppola]] Why Sofia Coppola gave Marie Antoinette sneakers — Harvard Gazette（2026）｜報刊｜全文
 - [[s-2026-mensch-reine-morte]] 「王后死了，瑪麗－泰蕾茲萬歲？」：1795–1825 年間如何重新思考法國的王后 — Matthieu Mensch（2026）｜期刊論文｜部分
+- [[s-2026-sevres-bol-sein-fiche]] 塞弗爾瓷廠「bol sein（或 jatte-téton）」館藏商品頁的歷史說明（法文） — 塞弗爾國立陶瓷博物館與瓷廠（Sèvres – Manufacture et Musées nationaux）（2026）｜網頁｜摘要
 - [[s-2026-varadi-temoins-thesis]] Témoins historiques et intimes de la Cour：Campan 與 Cléry 的回憶錄敘事與親密性（博士論文） — Márta Váradi（瓦拉迪）（2026）｜學位論文｜部分
 - [[s-2026-versailles-after-revolution]] 凡爾賽城堡官網「大革命後的凡爾賽 1793–1799」 — Château de Versailles（2026）｜網頁｜摘要
 - [[s-2026-versailles-chateau-first-balloon]] First hot air balloon flight（凡爾賽宮官網「關鍵年表」） — Château de Versailles（2026）｜網頁｜摘要

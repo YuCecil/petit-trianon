@@ -9,7 +9,7 @@ myth: 王后在凡爾賽蓋了一座假農村，穿上圍裙扮農婦、親手�
 verdict: 半真半假
 image: t-hameau.jpg
 imageAlt: 粉彩畫風插畫：池塘邊的茅草農舍與磨坊，草地上有牛和羊，遠處一位撐陽傘的女子在散步。
-sources: [s-2016-versailles-queens-hamlet, s-2024-nordin-hameau, s-1823-campan-memoires, s-1874-arneth-mercy-correspondance, s-2025-dati-culture-sevres-rambouillet, s-2016-maes-laiterie-rambouillet]
+sources: [s-2026-sevres-bol-sein-fiche, s-2016-versailles-queens-hamlet, s-2024-nordin-hameau, s-1823-campan-memoires, s-1874-arneth-mercy-correspondance, s-2025-dati-culture-sevres-rambouillet, s-2016-maes-laiterie-rambouillet]
 updated: 2026-11-16
 ---
 
@@ -76,7 +76,7 @@ updated: 2026-11-16
 - 凡爾賽宮的研究立場是：農莊是功能完整的農場，王后在那裡休息、社交，並沒有扮農夫（[[s-2016-versailles-queens-hamlet]]）。
 - 研究朗布依埃乳品室的專書，把它稱為「一座為王后的愉悅而建的田園神殿」（本站譯）（[[s-2016-maes-laiterie-rambouillet]]）。本站只讀到這本書的書目與簡介。
 - 諾丁認為，批評者把這座假村莊看成品味低俗；更深的問題是，王室的權威建立在儀式上的高高在上，當王后自己扮起樸素的鄉居生活，人們就會問：那王室憑什麼統治別人？在貧富差距巨大的年代，這看起來更像是對窮人的嘲弄（[[s-2024-nordin-hameau]] 約 p. 30）。
-- （推論）「乳房碗是照王后的胸部做的」流傳很廣，但本站讀到的官方資料只說器形參考古代陶器，沒有提到王后。
+- 「乳房碗是照王后的胸部做的」流傳很廣。塞弗爾瓷廠自己的商品頁把它歸為「傳說」，並說器形其實取材古希臘宴飲用的「乳房杯」（mastos）；原定做 108 件，只交了 65 件（[[s-2026-sevres-bol-sein-fiche]]）。本站只讀到這頁的搜尋摘要，這個傳說最早出現在哪裡，還沒找到。
 
 ## 延伸閱讀
 
