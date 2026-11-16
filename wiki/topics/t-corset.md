@@ -7,6 +7,8 @@ period: [1770, 1771]
 summary: 不肯穿束腰、偷偷學騎馬，大使和遠在維也納的母親都急了。
 myth: 瑪麗．安東尼一到法國就拒穿鯨骨束腰，後來還帶動了不穿束腰的風氣。
 verdict: 半真半假
+image: t-corset.jpg
+imageAlt: 粉彩畫風插畫：藍色絲絨扶手椅上斜放著一件粉紅色的鯨骨束身，長長的繫帶垂到地上，旁邊小圓桌上有拆開的信、封蠟和羽毛筆。
 sources: [s-1874-arneth-mercy-correspondance, s-2026-zanetti-amazones, s-2015-gorguet-grand-habit, s-2019-barao-corps-corsets, s-1823-campan-memoires]
 updated: 2026-11-17
 ---

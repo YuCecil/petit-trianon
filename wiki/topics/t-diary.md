@@ -7,6 +7,8 @@ period: [1766, 1792]
 summary: 「Rien」是真的，但那本日記其實是打獵紀錄，「Rien」的意思是「沒打獵」。
 myth: 1789 年 7 月 14 日巴士底陷落那天，路易十六在日記裡只寫了「無事」，可見他對民間的動盪一無所知。
 verdict: 半真半假
+image: t-diary.jpg
+imageAlt: 粉彩畫風插畫：木桌上攤開一本手寫小簿子，旁邊有羽毛筆、墨水瓶、三角帽、皮手套和打獵號角，窗外森林裡有一隻奔跑的鹿。
 sources: [s-1873-nicolardot-journal-louis-xvi, s-2020-pinoteau-chasses-louis-xvi, s-1900-nolhac-dauphine]
 updated: 2026-11-17
 ---
