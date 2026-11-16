@@ -79,6 +79,7 @@ updated: 2026-11-16
 
 ## 延伸閱讀
 
+- [[q-no-fathers]]：王太子死的那幾天，國王說過「第三等級裡沒有人當父親嗎」？
 - [[s-2006-kaiser-nursery]]
 - [[s-1874-arneth-mercy-correspondance]]
 - [[s-1823-campan-memoires]]

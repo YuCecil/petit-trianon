@@ -2,7 +2,7 @@
 
 > 由 `tools/build.py` 自動產生於 2026-11-17，不要手改。
 
-資料卡 143 張（全文 27）｜主題 57｜實體 5｜問答 5
+資料卡 145 張（全文 27）｜主題 57｜實體 5｜問答 6
 
 ## 主題頁
 
@@ -78,6 +78,7 @@
 - [[q-did-she-compose]] 浪漫曲〈他是我的朋友〉（C'est mon ami）真的是王后作的嗎？ — 
 - [[q-mercy-spies]] 母親真的派人監視她嗎？大使梅西的「眼線」是誰？ — 
 - [[q-mozart-proposal]] 六歲的莫札特真的向小瑪麗．安東尼求過婚嗎？ — 
+- [[q-no-fathers]] 王太子死的那幾天，路易十六真的說過「難道第三等級裡沒有人當父親嗎」？ — 
 - [[q-where-did-the-furniture-go]] 革命以後，王后在凡爾賽和小特里亞儂的家具去了哪裡？ — 
 
 ## 資料卡
@@ -101,6 +102,7 @@
 - [[s-1797-laperouse-voyage]] 拉佩魯茲《環球航海記》第一卷（Voyage de La Pérouse autour du monde，1797 年版） — 拉佩魯茲（Jean-François de Galaup, comte de La Pérouse）；編者 Louis-Antoine Milet-Mureau（1797）｜專書｜部分
 - [[s-1798-clery-journal]] 聖殿塔日記（Journal de ce qui s'est passé à la tour du Temple pendant la captivité de Louis XVI） — 克萊里（Jean-Baptiste Cléry，1759–1809）（1798）｜日記｜部分
 - [[s-1801-fargeon-art-parfumeur]] L'Art du parfumeur, ou Traité complet de la préparation des parfums, cosmétiques, pommades, pastilles, odeurs, huiles antiques, essences, bains aromatiques et des gants de senteur — Jean-Louis Fargeon（署名「D. J. F. ci-devant Parfumeur de la Cour」）（1801）｜專書｜部分
+- [[s-1804-bailly-memoires]] 巴伊《回憶錄》（《一位革命見證人的回憶錄》第一冊） — Jean-Sylvain Bailly（1804）｜回憶錄｜部分
 - [[s-1808-niemetschek-lebensbeschreibung]] 《莫札特生平》（Lebensbeschreibung des K.K. Kapellmeisters Wolfgang Amadeus Mozart），布拉格大學教授寫的早期傳記 — Franz Xaver Niemetschek（1808）｜傳記｜部分
 - [[s-1814-cadet-eloge-parmentier]] 《Éloge d'A.-A. Parmentier》（帕門蒂耶頌詞，1814） — C.-L. Cadet de Gassicourt（1814）｜傳記｜部分
 - [[s-1815-edgeworth-memoirs]] 埃奇沃斯神父回憶錄：路易十六最後幾小時的敘述（Memoirs of the Abbé Edgeworth, containing his narrative of the last hours of Louis XVI） — 埃奇沃斯神父（Henry Essex Edgeworth de Firmont，1745–1807）；1815 年編者 C. Sneyd Edgeworth（1815）｜回憶錄｜部分
@@ -131,6 +133,7 @@
 - [[s-1871-weckerlin-c-est-mon-ami]] C'est mon ami（韋克林編曲浪漫曲，1871 年出版，IMSLP 目錄頁） — Jean-Baptiste Weckerlin（作曲／編曲）；Jean-Pierre Claris de Florian（歌詞）（1871）｜圖像｜書目
 - [[s-1873-nicolardot-journal-louis-xvi]] 《路易十六的日記》（Journal de Louis XVI，尼科拉多編，1873） — Louis Nicolardot（1873）｜日記｜部分
 - [[s-1874-arneth-mercy-correspondance]] Marie-Antoinette. Correspondance secrète entre Marie-Thérèse et le comte de Mercy-Argenteau（三卷，1874） — 瑪麗亞．特蕾莎、瑪麗．安東尼、梅西－阿爾讓托（書信作者）；編者 Alfred von Arneth（導論與註）、Auguste Geffroy（評註）（1874）｜書信｜部分
+- [[s-1875-archives-parlementaires-t8]] 議會檔案第一輯第八冊（1789 年 5 月 5 日至 9 月 15 日） — Archives parlementaires de 1787 à 1860（Paul Dupont 版）（1875）｜檔案｜部分
 - [[s-1877-davillier-vente-mobilier]] 大革命期間凡爾賽城堡家具的拍賣（Davillier 1877，documents inédits） — Baron Charles Davillier（1877）｜專書｜部分
 - [[s-1877-klinckowstrom-fersen]] Le comte de Fersen et la cour de France. Extraits des papiers du grand maréchal de Suède, comte Jean Axel de Fersen（第一卷） — R. M. de Klinckowström（編）（1877）｜書信｜部分
 - [[s-1878-helfert-karolina]] Königin Karolina von Neapel und Sicilien im Kampfe gegen die französische Weltherrschaft（1790–1814） — Joseph Alexander von Helfert（1878）｜專書｜部分
