@@ -2,7 +2,7 @@
 
 > 由 `tools/build.py` 自動產生於 2026-11-17，不要手改。
 
-資料卡 140 張（全文 27）｜主題 56｜實體 5｜問答 4
+資料卡 142 張（全文 27）｜主題 57｜實體 5｜問答 4
 
 ## 主題頁
 
@@ -46,6 +46,7 @@
 - [[t-mops]] 王后的小狗：一隻從維也納來的巴哥犬？ — 本站吉祥物的由來：一封 1770 年的密報裡，藏著一隻叫 Mops 的狗。
 - [[t-necklace]] 鑽石項鍊事件：被騙的人輸掉了名聲 — 一條她沒買、沒戴過的項鍊，卻讓全法國相信她是共犯。
 - [[t-october-days]] 麵包師一家：1789 年 10 月，巴黎走到凡爾賽 — 兩天之內，王室一家永遠離開了凡爾賽。
+- [[t-orleans]] 投票處死國王的堂兄：奧爾良公爵 — 國王的堂兄、全法國最有錢的親王，投票處死國王，十個月後自己也上了斷頭台。
 - [[t-perfume]] 王后的香水師：梳妝盒和逃亡 — 王后真的有御用香水師，但「香水害逃亡露餡」找不到證據。
 - [[t-polignac]] 波利尼亞克夫人：王后的閨蜜，和一整個家族 — 一個窮貴族家的少婦，成了王后最親的朋友；她的家人則成了全宮廷的眼中釘。
 - [[t-potato]] 馬鈴薯花：國王插在扣眼，王后戴在頭上？ — 帕門蒂耶推廣馬鈴薯的傳說，最早出現在他死後的悼詞裡。
@@ -117,6 +118,7 @@
 - [[s-1851-mirabeau-lamarck]] Correspondance entre le comte de Mirabeau et le comte de La Marck pendant les années 1789, 1790 et 1791（兩卷） — Honoré-Gabriel de Riquetti, comte de Mirabeau（信件）；Adolphe de Bacourt（編）；La Marck 為收信人（1851）｜書信｜部分
 - [[s-1852-marie-therese-temple]] 瑪麗－泰蕾茲回憶錄：「王室在聖殿塔的囚禁」（收於 1852 年版《Relation du voyage de Varennes》） — 瑪麗－泰蕾茲－夏綠蒂（Marie-Thérèse-Charlotte de France，王后的女兒，後來的昂古萊姆公爵夫人，1778–1851）（1852）｜回憶錄｜部分
 - [[s-1856-jahn-mozart]] 《W. A. Mozart》，十九世紀德文學界的重要莫札特研究 — Otto Jahn（1856）｜傳記｜部分
+- [[s-1857-roisselet-revolution]] Histoire de la Révolution française（第 1、2 卷，第二版） — Roisselet de Sauglières（1857）｜專書｜部分
 - [[s-1862-lacour-livres-boudoir]] 《瑪麗．安東尼女王的小書房藏書》（Livres du boudoir de la reine Marie-Antoinette，附序言與註） — Louis Lacour（1862）｜專書｜部分
 - [[s-1862-sanson-sept-generations]] 七代劊子手：桑松家族回憶錄（Sept générations d'exécuteurs, 1688–1847 ; mémoires des Sanson，本站使用第 3、4 冊） — 亨利．桑松（Henri Sanson，生於 1799，編者），據其祖父 Charles-Henri Sanson（生於 1739）與父 Henri Sanson（1767–1849）的家族記述整理（1862）｜回憶錄｜部分
 - [[s-1863-lacroix-bibliotheque-reine]] 《瑪麗．安東尼女王的藏書：小特里亞儂》（附 1793 年查封目錄與馬爾基．德．保爾米的批註） — Paul Lacroix（le bibliophile Jacob）（1863）｜專書｜部分
@@ -132,6 +134,7 @@
 - [[s-1877-klinckowstrom-fersen]] Le comte de Fersen et la cour de France. Extraits des papiers du grand maréchal de Suède, comte Jean Axel de Fersen（第一卷） — R. M. de Klinckowström（編）（1877）｜書信｜部分
 - [[s-1878-helfert-karolina]] Königin Karolina von Neapel und Sicilien im Kampfe gegen die französische Weltherrschaft（1790–1814） — Joseph Alexander von Helfert（1878）｜專書｜部分
 - [[s-1879-goncourt-marie-antoinette]] 《瑪麗．安東尼史》 — Edmond de Goncourt, Jules de Goncourt（1879）｜專書｜部分
+- [[s-1880-wallon-tribunal]] Histoire du tribunal révolutionnaire de Paris（第 2 卷，「Le duc d'Orléans (Philippe Égalité)」一章） — Henri Wallon（1880）｜專書｜部分
 - [[s-1881-arneth-briefe-kinder]] Briefe der Kaiserin Maria Theresia an ihre Kinder und Freunde（第 2 卷，1881） — Alfred von Arneth（編）（1881）｜書信｜部分
 - [[s-1881-vizetelly-diamond-necklace]] The Story of the Diamond Necklace — Henry Vizetelly（1881）｜專書｜部分
 - [[s-1883-tourzel-memoires]] Mémoires de Madame la duchesse de Tourzel（兩冊） — 圖澤爾夫人（Duchesse de Tourzel，本名 de Croÿ-Havré）（1883）｜回憶錄｜部分

@@ -1,12 +1,12 @@
 {
  "built": "2026-11-17",
  "counts": {
-  "sources": 140,
+  "sources": 142,
   "fulltext": 27,
-  "topics": 56,
+  "topics": 57,
   "entities": 5,
   "questions": 4,
-  "events": 121,
+  "events": 122,
   "places": 18
  },
  "pages": [
@@ -1046,6 +1046,33 @@
    ]
   },
   {
+   "id": "s-1857-roisselet-revolution",
+   "type": "source",
+   "title": "Histoire de la Révolution française（第 1、2 卷，第二版）",
+   "author": "Roisselet de Sauglières",
+   "year": 1857,
+   "kind": "專書",
+   "lang": "fr",
+   "venue": "Paris: Adolphe Delahays, 1857（第二版）",
+   "url": "https://archive.org/details/histoiredelarv02roisuoft",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1788,
+    1793
+   ],
+   "topics": [
+    "t-orleans"
+   ],
+   "entities": [],
+   "reliability": "低",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n1857 年的一部反革命立場的革命史；第 1 卷把奧爾良公爵說成「用金錢煽動群眾」的人（引 Montjoie），第 2 卷轉錄了 1793 年審判時的發言與點名結果，其中有 Égalité 的死刑發言。\n\n## 三個重點\n\n1. 「奧爾良用錢收買群眾」一說在這裡的依據是 Montjoie（1790 年代的反奧爾良小冊）：作者寫「Monljoie raconte ces monstruosités」（第 1 卷 p. 97；OCR 字形）。本書沒有提供獨立證據。\n2. 第 2 卷 p. 743（推算）：Égalité 的死刑發言：「je vote pour la mort」，理由是「侵犯人民主權者應死」。\n3. 第 2 卷 p. 860：巴黎省的點名名單上，Égalité 在緩刑問題上投「非」（「non」）。\n\n## 用了什麼史料\n\n全書是 19 世紀的敘述，沒有列出 1793 年點名的出處。第 2 卷的審判部分註明「tiré des séances de la Convention nationale」，但沒有說是依 Archives parlementaires 還是 Moniteur。第 1 卷 1788–89 年的段落依 Montjoie。\n\n## 跟其他資料的關係\n\n- 與 s-1880-wallon-tribunal 的 Égalité 審判章節互相印證（兩者都寫到他的審判與處決，但 Roisselet 的重點是國民公會的點名，Wallon 的重點是 1793 年 11 月的審判）。\n- 1789 年「收買」一說與 s-1823-campan-memoires-v2 p. 50 的「vendu au duc d'Orléans」（王后的說法，Campan 轉述）是同一類說法的兩種來源，二者都沒有付款紀錄。\n\n## 值得記住的一句話\n\n原文：「Uniquement occupé de mon devoir, convaincu que tous ceux qui ont attenté ou attenteront par la suite à la souveraineté du peuple, méritent la mort, je vote pour la mort.」（第 2 卷 p. 743，推算；OCR 字形已校正）\n中譯：我只考慮我的職責，確信所有曾經或將來侵犯人民主權的人都該死，我投死刑。\n\n## 還不確定的地方\n\n- 點名文字未與 Archives parlementaires 第 57 卷或 Moniteur 原件核對（archive.org 上找不到 AP 第 57 卷全文）。使用前需核對。\n- 第 2 卷 p. 693（推算）的點名題目未確定。\n- 第 1 卷 p. 96–97 的「收買」細節只有 Montjoie 的引述，沒有金額與付款人。\n- 讀到的範圍：第 1 卷 pp. 96–98；第 2 卷 pp. 743–744、858–860；其餘未讀。\n",
+   "links": [
+    "t-orleans"
+   ]
+  },
+  {
    "id": "s-1862-lacour-livres-boudoir",
    "type": "source",
    "title": "《瑪麗．安東尼女王的小書房藏書》（Livres du boudoir de la reine Marie-Antoinette，附序言與註）",
@@ -1460,6 +1487,33 @@
     "s-1823-campan-memoires",
     "s-1874-arneth-mercy-correspondance",
     "t-vermond"
+   ]
+  },
+  {
+   "id": "s-1880-wallon-tribunal",
+   "type": "source",
+   "title": "Histoire du tribunal révolutionnaire de Paris（第 2 卷，「Le duc d'Orléans (Philippe Égalité)」一章）",
+   "author": "Henri Wallon",
+   "year": 1880,
+   "kind": "專書",
+   "lang": "fr",
+   "venue": "Paris: Librairie Hachette et Cie, 1880",
+   "url": "https://archive.org/details/histoiredutribun02walluoft",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1793,
+    1793
+   ],
+   "topics": [
+    "t-orleans"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n19 世紀的法院史研究，依革命法庭檔案寫出 Philippe Égalité 1793 年 11 月的審訊、判決與處決：只有一名證人、判決前已有定論，判決是政治需要而非證據。\n\n## 三個重點\n\n1. 審訊紀錄（p. 17）：被問是否知道反對共和國的密謀，他答「只從公眾傳聞得知」。\n2. 審判（p. 21）：只有一名證人（Claude Habou），而且只認識他；作者說他「和 Coustard 一起被判，但判決在審判前就定了」（Fouquier-Tinville 在審判前三四天已對外透露）。\n3. 陪審員 Payan 的私信（p. 21，引自 Robespierre 文件）：「Il fallait que Philippe périt」，並承認「aucun témoin à sa charge」，理由是要「停止反革命的誹謗」。\n\n## 用了什麼史料\n\n- 審訊紀錄與判決紀錄（作者註引 Archives nationales W 294，dossier 222）\n- Payan 的私信（Papiers trouvés chez Robespierre，t. II，p. 246）\n- 回憶：Gamache（服侍他的僕人）、Beaulieu（Essais，t. V，p. 305）；作者明確標示為回憶\n\n## 跟其他資料的關係\n\n- 與 s-1857-roisselet-revolution 第 2 卷的審判點名互補：Roisselet 寫國民公會的投票，Wallon 寫 1793 年 11 月的法庭審判。\n- 本站其他資料（Clery 日記，見 s-1798-clery-journal）記載國王聽說 Égalité 投了死刑票；兩者都在說明他的投票與他的命運的關係，但 Wallon 的理由指向政治需要，不是投票本身（作者判斷，p. 21）。\n\n## 值得記住的一句話\n\n原文：「Il n'était nullement complice de Brissot, poursuit l'honnête juré. Il s'en est très-bien défendu, aucun témoin à sa charge ; mais il faut néanmoins le répandre pour faire cesser les calomnies contre-révolutionnaires.」（p. 21）\n中譯：陪審員說：「他完全不是 Brissot 的同謀；他為自己辯護得很好，沒有任何證人指控他；但仍然必須讓他死，以停止反革命的誹謗。」（本站譯）\n\n## 還不確定的地方\n\n- 審訊日期：Wallon 寫「dimanche 13 brumaire（5 novembre）」，依共和曆 13 霧月二年為 11 月 3 日（星期日），日期與星期不合，待核。\n- 處決：本章沒有行刑記錄。處決日 1793 年 11 月 6 日（16 霧月二年）來自其他資料（網路摘要所引 Persée 注釋與 Universalis），本站未直接核對原件。\n- Payan 私信與 Gamache、Beaulieu 的回憶，可信度中到低，需標明來源。\n- 讀到的範圍：第 XIII 章（pp. 1–23，OCR 頁首標示）；其他章未讀。\n",
+   "links": [
+    "t-orleans"
    ]
   },
   {
@@ -5368,6 +5422,38 @@
    ]
   },
   {
+   "id": "t-orleans",
+   "type": "topic",
+   "title": "投票處死國王的堂兄：奧爾良公爵",
+   "category": "人物",
+   "period": [
+    1774,
+    1793
+   ],
+   "summary": "國王的堂兄、全法國最有錢的親王，投票處死國王，十個月後自己也上了斷頭台。",
+   "myth": "奧爾良公爵恨王后，是因為 1778 年韋桑島海戰後，王后嘲笑他臨陣退縮。",
+   "verdict": "半真半假",
+   "sources": [
+    "s-1874-arneth-mercy-correspondance",
+    "s-1823-campan-memoires",
+    "s-1857-roisselet-revolution",
+    "s-1880-wallon-tribunal"
+   ],
+   "updated": "2026-11-17",
+   "body": "## 一句話說明\n\n奧爾良公爵（Louis-Philippe-Joseph d'Orléans）是路易十六的堂兄，年輕時叫夏特爾公爵（duc de Chartres），曾經陪年輕的王后看日出；革命時他改名「平等的菲利普」（Philippe Égalité），在國民公會投票處死國王；十個月後，他自己也被革命法庭判了死刑。\n\n## 迷思與史料\n\n常聽說兩人結仇，是因為 1778 年 7 月英法兩國艦隊在布列塔尼外海的韋桑島（Ouessant）交戰後，有人指控指揮一支分艦隊的夏特爾公爵臨陣退縮，而王后拿這件事取笑他。\n\n可是當時的大使梅西 1778 年 11 月寫給女皇的報告，說的卻是相反的事：公爵因為被指控「妨礙了韋桑島海戰的勝利」，和海軍將領鬧得很僵，就去找國王的弟弟阿圖瓦伯爵幫忙；阿圖瓦說動王后，王后便「全力保護」他，替他向國王爭取一個新設的「輕騎兵總監」職位當作補償。梅西說，國王本來很不願意，「得靠王后全部的影響力才辦成」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 264）。\n\n「嘲笑」的說法，本站只在十九世紀編者的註裡讀到：編者說「根據當時的各種回憶錄」，王后可能也聽過、接受過一些拿公爵在韋桑島的表現開的玩笑；而公爵想當海軍大元帥，對輕騎兵的職位並不滿意（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 264 註 1）。王后的貼身女官康龐夫人則直接說，把公爵後來對王后的恨歸因於「嫉妒或受傷的自尊」，「毫無可能」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 94）。所以本站判定「半真半假」：韋桑島確實是公爵和宮廷的一道裂痕，但王后當時是出手幫他的人；她有沒有取笑他，只有編者轉述的「回憶錄」，本站還沒讀到原文。\n\n## 故事是這樣的\n\n### 陪王后看日出的人\n\n路易十六剛登基那年，宮廷住在馬利（Marly）。康龐夫人說，年輕的王后想在凌晨三點到花園高處看日出，國王答應了，自己卻去睡了；王后怕人說話，帶了一大群人同行。那時還叫夏特爾公爵的他也在其中，「看起來很關注她」；但康龐夫人說，這是兩人一生中唯一親近的時候，國王不喜歡他的性格，王后後來也一直不讓他進自己的小圈子（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 pp. 93–94）。幾天後巴黎就出現了一首諷刺這次夜遊的詩（[[s-1823-campan-memoires]] 第 1 冊 p. 93；另見 [[t-libels]]）。\n\n### 韋桑島之後\n\n1778 年，法國站在美國這邊對英國開戰。夏特爾公爵在韋桑島海戰中指揮一支分艦隊，事後被指控「妨礙了勝利」。十九世紀的編者說，當時的指控是他看不懂旗號、在關鍵時刻帶著自己的船離開戰場，與其說是膽小，不如說是不懂（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 264 註 1）。\n\n就是在這時，王后替他向國王爭取新職位。梅西很不滿意：他說這件事在大眾眼裡效果不好，而且王后「一心只想著這件事」，把對奧地利更重要的大事都擱下了（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 264）。（推論）對梅西來說，問題不是王后欺負公爵，而是王后太幫他。\n\n### 「被奧爾良收買」\n\n到了 1789 年，夏特爾公爵已經繼承了「奧爾良公爵」的頭銜。康龐夫人記得，那年夏天她在凡爾賽的露台上看見三個男人，在王座廳的窗下大罵國王夫婦；國王的姑姑維多利亞夫人告訴她，其中一個叫聖于魯日（Saint-Huruge），「被奧爾良公爵收買了」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 p. 50）。康龐夫人又說，國王知道哪幾天有人在巴黎「撒錢」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 pp. 50–51）。\n\n（推論）這些都是宮廷裡的人怎麼看他，不是付款的證據。康龐夫人的書後附錄也收了公爵自己的辯白：他否認是 1789 年 10 月 5 日群眾進軍凡爾賽的幕後主使（[[s-1823-campan-memoires]] 第 2 冊附錄 pp. 378–379；另見 [[t-october-days]]）。1857 年一部革命史說「奧爾良的錢被花掉了」，引的是保王派作家蒙茹瓦（Montjoie）的說法（[[s-1857-roisselet-revolution]] 第 1 冊 pp. 96–97）；本站還沒讀到蒙茹瓦的原書。\n\n### 「我投死刑」\n\n革命後他放棄了貴族頭銜，以「平等」（Égalité）為姓，坐進國民公會（[[s-1880-wallon-tribunal]] 第 2 冊 p. 15）。1793 年 1 月，國民公會逐一唱名，表決國王的刑罰。輪到他時，他說：「我只考慮我的職責；我深信，凡是侵犯、或日後將侵犯人民主權的人，都該死。我投死刑。」紀錄在後面加了一句：「會場一部分響起一陣騷動。」（本站譯）（[[s-1857-roisselet-revolution]] 第 2 冊 p. 743）接下來表決要不要緩刑，他投了「不」（[[s-1857-roisselet-revolution]] 第 2 冊 p. 860）。\n\n（推論）一位親王、國王的堂兄，親口投下處死國王的一票，連坐在同一個會場的革命議員都忍不住騷動。本站讀到的是 1857 年的轉錄，還沒對照國民公會的原始紀錄。\n\n### 輪到他自己\n\n他的票沒有救他。這一年稍後，他被關進古監獄，以參與密謀、勾結叛逃的將軍杜穆里埃（Dumouriez）等罪名受審。研究革命法庭的歷史學者瓦隆（Henri Wallon）找出了他受審前的訊問筆錄：法官問他知不知道有人密謀顛覆共和國，他回答：只從「公眾的傳聞」裡聽說過；問他和杜穆里埃有沒有往來，他說只在對方當部長時，為了去瓦朗謝訥看孩子而請過許可（本站譯）（[[s-1880-wallon-tribunal]] 第 2 冊 pp. 15–16）。\n\n瓦隆說，他在審判前就已經被定罪：檢察官富基耶－坦維爾（Fouquier-Tinville）三、四天前就對人透露了結果。行刑之後，一位陪審員寫信給兄弟：「菲利普非死不可，他是個惡棍。就算他是無辜的，只要他死了有用，就該判他死刑。」這位陪審員還承認：「沒有任何一個證人指控他。」（本站譯）（[[s-1880-wallon-tribunal]] 第 2 冊 p. 21）\n\n（推論）這是他和王后最後的交集：同一年的秋天，王后在 10 月 16 日上了斷頭台（見 [[t-execution]]），三個星期後，輪到他。\n\n## 研究者怎麼看\n\n- **恨從哪裡來：** 十九世紀的梅西通信編者認為，韋桑島和更早的親王排位之爭，是他怨恨宮廷的起點（[[s-1874-arneth-mercy-correspondance]] 第 3 冊 p. 264 註 1）；康龐夫人則否認「嫉妒或自尊受傷」的解釋（[[s-1823-campan-memoires]] 第 1 冊 p. 94）。\n- **收買群眾：** 本站讀到的都是宮廷的人或保王派的說法（[[s-1823-campan-memoires]] 第 2 冊 p. 50；[[s-1857-roisselet-revolution]] 第 1 冊 pp. 96–97），沒有找到可信的付款證據，也還沒讀到現代學者的研究。\n- **他的死：** 瓦隆根據革命法庭的檔案，認為判決是政治需要，不是證據（[[s-1880-wallon-tribunal]] 第 2 冊 p. 21）。\n\n## 延伸閱讀\n\n- [[t-october-days]]：有人說他在背後策動的十月事件。\n- [[t-trial]]：同一個革命法庭審判王后。\n- [[t-libels]]：馬利夜遊之後出現的諷刺詩。\n- [[t-louis]]：他投票處死的堂弟。\n\n## 還不知道的事\n\n- 「王后嘲笑韋桑島」那些「當時的回憶錄」原文是哪幾本。\n- 國民公會唱名投票的原始紀錄（《議會檔案》第 57 卷），本站只讀到 1857 年的轉錄。\n- 他處決的確切日期（一般說 1793 年 11 月 6 日），本站還沒在原始資料裡核對。\n- 現代學者對「奧爾良陰謀」的研究。\n",
+   "links": [
+    "s-1823-campan-memoires",
+    "s-1857-roisselet-revolution",
+    "s-1874-arneth-mercy-correspondance",
+    "s-1880-wallon-tribunal",
+    "t-execution",
+    "t-libels",
+    "t-louis",
+    "t-october-days",
+    "t-trial"
+   ]
+  },
+  {
    "id": "t-perfume",
    "type": "topic",
    "title": "王后的香水師：梳妝盒和逃亡",
@@ -6450,6 +6536,10 @@
    "t-joseph"
   ],
   [
+   "s-1857-roisselet-revolution",
+   "t-orleans"
+  ],
+  [
    "s-1862-lacour-livres-boudoir",
    "t-library"
   ],
@@ -6540,6 +6630,10 @@
   [
    "s-1879-goncourt-marie-antoinette",
    "t-vermond"
+  ],
+  [
+   "s-1880-wallon-tribunal",
+   "t-orleans"
   ],
   [
    "s-1881-arneth-briefe-kinder",
@@ -8862,6 +8956,42 @@
    "t-varennes"
   ],
   [
+   "t-orleans",
+   "s-1823-campan-memoires"
+  ],
+  [
+   "t-orleans",
+   "s-1857-roisselet-revolution"
+  ],
+  [
+   "t-orleans",
+   "s-1874-arneth-mercy-correspondance"
+  ],
+  [
+   "t-orleans",
+   "s-1880-wallon-tribunal"
+  ],
+  [
+   "t-orleans",
+   "t-execution"
+  ],
+  [
+   "t-orleans",
+   "t-libels"
+  ],
+  [
+   "t-orleans",
+   "t-louis"
+  ],
+  [
+   "t-orleans",
+   "t-october-days"
+  ],
+  [
+   "t-orleans",
+   "t-trial"
+  ],
+  [
    "t-perfume",
    "s-1801-fargeon-art-parfumeur"
   ],
@@ -11023,6 +11153,14 @@
    "category": "人物",
    "topic": "t-carolina",
    "source": "s-1907-bearne-carolina"
+  },
+  {
+   "date": "1793-01",
+   "title": "「平等的菲利普」投票處死國王",
+   "desc": "國王的堂兄奧爾良公爵在國民公會唱名時說：「我投死刑。」",
+   "category": "人物",
+   "topic": "t-orleans",
+   "source": "s-1857-roisselet-revolution"
   }
  ],
  "stats": [],
