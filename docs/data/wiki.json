@@ -1,12 +1,12 @@
 {
  "built": "2026-11-16",
  "counts": {
-  "sources": 102,
+  "sources": 103,
   "fulltext": 25,
   "topics": 48,
   "entities": 5,
-  "questions": 0,
-  "events": 112,
+  "questions": 1,
+  "events": 113,
   "places": 18
  },
  "pages": [
@@ -36,6 +36,35 @@
    "links": [
     "s-1879-goncourt-marie-antoinette",
     "t-handover"
+   ]
+  },
+  {
+   "id": "s-1781-bachaumont-memoires-secrets-v10",
+   "type": "source",
+   "title": "《祕密回憶錄》（Mémoires secrets）1781 年版第 10 冊（1777 年 9 月至 12 月條目）",
+   "author": "Louis Petit de Bachaumont（題名頁署名；實際為多人續寫的逐日巴黎見聞）",
+   "year": 1781,
+   "kind": "報刊",
+   "lang": "fr",
+   "venue": "1781 年版第 10 冊，Internet Archive 識別碼 bim_eighteenth-century_mmoires-secrets-pour-se_1781_10（本站讀的是 OCR 文字檔，raw/letters/s-1781-bachaumont-memoires-secrets-v10.txt）",
+   "url": "https://archive.org/details/bim_eighteenth-century_mmoires-secrets-pour-se_1781_10",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1777,
+    1777
+   ],
+   "topics": [
+    "t-artois"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-16",
+   "body": "## 一句話\n\n同時代的巴黎逐日見聞，1777 年 10 月 22 日記下阿圖瓦伯爵和王后打賭、要在去楓丹白露的那段時間蓋好布洛涅森林裡的小房子 Bagatelle，同年 11 月又記下工地徵用運料車、賭桌上的輸贏與緋聞。\n\n## 三個重點\n\n1. 10 月 22 日條寫：阿圖瓦伯爵「跟王后打賭十萬法郎」，要讓這座「仙宮」在去楓丹白露的旅程中「開工並完成」，回來時宴請王后；原文說工地「有八百名工人」（\"Il y a huit cents ouvriers\"），建築師是「S. A. R. 的建築師」（OCR 讀作 \"l'architecte de S. A. R.\"）。\n2. 11 月 18 日條寫工地為了搶進度，攔下運石頭、石膏的車輛，「就地轉往自家工地」（\"on les détourne pour les y mener\"），並說這種做法「引起很多抱怨，而且有理」。同條前後還記了阿圖瓦與女演員 Raucoux 的風流事（17 日條，Bachaumont 八卦性質，低可信度）。\n3. 條目寫作時間跟事件幾乎同步，屬於「當時的巴黎人怎麼說」的證據，不是工程帳本；賭金、工人數都是當時的說法，要跟 Duchesne 的研究對照。\n\n## 用了什麼史料\n\n逐日記錄的報刊式手抄本，作者群不明，立場偏向嘲諷宮廷。本站讀的是 Internet Archive 的 OCR 文字，頁碼也是 OCR 讀出來的，部分數字可能有誤。\n\n## 跟其他資料的關係\n\n- 工人數：Bachaumont（10 月 22 日，800 人）與梅西 1777 年 11 月 19 日的信（900 人，見 [[s-1874-arneth-mercy-correspondance]]）差 100 人，屬於不同時間點的說法；Duchesne 引梅西的 900 人（見 [[s-1909-duchesne-bagatelle]]）。\n- 「六、七週完工」是梅西的說法；Bachaumont 只寫「要在旅程中完成」，沒有寫 64 天。64 天的說法來自 Duchesne。\n- 1780 年 5 月 26 日條（同一套書第 15 冊，OCR 第 187–189 頁，未收入本卡）描寫已完工的 Bagatelle 內部，包括「安排在二樓的伯爵臥室是帳篷式的軍營風格」，可作為成品描述的補充，但不是 1777 年的證據。\n\n## 值得記住的一句話\n\n\"Il a parié cent mille francs avec la Reine que ce palais de Fée seroit commencé & achevé durant le voyage de Fontainebleau\"（10 月 22 日條）\n中譯：他跟王后打賭十萬法郎，說這座仙宮會在去楓丹白露的旅程中開工並完成。（本站譯）\n\n## 還不確定的地方\n\n- 頁碼：OCR 把 10 月 22 日條所在的頁碼讀成「(393)」，但前後條目的頁碼推算約在 343–345 頁，兩者不一致；本卡引用時只寫日期，不寫頁碼，待對照原書後補。11 月 18 日條的頁碼 OCR 讀作「(368)」附近，同樣待核對。\n- 「十萬法郎」寫的是 francs，當時的舊制單位是里弗爾（livre），兩者是否等值需另查；本站故事頁照原文寫。\n- 這份是「當時有人這樣說」的證據，不是賭約的文件本身。賭約是否真的寫成合約、王后是否真的付款，這份沒有寫。\n- 工地細節只讀了 10 月 22 日、11 月 7 日、11 月 17–18 日幾條，沒有讀完整冊，depth 填「部分」。\n",
+   "links": [
+    "s-1874-arneth-mercy-correspondance",
+    "s-1909-duchesne-bagatelle",
+    "t-artois"
    ]
   },
   {
@@ -814,14 +843,14 @@
     1794
    ],
    "topics": [
-    "t-sale"
+    "t-hameau"
    ],
    "entities": [],
    "reliability": "中",
    "added": "2026-11-16",
    "body": "## 一句話\n\n1877 年男爵 Davillier 根據凡爾賽拍賣的 procès-verbal（拍賣紀錄）寫成的專書，是目前找到唯一直接引用拍賣紀錄、有日期、號碼數與成交價的研究。\n\n## 三個重點\n\n1. 拍賣從 1793 年 8 月 25 日拍到 1794 年 8 月 11 日，共約一年（p. 16–17）。拍賣紀錄 35 本、17,182 個號碼（p. 17）。\n2. 付款用指券，作者估計實際損失約三分之二（p. 15–16）。有徽章與百合花的東西，多半要買家除去標記才能買（p. 18）。\n3. 買家包括 Riesener 本人（lot 205、2,340、2,503，p. 19）。作者沒有提到英國買家，只說有人用外國匯票買（p. 16）。\n\n## 用了什麼史料\n\n- 凡爾賽省檔案的拍賣紀錄（procès-verbal），作者說未曾出版（p. 17 註）。\n- 巴黎報紙的廣告（Affiches、Petites-Affiches，共和二年）（p. 21 註 2、p. 26）。\n- 引用 Thiers 的《Histoire de la Révolution》（p. 16 註 2）。\n- 作者的 Riesener 研究（Cabinet du duc d'Aumont，1870）（p. 19 註）。\n\n## 跟其他資料的關係\n\n- 凡爾賽官網（s-2026-versailles-after-revolution）說拍賣在「幾天」之內完成，與本書的一年不一致。本站以本書為準，並在故事頁註明。\n- Wallace Collection（s-2026-wallace-riesener）說 Riesener 買回了許多王室訂單，本書的 lot 205、2,340、2,503 可以作為例子。\n\n## 值得記住的一句話\n\n「pendant un an moins quatorze jours, les innombrables merveilles que contenait le Château de Versailles furent vendues au plus offrant et dernier enchérisseur」\n（中譯：在將近一年零十四天裡，凡爾賽城堡所藏無數的珍品都被賣給出價最高的人。）（p. 16，本站譯）\n\n## 還不確定的地方\n\n- depth 為「部分」：只讀了拍賣的前半部與清單摘錄（p. 15–27），後半的 Marly 等其他宮殿與完整目錄未讀。\n- 原書是 OCR 掃描，頁碼與拼寫以 OCR 為準，Langlier 的頁碼未能確認。\n- 1877 年的著作，作者的估算（損失三分之二）是作者的推算，不是拍賣紀錄的數字。\n- 原檔 raw/books/s-1877-davillier-vente-mobilier.txt（OCR 純文字）。\n",
    "links": [
-    "t-sale"
+    "t-hameau"
    ]
   },
   {
@@ -2278,14 +2307,14 @@
     1870
    ],
    "topics": [
-    "t-sale"
+    "t-hameau"
    ],
    "entities": [],
    "reliability": "中",
    "added": "2026-11-16",
    "body": "## 一句話\n\nCaron 的博士研究計畫摘要說明，19 世紀官方宮殿的家具管理處（Garde-Meuble）會向巴黎古董商與公開拍賣購買舊制度的家具，是 1793 年拍賣之後「回收」的前史。\n\n## 三個重點\n\n1. 研究範圍是 1800–1870 年，主題是舊制度家具在拿破崙到第二帝國的宮殿裡的角色（résumé 第 1 段）。\n2. Garde-Meuble 買入舊家具的管道包括巴黎古董商與公開拍賣（同上）。\n3. 1867 年凡爾賽為瑪麗．安東尼的回顧展重新布置了小特里亞儂（同上）。\n\n## 用了什麼史料\n\n摘要沒有列出具體史料，研究的史料應為 Garde-Meuble 的檔案與購買紀錄（摘要內提到「documenter les achats」）。\n\n## 跟其他資料的關係\n\n- 與 Davillier（1877）、Wallace（2026）一起看：革命後的家具流散，到 19 世紀中葉已經開始由國家機構回收、展示。\n- 摘要沒有涉及 1793–1794 年的拍賣，不能用來支持拍賣的數字。\n\n## 值得記住的一句話\n\n「L'intérêt croissant pour le mobilier historique, consacré par les achats du Garde-Meuble et son remploi dans les intérieurs modernes」\n（中譯：對歷史家具日益增長的興趣，由 Garde-Meuble 的購買與在當代室內的再利用所確立。）（résumé 第 1 段，本站譯）\n\n## 還不確定的地方\n\n- 只讀了研究計畫摘要與作者簡介，沒有讀到論文本身，也沒有讀到作者的文章。\n- 摘要沒有頁碼，依段落標示。\n- 原檔 raw/papers/s-2017-caron-garde-meuble.pdf。\n",
    "links": [
-    "t-sale"
+    "t-hameau"
    ]
   },
   {
@@ -2813,14 +2842,14 @@
     1799
    ],
    "topics": [
-    "t-sale"
+    "t-hameau"
    ],
    "entities": [],
    "reliability": "高",
    "added": "2026-11-16",
    "body": "## 一句話\n\n凡爾賽宮官方對大革命拍賣的簡述：宮殿在 1793 年夏末「幾天之內」被清空，超過 17,000 批次消失，唯一沒有被賣掉的是 Œben 與 Riesener 做的國王書桌。\n\n## 三個重點\n\n1. 1789 年王室離開時，宮殿保留了所有家具（頁面「The revolutionary sales」一節）。\n2. 1793 年 1 月 10 日法令要求清點待售家具；拍賣地點是 Princess of Lamballe 的舊公寓（同上）。\n3. 買家：「Dealers, former purveyors to the Crown and cabinetmakers」爭相買回王室舊物（同上）。\n\n## 用了什麼史料\n\n頁面沒有列出來源。它是博物館對外的歷史簡介，不是研究論文。\n\n## 跟其他資料的關係\n\n- 與 Davillier（1877，s-1877-davillier-vente-mobilier）衝突：本頁說拍賣在「幾天」之內，Davillier 的 procès-verbal 說從 1793 年 8 月 25 日拍到 1794 年 8 月 11 日。件數 17,000 多批次與 Davillier 的 17,182 個號碼一致。\n- 本頁沒有提到特里亞儂的拍賣，也沒有提到之後的買回或 remeublement。\n\n## 值得記住的一句話\n\n「Over the course of a few days towards the end of the summer of 1793, the Palace was completely cleared, as more than 17,000 lots disappeared.」\n（中譯：1793 年夏末的幾天裡，宮殿被徹底清空，超過 17,000 個批次消失。）（「The revolutionary sales」一節，本站譯）\n\n## 還不確定的地方\n\n- 「a few days」與 Davillier 的一年不一致，本站以 Davillier 的紀錄為準，並在故事頁註明這個差異。\n- 頁面沒有出處，無法追查 17,000 這個數字的來源。\n- 只讀了英文版，法文版可能不同。\n- 原檔 raw/papers/s-2026-versailles-after-revolution.html。\n",
    "links": [
-    "t-sale"
+    "t-hameau"
    ]
   },
   {
@@ -2894,14 +2923,14 @@
     1800
    ],
    "topics": [
-    "t-sale"
+    "t-hameau"
    ],
    "entities": [],
    "reliability": "高",
    "added": "2026-11-16",
    "body": "## 一句話\n\n倫敦 Wallace Collection 的 Riesener 專題頁說，革命讓 Riesener 的事業幾乎結束，但他買回了許多在凡爾賽革命拍賣中賣掉的王室訂單。\n\n## 三個重點\n\n1. 大革命幾乎結束了 Riesener 的事業，他的風格也轉向別的方向（前言段）。\n2. 他相信自己的家具會重新流行，於是買回許多王室訂單（同上）。\n3. 他的許多王室作品後來被改動，以適應新世紀的品味（同上）。\n\n## 用了什麼史料\n\n博物館的策展文字，沒有列出出處。\n\n## 跟其他資料的關係\n\n- 與 Davillier（1877，s-1877-davillier-vente-mobilier，p. 19）一致：Riesener 在拍賣中以自己的名義買下家具（lot 205、2,340、2,503）。\n- 本頁沒有數字，不能用來估算買回的件數。\n\n## 值得記住的一句話\n\n「he appears to have believed that his furniture would come back into fashion and bought back many of his royal commissions from the Revolutionary Versailles sales.」\n（中譯：他似乎相信自己的家具會再度流行，因此買回了許多在革命時期凡爾賽拍賣中賣掉的王室訂單。）（前言段，本站譯）\n\n## 還不確定的地方\n\n- 「many」沒有數字，件數未知。\n- 「he appears to have believed」是博物館的推測，不是他的直接說法。\n- 只讀了一個子頁（The furniture），Riesener 專題的其他子頁未讀。\n- 原檔 raw/papers/s-2026-wallace-riesener.html。\n",
    "links": [
-    "t-sale"
+    "t-hameau"
    ]
   },
   {
@@ -3590,10 +3619,11 @@
     "s-2016-maes-laiterie-rambouillet"
    ],
    "updated": "2026-11-16",
-   "body": "## 一句話說明\n\n農莊和乳品室都是真的，但它是真正在運作的農場，王后在那裡散步、招待朋友；「她穿圍裙擠牛奶」這個畫面，目前找不到當時的證據。\n\n## 迷思與史料\n\n凡爾賽宮的官方介紹寫得很直接：「和瑪麗．安東尼根深柢固的大眾形象相反，王后和她的隨從並沒有在這片田園風光裡『扮演農夫』。」王后其實是把農莊當作散步、舉辦小型聚會的地方（本站譯）（[[s-2016-versailles-queens-hamlet]]）。\n\n最接近的當時證詞來自貼身女官康龐夫人。她說，在小特里亞儂，王后最喜歡的是「走遍農莊裡所有的工坊、看人擠牛奶、在湖裡釣魚」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 228）。是「看」人擠牛奶，不是自己擠。農莊本身也不是布景：官網說它同時是正常運作的農場，這是王后堅持的（[[s-2016-versailles-queens-hamlet]]）。瑞典隆德大學的歷史學者諾丁（Jonas Nordin）2024 年也寫道：普遍認為王后拿農莊當角色扮演遊戲的布景，這種看法「沒有根據」（本站譯）（[[s-2024-nordin-hameau]] 約 p. 29）。所以判定是「半真半假」：農場、牛奶都是真的，王后親手擠奶找不到證據。\n\n## 故事是這樣的\n\n### 國王的第一份禮物\n\n小特里亞儂是凡爾賽宮花園裡的一座小宮殿，原本是路易十五蓋的，他就是在這裡染上天花去世的（[[s-1823-campan-memoires]] 第 1 冊 p. 110 及原註）。1774 年新王即位後，駐法大使梅西向維也納報告：王后沒有透過任何中間人，自己直接向國王開口要這座別墅，國王當場答應（[[s-1874-arneth-mercy-correspondance]] 第 2 冊）。母親瑪麗亞．特蕾莎回信說，聽說那是「最宜人的住所」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊）。梅西卻已經在擔心，提醒王后別讓國王這份「迷人的第一份禮物」變成大筆花費的藉口（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 205 前後）。\n\n{{photo:t-hameau-petit-trianon.jpg|今日的小特里亞儂（Petit Trianon），位於凡爾賽宮園區，攝於 2022 年。|Wikimedia Commons，CC BY-SA 4.0}}\n\n那年夏天，王后就忙著把這裡的花園改成英式庭園，國王也下令把圍牆往外擴（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 209，1774 年 7 月 31 日信）。據康龐夫人說，王后只改花園，房子不准加蓋，傢俱也不換：到 1789 年都還是路易十五時代的舊東西，王后睡的床又舊又褪色，據說還是杜巴利夫人用過的（[[s-1823-campan-memoires]] 第 1 冊 p. 110）。宮廷裡謠傳她把這裡改名為「小維也納」，康龐夫人說那是謠言（[[s-1823-campan-memoires]] 第 1 冊 pp. 110–111）。\n\n### 躲開宮廷的地方\n\n在凡爾賽，王后連起床都有一群人圍觀；在小特里亞儂，她一個人去，只帶一名跟班，接待她的是看門人夫婦，看門人的妻子兼當貼身侍女（[[s-1823-campan-memoires]] 第 1 冊 p. 111）。夏天，她和女伴們的「盛裝」只有白色平紋細布長裙、薄紗披肩和草帽，這身打扮後來還引出一場肖像醜聞（[[s-1823-campan-memoires]] 第 1 冊 p. 228；另見 [[t-chemise]]）。\n\n她也在這裡演戲。王后排演盧梭的小歌劇《鄉村占卜師》（*Le Devin du village*），規定劇團裡除了國王的弟弟阿圖瓦伯爵，不收任何年輕男子；觀眾只有國王和王室，前排讓給王后的侍女和她們的姊妹女兒，大約四十人。演牧羊人的阿德瑪伯爵年紀大、聲音發抖，王后笑得很開心，還說這樣的「情人」應該沒人能挑剔吧。國王非常喜歡看這些戲（[[s-1823-campan-memoires]] 第 1 冊 pp. 228–229）。\n\n### 燒了一座森林？\n\n1777 年，王后的哥哥約瑟夫二世來訪期間，王后在小特里亞儂辦了一場「新式」的夜宴：不是把燈點得滿園通明，而是把陶燈藏在漆成綠色的木板後面，從下面照亮每一叢灌木和花；愛神殿後面的溝裡，燒著幾百捆柴火，讓殿成了花園裡最亮的地方（[[s-1823-campan-memoires]] 第 1 冊 p. 184）。\n\n場地小，大部分宮廷的人沒被邀請，沒受邀的人很不高興，花費也被傳得愈來愈離譜，康龐夫人說，聽起來好像為了那溝裡的火，砍光了一整座森林。王后要人去查到底燒了多少柴，答案是：一千五百捆，足夠燒到凌晨四點（[[s-1823-campan-memoires]] 第 1 冊 pp. 184–185）。\n\n不過梅西的帳算得比較細。他早在 1776 年就報告：國王把小特里亞儂送給王后時，大家本來很高興，現在卻開始擔心她在那裡的花費；王后下令把原本的花園「翻過來」改成英式庭園，「至少要花十五萬里弗爾」；她還蓋了一座劇場，辦了一場戲加晚宴，非常花錢（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 495；另見 [[t-theatre]]）。\n\n### 關起門來的代價\n\n但「關起門來」也惹了麻煩。1780 年，梅西報告：王后常常整天待在小特里亞儂，有時一住就是一個星期；只有宮廷內部的人能進去，女官們白天才能過來吃飯，宮裡因此怨聲四起（[[s-1874-arneth-mercy-correspondance]] 第 3 冊，1780 年 5 月、9 月信）。梅西還說，這個退居小特里亞儂的主意，是王后的閨蜜波利尼亞克夫人出的（[[s-1874-arneth-mercy-correspondance]] 第 3 冊，1780 年 9 月 16 日信）。梅西一向站在王后這邊，連他都覺得不妥。\n\n### 模範村莊與乳品室\n\n1783 年夏天，王后請建築師米克（Richard Mique）把花園往北擴建，蓋一整座模範村莊，1786 年完工。它有農舍、磨坊，也有馬廄、牛舍、羊欄和雞舍。拿破崙時代整修時，最破舊的建築被拆掉了，其中就包括穀倉和真正在用的乳品室（[[s-2016-versailles-queens-hamlet]]）。\n\n諾丁數過，農莊有十來棟建築：水磨坊、雞舍、鳥舍、鴿舍、兩座乳品室、守衛小屋、船屋、穀倉，還有一座叫「馬爾博羅塔」的瞭望塔，全部圍著一座養了鯉魚和梭子魚的人工湖；屋子外表是諾曼第式的木架和茅草頂，裡面卻是雅緻的沙龍。他說，這些是「沒有實際功能的布景建築」，用來吃飯、打撞球、玩牌、跳舞和演戲（本站譯）（[[s-2024-nordin-hameau]] 約 p. 28）。\n\n真正的農場在幾步之外。諾丁說，1785 年起，一位瑞士農夫瓦利．比薩爾（Valy Bussard）帶著妻小、幾名長工和季節工住在那裡，養牛、豬、山羊和兔子，種菜、種葡萄、收乾草；王后常帶孩子們去看動物，當作實際的品德教育（[[s-2024-nordin-hameau]] 約 p. 30）。他也說，受盧梭教育思想的影響，王后替長女找的玩伴是宮中僕人的女兒，兩個女孩穿一樣的衣服，一起照顧幾隻羊和一小塊菜園（[[s-2024-nordin-hameau]] 約 p. 28；另見 [[t-children]]）。\n\n{{photo:t-hameau-ferme.jpg|今日的王后農莊（Hameau de la Reine）農舍，位於凡爾賽宮園區，攝於 2010 年。|Wikimedia Commons，CC BY-SA 3.0}}\n\n另一座常被搞混的乳品室在朗布依埃（Rambouillet）。法國文化部的資料說，它是路易十六為王后蓋的；1787 到 1788 年間，塞弗爾瓷器廠送來 65 件瓷器，在畫家于貝爾．羅貝爾（Hubert Robert）指導下設計，器形參考古代陶器。其中最有名的是「乳房碗」（bol sein），塞弗爾到今天還在生產（[[s-2025-dati-culture-sevres-rambouillet]]）。\n\n{{photo:t-hameau-rambouillet.jpg|朗布依埃（Rambouillet）的王后乳品室，由建築師理查．米克（Richard Mique）設計，今日的照片。|Wikimedia Commons，CC BY-SA 3.0}}\n\n### 鑲滿鑽石的房間\n\n1789 年 5 月，三級會議在凡爾賽開幕，從各省來的議員幾乎都想參觀小特里亞儂。康龐夫人說，這座別墅簡樸得出乎他們意料，有些人堅持要看每一個小房間，說一定有人把豪華的房間藏起來了；他們還指名要看一間據說四壁鑲滿鑽石、柱子上嵌著藍寶石和紅寶石的房間。王后把這件事講給國王聽，國王想了想，說他們找的大概是路易十五時代替楓丹白露劇院做的一套假鑽石舞台布景（[[s-1823-campan-memoires]] 第 2 冊 p. 40；[[s-2024-nordin-hameau]] 約 p. 27）。\n\n諾丁說，同樣簡樸的生活，放在別的時代、別的國家，可能會被當成王室的好榜樣；但在 1789 年的法國，大家已經認定小特里亞儂是一個貪婪與罪惡的巢穴（[[s-2024-nordin-hameau]] 約 p. 27）。\n\n## 研究者怎麼看\n\n- 凡爾賽宮的研究立場是：農莊是功能完整的農場，王后在那裡休息、社交，並沒有扮農夫（[[s-2016-versailles-queens-hamlet]]）。\n- 研究朗布依埃乳品室的專書，把它稱為「一座為王后的愉悅而建的田園神殿」（本站譯）（[[s-2016-maes-laiterie-rambouillet]]）。本站只讀到這本書的書目與簡介。\n- 諾丁認為，批評者把這座假村莊看成品味低俗；更深的問題是，王室的權威建立在儀式上的高高在上，當王后自己扮起樸素的鄉居生活，人們就會問：那王室憑什麼統治別人？在貧富差距巨大的年代，這看起來更像是對窮人的嘲弄（[[s-2024-nordin-hameau]] 約 p. 30）。\n- （推論）「乳房碗是照王后的胸部做的」流傳很廣，但本站讀到的官方資料只說器形參考古代陶器，沒有提到王后。\n\n## 延伸閱讀\n\n- [[s-2024-nordin-hameau]]\n- [[s-2016-versailles-queens-hamlet]]\n- [[s-2025-dati-culture-sevres-rambouillet]]\n- [[s-1823-campan-memoires]]\n- [[s-1874-arneth-mercy-correspondance]]\n- [[s-2016-maes-laiterie-rambouillet]]\n- 名詞：[[e-campan]]\n- 名詞：[[e-petit-trianon]]\n- 相關故事：[[t-polignac]]、[[t-chemise]]、[[t-ghost]]、[[t-theatre]]\n\n## 還不知道的事\n\n- 「王后扮農婦」的形象最早從哪裡來：是當時的誹謗小冊子、19 世紀的小說，還是電影？還沒查到。\n- 美術史家 Meredith Martin《乳品室的王后們》（*Dairy Queens*, 2011）討論了貴族女性的乳品室風潮，本站還沒讀到。\n- 諾丁提到的瑞士農夫比薩爾，以及「他在王后坐牢時還送乳製品給她」的說法，本站還沒找到原始檔案。\n- 凡爾賽宮學者海茨曼（Annick Heitzmann）2006 年的〈特里亞儂：農莊的農場〉（*Versalia* 第 9 期）待讀。\n- 王后在小特里亞儂穿的衣服，見 [[t-chemise]]。\n- 朗布依埃乳品室和乳房碗的學術研究：大都會博物館 2002 年的專文（[[s-2002-schwartz-etruscan-sevres]]）、馬丁（Meredith Martin）2011 年的專書《Dairy Queens》（[[s-2011-martin-dairy-queens]]），本站都還沒讀到全文。\n",
+   "body": "## 一句話說明\n\n農莊和乳品室都是真的，但它是真正在運作的農場，王后在那裡散步、招待朋友；「她穿圍裙擠牛奶」這個畫面，目前找不到當時的證據。\n\n## 迷思與史料\n\n凡爾賽宮的官方介紹寫得很直接：「和瑪麗．安東尼根深柢固的大眾形象相反，王后和她的隨從並沒有在這片田園風光裡『扮演農夫』。」王后其實是把農莊當作散步、舉辦小型聚會的地方（本站譯）（[[s-2016-versailles-queens-hamlet]]）。\n\n最接近的當時證詞來自貼身女官康龐夫人。她說，在小特里亞儂，王后最喜歡的是「走遍農莊裡所有的工坊、看人擠牛奶、在湖裡釣魚」（本站譯）（[[s-1823-campan-memoires]] 第 1 冊 p. 228）。是「看」人擠牛奶，不是自己擠。農莊本身也不是布景：官網說它同時是正常運作的農場，這是王后堅持的（[[s-2016-versailles-queens-hamlet]]）。瑞典隆德大學的歷史學者諾丁（Jonas Nordin）2024 年也寫道：普遍認為王后拿農莊當角色扮演遊戲的布景，這種看法「沒有根據」（本站譯）（[[s-2024-nordin-hameau]] 約 p. 29）。所以判定是「半真半假」：農場、牛奶都是真的，王后親手擠奶找不到證據。\n\n## 故事是這樣的\n\n### 國王的第一份禮物\n\n小特里亞儂是凡爾賽宮花園裡的一座小宮殿，原本是路易十五蓋的，他就是在這裡染上天花去世的（[[s-1823-campan-memoires]] 第 1 冊 p. 110 及原註）。1774 年新王即位後，駐法大使梅西向維也納報告：王后沒有透過任何中間人，自己直接向國王開口要這座別墅，國王當場答應（[[s-1874-arneth-mercy-correspondance]] 第 2 冊）。母親瑪麗亞．特蕾莎回信說，聽說那是「最宜人的住所」（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊）。梅西卻已經在擔心，提醒王后別讓國王這份「迷人的第一份禮物」變成大筆花費的藉口（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 205 前後）。\n\n{{photo:t-hameau-petit-trianon.jpg|今日的小特里亞儂（Petit Trianon），位於凡爾賽宮園區，攝於 2022 年。|Wikimedia Commons，CC BY-SA 4.0}}\n\n那年夏天，王后就忙著把這裡的花園改成英式庭園，國王也下令把圍牆往外擴（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 209，1774 年 7 月 31 日信）。據康龐夫人說，王后只改花園，房子不准加蓋，傢俱也不換：到 1789 年都還是路易十五時代的舊東西，王后睡的床又舊又褪色，據說還是杜巴利夫人用過的（[[s-1823-campan-memoires]] 第 1 冊 p. 110）。宮廷裡謠傳她把這裡改名為「小維也納」，康龐夫人說那是謠言（[[s-1823-campan-memoires]] 第 1 冊 pp. 110–111）。\n\n### 躲開宮廷的地方\n\n在凡爾賽，王后連起床都有一群人圍觀；在小特里亞儂，她一個人去，只帶一名跟班，接待她的是看門人夫婦，看門人的妻子兼當貼身侍女（[[s-1823-campan-memoires]] 第 1 冊 p. 111）。夏天，她和女伴們的「盛裝」只有白色平紋細布長裙、薄紗披肩和草帽，這身打扮後來還引出一場肖像醜聞（[[s-1823-campan-memoires]] 第 1 冊 p. 228；另見 [[t-chemise]]）。\n\n她也在這裡演戲。王后排演盧梭的小歌劇《鄉村占卜師》（*Le Devin du village*），規定劇團裡除了國王的弟弟阿圖瓦伯爵，不收任何年輕男子；觀眾只有國王和王室，前排讓給王后的侍女和她們的姊妹女兒，大約四十人。演牧羊人的阿德瑪伯爵年紀大、聲音發抖，王后笑得很開心，還說這樣的「情人」應該沒人能挑剔吧。國王非常喜歡看這些戲（[[s-1823-campan-memoires]] 第 1 冊 pp. 228–229）。\n\n### 燒了一座森林？\n\n1777 年，王后的哥哥約瑟夫二世來訪期間，王后在小特里亞儂辦了一場「新式」的夜宴：不是把燈點得滿園通明，而是把陶燈藏在漆成綠色的木板後面，從下面照亮每一叢灌木和花；愛神殿後面的溝裡，燒著幾百捆柴火，讓殿成了花園裡最亮的地方（[[s-1823-campan-memoires]] 第 1 冊 p. 184）。\n\n場地小，大部分宮廷的人沒被邀請，沒受邀的人很不高興，花費也被傳得愈來愈離譜，康龐夫人說，聽起來好像為了那溝裡的火，砍光了一整座森林。王后要人去查到底燒了多少柴，答案是：一千五百捆，足夠燒到凌晨四點（[[s-1823-campan-memoires]] 第 1 冊 pp. 184–185）。\n\n不過梅西的帳算得比較細。他早在 1776 年就報告：國王把小特里亞儂送給王后時，大家本來很高興，現在卻開始擔心她在那裡的花費；王后下令把原本的花園「翻過來」改成英式庭園，「至少要花十五萬里弗爾」；她還蓋了一座劇場，辦了一場戲加晚宴，非常花錢（本站譯）（[[s-1874-arneth-mercy-correspondance]] 第 2 冊 p. 495；另見 [[t-theatre]]）。\n\n### 關起門來的代價\n\n但「關起門來」也惹了麻煩。1780 年，梅西報告：王后常常整天待在小特里亞儂，有時一住就是一個星期；只有宮廷內部的人能進去，女官們白天才能過來吃飯，宮裡因此怨聲四起（[[s-1874-arneth-mercy-correspondance]] 第 3 冊，1780 年 5 月、9 月信）。梅西還說，這個退居小特里亞儂的主意，是王后的閨蜜波利尼亞克夫人出的（[[s-1874-arneth-mercy-correspondance]] 第 3 冊，1780 年 9 月 16 日信）。梅西一向站在王后這邊，連他都覺得不妥。\n\n### 模範村莊與乳品室\n\n1783 年夏天，王后請建築師米克（Richard Mique）把花園往北擴建，蓋一整座模範村莊，1786 年完工。它有農舍、磨坊，也有馬廄、牛舍、羊欄和雞舍。拿破崙時代整修時，最破舊的建築被拆掉了，其中就包括穀倉和真正在用的乳品室（[[s-2016-versailles-queens-hamlet]]）。\n\n諾丁數過，農莊有十來棟建築：水磨坊、雞舍、鳥舍、鴿舍、兩座乳品室、守衛小屋、船屋、穀倉，還有一座叫「馬爾博羅塔」的瞭望塔，全部圍著一座養了鯉魚和梭子魚的人工湖；屋子外表是諾曼第式的木架和茅草頂，裡面卻是雅緻的沙龍。他說，這些是「沒有實際功能的布景建築」，用來吃飯、打撞球、玩牌、跳舞和演戲（本站譯）（[[s-2024-nordin-hameau]] 約 p. 28）。\n\n真正的農場在幾步之外。諾丁說，1785 年起，一位瑞士農夫瓦利．比薩爾（Valy Bussard）帶著妻小、幾名長工和季節工住在那裡，養牛、豬、山羊和兔子，種菜、種葡萄、收乾草；王后常帶孩子們去看動物，當作實際的品德教育（[[s-2024-nordin-hameau]] 約 p. 30）。他也說，受盧梭教育思想的影響，王后替長女找的玩伴是宮中僕人的女兒，兩個女孩穿一樣的衣服，一起照顧幾隻羊和一小塊菜園（[[s-2024-nordin-hameau]] 約 p. 28；另見 [[t-children]]）。\n\n{{photo:t-hameau-ferme.jpg|今日的王后農莊（Hameau de la Reine）農舍，位於凡爾賽宮園區，攝於 2010 年。|Wikimedia Commons，CC BY-SA 3.0}}\n\n另一座常被搞混的乳品室在朗布依埃（Rambouillet）。法國文化部的資料說，它是路易十六為王后蓋的；1787 到 1788 年間，塞弗爾瓷器廠送來 65 件瓷器，在畫家于貝爾．羅貝爾（Hubert Robert）指導下設計，器形參考古代陶器。其中最有名的是「乳房碗」（bol sein），塞弗爾到今天還在生產（[[s-2025-dati-culture-sevres-rambouillet]]）。\n\n{{photo:t-hameau-rambouillet.jpg|朗布依埃（Rambouillet）的王后乳品室，由建築師理查．米克（Richard Mique）設計，今日的照片。|Wikimedia Commons，CC BY-SA 3.0}}\n\n### 鑲滿鑽石的房間\n\n1789 年 5 月，三級會議在凡爾賽開幕，從各省來的議員幾乎都想參觀小特里亞儂。康龐夫人說，這座別墅簡樸得出乎他們意料，有些人堅持要看每一個小房間，說一定有人把豪華的房間藏起來了；他們還指名要看一間據說四壁鑲滿鑽石、柱子上嵌著藍寶石和紅寶石的房間。王后把這件事講給國王聽，國王想了想，說他們找的大概是路易十五時代替楓丹白露劇院做的一套假鑽石舞台布景（[[s-1823-campan-memoires]] 第 2 冊 p. 40；[[s-2024-nordin-hameau]] 約 p. 27）。\n\n諾丁說，同樣簡樸的生活，放在別的時代、別的國家，可能會被當成王室的好榜樣；但在 1789 年的法國，大家已經認定小特里亞儂是一個貪婪與罪惡的巢穴（[[s-2024-nordin-hameau]] 約 p. 27）。\n\n## 研究者怎麼看\n\n- 凡爾賽宮的研究立場是：農莊是功能完整的農場，王后在那裡休息、社交，並沒有扮農夫（[[s-2016-versailles-queens-hamlet]]）。\n- 研究朗布依埃乳品室的專書，把它稱為「一座為王后的愉悅而建的田園神殿」（本站譯）（[[s-2016-maes-laiterie-rambouillet]]）。本站只讀到這本書的書目與簡介。\n- 諾丁認為，批評者把這座假村莊看成品味低俗；更深的問題是，王室的權威建立在儀式上的高高在上，當王后自己扮起樸素的鄉居生活，人們就會問：那王室憑什麼統治別人？在貧富差距巨大的年代，這看起來更像是對窮人的嘲弄（[[s-2024-nordin-hameau]] 約 p. 30）。\n- （推論）「乳房碗是照王后的胸部做的」流傳很廣，但本站讀到的官方資料只說器形參考古代陶器，沒有提到王后。\n\n## 延伸閱讀\n\n- [[q-where-did-the-furniture-go]]：革命後，小特里亞儂的家具去了哪裡？\n\n- [[s-2024-nordin-hameau]]\n- [[s-2016-versailles-queens-hamlet]]\n- [[s-2025-dati-culture-sevres-rambouillet]]\n- [[s-1823-campan-memoires]]\n- [[s-1874-arneth-mercy-correspondance]]\n- [[s-2016-maes-laiterie-rambouillet]]\n- 名詞：[[e-campan]]\n- 名詞：[[e-petit-trianon]]\n- 相關故事：[[t-polignac]]、[[t-chemise]]、[[t-ghost]]、[[t-theatre]]\n\n## 還不知道的事\n\n- 「王后扮農婦」的形象最早從哪裡來：是當時的誹謗小冊子、19 世紀的小說，還是電影？還沒查到。\n- 美術史家 Meredith Martin《乳品室的王后們》（*Dairy Queens*, 2011）討論了貴族女性的乳品室風潮，本站還沒讀到。\n- 諾丁提到的瑞士農夫比薩爾，以及「他在王后坐牢時還送乳製品給她」的說法，本站還沒找到原始檔案。\n- 凡爾賽宮學者海茨曼（Annick Heitzmann）2006 年的〈特里亞儂：農莊的農場〉（*Versalia* 第 9 期）待讀。\n- 王后在小特里亞儂穿的衣服，見 [[t-chemise]]。\n- 朗布依埃乳品室和乳房碗的學術研究：大都會博物館 2002 年的專文（[[s-2002-schwartz-etruscan-sevres]]）、馬丁（Meredith Martin）2011 年的專書《Dairy Queens》（[[s-2011-martin-dairy-queens]]），本站都還沒讀到全文。\n",
    "links": [
     "e-campan",
     "e-petit-trianon",
+    "q-where-did-the-furniture-go",
     "s-1823-campan-memoires",
     "s-1874-arneth-mercy-correspondance",
     "s-2002-schwartz-etruscan-sevres",
@@ -4755,6 +4785,27 @@
    ]
   },
   {
+   "id": "q-where-did-the-furniture-go",
+   "type": "question",
+   "title": "革命以後，王后在凡爾賽和小特里亞儂的家具去了哪裡？",
+   "asked": "2026-11-16",
+   "sources": [
+    "s-1877-davillier-vente-mobilier",
+    "s-2026-versailles-after-revolution",
+    "s-2026-wallace-riesener",
+    "s-2017-caron-garde-meuble"
+   ],
+   "body": "## 簡短回答\n\n大部分被拍賣掉了。1793 年 8 月 25 日到 1794 年 8 月 11 日，凡爾賽宮和特里亞儂的家具在宮裡拍了將近一年，共 17,182 個號碼，買家多半是巴黎的商人、舊貨商和當年替王室做家具的工匠（[[s-1877-davillier-vente-mobilier]] pp. 16–17）。\n\n## 詳細說明\n\n王室 1789 年 10 月被帶到巴黎以後，小特里亞儂和凡爾賽宮的家具大多還留在原地（[[s-2026-versailles-after-revolution]]）。1793 年 8 月 25 日星期天上午十點，國民公會下令的大拍賣在凡爾賽開槌，地點就在宮裡朗巴勒親王妃的舊住處。十九世紀的收藏史家達維里耶（Davillier）讀過當時的拍賣紀錄：一共 35 大冊、17,182 個號碼，一個號碼常常是一整間房的床、椅子和帷幔；拍賣一天接一天，「將近一年少十四天」，到 1794 年 8 月 11 日才結束（本站譯）（[[s-1877-davillier-vente-mobilier]] pp. 16–17）。凡爾賽宮官網則說是 1793 年夏末「幾天之內」清空了超過一萬七千批（[[s-2026-versailles-after-revolution]]）；（推論）號碼數兩邊一致，拍賣期間本站以看過紀錄的達維里耶為準。\n\n拍賣現場有兩位國民公會議員坐鎮，一千法郎以上的東西要點蠟燭競標。有百合花或紋章的家具，買家通常得答應把這些「封建標記」除掉，例如第 7,033 號，一個鍍金銅飾的五斗櫃，以 200 里弗爾賣出，條件是「買家要把百合花去掉」。有一天拍到一幅奧地利皇帝的畫像，群眾大喊「燒掉！燒掉！」，王后父親的畫像就當場被燒了（本站譯）（[[s-1877-davillier-vente-mobilier]] p. 18）。\n\n紀錄裡有一件「桃花心木大理石面的寫字櫃（小特里亞儂來的）」，第 205 號，326 里弗爾，買家是當年替王室做家具的櫃匠里茲內（Riesener）；他還買回一張紫檀鑲嵌的書桌和一座鐘（[[s-1877-davillier-vente-mobilier]] p. 19）。倫敦華勒斯典藏館說，他相信自己的作品還會再流行，所以買回了許多當年的王室訂單（[[s-2026-wallace-riesener]]）。價錢都是用一路貶值的紙幣「指券」付的，達維里耶估計，實際價值大約打了三折多（[[s-1877-davillier-vente-mobilier]] pp. 15–16）。拍賣後好幾年，巴黎的舊貨店還在賣「凡爾賽和特里亞儂來的家具」，連里茲內自己都登報賣貨；達維里耶說，這些王家城堡的遺物「花了好幾年才賣完」（本站譯）（[[s-1877-davillier-vente-mobilier]] pp. 26–27）。\n\n（推論）這也是為什麼今天去小特里亞儂，看到的家具很多是十九、二十世紀以後陸續找回或買回來的。國家家具庫在拿破崙到第二帝國時期怎麼收回舊家具，有一份博士研究計畫在做（[[s-2017-caron-garde-meuble]]）；1867 年，凡爾賽曾為瑪麗．安東尼辦回顧展，重新布置了小特里亞儂（[[s-2017-caron-garde-meuble]]）。\n\n「英國人買走了王后的家具」這種說法，本站讀到的拍賣資料都沒有提到英國買家；達維里耶只說有人用阿姆斯特丹、漢堡、日內瓦的匯票來買（[[s-1877-davillier-vente-mobilier]] p. 16）。\n\n## 依據\n\n- 達維里耶 1877 年的研究，依據當時未出版的拍賣紀錄（原件存在凡爾賽的省政府）（[[s-1877-davillier-vente-mobilier]] p. 17 註）。本站讀了拍賣相關的前半部。\n- 凡爾賽宮官網的歷史頁（[[s-2026-versailles-after-revolution]]）與倫敦華勒斯典藏館的里茲內專題頁（[[s-2026-wallace-riesener]]）。\n- 還沒讀到：研究這場拍賣的當代學術論文全文。相關故事見 [[t-hameau]]、[[t-theatre]]（劇場的舞台大幕也在 1793 年被拍賣）。\n",
+   "links": [
+    "s-1877-davillier-vente-mobilier",
+    "s-2017-caron-garde-meuble",
+    "s-2026-versailles-after-revolution",
+    "s-2026-wallace-riesener",
+    "t-hameau",
+    "t-theatre"
+   ]
+  },
+  {
    "id": "overview",
    "type": "overview",
    "title": "總論",
@@ -4782,6 +4833,10 @@
   [
    "s-1777-bachaumont-memoires-secrets-v5",
    "t-handover"
+  ],
+  [
+   "s-1781-bachaumont-memoires-secrets-v10",
+   "s-1874-arneth-mercy-correspondance"
   ],
   [
    "s-1781-necker-compte-rendu",
@@ -4949,6 +5004,10 @@
   ],
   [
    "s-1874-arneth-mercy-correspondance",
+   "t-hameau"
+  ],
+  [
+   "s-1877-davillier-vente-mobilier",
    "t-hameau"
   ],
   [
@@ -5380,6 +5439,10 @@
    "t-hameau"
   ],
   [
+   "s-2017-caron-garde-meuble",
+   "t-hameau"
+  ],
+  [
    "s-2017-niedziela-joseph-ii-paris",
    "s-1823-campan-memoires"
   ],
@@ -5524,12 +5587,20 @@
    "t-clery"
   ],
   [
+   "s-2026-versailles-after-revolution",
+   "t-hameau"
+  ],
+  [
    "s-2026-versailles-chateau-first-balloon",
    "t-balloon"
   ],
   [
    "s-2026-versailles-coppola-exhibition",
    "t-coppola"
+  ],
+  [
+   "s-2026-wallace-riesener",
+   "t-hameau"
   ],
   [
    "t-august10",
@@ -6322,6 +6393,10 @@
   [
    "t-hameau",
    "e-petit-trianon"
+  ],
+  [
+   "t-hameau",
+   "q-where-did-the-furniture-go"
   ],
   [
    "t-hameau",
@@ -7776,6 +7851,30 @@
    "t-white-hair"
   ],
   [
+   "q-where-did-the-furniture-go",
+   "s-1877-davillier-vente-mobilier"
+  ],
+  [
+   "q-where-did-the-furniture-go",
+   "s-2017-caron-garde-meuble"
+  ],
+  [
+   "q-where-did-the-furniture-go",
+   "s-2026-versailles-after-revolution"
+  ],
+  [
+   "q-where-did-the-furniture-go",
+   "s-2026-wallace-riesener"
+  ],
+  [
+   "q-where-did-the-furniture-go",
+   "t-hameau"
+  ],
+  [
+   "q-where-did-the-furniture-go",
+   "t-theatre"
+  ],
+  [
    "overview",
    "t-cake"
   ],
@@ -8833,6 +8932,14 @@
    "category": "革命",
    "topic": "t-war-plans",
    "source": "s-1823-campan-memoires"
+  },
+  {
+   "date": "1793-08-25",
+   "title": "凡爾賽大拍賣開槌",
+   "desc": "在朗巴勒親王妃的舊住處開始拍賣，一共 17,182 個號碼，拍到隔年 8 月 11 日。",
+   "category": "革命",
+   "topic": "t-hameau",
+   "source": "s-1877-davillier-vente-mobilier"
   }
  ],
  "stats": [],

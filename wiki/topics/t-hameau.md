@@ -80,6 +80,8 @@ updated: 2026-11-16
 
 ## 延伸閱讀
 
+- [[q-where-did-the-furniture-go]]：革命後，小特里亞儂的家具去了哪裡？
+
 - [[s-2024-nordin-hameau]]
 - [[s-2016-versailles-queens-hamlet]]
 - [[s-2025-dati-culture-sevres-rambouillet]]

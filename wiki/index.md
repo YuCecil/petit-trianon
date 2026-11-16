@@ -2,7 +2,7 @@
 
 > 由 `tools/build.py` 自動產生於 2026-11-16，不要手改。
 
-資料卡 102 張（全文 25）｜主題 48｜實體 5｜問答 0
+資料卡 103 張（全文 25）｜主題 48｜實體 5｜問答 1
 
 ## 主題頁
 
@@ -63,9 +63,14 @@
 - [[e-petit-trianon]] 小特里亞儂（Petit Trianon） — 路易十六送給王后的小宮殿，她躲開宮廷禮儀的地方，也是本站的名字。
 - [[e-tourzel]] 圖澤爾夫人（Madame de Tourzel） — 1789 年接替波利尼亞克夫人的王室子女家庭教師，瓦雷納、杜樂麗宮、8 月 10 日的第一手證人。
 
+## 問答
+
+- [[q-where-did-the-furniture-go]] 革命以後，王后在凡爾賽和小特里亞儂的家具去了哪裡？ — 
+
 ## 資料卡
 
 - [[s-1777-bachaumont-memoires-secrets-v5]] 《祕密回憶錄》（Mémoires secrets）1777 年版第 5 冊（1770 年條目） — Louis Petit de Bachaumont（題名頁署名；實際為多人續寫的逐日巴黎見聞）（1777）｜報刊｜部分
+- [[s-1781-bachaumont-memoires-secrets-v10]] 《祕密回憶錄》（Mémoires secrets）1781 年版第 10 冊（1777 年 9 月至 12 月條目） — Louis Petit de Bachaumont（題名頁署名；實際為多人續寫的逐日巴黎見聞）（1781）｜報刊｜部分
 - [[s-1781-necker-compte-rendu]] Compte rendu au Roi（國王財政報告） — Jacques Necker（1781）｜檔案｜部分
 - [[s-1782-rousseau-confessions]] Les Confessions（卷六，「大公主」段落） — Jean-Jacques Rousseau（1782）｜回憶錄｜部分
 - [[s-1783-faujas-description]] 《蒙哥爾菲機器氣球實驗描述》（Description des expériences de la machine aérostatique de MM. de Montgolfier） — Barthélemy Faujas de Saint-Fond（1783）｜專書｜部分

@@ -11,7 +11,7 @@ url: https://www.wallacecollection.org/explore/explore-in-depth/riesener/the-fur
 access: 公開
 depth: 摘要
 period: [1769, 1800]
-topics: [t-sale]
+topics: [t-hameau]
 entities: []
 reliability: 高
 added: 2026-11-16

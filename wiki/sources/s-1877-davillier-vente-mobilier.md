@@ -11,7 +11,7 @@ url: https://archive.org/details/laventedumobilieOOdavi
 access: 公開
 depth: 部分
 period: [1793, 1794]
-topics: [t-sale]
+topics: [t-hameau]
 entities: []
 reliability: 中
 added: 2026-11-16

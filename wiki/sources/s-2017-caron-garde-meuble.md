@@ -11,7 +11,7 @@ url: https://www.chateauversailles-recherche.fr/IMG/pdf/mathieu_caron.pdf
 access: 公開
 depth: 摘要
 period: [1800, 1870]
-topics: [t-sale]
+topics: [t-hameau]
 entities: []
 reliability: 中
 added: 2026-11-16

@@ -11,7 +11,7 @@ url: https://en.chateauversailles.fr/discover/history/key-dates/versailles-after
 access: 公開
 depth: 摘要
 period: [1789, 1799]
-topics: [t-sale]
+topics: [t-hameau]
 entities: []
 reliability: 高
 added: 2026-11-16
