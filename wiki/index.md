@@ -2,7 +2,7 @@
 
 > 由 `tools/build.py` 自動產生於 2026-11-17，不要手改。
 
-資料卡 119 張（全文 26）｜主題 51｜實體 5｜問答 1
+資料卡 123 張（全文 26）｜主題 52｜實體 5｜問答 1
 
 ## 主題頁
 
@@ -42,6 +42,7 @@
 - [[t-mops]] 王后的小狗：一隻從維也納來的巴哥犬？ — 本站吉祥物的由來：一封 1770 年的密報裡，藏著一隻叫 Mops 的狗。
 - [[t-necklace]] 鑽石項鍊事件：被騙的人輸掉了名聲 — 一條她沒買、沒戴過的項鍊，卻讓全法國相信她是共犯。
 - [[t-october-days]] 麵包師一家：1789 年 10 月，巴黎走到凡爾賽 — 兩天之內，王室一家永遠離開了凡爾賽。
+- [[t-perfume]] 王后的香水師：梳妝盒和逃亡 — 王后真的有御用香水師，但「香水害逃亡露餡」找不到證據。
 - [[t-polignac]] 波利尼亞克夫人：王后的閨蜜，和一整個家族 — 一個窮貴族家的少婦，成了王后最親的朋友；她的家人則成了全宮廷的眼中釘。
 - [[t-potato]] 馬鈴薯花：國王插在扣眼，王后戴在頭上？ — 帕門蒂耶推廣馬鈴薯的傳說，最早出現在他死後的悼詞裡。
 - [[t-pouf]] 三十六吋高的頭髮：王后與高髮髻 — 母親從維也納寫信抱怨：報紙說你的頭髮有三十六吋高。
@@ -91,6 +92,7 @@
 - [[s-1797-laperouse-voyage]] 拉佩魯茲《環球航海記》第一卷（Voyage de La Pérouse autour du monde，1797 年版） — 拉佩魯茲（Jean-François de Galaup, comte de La Pérouse）；編者 Louis-Antoine Milet-Mureau（1797）｜專書｜部分
 - [[s-1798-clery-journal]] 聖殿塔日記（Journal de ce qui s'est passé à la tour du Temple pendant la captivité de Louis XVI） — 克萊里（Jean-Baptiste Cléry，1759–1809）（1798）｜日記｜部分
 - [[s-1801-fargeon-art-parfumeur]] L'Art du parfumeur, ou Traité complet de la préparation des parfums, cosmétiques, pommades, pastilles, odeurs, huiles antiques, essences, bains aromatiques et des gants de senteur — Jean-Louis Fargeon（署名「D. J. F. ci-devant Parfumeur de la Cour」）（1801）｜專書｜部分
+- [[s-1808-niemetschek-lebensbeschreibung]] 《莫札特生平》（Lebensbeschreibung des K.K. Kapellmeisters Wolfgang Amadeus Mozart），布拉格大學教授寫的早期傳記 — Franz Xaver Niemetschek（1808）｜傳記｜部分
 - [[s-1814-cadet-eloge-parmentier]] 《Éloge d'A.-A. Parmentier》（帕門蒂耶頌詞，1814） — C.-L. Cadet de Gassicourt（1814）｜傳記｜部分
 - [[s-1815-edgeworth-memoirs]] 埃奇沃斯神父回憶錄：路易十六最後幾小時的敘述（Memoirs of the Abbé Edgeworth, containing his narrative of the last hours of Louis XVI） — 埃奇沃斯神父（Henry Essex Edgeworth de Firmont，1745–1807）；1815 年編者 C. Sneyd Edgeworth（1815）｜回憶錄｜部分
 - [[s-1822-choiseul-relation]] Relation du départ de Louis XVI, le 20 juin 1791 — Choiseul（Claude Antoine Gabriel, duc de）（1822）｜回憶錄｜部分
@@ -99,11 +101,14 @@
 - [[s-1823-goguelat-memoire]] Mémoire sur les événemens relatifs au voyage de Louis XVI à Varennes — Goguelat（François, baron de）（1823）｜回憶錄｜部分
 - [[s-1824-lafont-daussonne-memoires]] Mémoires secrets et universels des malheurs et de la mort de la reine de France — Gaspard Louis Lafont d'Aussonne（1824）｜回憶錄｜部分
 - [[s-1826-payen-pomme-de-terre]] 《馬鈴薯專論》（Traité de la pomme de terre，1826） — Anselme Payen 與 Chevallier（1826）｜專書｜部分
+- [[s-1828-nissen-biographie]] 《莫札特傳》（Biographie W. A. Mozart's），依書信與文獻寫成的早期傳記 — Georg Nikolaus von Nissen（1828）｜傳記｜部分
 - [[s-1835-vigee-le-brun-souvenirs]] Souvenirs de Madame Louise-Élisabeth Vigée-Lebrun（三卷，1835–1837） — Louise-Élisabeth Vigée Le Brun（1755–1842）（1835）｜回憶錄｜部分
 - [[s-1838-tussaud-memoirs]] Madame Tussaud's Memoirs and Reminiscences of France, Forming an Abridged History of the French Revolution（1838） — Marie Tussaud（瑪麗．杜莎，原名 Marie Grosholtz）；編者 Francis Hervé（1838）｜回憶錄｜部分
 - [[s-1841-karr-guepes]] Les Guêpes（《黃蜂》），1841 年 11 月號 — Alphonse Karr（1841）｜報刊｜部分
+- [[s-1845-holmes-life-mozart]] 《莫札特的一生》（The Life of Mozart），英文傳記，大量依據 Nissen 的資料 — Edward Holmes（1845）｜傳記｜部分
 - [[s-1851-mirabeau-lamarck]] Correspondance entre le comte de Mirabeau et le comte de La Marck pendant les années 1789, 1790 et 1791（兩卷） — Honoré-Gabriel de Riquetti, comte de Mirabeau（信件）；Adolphe de Bacourt（編）；La Marck 為收信人（1851）｜書信｜部分
 - [[s-1852-marie-therese-temple]] 瑪麗－泰蕾茲回憶錄：「王室在聖殿塔的囚禁」（收於 1852 年版《Relation du voyage de Varennes》） — 瑪麗－泰蕾茲－夏綠蒂（Marie-Thérèse-Charlotte de France，王后的女兒，後來的昂古萊姆公爵夫人，1778–1851）（1852）｜回憶錄｜部分
+- [[s-1856-jahn-mozart]] 《W. A. Mozart》，十九世紀德文學界的重要莫札特研究 — Otto Jahn（1856）｜傳記｜部分
 - [[s-1862-sanson-sept-generations]] 七代劊子手：桑松家族回憶錄（Sept générations d'exécuteurs, 1688–1847 ; mémoires des Sanson，本站使用第 3、4 冊） — 亨利．桑松（Henri Sanson，生於 1799，編者），據其祖父 Charles-Henri Sanson（生於 1739）與父 Henri Sanson（1767–1849）的家族記述整理（1862）｜回憶錄｜部分
 - [[s-1865-prevost-proces-recueil]] Procès de Marie Antoinette: ci-devant reine des Français; ou, Recueil exact — Nicolas Prévost（編者）（1865）｜檔案｜部分
 - [[s-1866-arneth-marie-antoinette]] Marie Antoinette, Joseph II. und Leopold II. Ihr Briefwechsel — Alfred Ritter von Arneth（編）（1866）｜書信｜部分

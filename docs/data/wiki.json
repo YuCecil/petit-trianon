@@ -1,9 +1,9 @@
 {
  "built": "2026-11-17",
  "counts": {
-  "sources": 119,
+  "sources": 123,
   "fulltext": 26,
-  "topics": 51,
+  "topics": 52,
   "entities": 5,
   "questions": 1,
   "events": 117,
@@ -527,6 +527,34 @@
    ]
   },
   {
+   "id": "s-1808-niemetschek-lebensbeschreibung",
+   "type": "source",
+   "title": "《莫札特生平》（Lebensbeschreibung des K.K. Kapellmeisters Wolfgang Amadeus Mozart），布拉格大學教授寫的早期傳記",
+   "author": "Franz Xaver Niemetschek",
+   "year": 1808,
+   "kind": "傳記",
+   "lang": "de",
+   "venue": "Prag，第二版增訂本；題頁 OCR 讀作 1806，BSB 目錄記為 1808；Internet Archive / BSB 識別碼 10600188bsb（本站讀的是 OCR 文字，raw/books/s-1808-niemetschek-lebensbeschreibung.txt）",
+   "url": "https://archive.org/details/10600188bsb",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1756,
+    1791
+   ],
+   "topics": [
+    "t-mozart"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n布拉格大學教授 Niemetschek 寫的莫札特傳記，首版 1798 年，本站讀的是增訂的第二版。書裡的同一則跌倒軼事只寫到「小公主扶他」，沒有「求婚」，是目前比 1828 年 Nissen 更早、但版本不完整的對照。\n\n## 三個重點\n\n1. 軼事內容：在女皇瑪麗亞．特蕾西亞的房間裡，他因為不習慣打了蠟的地板而跌倒；「Niemand war geschäftiger ihm beyzuspringen und aufzuhelfen, als die kleine Erzherzoginn Antoinette」（沒有人比小女大公安托瓦內特更殷勤地來扶他）；他很感動，跑到女皇那裡，稱讚這位公主的好心（約第 10 頁，OCR 推定）。\n2. 沒有求婚：本書版本沒有「我要娶你」，也沒有「告訴母親」的情節。作者寫的是他對這位公主的感激與好感。\n3. 地點不同：本書寫「in den Zimmern der höchstseligen Kaiserinn Maria Thereſia」（在已故女皇瑪麗亞．特蕾西亞的房間裡），沒有寫美泉宮。\n\n## 用了什麼史料\n\n作者在布拉格生活，與莫札特在布拉格的交往密切，書中大量引用莫札特的書信與同時代資料。這段軼事沒有寫來源。\n\n## 跟其他資料的關係\n\n- 與 [[s-1828-nissen-biographie]] 相比：Nissen 在同一段軼事加入了「我要娶你」、「告訴母親」、「出於感激」的對話。Niemetschek 沒有這些情節。\n- 這個差別是目前最直接的證據，顯示「求婚」的情節在 1808 年（或 1806 年）的版本裡還沒有出現（推論，因為只核對了第二版，首版未核對）。\n\n## 值得記住的一句話\n\n原文：「Niemand war geschäftiger ihm beyzuspringen und aufzuhelfen, als die kleine Erzherzoginn Antoinette」\n中譯：沒有人比小女大公安托瓦內特更殷勤地來扶他、幫他站起來。（本站譯，約第 10 頁，OCR 推定）\n\n## 還不確定的地方\n\n- 題頁年份：OCR 讀作 1806，BSB 目錄記為 1808，需要再核對題頁。\n- 首版（1798 年）是否也沒有求婚的情節，沒有核對。如果首版有，就要改寫本卡的結論。\n- 頁碼是 OCR 推定，不能直接引用。\n- 軼事的來源（作者是否親聞）書中沒有寫。\n",
+   "links": [
+    "s-1828-nissen-biographie",
+    "t-mozart"
+   ]
+  },
+  {
    "id": "s-1814-cadet-eloge-parmentier",
    "type": "source",
    "title": "《Éloge d'A.-A. Parmentier》（帕門蒂耶頌詞，1814）",
@@ -757,6 +785,36 @@
    ]
   },
   {
+   "id": "s-1828-nissen-biographie",
+   "type": "source",
+   "title": "《莫札特傳》（Biographie W. A. Mozart's），依書信與文獻寫成的早期傳記",
+   "author": "Georg Nikolaus von Nissen",
+   "year": 1828,
+   "kind": "傳記",
+   "lang": "de",
+   "venue": "Leipzig: Breitkopf & Härtel，1828；Internet Archive 識別碼 bub_gb_BRRbAAAAQAAJ（本站讀的是 OCR 文字，raw/books/s-1828-nissen-biographie.txt）",
+   "url": "https://archive.org/details/bub_gb_BRRbAAAAQAAJ",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1756,
+    1791
+   ],
+   "topics": [
+    "t-mozart"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n1828 年出版的早期莫札特傳記，由莫札特的遺孀康絲坦采整理。書裡收了利奧波德 1762 年的信，也是目前讀到「六歲的莫札特向小瑪麗．安東尼求婚」這則軼事最早的印刷出處。\n\n## 三個重點\n\n1. 軼事位置：本書在 1762 年維也納之行的段落裡寫：「Von dieser Reise hat man noch folgende Anekdote」（關於這次旅行，還有下面一則軼事），兩位大公主牽著他走，他在打了蠟的地板上跌倒，瑪麗．安托瓦內特扶起他，他說「Sie sind brav? ich will Sie heirathen.」（頁 31–32，OCR 推定）。\n2. 來源：本書沒有註明軼事的消息來源，也沒有說是誰聽來的，只說「erzählte das der Mutter」（她把這件事告訴母親）。所以它不是目擊紀錄。\n3. 利奧波德的信：1762 年 10 月 16 日（OCR 讀作「iG.」）寫自維也納，說沃爾夫勒「auf den Schoos« gesprungen, hat sie um den Hals genommen und rechtschaffen abgeküsst«」（跳上女皇的膝蓋，摟住她的脖子，好好地親了她一下）（頁 25，OCR 推定）。信中沒有寫求婚的事。\n\n## 用了什麼史料\n\n以莫札特家族的書信為主，有利奧波德與妻子、女兒的信件，也有沃爾夫岡寫給父親與家人的信。本書由康絲坦采整理，編排與刪節的方式不明。書中的文字是德文，且與原信有差異（原信收在 Bauer–Deutsch 1962 版，未取得）。\n\n## 跟其他資料的關係\n\n- 與 [[s-1808-niemetschek-lebensbeschreibung]] 相比：Niemetschek 的同一段軼事只寫到跌倒與大公主扶他，沒有「我要娶你」。所以「求婚」這句是目前已知印刷本裡 1828 年才出現的。\n- 與 [[s-1856-jahn-mozart]] 相比：Jahn 的德文版幾乎逐字相同，包括「ich will Sie heiraten」，可見十九世紀的德文傳記是沿用此版本（推論）。\n- 與 [[s-1845-holmes-life-mozart]] 相比：Holmes 的英文版同樣有「I will marry you」，內容高度一致，推測是譯自本書（推論）。\n\n## 值得記住的一句話\n\n原文：「Er sagte zu ihr: ‚Sie sind brav? ich will Sie heirathen.‘」\n中譯：他對她說：「你很乖吧？我要娶你。」（本站譯，頁 31–32，OCR 推定）\n\n## 還不確定的地方\n\n- 頁碼是 OCR 推定（頁碼數字位於頁末，段落跨頁用連字號斷開），尚未用 PDF 逐頁核對。\n- 軼事沒有註明來源，書中也沒有說明康絲坦采從哪裡得到這個說法。\n- 利奧波德 1762 年 10 月 16 日的信收件人在本書中沒有寫明，依內容推定寫給薩爾茨堡的熟人（可能是 Hagenauer），要用 Bauer–Deutsch 原版核對。\n- 本書的版本經過編輯，要用原信核對是否有刪節或改寫。\n- 1798 年 Niemetschek 首版是否有「求婚」，尚未核對（見 Niemetschek 資料卡的說明）。\n",
+   "links": [
+    "s-1808-niemetschek-lebensbeschreibung",
+    "s-1845-holmes-life-mozart",
+    "s-1856-jahn-mozart",
+    "t-mozart"
+   ]
+  },
+  {
    "id": "s-1835-vigee-le-brun-souvenirs",
    "type": "source",
    "title": "Souvenirs de Madame Louise-Élisabeth Vigée-Lebrun（三卷，1835–1837）",
@@ -847,6 +905,35 @@
    ]
   },
   {
+   "id": "s-1845-holmes-life-mozart",
+   "type": "source",
+   "title": "《莫札特的一生》（The Life of Mozart），英文傳記，大量依據 Nissen 的資料",
+   "author": "Edward Holmes",
+   "year": 1845,
+   "kind": "傳記",
+   "lang": "en",
+   "venue": "London，初版 1845；本站讀的是 Mozarteum 數位版（題頁標示 London, 1878）；Internet Archive 識別碼 the-life-of-mozart（本站讀的是 OCR 文字，raw/books/s-1845-holmes-life-mozart.txt）",
+   "url": "https://archive.org/details/the-life-of-mozart",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1756,
+    1791
+   ],
+   "topics": [
+    "t-mozart"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\n1845 年的英文莫札特傳記。它的 1762 年軼事幾乎與 Nissen 1828 相同，包括「I will marry you」，但沒有註明來源，所以它只能說明這個說法在英語世界怎麼流傳，不是獨立證據。\n\n## 三個重點\n\n1. 軼事內容：兩位大公主牽著男孩去見女皇，他「being unused to the highly polished floor」（不習慣打了蠟的地板）滑倒；其中一位 Marie-Antoinette 把他扶起，他說「‘You are very kind; I will marry you.’」。她把這件事告訴母親，母親問他為什麼，他答「From gratitude」（出於感激）。\n2. 沒有來源：這段前後的 Holmes 文字都沒有註明來源，但同一本書在其他地方會明確寫「So says Nissen」，所以這段很可能是引自 Nissen 而沒有註明（推論）。\n3. 不是獨立證據：內容與 Nissen 高度一致，不能當作第二個獨立的目擊或文獻來源。\n\n## 用了什麼史料\n\n全書以 Nissen 1828 為主要資料來源，也參考其他德文資料與莫札特書信。沒有原始的 1762 年文件。\n\n## 跟其他資料的關係\n\n- 與 [[s-1828-nissen-biographie]] 相比：內容幾乎一致，顯示英文版是沿用 Nissen（推論）。\n- 與 [[s-1808-niemetschek-lebensbeschreibung]] 相比：Niemetschek 沒有求婚的情節，Holmes 有。\n\n## 值得記住的一句話\n\n原文：‘You are very kind; I will marry you.’\n中譯：你很好心；我要娶你。（本站譯，1762 年段落，無可靠頁碼）\n\n## 還不確定的地方\n\n- 數位版沒有可靠頁碼，要用實體書或 Google Books 版核對頁碼。\n- 1845 年初版與本站讀的 1878 版是否有差異，沒有核對。\n- OCR 把「also」讀成「ales」，這是 OCR 錯誤（推論）。\n",
+   "links": [
+    "s-1808-niemetschek-lebensbeschreibung",
+    "s-1828-nissen-biographie",
+    "t-mozart"
+   ]
+  },
+  {
    "id": "s-1851-mirabeau-lamarck",
    "type": "source",
    "title": "Correspondance entre le comte de Mirabeau et le comte de La Marck pendant les années 1789, 1790 et 1791（兩卷）",
@@ -898,6 +985,36 @@
    "body": "## 一句話\n\n王后的女兒瑪麗亞十三、四歲時在聖殿塔的回憶，記下 1792 年 8 月至 1793 年 8 月間的家人、看守與分離；這是王室子女唯一留下的囚禁記述，但它是一位當事人的單方說法，而且是編輯後的版本。\n\n## 三個重點\n\n1. 分離的順序：1792 年 10 月國王被單獨遷到另一間房（p. 56）；1793 年 7 月 3 日王太子被強行從母親身邊帶走，王后只有在市政官以殺害孩子相脅時才交出他（p. 75–76）；8 月 2 日凌晨王后被移往古監獄（p. 78–79）。\n2. 看守與羞辱：市政官 Simon（鞋匠）把王太子交給自己後，逼他唱「Carmagnole」、戴紅帽子、說咒罵上帝與家人的話（p. 80–81）；門房 Rocher 會把煙吹向王后（p. 49）。\n3. 1793 年 1 月 21 日：國王下樓時把遺囑與一筆錢交給市政官，錢被留下（p. 65）；行刑前他想向人群說話，被 Santerre 的鼓聲蓋住（p. 66）；下午王后要見 Cléry，Cléry 轉交國王留下的結婚戒指與一包家人的頭髮（pp. 66–67）。\n\n## 用了什麼史料\n\n回憶錄本身。編輯 Pastoret 的序言引用 Sainte-Beuve 的說法，指出這份「聖殿塔的記述」是在塔裡最後幾個月寫的，當時看守的嚴厲程度已經有所放寬（頁碼：序言，p. 120–121 附近，待核）。序言也說她 1791 年的瓦雷納逃亡另有「簡單而天真的回憶」（另一篇，不在本檔內）。\n\n## 跟其他資料的關係\n\n- 與 Cléry 的日記（s-1798-clery-journal）對照：朗巴勒親王妃頭顱（1792 年 9 月 3 日）、1793 年 1 月 20 日的告別、1 月 21 日清晨的彌撒，兩人都有記述，細節有出入（見全文筆記「矛盾」一節）。\n- 與圖澤爾第 2 冊（s-1883-tourzel-memoires）重疊：1792 年 8 月的入塔與 8 月 19–20 日夜間帶走 Lamballe、Tourzel 母女，兩人都寫到，時間與人物一致。\n- 本檔內還附了一篇 Montbel 伯爵的記述（p. 107 之後），不是瑪麗亞寫的，本站不採用為她的說法。\n\n## 值得記住的一句話\n\n「Ils la menacèrent si positivement de tuer l'enfant, si on ne le leur livrait pas」（p. 76）。\n中譯：「他們明確威脅，如果不把孩子交出來就殺了他，於是她的母愛讓她做出了這個犧牲。」（本站譯，OCR 文字，以影像為準）\n\n## 還不確定的地方\n\n- 寫作與出版年：本站讀的是 1852 年版。使用者提到的 1817 與 1892 年版，本站在 Internet Archive 搜尋時沒有找到；如需定年份，要另外核對版本。\n- 頁碼：OCR 文字的頁眉偶有錯字（例如「60」其實是 50），部分頁碼已推算，標「約」。\n- 讀到的範圍：本站讀了 Temple 敘述的大部分（p. 47–81），1793 年 8 月之後（p. 82 起）與 Montbel 附錄未讀完。\n- 王太子在 Simon 手下的細節完全來自她的記述，Simon 本人沒有留下說法，這一點要特別小心。\n",
    "links": [
     "t-temple"
+   ]
+  },
+  {
+   "id": "s-1856-jahn-mozart",
+   "type": "source",
+   "title": "《W. A. Mozart》，十九世紀德文學界的重要莫札特研究",
+   "author": "Otto Jahn",
+   "year": 1856,
+   "kind": "傳記",
+   "lang": "de",
+   "venue": "Leipzig: Breitkopf & Härtel，1856–1859（四冊）；Internet Archive / Google 數位化識別碼 bub_gb_bGIBAAAAQAAJ（本站讀的是 OCR 文字，raw/books/s-1856-jahn-mozart.txt）",
+   "url": "https://archive.org/details/bub_gb_bGIBAAAAQAAJ",
+   "access": "公開",
+   "depth": "部分",
+   "period": [
+    1756,
+    1791
+   ],
+   "topics": [
+    "t-mozart"
+   ],
+   "entities": [],
+   "reliability": "中",
+   "added": "2026-11-17",
+   "body": "## 一句話\n\nOtto Jahn 1856 年的德文莫札特研究，是十九世紀學界的重要著作。他在 1762 年維也納段落裡，把女皇膝蓋的親吻與「我要娶你」的軼事都寫進去，但沒有另外註明出處。\n\n## 三個重點\n\n1. 女皇的親吻：Jahn 寫「Der Kaiserin sprang er auf den Schoß, nahm sie um den Hals und küßte sie rechtschaffen ab」（他跳上女皇的膝蓋，摟住她的脖子，好好地親了她）。內容與利奧波德 1762 年 10 月的信一致（頁數 OCR 推定，約第 39 頁前後）。\n2. 求婚軼事：在段落裡寫「Besonders zugethan war er der Erzherzogin Marie Antoinette」，接著寫跌倒、扶起、「Sie sind brav, ich will Sie heiraten.」，母親問他為什麼，他答「Aus Dankbarkeit」（約第 39–40 頁，OCR 推定）。\n3. 沒有註明來源：段落中有一個註腳符號「10.」，但 OCR 找不到對應的註文，無法確認這一段的來源。\n\n## 用了什麼史料\n\n全書大量引用書信與同時代文獻，是 19 世紀的學術研究，編排上有明確的日期與註腳。這段軼事的來源沒有辨認出來。\n\n## 跟其他資料的關係\n\n- 與 [[s-1828-nissen-biographie]] 相比：內容幾乎逐字相同，Jahn 很可能沿用 Nissen（推論）。\n- 與 [[s-1808-niemetschek-lebensbeschreibung]] 相比：Niemetschek 沒有求婚的情節，Jahn 有。\n- 與 [[s-1845-holmes-life-mozart]] 相比：英文版與德文版內容一致，顯示這個說法在 1828 到 1856 年之間被多次沿用。\n\n## 值得記住的一句話\n\n原文：「Sie sind brav, ich will Sie heiraten.」\n中譯：你很乖，我要娶你。（本站譯，約第 39–40 頁，OCR 推定）\n\n## 還不確定的地方\n\n- Fraktur OCR 錯誤多，引文要用原書或 Google Books 版逐字核對。\n- 頁碼未核對。\n- 註腳「10.」指向的來源沒有辨認出來。\n- 這段軼事是否與利奧波德原信有差異，要用原信核對。\n",
+   "links": [
+    "s-1808-niemetschek-lebensbeschreibung",
+    "s-1828-nissen-biographie",
+    "s-1845-holmes-life-mozart",
+    "t-mozart"
    ]
   },
   {
@@ -4639,6 +4756,39 @@
    ]
   },
   {
+   "id": "t-perfume",
+   "type": "topic",
+   "title": "王后的香水師：梳妝盒和逃亡",
+   "category": "時尚",
+   "period": [
+    1774,
+    1793
+   ],
+   "summary": "王后真的有御用香水師，但「香水害逃亡露餡」找不到證據。",
+   "myth": "王后叫香水師法爾容把旅行梳妝盒裝滿香水帶著逃亡，這個梳妝盒讓逃亡露了餡。",
+   "verdict": "查無實據",
+   "sources": [
+    "s-1823-campan-memoires",
+    "s-2013-briot-fargeon-fournisseur",
+    "s-2020-lanoe-gallois-huet",
+    "s-1801-fargeon-art-parfumeur",
+    "s-1852-marie-therese-temple"
+   ],
+   "updated": "2026-11-17",
+   "body": "## 一句話說明\n\n巴黎香水師法爾容（Jean-Louis Fargeon）確實是供應宮廷的香水商，研究者稱他是「宮廷與瑪麗．安東尼的香水師」。王后逃亡前也確實為了一個旅行梳妝盒冒險，還被宮女告了密。但告密的內容是梳妝盒和鑽石，不是香水；所有讀到的資料裡，法爾容都沒有出現在這件事裡。\n\n## 迷思與史料\n\n這個故事最常見的版本是：瓦雷納逃亡前，王后叫香水師把她的梳妝盒裝滿香水，結果被人看出她要遠行。本站讀到的史料只有康龐夫人的回憶錄寫了梳妝盒的事，而她說的正好相反：送走梳妝盒前，她吩咐宮女把裡面的東西全部清空，還要「小心別留下任何香水的味道」，因為那些香水「可能不合那位公主的口味」（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 p. 142）。\n\n後來從巴黎市長手上轉來的告密信，說的是：王后把梳妝盒當成禮物送去布魯塞爾只是藉口，因為「王后太喜歡這件東西，不可能捨得送人」，還常說要是出門旅行，它會很有用；另外又告發康龐夫人陪王后關在房裡一整晚、重新打包鑽石（本站譯）（[[s-1823-campan-memoires]] 第 2 冊 p. 142）。信裡沒有香水。研究法爾容的兩篇學術論文，以及法爾容自己 1801 年的書，也都沒有提到梳妝盒（[[s-2013-briot-fargeon-fournisseur]]；[[s-2020-lanoe-gallois-huet]]；[[s-1801-fargeon-art-parfumeur]]）。所以本站判定「查無實據」。\n\n## 故事是這樣的\n\n### 羅勒街 11 號\n\n法爾容 1748 年生在南法的蒙彼利埃；1774 年 3 月 3 日，他在巴黎取得香水商的師傅資格，店開在羅勒街（rue du Roule）11 號，1806 年 7 月 9 日去世（[[s-2013-briot-fargeon-fournisseur]] p. 167）。\n\n這家店不是他開創的。研究巴黎香水業的拉諾（Lanoë）查到，早在 1732 年，前一任老闆就掛著「國王與王后的御用香水商」頭銜，店裡鋪著三塊繡有王室紋章的地毯；1774 年由法爾容接手，研究者稱他是「宮廷與瑪麗．安東尼的香水師」（本站譯）（[[s-2020-lanoe-gallois-huet]] p. 328）。1770 年王太子大婚那一年，一位親王夫人就向這家店的前任老闆買了好幾百雙香味手套，拉諾說這和婚禮的慶典有關（[[s-2020-lanoe-gallois-huet]] p. 336）。（推論）香水商在十八世紀不只賣香水，也賣香粉、髮蠟、手套，跟王后的梳妝台關係最近。\n\n### 一本不提王后的書\n\n1801 年，法爾容出版了一本《香水師的技藝》，封面只署名「D. J. F.，前宮廷香水師」（本站譯）（[[s-1801-fargeon-art-parfumeur]] 標題頁）。那時是拿破崙當政，王后已經死了八年；全書找不到「王后」「陛下」「凡爾賽」這些字（[[s-1801-fargeon-art-parfumeur]]）。（推論）在革命剛結束的年代，跟斷頭台上的王后扯上關係，大概不是好招牌。\n\n書裡寫，最上等的香料來自阿拉伯，印度出產麝香和麝貓香；歐洲則出產玫瑰、薰衣草、橙花、茉莉、水仙這些花（[[s-1801-fargeon-art-parfumeur]] p. 4）。講到玫瑰，他只寫了一句：「大家都認識。花香靠蒸餾保存。」紫羅蘭則是「香味很討人喜歡」，但蒸餾不出來，要用精油去吸附（本站譯）（[[s-1801-fargeon-art-parfumeur]] p. 18）。\n\n### 從麝香到花香\n\n十八世紀後半，香水的流行在變。法爾容在一個古老的「天使水」配方後面寫：「要完全符合今天的口味，必須把麝香全部拿掉，只放幾滴琥珀精。」（本站譯）（[[s-1801-fargeon-art-parfumeur]] p. 119）\n\n歷史學者布里奧（Eugénie Briot）比對了法爾容 1806 年死後的店鋪清冊：價值 143,950 法郎的貨品裡，麝香只值 2,812 法郎，不到三公斤；成百公斤的，是玫瑰、薰衣草、茉莉、柑橘、康乃馨、丁香花做的香粉、香膏和香水。她的結論是，在法爾容的生產裡，佔最大份量的不是香脂、樹脂和木頭，而是「花和柑橘」（本站譯）（[[s-2013-briot-fargeon-fournisseur]] pp. 169–170）。她還發現，書裡花了整整兩頁寫乳香，清冊裡卻根本沒有；她認為那些寫異國香料的長篇大論，主要是「象徵性」的，用來展示香水師的學問（[[s-2013-briot-fargeon-fournisseur]] p. 170）。（推論）所以「王后喜歡清淡的花香」這個說法，和那個時代的流行方向是一致的；但本站沒有讀到任何一份寫王后個人喜好的史料。\n\n### 梳妝盒\n\n逃亡的事是真的。康龐夫人說，這個梳妝盒是 1789 年第一波暴動時，王后為了「萬一要倉皇出逃」特別訂做的，大得驚人，裡面從暖床的銅壺到銀碗都有（[[s-1823-campan-memoires]] 第 2 冊 p. 313）。1791 年春天，王后打算出逃，捨不得丟下它，想藉口送給姊姊、尼德蘭總督克莉絲汀大公夫人，先運到布魯塞爾。康龐夫人極力反對：這麼大一件旅行用的家具突然從王后房間消失，一定會引人懷疑（[[s-1823-campan-memoires]] 第 2 冊 pp. 140, 313–314）。\n\n最後想出的辦法是：請奧地利使館的代辦在王后梳妝時，當著所有侍女的面，替大公夫人「訂一個一模一樣的」；王后就當眾吩咐康龐夫人去訂，花了五百路易。可是工匠說要六週才做得好，王后等不及，乾脆說姊姊等得不耐煩，把自己那個清空送走（[[s-1823-campan-memoires]] 第 2 冊 pp. 140–142）。\n\n康龐夫人一直提防的那個宮女，就這樣看出了破綻。她從王后結婚時就在身邊，年收入超過一萬兩千法郎，情人是拉法葉的副官古維永（Gouvion）；她向市長告發，說宮裡正在準備出走（[[s-1823-campan-memoires]] 第 2 冊 pp. 141–142）。康龐夫人記告密的日期，一處寫 5 月 21 日，一處寫 5 月 15 日（[[s-1823-campan-memoires]] 第 2 冊 pp. 142, 315）。她說，王后把這些心思放在「這件小玩意兒」上，實在太多了（[[s-1823-campan-memoires]] 第 2 冊 p. 314）。\n\n### 最後一瓶\n\n兩年後，1793 年 8 月 2 日凌晨，王后要從聖殿塔被移往古監獄。女兒瑪麗－泰蕾茲記得，市政官員搜了母親的口袋，只留給她一條手帕和一瓶香水（[[s-1852-marie-therese-temple]] p. 79）。\n\n## 研究者怎麼看\n\n- **法爾容和王后的關係：** 拉諾稱法爾容是「宮廷與瑪麗．安東尼的香水師」（[[s-2020-lanoe-gallois-huet]] p. 328），布里奧也說他身為宮廷香水師，自然也替王后供貨（[[s-2013-briot-fargeon-fournisseur]] p. 167）。但本站讀到的兩篇論文都沒有列出王后的訂單。\n- **香水師的書可不可信：** 布里奧認為法爾容書裡的內容，和他店裡真正賣的東西有落差，書是展示，清冊才是生意（[[s-2013-briot-fargeon-fournisseur]] p. 170）。\n- 法國作家費多（Élisabeth de Feydeau）2004 年寫了法爾容的專書，許多「王后的香水」故事都從這本書流傳開來；本站還沒讀到，無法確認書中的依據。\n\n## 延伸閱讀\n\n- [[t-varennes]]：梳妝盒之後一個月的逃亡。\n- [[t-bertin]]：王后的服裝商貝爾坦。\n- [[t-pouf]]：王后的髮型與髮型師。\n- [[t-temple]]：聖殿塔裡的最後一年。\n\n## 還不知道的事\n\n- 王后向法爾容訂過哪些東西：宮廷的帳冊本站還沒查到。\n- 費多 2004 年的專書依據了哪些檔案。\n- 告密的宮女叫什麼名字，康龐夫人沒有寫。\n",
+   "links": [
+    "s-1801-fargeon-art-parfumeur",
+    "s-1823-campan-memoires",
+    "s-1852-marie-therese-temple",
+    "s-2013-briot-fargeon-fournisseur",
+    "s-2020-lanoe-gallois-huet",
+    "t-bertin",
+    "t-pouf",
+    "t-temple",
+    "t-varennes"
+   ]
+  },
+  {
    "id": "t-polignac",
    "type": "topic",
    "title": "波利尼亞克夫人：王后的閨蜜，和一整個家族",
@@ -5460,6 +5610,14 @@
    "t-temple"
   ],
   [
+   "s-1801-fargeon-art-parfumeur",
+   "t-perfume"
+  ],
+  [
+   "s-1808-niemetschek-lebensbeschreibung",
+   "s-1828-nissen-biographie"
+  ],
+  [
    "s-1814-cadet-eloge-parmentier",
    "t-potato"
   ],
@@ -5520,6 +5678,18 @@
    "t-potato"
   ],
   [
+   "s-1828-nissen-biographie",
+   "s-1808-niemetschek-lebensbeschreibung"
+  ],
+  [
+   "s-1828-nissen-biographie",
+   "s-1845-holmes-life-mozart"
+  ],
+  [
+   "s-1828-nissen-biographie",
+   "s-1856-jahn-mozart"
+  ],
+  [
    "s-1835-vigee-le-brun-souvenirs",
    "t-chemise"
   ],
@@ -5552,12 +5722,32 @@
    "t-cake"
   ],
   [
+   "s-1845-holmes-life-mozart",
+   "s-1808-niemetschek-lebensbeschreibung"
+  ],
+  [
+   "s-1845-holmes-life-mozart",
+   "s-1828-nissen-biographie"
+  ],
+  [
    "s-1851-mirabeau-lamarck",
    "t-secret"
   ],
   [
    "s-1852-marie-therese-temple",
    "t-temple"
+  ],
+  [
+   "s-1856-jahn-mozart",
+   "s-1808-niemetschek-lebensbeschreibung"
+  ],
+  [
+   "s-1856-jahn-mozart",
+   "s-1828-nissen-biographie"
+  ],
+  [
+   "s-1856-jahn-mozart",
+   "s-1845-holmes-life-mozart"
   ],
   [
    "s-1862-sanson-sept-generations",
@@ -6012,6 +6202,10 @@
    "t-federation"
   ],
   [
+   "s-2013-briot-fargeon-fournisseur",
+   "t-perfume"
+  ],
+  [
    "s-2013-chatenet-becquet-review",
    "s-2026-mensch-reine-morte"
   ],
@@ -6078,6 +6272,10 @@
   [
    "s-2017-triquenaux-messaline",
    "t-libels"
+  ],
+  [
+   "s-2020-lanoe-gallois-huet",
+   "t-perfume"
   ],
   [
    "s-2020-theobald-soaring",
@@ -7713,6 +7911,42 @@
   ],
   [
    "t-october-days",
+   "t-varennes"
+  ],
+  [
+   "t-perfume",
+   "s-1801-fargeon-art-parfumeur"
+  ],
+  [
+   "t-perfume",
+   "s-1823-campan-memoires"
+  ],
+  [
+   "t-perfume",
+   "s-1852-marie-therese-temple"
+  ],
+  [
+   "t-perfume",
+   "s-2013-briot-fargeon-fournisseur"
+  ],
+  [
+   "t-perfume",
+   "s-2020-lanoe-gallois-huet"
+  ],
+  [
+   "t-perfume",
+   "t-bertin"
+  ],
+  [
+   "t-perfume",
+   "t-pouf"
+  ],
+  [
+   "t-perfume",
+   "t-temple"
+  ],
+  [
+   "t-perfume",
    "t-varennes"
   ],
   [
